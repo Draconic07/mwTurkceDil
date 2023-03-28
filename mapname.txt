@@ -1,0 +1,785 @@
+guide for new players
+yeni oyuncular için rehber
+
+Karon Village
+Karon Köyü
+
+Folk house
+Folk evi
+
+granary
+tahıl ambarı
+
+well
+kuyu
+
+Mario Basin
+Mario Havzası
+
+Shrine
+türbe
+
+mist stone Barrier
+Sis taşı bariyeri
+
+aerial
+anten
+
+central plains
+merkezi ovalar
+
+Underground of Giant rock City
+Büyük Kaya şehrinin altı
+
+Cable Car No. 1
+1 Numaralı Teleferik
+
+dimensional space
+Uzay boyutu
+
+Tiger Mountain (tutor and pupil)
+Kaplan Dağı (öğretmen ve öğrenci)
+
+rolling Mountain (tutor and pupil)
+yuvarlanan Dağ (öğretmen ve öğrenci)
+
+Trial Fantasy (tutor and pupil)
+Deneme Fantezisi (öğretmen ve öğrenci)
+
+You and tutor are separated. From now on, you will face the world by your own. In the bleak cold wind, you watched tutor depart  across the ruined landscape, gradually disappear from sight. 
+Sen ve öğretmen ayrıldınız. Bundan sonra, dünyayla kendi başınıza yüzleşeceksiniz. Kasvetli soğuk rüzgarda, öğretmenin harap olmuş manzaradan ayrılışını, yavaş yavaş gözden kaybolmasını izlediniz.
+
+The pupil separated from you. you watched him go into the distance. Behind him, the dawn of dawn brightens the boundless wasteland. 
+Öğrenci sizden ayrıldı. Uzaklara gidişini izlediniz. Arkasında, şafağın şafağı uçsuz bucaksız çorak araziyi aydınlatıyor.
+
+royal training ground
+kraliyet eğitim sahası
+
+Fighting training Gym
+Dövüş antrenmanı Spor salonu
+
+cable car
+teleferik
+
+Fertile Wilds
+Bereketli Vahşilikler
+
+Gale Mountain
+Gale Dağı
+
+explosive base
+patlayıcı üs
+
+cellar
+kiler
+
+Tiger Mountain
+Kaplan Dağı
+
+Snow base
+Kar üssü
+
+Tuneful Wetland
+Tuneful Sulak Alan
+
+Underground of Tulip City
+Lale Şehri Yeraltı
+
+Cable Car No. 2
+Teleferik No.2
+
+fighting training ground
+dövüş eğitim alanı
+
+Glorious Grassland
+Görkemli Otlak
+
+rolling mountain
+yuvarlanan dağ
+
+North Mountain Plantation
+Kuzey Dağı Ovası
+
+Glorious Ranch
+Şanlı Çiftlik
+
+High climbing grassland
+Yüksek tırmanma çayırı
+
+underground of holy blood city
+kutsal kan şehrinin yeraltı
+
+Cable Car No. 3
+Teleferik No.3
+
+Stone Cliff Village
+Taş Kayalık Köyü
+
+Infernal Trial Ground
+Cehennem Deneme Alanı
+
+hilly terrain
+engebeli arazi
+
+exotic space
+egzotik alan
+
+gouging  knife  Dungeon
+oyma bıçağı Zindanı
+
+defense base
+savunma üssü
+
+secluded valley
+tenha vadi
+
+Knight Proving Ground
+Şövalye Deneme Sahası
+
+alibaba village
+alibaba köyü
+
+quiet   Lake
+sessiz göl
+
+knight camp
+şövalye kampı
+
+black wasteland
+siyah çorak arazi
+
+beauty of river and mountain
+nehrin ve dağın güzelliği
+
+water curtained cave
+su perdeli mağara
+
+Spider cave
+Örümcek mağarası
+
+graceful mountain
+zarif dağı
+
+thousand miles of rivers
+binlerce mil nehir
+
+Cathy Manor
+Cathy'nin Malikanesi
+
+Mount Bear's Paw
+Ayı Dağı Pençesi
+
+Elemental Maze
+Element Labirenti
+
+Baru Grottoe
+Baru Mağarası
+
+dark river cave
+karanlık nehir mağarası
+
+Scorpion Cave
+Akrep Mağarası
+
+far off regions
+uzak bölgeler
+
+Machining plant
+işleme tesisi
+
+fully mountain
+tamamen dağ
+
+open sea
+açık deniz
+
+space battleship
+uzay savaş gemisi
+
+Treasure pavilion
+Hazine köşkü
+
+Beast Mountain
+Canavar Dağı
+
+dark night camp
+karanlık gece kampı
+
+Abundant green hills
+Bol yeşil tepeler
+
+hidden water cave
+gizli su mağarası
+
+death wormhole
+ölüm solucan deliği
+
+wolf head mountain
+kurt başlı dağ
+
+bubble cube
+kabarcık küp
+
+ice maze
+buz labirenti
+
+Herbal Mountain
+Bitkisel Dağ
+
+Valley of Luxuriant forests
+Bereketli ormanlar Vadisi
+
+Dryad Jungle
+orman perisi
+
+zagrama canyon
+zagrama kanyonu
+
+Lisa's Ukulele
+Lisa'nın Ukulele'si
+
+Machine Fortress
+makine kalesi
+
+bottomless pit
+dipsiz kuyu
+
+Silver Peak
+Gümüş Zirve
+
+forest in the deep mountain
+derin dağda orman
+
+base
+üs
+
+ghost house
+hayalet Ev
+
+ghost hotel
+hayalet otel
+
+Zombie Village
+Zombi Köyü
+
+underground mine
+yeraltı madeni
+
+Lifting Platform No. 1
+Lifting Platform No. 1
+
+Lifting Platform No. 2
+Lifting Platform No. 2
+
+Lifting Platform No. 3
+Lifting Platform No. 3
+
+mine tunnel
+maden tüneli
+
+Black Gate Prison
+Kara Kapı Hapishanesi
+
+Crimson Mausoleum
+Kızıl Mozole
+
+underground power plant
+yeraltı elektrik santrali
+
+monster factory
+canavar fabrikası
+
+Ancient Ruins
+Antik kalıntılar
+
+Plague Abyss
+Veba Uçurumu
+
+Guardian Stronghold
+Muhafız Kalesi
+
+bloody cave
+kanlı mağara
+
+amazing old city
+inanılmaz eski şehir
+
+Goblin excavation plant
+Goblin kazı tesisi
+
+Marshall's artillery
+Marshall'ın topçusu
+
+silver flying saucer
+gümüş uçan daire
+
+Demon's Prison
+Şeytanın Hapishanesi
+
+Gomez manor
+gomez'in malikanesi
+
+Centralia
+Centralia
+
+Spiral Grottoe
+Spiral Mağara
+
+active volcano
+aktif volkan
+
+ancient Sealed Land
+kadim Mühürlü Arazi
+
+portal of the demon world
+şeytan dünyasının portalı
+
+Great Dragon Valley
+Büyük Ejderha Vadisi
+
+dark monastery
+karanlık manastır
+
+Crusader Barracks
+Haçlı Kışlası
+
+red house
+kırmızı Ev
+
+demon Cave
+şeytan Mağarası
+
+Central Barracks
+Merkez Kışla
+
+demon Mountains
+şeytan Dağları
+
+wild tribe
+vahşi kabile
+
+killer camp
+katil kampı
+
+underground base
+yeraltı üssü
+
+demon Canyon
+şeytan Kanyonu
+
+Hunter Canyon
+Avcı Kanyonu
+
+silver canyon
+gümüş kanyon
+
+Magical Guild
+Sihirli Lonca
+
+big cave
+büyük mağara
+
+Fire Tribe
+Ateş Kabilesi
+
+Wraith Cave
+Hayalet Mağarası
+
+Nether Cave
+Cehennem Mağarası
+
+Demon  Cave
+Şeytan Mağarası
+
+Competing Square
+Yarışma Alanı
+
+fighting arena
+dövüş arenası
+
+sunshine Beach
+güneş ışığı Plajı
+
+volcanic cave
+volkanik mağara
+
+Starlight Martial Arts Hall
+Starlight Dövüş Sanatları Salonu
+
+tropical wetlands
+tropikal sulak alanlar
+
+Prairie arena
+çayır arenası
+
+island in the sea
+denizdeki ada
+
+small town
+küçük kasaba
+
+garden
+bahçe
+
+dark cave
+karanlık mağara
+
+barren land
+çorak arazi
+
+Mysterious Alchemy Tower
+Gizemli Simya Kulesi
+
+Cloud and Mist Peak
+Bulut ve Sis Zirvesi
+
+Ice Cave
+Buz mağarası
+
+woods
+orman
+
+Underwater World
+Sualtı Dünyası
+
+pyramid
+piramit
+
+water town
+su kasabası
+
+Misty Canyon
+Sisli Kanyon
+
+hunting map
+avcılık haritası
+
+Stone Pits in battle array
+Savaş düzeninde Taş Çukurları
+
+highland
+yayla
+
+Water Cave
+Su Mağarası
+
+Ice and Snow Cave
+Buz ve Kar Mağarası
+
+Pirate Ship
+Korsan gemisi
+
+Blood Mountain Villa
+Kan Dağı Villası
+
+giant puppet
+dev kukla
+
+test copy
+deneme kopyası
+
+Fragrance of Grass (Gang)
+Çim Kokusu (Çete)
+
+water under bridge (gang)
+köprünün altında su (çete)
+
+Fallen Leaves (Gang)
+Düşen Yapraklar (Çete)
+
+Blizzard Fortress (Gang)
+Blizzard Kalesi (Çete)
+
+Boss test
+patron testi
+
+industrial mine valley
+endüstriyel maden vadisi
+
+Construction Mine Valley
+İnşaat Madeni Vadisi
+
+military mine valley
+askeri mayın vadisi
+
+spring garden
+bahar bahçesi
+
+summer garden
+yaz bahçesi
+
+autumn garden
+sonbahar bahçesi
+
+East Fishing Lake
+Doğu Balıkçı Gölü
+
+South Fishing Lake
+Güney Balıkçı Gölü
+
+West Fishing Lake
+Batı Balıkçı Gölü
+
+church (wedding)
+kilis (düğünü)
+
+Spring in the Garden (Wedding)
+Bahçede Bahar (Düğün)
+
+Gurgling water (wedding)
+Gürleyen su (düğün)
+
+Romantic Starry Sky (Wedding)
+Romantik Yıldızlı Gökyüzü (Düğün)
+
+Mutant village
+mutant köyü
+
+hidden cult
+gizli tarikat
+
+river gangster
+gangster nehri
+
+Demon Barracks
+Şeytan Kışlası
+
+mist god Valley 
+sis tanrısı Vadisi
+
+rain of purple grass
+mor çim yağmuru
+
+dodge the shells
+kabukları atlatmak
+
+listen to notes
+notaları dinle
+
+Maintenance of ancient buildings
+Eski binaların bakımı
+
+ghost vacuum cleaner
+hayalet elektrikli süpürge
+
+space invaders
+uzay istilacıları
+
+Undersea treasure hunt
+denizaltı hazine avı
+
+Seven Treasures
+Yedi Hazine
+
+black domain
+siyah alan
+
+Rosha Continent
+Roşa Kıtası
+
+Demon Domain
+İblis Etki Alanı
+
+happy farm
+mutlu Çiftlik
+
+Sky
+Gökyüzü
+
+cattles Mountain
+sığır Dağı
+
+Courtyard Dwelling
+Avlu Konutu
+
+land of ice and snow
+buz ve kar ülkesi
+
+circus
+sirk
+
+restaurant
+restoran
+
+Alien space
+Uzaylı alanı
+
+Brute Valley
+Brute Vadisi
+
+Pull Cave
+Çekme Mağarası
+
+Karst cave
+karst mağarası
+
+Fred Forest
+Fred Ormanı
+
+Wolf Prairie
+Kurt Çayırı
+
+Polson Wetland
+Polson Sulak Alanı
+
+Underground Water Cave
+Yeraltı Su Mağarası
+
+sailing port
+yelken limanı
+
+Carter Plain
+Karter Ovası
+
+Carter tribe
+Carter kabilesi
+
+Villa of the cat king
+kedi kralın villası
+
+Domi Wasteland
+Domi Çölü
+
+abandoned factory
+terk edilmiş fabrika
+
+corpse cave
+ceset mağarası
+
+mysterious tomb
+gizemli mezar
+
+Flaming Mountain
+alevli dağ
+
+Flame Cave
+Alev Mağarası
+
+Marion Sea
+marion denizi
+
+finger hill
+parmak tepesi
+
+Margit Rainforest
+Margit Yağmur Ormanı
+
+Great Eucalyptus House
+Büyük Okaliptüs Evi
+
+big eucalyptus
+büyük okaliptüs
+
+Orcus Tribe
+Ork Kabilesi
+
+turkey cave
+hindi mağarası
+
+turkey mountain
+hindi dağı
+
+skeleton basin
+iskelet havzası
+
+Skull Cave
+Kafatası Mağarası
+
+spectre wilderness
+hayalet vahşi doğa
+
+old house
+eski ev
+
+Crystal Palace
+Kristal Saray
+
+Blood Wasteland
+Kan Çoraklığı
+
+blood red castle
+kan kırmızısı kale
+
+takama desert
+takama çölü
+
+Vincent Snowfields
+Vincent Kar Alanları
+
+Dark pit City
+karanlık çukur şehir
+
+Earles Palace
+Earles Sarayı
+
+Magnet Hill
+Mıknatıs Tepesi
+
+secret laboratory
+gizli laboratuvar
+
+main control room
+ana kontrol odası
+
+Devil's Valley
+Şeytan Vadisi
+
+Thunder Cave
+Gök Gürültüsü Mağarası
+
+Thunder Mountain
+Gök Gürültüsü Dağı
+
+night sky plain
+gece gökyüzü düzlüğü
+
+Blackfall Palace
+Kara Yağış Sarayı
+
+black forest
+Kara Orman
+
+dark shrine
+karanlık türbe
+
+Central Kingdom
+Orta Krallık
+
+Trial Fantasy
+deneme fantezisi
+
+Loki Union
+Loki Birliği
+
+Garth Empire
+Garth İmparatorluğu
+
+bright land
+parlak arazi
+
+Soul Realm
+ruh alemi
+
+Dawn Village
+Şafak Köyü
+
+ancient mausoleum
+antik türbe
+
+Fantasy of dreams
+Rüyaların fantezisi
+
+skull  mountain
+kafatası dağı
+
+Dark Demon Tower
+Kara Şeytan Kulesi
+
+Calabash Mountain
+Calabash Dağı
+
+Autumn Moon Pond
+Sonbahar Ay Göleti
+
+Continental frontier
+Kıta sınırı

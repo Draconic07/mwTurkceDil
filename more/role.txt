@@ -1,0 +1,3974 @@
+Warrior
+Savaşçı
+
+Orc
+ork
+
+Assassin
+Suikastçı
+
+Hunter
+avcı
+
+Mage
+büyücü
+
+Elf
+Elf
+
+Priest
+rahip
+
+Sorcerer
+Sihirbaz
+
+Sorceress
+Sihirbaz
+
+Frog
+Kurbağa
+
+Beetle
+böcek
+
+Golden Rooster
+altın horoz
+
+Duck
+Ördek
+
+Donkey
+Eşek
+
+Goat
+Keçi
+
+Steed
+at
+
+Cattle
+Sığır
+
+Shorthair Cat
+Kısa tüylü kedi
+
+Hound
+tazı
+
+Curly Cat
+Kıvırcık tüylü Kedi
+
+Shepard Dog
+çoban köpeği
+
+Parrot
+Papağan
+
+Lizard
+Kertenkele
+
+Monkey
+Maymun
+
+Wild Eagle
+vahşi kartal
+
+Hippo
+su aygırı
+
+Boar
+Domuz
+
+Elephant
+Fil
+
+Brown Bear
+Kahverengi ayı
+
+Snow Wolf
+Kar kurdu
+
+Lion
+Aslan
+
+Cheetah
+çita
+
+Tiger
+Kaplan
+
+Pixie
+Pixie
+
+Sprite
+Sprite
+
+Goblin
+Goblin
+
+Slime
+Balçık
+
+Wild Frog
+Vahşi Kurbağa
+
+Wild Beetle
+Vahşi Böcek
+
+Wild Golden Rooster
+Vahşi Altın Horoz
+
+Wild Duck
+Vahşi ördek
+
+Wild Donkey
+Vahşi Eşek
+
+Wild Goat
+Vahşi keçi
+
+Wild Steed
+Vahşi At
+
+Wild Cattle
+Vahşi sığır
+
+Wild Shorthair Cat
+Vahşi Kısa Tüylü Kedi
+
+Wild Hound
+Vahşi Tazı
+
+Wild Curly Cat
+Vahşi Kıvırcık Tüylü Kedi
+
+Wild Shepard Dog
+Vahşi Çoban Köpeği
+
+Wild Parrot
+vahşi papağan
+
+Wild Lizard
+vahşi kertenkele
+
+Wild Monkey
+vahşi maymun
+
+Wild Hippo
+vahşi su aygırı
+
+Wild Boar
+Vahşi domuz
+
+Wild Elephant
+vahşi fil
+
+Wild Brown Bear
+Vahşi Kahverengi ayı
+
+Wild Snow Wolf
+Vahşi Kar Kurdu
+
+Wild Lion
+Vahşi Aslan
+
+Wild Cheetah
+Vahşi Çita
+
+Wild Tiger
+Vahşi kaplan
+
+Ice Tiger
+buz kaplanı
+
+Night Cat
+gece kedisi
+
+Cherub
+melek
+
+portal
+Geçiş
+
+Totem
+Totem
+
+treasure chest
+hazine sandığı
+
+village chief Radome
+köy şefi Radom
+
+Master Arthur
+usta arthur
+
+Blacksmith Oak
+Demirci Oak
+
+Apothecary Mia
+Eczacı Mia
+
+Celestial Elder
+Yaşlı adam
+
+guide villager
+rehber köylü
+
+Master Katherine
+Usta Katherine
+
+Master Taufan
+Usta Taufan
+
+Blacksmith Zalachi
+Demirci Zalachi
+
+Pharmacist Dani
+Eczacı Dani
+
+Shard Marketplace
+Parça pazarı
+
+Master Drunk
+Sarhoş usta
+
+Witch Saffy
+Cadı Safy
+
+Guard Captain Martin
+Muhafız Yüzbaşı Martin
+
+Mayor Maureen
+Başkan Maureen
+
+Civilian Kirk
+Vatandaş Kirk
+
+Chef Lee
+Şef Lee
+
+Artificer Milena
+zanaatkar milena
+
+Girl hostage
+Rehine kız
+
+Priest Michelle
+Rahip Michelle
+
+Angie
+Angie
+
+Chancellor Bren
+Şansölye Bren
+
+Civilian Jasmine
+Vatandaş Yasemin
+
+Civilian Fanny
+Vatandaş Fanny
+
+Granny Skycloth
+Yaşlı Skycloth
+
+Natasha
+Nataşa
+
+Chun Li
+Chun Li
+
+Blacksmith Ou Yezi
+Demirci Ou Yezi
+
+Grocer John
+Bakkal John
+
+Master Kakarotto
+Usta Kakarotto
+
+Master Elizabeth
+usta elizabeth
+
+Master Pepper
+Usta Pepper
+
+Weapon Merchant Gordon
+Silah Tüccarı Gordon
+
+Bank receptionist Tamara
+Banka resepsiyonisti Tamara
+
+Pet Trainer Granny Shen
+Evcil Hayvan Eğitmeni Yaşlı Shen
+
+Potion Merchant Zoma
+İksir Tüccarı Zoma
+
+Camp Administrator Sudon
+Kamp Yöneticisi Sudon
+
+Orc Dyson
+Ork Dyson
+
+Master Macghee
+Usta Macghee
+
+Lord Garcina
+Lord Garcina
+
+Bank receptionist teleju
+Banka resepsiyonisti teleju
+
+Blacksmith Marisol
+Demirci Marisol
+
+Grocer Lana
+Bakkal Lana
+
+Weapon Merchant Claire
+Silah Tüccarı Claire
+
+Jewelry Merchant Yuna
+Mücevher Tüccarı Yuna
+
+Artificer ilana
+zanaatkar ilana
+
+Pet Trainer Isabella
+Evcil Hayvan Eğitmeni Isabella
+
+Blacksmith Malcolm
+Demirci Malcolm
+
+Elder Johanna
+Yaşlı Johanna
+
+Blacksmith Senbei Norimaki
+Demirci Senbei Norimaki
+
+Armor Merchant Akizuki
+Zırh Tüccarı Akizuki
+
+Master Federo
+Usta Federo
+
+Pope Saxon
+Papa Sakson
+
+Jewelry Merchant alpana
+Mücevher Tüccarı alpana
+
+Potion Merchant Magnus
+İksir Tüccarı Magnus
+
+Weapon Merchant Monchia
+Silah Tüccarı Monchia
+
+Grocer Sam
+Bakkal Sam
+
+Artificer Ami
+zanaatkâr ami
+
+Chef Kaguya Granny
+Şef Kaguya
+
+Bank receptionist Kaito
+Banka resepsiyonisti Kaito
+
+Master Galaxia
+Usta Galaxia
+
+Ecilian
+Ecilian
+
+Blacksmith Zosia
+Demirci Zosia
+
+Chef Aunt Sun
+Şef Aunt Sun
+
+Sister Mary
+Rahibe mary
+
+Master Shadow Killer
+Usta Gölge Katili
+
+Lord Barakhe
+Lord Barakhe
+
+Potion Mona Lisa
+İksir Mona Lisa
+
+Blacksmith Sanchi
+Demirci Sanchi
+
+lazy sheep
+tembel koyun
+
+Bartender
+Bartender
+
+Nina
+Nina
+
+Traveling Merchant
+Gezgin Tüccar
+
+Hen
+Tavuk
+
+Rooster
+Horoz
+
+chick
+civciv
+
+Grass Snake
+Çim yılanı
+
+Giant Snake
+Dev Yılan
+
+porcupine
+kirpi
+
+steel tooth pig
+çelik dişli domuz
+
+iron head pig
+demir başlı domuz
+
+Iron Paw Bear
+Demir Pençeli Ayı
+
+Iron Armor Bear
+Demir Zırhlı Ayı
+
+guinea pig
+Gine domuzu
+
+chipmunk
+sincap
+
+mole
+köstebek
+
+man-eating rat
+insan yiyen fare
+
+black bat
+siyah yarasa
+
+blood bat
+kan yarasası
+
+Pig-Face Bat King
+Domuz Yüzlü Yarasa Kralı
+
+green snake
+yeşil yılan
+
+White Snake
+Beyaz Yılan
+
+Anaconda
+anakonda
+
+Black Rat
+Kara Sıçan
+
+White Rat
+Beyaz Sıçan
+
+blowfly
+kurt sineği
+
+Five-colored deer
+beş renkli geyik
+
+maroon horse
+bordo at
+
+Bullfinch
+şakrak kuşu
+
+Silver ring snake
+gümüş renkli yılan
+
+Bactrian camel
+İki hörgüçlü deve
+
+Alpaca
+Alpaka
+
+vulture
+akbaba
+
+Golden eagle
+Altın Kartal
+
+sand snake
+kum yılanı
+
+Death Worm
+ölüm solucanı
+
+red armor Cattle
+kırmızı zırhlı Sığır
+
+seducing fox
+Baş döndüren tilki
+
+black jackal
+kara çakal
+
+Bloodfang Wolf
+Kan Dişli Kurt
+
+Sabertooth wolf
+Aç kurt
+
+white giant wolf
+beyaz dev kurt
+
+Man-wolf Caesar
+Kurt adam sezar
+
+Piebald mosquito
+Alaca sivrisinek
+
+slobber
+salyalı sülük
+
+black leech
+kara sülük
+
+Purple Toad
+Mor Kurbağa
+
+green bullfrog
+yeşil kurbağa
+
+Mud Slime
+Çamur balçık
+
+Shapeshifting Slime
+Şekil Değiştiren Kabarcık
+
+Crested Penguin
+tepeli penguen
+
+Ring Seal
+Halkalı Mühür
+
+Sea Lion
+Deniz aslanı
+
+Snow Leopard
+Kar Leoparı
+
+White Bear
+Beyaz ayı
+
+Ice Lizard
+buz kertenkelesi
+
+Ice Queen Los
+Buz Kraliçesi Los
+
+Blood Claw Cat
+Kanlı Pençeli Kedi
+
+Lynx
+Vaşak
+
+Leopard
+Leopar
+
+striped tiger
+çizgili kaplan
+
+golden lion
+altın renkli Aslan
+
+Wildcat Warrior
+Yaban Kedi Savaşçı
+
+wildcat shooter
+yaban kedi atıcı
+
+Cat King Carter
+Kedi Kralı Carter
+
+zombie
+zombi
+
+mummy
+mumya
+
+little zombie
+küçük zombi
+
+ghoul
+ghoul
+
+three-headed dog
+üç başlı köpek
+
+Pharaoh Tar
+firavun Tar
+
+frog
+kurbağa
+
+water snake
+su yılanı
+
+Piranha
+pirana
+
+Inland sea monster
+iç deniz canavarı
+
+Giant Crocodile
+Dev Timsah
+
+sea monster
+Deniz canavarı
+
+Gnome
+cüce
+
+Dwarf elf
+Cüce elf
+
+Dark elf
+Karanlık Elf
+
+Dwarf
+Cüce
+
+Gnome Leader
+Cüce Lideri
+
+Goblin Leader
+Goblin Lideri
+
+Dwarf elf elder
+Cüce elf yaşlısı
+
+Dark Elf Leader
+Kara Elf Lideri
+
+dwarf leader
+cüce lideri
+
+Elven King Erth
+Elf Kralı Erth
+
+flame chicken
+alev tavuğu
+
+Flame Fox
+Alev Tilkisi
+
+Flaming Wolf
+alevli kurt
+
+Chasing Leopard
+Kovalayan leopar
+
+Thunder Tiger
+Yıldırım kaplanı
+
+Dark Flame Dragon
+Karanlık Alev Ejderhası
+
+Giant Fire Dog
+Dev Ateş Köpeği
+
+Fire Lord Balrog
+Ateş Lordu Balrog
+
+Gophers
+Sincap
+
+miner zombie
+madenci zombi
+
+Split Slime
+Bölünmüş balçık
+
+Maid Leliya
+Hizmetçi Leliya
+
+maid mohani
+hizmetçi mohani
+
+Zombie Priest
+Rahip zombi
+
+green-winged fly
+yeşil kanatlı sinek
+
+Bumblebee
+yaban arısı
+
+plum sparrow
+erik serçesi
+
+rattlesnake
+çıngıraklı yılan
+
+golden monkey
+altın maymun
+
+Dryad
+Orman perisi
+
+cannibal tree
+yamyam ağaç
+
+Millennium Dryad King
+Orman Perisi Kralı
+
+cactus
+kaktüs
+
+depravedPinocchio
+Yalancı Pinokyo
+
+gargoyle
+çirkin yaratık
+
+Slime chunks
+Balçık parçası
+
+spotted seal
+benekli mühür
+
+black fur seal
+siyah kürklü fok
+
+grey sea lion
+gri deniz aslanı
+
+plesiosaur
+plesiosaur
+
+green turtle
+yeşil kaplumbağa
+
+killer whale
+katil balina
+
+Hydra
+Hidra
+
+Whale Monster Bigger
+Büyük Balina canavarı
+
+flame researcher
+alev araştırmacısı
+
+Bomb Researcher
+Bomba Araştırmacısı
+
+Doctor Meow Meow
+doktor miyav miyav
+
+Doctor's Robot
+doktorun robotu
+
+black centipede
+siyah çıyan
+
+blood spider
+kanlı örümcek
+
+Crimson Scorpion
+kızıl akrep
+
+red-faced monkey
+kırmızı yüzlü maymun
+
+Ghost Faced Monkey
+Hayalet Yüzlü Maymun
+
+King beetle
+kral böcek
+
+great ape
+büyük maymun
+
+Monkey King Wukong
+Maymun Kralı Wukong
+
+little monkey
+küçük maymun
+
+Tauren Warrior
+Boğa Savaşçısı
+
+werewolf killer
+Katil kurt
+
+Centaur Archer
+Centaur Okçusu
+
+Lizardman Shaman
+Kertenkele Adam Şaman
+
+Raven Man Warlock
+Kuzgun Büyücü Adam
+
+Orc Commander
+Ork Komutanı
+
+Orc Priest
+Ork Rahibi
+
+Elder Orc
+yaşlı ork
+
+barbarian tyrant
+zorba barbar
+
+Cannibal
+yamyam
+
+Bloodthirsty Demon
+kana susamış şeytan
+
+little devil
+küçük şeytan
+
+Lightning Spirit
+Yıldırım Ruhu
+
+Thunder Beast
+Yıldırım Canavarı
+
+Two-Faced Demon
+İki Yüzlü Şeytan
+
+Succubus
+Succubus
+
+Thunder Lord
+Yıldırım Lordu
+
+evil spirit
+kötü ruh
+
+Masked Knifeman
+Maskeli Bıçakçı
+
+Masked Thrower
+Maskeli Atıcı
+
+Aqua Witch
+Su Cadısı
+
+Fire Witch
+Ateş Cadısı
+
+Temptress
+Temptress
+
+Nightmare
+Kabus
+
+Meteor Witch
+Meteor Cadısı
+
+Meteor Queen Elsa
+Meteor Kraliçesi Elsa
+
+ghost jellyfish
+hayalet denizanası
+
+beak shark
+gagalı köpekbalığı
+
+Pineapple Sea Urchin
+Ananas Deniz Kestanesi
+
+sun starfish
+güneş denizyıldızı
+
+bubble fish
+kabarcık balık
+
+giant octopus
+dev ahtapot
+
+Water elf
+Su elfi
+
+gyro sea urchin
+cayro deniz kestanesi
+
+water demon
+su iblisi
+
+demonized Water Elf
+şeytanlaşmış Su Elfi
+
+bear merman
+ayı deniz adamı
+
+Mermaid Princess
+denizkızı prenses
+
+Apostle
+Apostle
+
+Harpy
+Harpy
+
+Hag
+Hag
+
+Black Witcher
+Kara cadı
+
+Death Knight
+Ölüm Şövalyesi
+
+Dark Messenger
+Karanlık Haberci
+
+Altar Guard
+Sunak Muhafızı
+
+Dark Priest
+Kara Rahip
+
+Skeleton Knifeman
+İskelet Bıçakçı
+
+Skeleton Archer
+İskelet Okçu
+
+Blood Skull
+Kan Kafatası
+
+golden skull
+altın kafatası
+
+Skeleton Knight
+iskelet şövalyesi
+
+statue guard
+heykel bekçisi
+
+black skull
+siyah kafatası
+
+Lich King
+Lich Kralı
+
+Jack-O'-Lantern
+Jack-O'-Lantern
+
+ghost
+hayalet
+
+dark soul
+Karanlık ruh
+
+Undead
+Ölümsüz
+
+Necro
+Necro
+
+Wraith
+Wraith
+
+temptress
+temptress
+
+Robot Fly
+robot sinek
+
+Robot Bird
+robot kuş
+
+Robot Dog
+robot köpek
+
+Robot Cat
+robot kedi
+
+Robot Dinosaur
+robot dinozor
+
+Robot guard
+robot bekçisi
+
+vampire child
+vampir çocuk
+
+vampire girl
+vampir kız
+
+vampire boy
+vampir çocuk
+
+vampire Lady
+vampir Bayan
+
+Vampire Knight
+Vampir Şovalye
+
+Vampire Earl
+Vampire Earl
+
+Vampire Elder
+Vampir Yaşlısı
+
+vampire lord dracula
+vampir efendisi drakula
+
+locust
+çekirge
+
+black bear
+siyah ayı
+
+black bear king
+siyah ayı kralı
+
+Leo
+Leo
+
+cow
+inek
+
+Gadfly
+Gadfly
+
+sheep
+koyun
+
+goat
+keçi
+
+ox
+öküz
+
+Marshall
+Marshall
+
+demonized Blood Bat
+şeytanlaşmış Kan Yarasası
+
+demonized cannibal tree
+şeytanlaşmış yamyam ağacı
+
+demonized white wolf
+şeytanlaşmış beyaz kurt
+
+Mud King
+Çamur Kralı
+
+Wildcat leader
+Vahşi kedi lideri
+
+hell's three-headed dog
+cehennemin üç başlı köpeği
+
+demonized Fire-breathing Beast
+şeytanlaşmış Ateş püskürten Canavar
+
+demonized killer whale
+şeytanlaşmış katil balina
+
+demonized Sand Snake
+şeytanlaşmış Kum Yılanı
+
+Ice blue lizard
+buz mavisi kertenkelesi
+
+Robot Sergeant
+Robot Çavuş
+
+Two-headed Demon
+iki başlı iblis
+
+Elf Prince
+Elf Prensi
+
+Guard
+Gardiyan
+
+Rick
+Rick
+
+Santa Claus
+Noel Baba
+
+Man-eating Flower
+İnsan yiyen Çiçek
+
+Demonized Man-eating Tree
+İnsan Yiyen Şeytani Ağaç
+
+Demonized man-eating rat
+şeytanlaşmış insan yiyen fare
+
+bat
+yarasa
+
+Snake
+Yılan
+
+Demonized Colorful Boa
+şeytanlaşmış Renkli Boa
+
+millipede
+kırkayak
+
+Demonized centipede
+şeytanlaşmış çıyan
+
+boar
+domuz
+
+boar leader
+domuz lideri
+
+bear
+ayı
+
+Giant Bear Leader
+Dev Ayı Lideri
+
+Dog
+Köpek
+
+Vicious Dog leader
+Kısır Köpek lideri
+
+wolf
+kurt
+
+Vicious Wolf Leader
+Kısır Kurt Lideri
+
+Cat
+Kedi
+
+Demonized Cat
+şeytanlaşmış Kedi
+
+Demon Cheetah Leader
+İblis Çita Lideri
+
+Demon Tiger Leader
+İblis Kaplan Lideri
+
+Demon Lion Leader
+İblis Aslan Lideri
+
+Crypt Demon Ape
+İblis Maymun
+
+dragon
+Ejderha
+
+Black T-Rex
+Siyah T-Rex
+
+stone monster
+taş canavar
+
+Stone Troll
+taş trol
+
+little demon
+Küçük iblis
+
+Imp
+Imp
+
+demon zomby
+iblis zombi
+
+Skeleton
+İskelet
+
+Bone Demon
+Kemik Şeytan
+
+Ghost
+Hayalet
+
+Demonized Insect King
+şeytanlaşmış Böcek Kralı
+
+demonized cat king
+şeytanlaşmış kedi kralı
+
+Hellfire Dragon
+Cehennem Ateşi Ejderhası
+
+Mountain Thief
+dağ hırsızı
+
+Mountain Thief Leader
+Dağ Hırsızı Lideri
+
+Mountain Bandit
+Dağ Haydutu
+
+Mountain Bandit Leader
+Dağ Haydut Lideri
+
+Bandit Leader Akana
+Haydut Lideri Akana
+
+demonized Boar king
+şeytanlaşmış Domuz kralı
+
+Gnome Thrower
+Cüce Atıcı
+
+Gnome Guard
+Cüce Muhafızı
+
+Goblin Shooter
+Atıcı goblin
+
+Goblin Guard
+Goblin Muhafızı
+
+Giant Pig-faced bat
+Dev Domuz yüzlü yarasa
+
+Giant Dryad
+Dev orman perisi
+
+blood red worm
+kan kırmızısı solucan
+
+Brutal Man-Wolf
+Acımasız kurt adam
+
+Evil Cat King
+Kötü Kedi Kralı
+
+Demon Sentinel
+İblis Nöbetçi
+
+Demon Lieutenant
+İblis Teğmen
+
+Bigmouth
+Koca ağızlı
+
+Sparrow
+Serçe
+
+jackal
+çakal
+
+Blood Demon Wolf
+Kanlı İblis Kurt
+
+Demon Wolf General
+şeytanlaşmış kurt kralı
+
+Demon Fox Soldier
+İblis Tilki Asker
+
+slime worm
+balçık solucanı
+
+blood-sucking earthworm
+kan emici solucan
+
+angry big mouth
+kızgın koca ağız
+
+poisonous spider
+zehirli örümcek
+
+giant spider
+dev örümcek
+
+demonized Boar
+şeytanlaşmış Domuz
+
+Color slime
+renkli balçık
+
+Emperor Slime
+İmparator Balçık
+
+Mad Bull
+Deli boğa
+
+Red-eyed Mad Bull
+Kırmızı gözlü deli boğa
+
+Demon Bull Warrior
+İblis Boğa Savaşçısı
+
+Demon goat Sentry
+İblis keçi Nöbetçi
+
+Bull King
+Boğa Kralı
+
+Demonized Lyria
+şeytanlaşmış Lyria
+
+Demonized Mohani
+şeytanlaşmış Mohani
+
+Magic Swordsman
+Sihirli Kılıç Ustası
+
+Black Mage
+kara büyücü
+
+Demon warrior
+İblis savaşçı
+
+Executioner
+cellat
+
+Pilgrim
+Pilgrim
+
+black bishop
+siyah piskopos
+
+Black Blade Guard
+Siyah Bıçaklı Muhafız
+
+dark magic Guard
+kara büyücü Muhafız
+
+Tsundere Demon Cat
+Tsundere Demon Cat
+
+Elite demon Cat
+Elit iblis Kedi
+
+Golden Tiger Guard
+Altın Kaplan Muhafızı
+
+Princess Cathy
+Prenses Cathy
+
+ black bear
+ siyah ayı
+
+white bear
+Beyaz ayı
+
+demonized black bear
+şeytanlaşmış kara ayı
+
+demonized white bear
+şeytanlaşmış beyaz ayı
+
+Grizzly King
+boz ayı kralı
+
+zombie warrior
+zombi savaşçısı
+
+Zombie Mage
+Büyücü zombi
+
+Zombie general
+Zombi lideri
+
+Zombie Archmage
+Baş Büyücü zombi
+
+Zombie King
+Zombi Kralı
+
+Demonized Pinocchio
+şeytanlaşmış Pinokyo
+
+experimental form
+deneysel form
+
+mutant form
+Mutasyon formu
+
+Demonist
+şeytancı
+
+Elemental Elf
+Element Elf
+
+Dream Elf Avril
+Rüya Elfi Avril
+
+Bamu beast
+Bamu canavarı
+
+Humanoid Bach
+Humanoid Bach
+
+demon Balu
+iblis Balu
+
+Invincible Bamu beast
+Yenilmez Bamu canavarı
+
+toothed sea lion
+dişli deniz aslanı
+
+crampon snow leopard
+krampon kar leoparı
+
+Swallowtail Penguin
+kırlangıç ​​kuyruklu penguen
+
+ice seal
+buz mührü
+
+hostaged soldier
+rehine asker
+
+hostaged resident
+rehin alınmış Şehir sakini
+
+Mud Monster
+Çamur Canavarı
+
+small slime
+küçük balçık
+
+Big Slime
+büyük balçık
+
+apostate 
+mürted
+
+rioting prisoner
+ayaklanan mahkum
+
+prison head
+hapishane başkanı
+
+water monster
+su canavarı
+
+water monster elite
+Elit su canavarı
+
+water monster king
+su canavarı kralı
+
+piranha
+pirana
+
+tree puppet
+ağaç kuklası
+
+Guardian
+Muhafız
+
+mine spider
+mayın örümceği
+
+mine fly
+mayın sineği
+
+Aham
+Aham
+
+Mutant Cactus
+Mutant Kaktüs
+
+vampire
+vampire
+
+Zombie Lord
+zombi efendisi
+
+Guardian Shadick
+Muhafız Shadick
+
+sand eagle
+kum kartalı
+
+Scorpion
+Akrep
+
+little bat putra
+küçük yarasa putra
+
+note sprite
+note sprite
+
+note monster
+note monster
+
+Naughty Elf
+Yaramaz Elf
+
+Electro ball
+elektro top
+
+laser transmitter
+lazer verici
+
+Tyrannosaurus
+Tyrannosaurus
+
+Chief Robot
+Şef Robot
+
+Potato
+Patates
+
+tomato
+domates
+
+Chestnut
+kestane
+
+food processor
+mutfak robotu
+
+black snake king
+kara yılan kralı
+
+Zombie Guard
+Zombi Muhafız
+
+single skull
+Yalnız kafatası
+
+Fragrant Konjac
+Fragrant Konjac
+
+goblin miner
+Madenci goblin
+
+Goblin Sapper
+Kazıcı goblin
+
+Goblin overseer
+Gözetmen goblin
+
+white rat
+beyaz sıçan
+
+mechanic
+Mekanik
+
+Large tube wheel (two tube wheel, three tube wheel)
+Büyük tüp tekerlek (iki tüp tekerlek, üç tüp tekerlek)
+
+chief engineer
+Şef Mühendis
+
+sailor
+denizci
+
+Boatswain
+Kayıkçı
+
+First Mate (Second and Third Mate)
+Birinci Arkadaş (İkinci ve Üçüncü Arkadaş)
+
+captain
+Kaptan
+
+Yeti
+Yeti
+
+Yeti Guard
+Yeti Muhafızı
+
+Yeti King
+Yeti Kralı
+
+Crimson boar
+kızıl yaban domuzu
+
+boar Leader
+domuz lideri
+
+demon boar king
+Şeytan domuz kralı
+
+super mechanic
+süper mekanik
+
+Patroling Robot Bird
+Devriye gezen robot kuş
+
+robot dog
+robot köpek
+
+robot cat
+robot kedi
+
+robot guard
+robot Muhafız
+
+fire cat
+ateş kedisi
+
+bomb cat
+Bombalı kedi
+
+super mech
+süper makine
+
+little devil guard
+küçük şeytan muhafızı
+
+demon Gatekeeper
+iblis bekçisi
+
+demon servant
+iblis hizmetkar
+
+Giant demon
+dev iblis
+
+Giant Patrol demon
+Dev Devriye iblisi
+
+magpie
+saksağan
+
+wolf leader
+kurt lideri
+
+moth
+güve
+
+zombie dog
+zombi köpek
+
+Demon Samael
+İblis Samael
+
+little sea monster
+küçük deniz canavarı
+
+sea ??monster
+Deniz canavarı
+
+space fighter
+uzay savaşçısı
+
+Demon princess
+iblis prenses
+
+Demon sentinel
+Demon sentinel
+
+Rampage demon
+Öfkeli iblis
+
+Demon Guard
+İblis Muhafızı
+
+alien
+alien
+
+alien warlord
+alien warlord
+
+Super Fire Lord
+Super Fire Lord
+
+Super Whale Monster
+Super Whale Monster
+
+apprentice knight
+çırak şövalye
+
+wooden man
+tahta adam
+
+truck
+kamyon
+
+Stone Guard
+Taş Muhafız
+
+Mechanical Guard
+Mekanik Koruma
+
+super Pinocchio
+süper pinokyo
+
+Gnome captain
+Gnome captain
+
+Goblin Captain
+Goblin Captain
+
+super elf king
+super elf king
+
+Undead Wraith
+Undead Wraith
+
+Trick Pumpkin
+hile balkabağı
+
+dragon man
+dragon man
+
+Dragon man Guard
+Dragon man Guard
+
+Frozen Snake King
+Frozen Snake King
+
+prehistoric dragon
+tarih öncesi ejderha
+
+Little Evilclaw
+c
+
+Evilclaw
+şeytan pençesi
+
+Frozen Snake
+Donmuş Yılan
+
+Evilclaw Elite
+Evilclaw Elite
+
+Frozen Snake Elite
+Dondurulmuş Yılan Elit
+
+little Frozen Snake
+küçük Donmuş Yılan
+
+demonized Pig-Face Bat King
+şeytanlaştırılmış Domuz Suratlı Yarasa Kralı
+
+Demonized Millennium Dryad King
+Şeytanlaştırılmış Millennium Dryad King
+
+Demonized Death Worm
+Şeytanlaştırılmış Ölüm Solucanı
+
+Demonized Man-wolf Caesar
+Şeytanlaştırılmış Kurt-Adam Sezar
+
+Demonized Shapeshifting Slime
+şeytanlaştırılmış Şekil Değiştiren Balçık
+
+Demonized Ice Queen Los
+Şeytanlaştırılmış Buz Kraliçesi Los
+
+Demonized Cat King Carter
+Şeytanlaştırılmış Kedi Kral Carter
+
+Demonized Pharaoh Tar
+Demonized Pharaoh Tar
+
+Demonized Elven King Erth
+Demonized Elven King Erth
+
+Demonized Fire Lord Balrog
+Demonized Fire Lord Balrog
+
+Demonized Whale Monster Bigger
+Demonized Whale Monster Bigger
+
+Doctor's Super Robot
+Doktorun Süper Robotu
+
+Demonized Monkey King
+Demonized Monkey King
+
+Demonized barbarian tyrant
+Demonized barbarian tyrant
+
+Demonized Thunder Lord
+Demonized Thunder Lord
+
+Demonized Lich King
+Demonized Lich King
+
+Demonized evil spirit
+Demonized evil spirit
+
+Dragon Guard
+Ejderha Muhafızı
+
+Guardian Sky
+Koruyucu Gökyüzü
+
+guardian earth
+koruyucu toprak
+
+Guardian Wind
+Koruyucu Rüzgar
+
+Guardian thunder
+koruyucu yıldırım
+
+Guardian Water
+Koruyucu Su
+
+Guardian Fire
+Koruyucu Ateş
+
+Guardian Mountain
+Koruyucu Dağ
+
+Guardian River
+Koruyucu Nehir
+
+statue
+heykel
+
+Wild Dragon
+vahşi ejderha
+
+Iron eater
+demir yiyen
+
+Iron eater king
+demir yiyen kralı
+
+Guard Captain
+Muhafız Yüzbaşı
+
+Black
+Siyah
+
+Year Beast
+Year Beast
+
+King of Year Beasts
+Yılın Canavarları Kralı
+
+mouse
+fare
+
+bull
+Boğa
+
+Rabbit
+Tavşan
+
+snake
+yılan
+
+horse
+at
+
+Dragon
+Ejderha
+
+monkey
+maymun
+
+chicken
+tavuk
+
+dog
+köpek
+
+pig
+domuz
+
+Tiger King
+kaplan kralı
+
+dark killer
+dark killer
+
+Dark Mage
+Dark Mage
+
+dark warrior
+dark warrior
+
+dark commander
+karanlık komutan
+
+Demonized Mermaid Princess
+Şeytanlaşmış Deniz Kızı Prensesi
+
+Death knight
+Ölüm Şövalyesi
+
+termite
+termit
+
+shark
+köpek balığı
+
+blaster
+Lazer
+
+treasure thief
+hazine hırsızı
+
+Mutant Skeleton
+Mutant İskelet
+
+Dark Veteran
+Kara Emektar
+
+dark hero
+karanlık kahraman
+
+dark missionary
+karanlık misyoner
+
+Brann
+Ateş
+
+Kungler
+Kungler
+
+hound
+tazı
+
+prank clown
+şakacı palyaço
+
+Dark Spiritist
+Karanlık Ruhçu
+
+Dark Servant
+Karanlık Hizmetkar
+
+defender
+defans oyuncusu
+
+Elite Crusader
+Elit Haçlı
+
+Dark Defender
+Kara Savunucu
+
+Harlan
+Harlan
+
+Dark Centurion
+Kara Yüzbaşı
+
+Witcher
+Cadı
+
+monk
+keşiş
+
+Kolov
+Kolov
+
+Mograine
+mogren
+
+whitemane
+beyaz yele
+
+dark Crusader
+kara Haçlı
+
+dark archer
+kara okçu
+
+Bandage Freak
+bandaj ucube
+
+zombie waiter
+zombi garson
+
+zombie commander
+zombi komutanı
+
+zombie King
+zombi kralı
+
+stone lion
+taş aslan
+
+bomb-man
+bombacı
+
+lightsaber warrior
+ışın kılıcı savaşçısı
+
+crazy gear
+çılgın dişli
+
+giant fruit
+dev meyve
+
+huge drumstick
+büyük baget
+
+Demon Warrior
+İblis Savaşçısı
+
+Demon soldier
+İblis askeri
+
+Devil Totem
+Şeytan Totemi
+
+masked killer
+maskeli katil
+
+killer officer
+katil memur
+
+twins killer
+ikiz katiller
+
+pig man
+domuz adam
+
+Orc demon
+Orc demon
+
+Demon Archer
+Demon Archer
+
+Demon General
+Demon General
+
+Yeti monster
+Yeti canavarı
+
+Cave Yeti
+yeti mağarası
+
+Yeti girl
+yeti kız
+
+Demon Bear
+Demon Bear
+
+Demon Bear Chief
+Demon Bear Chief
+
+Bearman Commander
+Ayı-adam Komutan
+
+Lord of the Undead
+Ölümsüzlerin Efendisi
+
+earth wall
+toprak duvar
+
+Plague Monster
+Veba Canavarı
+
+Plague Behemoth
+Veba Devi
+
+dead soul
+Ölü ruh
+
+Lord of the dead soul
+ölü ruhun efendisi
+
+mummy pharaoh
+mumya firavun
+
+Ancestral Zombie
+atalardan kalma zombi
+
+Elsa of the dream
+Rüyanın Elsa'sı
+
+dream eater
+rüya yiyen
+
+Skeleton Soldier
+İskelet Asker
+
+Skeleton general
+İskelet general
+
+hairy crab
+kıllı yengeç
+
+Maggie
+Maggie
+
+Miyuki
+Miyuki
+
+Yan Lili
+Yan Lili
+
+Satsuki
+Satsuki
+
+black queen bee
+siyah kraliçe arı
+
+black bee
+siyah arı
+
+earth eater
+toprak yiyen
+
+Kodo
+Kodo
+
+red eye beast
+kırmızı gözlü canavar
+
+blue faced beast
+mavi yüzlü canavar
+
+green head beast
+yeşil kafalı canavar
+
+believer in white
+beyaza inanan
+
+believer in black
+siyaha inanan
+
+Ethos bishop
+Etos piskoposu
+
+male gangster
+erkek gangster
+
+female gangster
+kadın gangster
+
+Bandit Kunshan
+Haydut Kunshan
+
+Bandit Natasha
+Haydut Nataşa
+
+Scout
+izci
+
+guard
+koruma
+
+Berserker
+Vahşi
+
+Garlic Loofah
+sarımsaklı lif kabağı
+
+crusty zombie
+huysuz zombi
+
+Super Pharaoh
+Süper Firavun
+
+zombie ghost
+hayalet zombi
+
+captain of the guard
+muhafız kaptanı
+
+base guard
+Koruma üssü
+
+devil Gomez
+şeytan gomez
+
+little warrior
+küçük savaşçı
+
+sentry tower
+nöbetçi kulesi
+
+Crystal Tower
+Kristal Kule
+
+Wall barricade
+Duvar barikatı
+
+Magnetic car
+manyetik araba
+
+root package
+kök paket
+
+fish reef
+balık resifi
+
+wedding float
+düğün atarabası
+
+barricade
+barikat
+
+tempered glass
+temperli cam
+
+tree stump
+ağaç kütüğü
+
+Door
+Kapı
+
+railing
+korkuluk
+
+cabinet
+kabine
+
+show window
+Gösteri penceresi
+
+wooden container
+ahşap konteyner
+
+fence
+çit
+
+cfence
+çit
+
+low wall
+alçak duvar
+
+rickshaw
+çekçek
+
+barrier
+engel
+
+fruit tree
+meyve ağacı
+
+cbarrier
+engel
+
+rock
+kaya
+
+machine
+makine
+
+Spirit Crystal
+Ruh Kristali
+
+Bonfire
+Şenlik ateşi
+
+board
+pano
+
+torch
+meşale
+
+button
+düğme
+
+broom
+süpürge
+
+scarf
+atkı
+
+hat
+şapka
+
+snowball
+kartopu
+
+stone
+taş
+
+iron wall
+Demir duvar
+
+wall
+duvar
+
+Exquisite gift box
+zarif hediye kutusu
+
+crystal trophy
+kristal kupa
+
+arnebia
+arnebya
+
+wooden box
+tahta kutu
+
+clown box
+palyaço kutusu
+
+warehouse
+depo
+
+Level {d} supply camp
+Seviye $1 tedarik kampı
+
+Level {d} Magic Cannon
+Seviye $1 Sihirli Top
+
+Magic Cannon
+Sihirli Top
+
+wood warrior
+ahşap savaşçı
+
+wood shooter
+odun atıcı
+
+Catapult
+Mancınık
+
+mech warrior
+makine savaşçı
+
+Iron Warrior
+Demir Savaşçı
+
+wooden stake
+ahşap kazık
+
+cannon
+top
+
+Core Electronics
+Elektroniğin çekirdeği
+
+withered crops
+solmuş ekinler
+
+Clay pig
+kil domuzu
+
+silver pig
+gümüş domuz
+
+Golden Pig
+Altın Domuz
+
+Wolf King Crystal
+Kurt Kral Kristali
+
+Electronic lock
+elektronik kilit
+
+phantom Lyria
+hayalet Lyria
+
+Phantom Mohani
+Hayalet Mohani
+
+ice wall
+buz duvarı
+
+puppet soldier
+kukla asker
+
+Iron Guard
+Demir Muhafız
+
+monster maker
+canavar üretici
+
+105 smoothbore gun
+105 yivsiz tabanca
+
+cannonball
+gülle
+
+150 antiaircraft gun
+150 uçaksavar silahı
+
+Cannon
+top
+
+time bomb
+saatli bomba
+
+Camera
+Kamera
+
+hunting net
+av ağı
+
+hunting chest
+av sandığı
+
+miniature chariot
+minyatür savaş arabası
+
+mini fighter
+mini dövüşçü
+
+barrel
+varil
+
+supercomputer
+Süper bilgisayar
+
+magma polymerisation
+magma polimerizasyonu
+
+dragon power stone
+ejderha güç taşı
+
+remote control bomb
+uzaktan kumandalı bomba
+
+smoothbore gun
+yivsiz tabanca
+
+Black Heavy Armor
+Siyah Ağır Zırh
+
+fireworks
+havai fişek
+
+stone gate
+taş kapı
+
+Rolling Stone
+Yuvarlanan kaya
+
+toy car
+oyuncak araba
+
+balloon
+balon
+
+halo
+halo
+
+automatic crossbow
+otomatik tatar yayı
+
+Mirror of Soul
+Ruhun Aynası
+
+avalanche
+çığ
+
+concealed arrow
+gizli ok
+
+black hole
+Kara delik
+
+prison door
+hapishane kapısı
+
+Sharp Claw Cat
+keskin pençeli kedi
+
+Shadow Assassin
+Gölge Suikastçısı
+
+Forger Nagano kawa
+Dökümcü Nagano kawa
+
+Angry Bigmouth
+Kızgın BüyükAğız
+
+Macaque
+Macaque
+
+Blacksmith Zarachi
+Demirci Zarachi
+
+dungeon north gate
+zindan kuzey kapısı
+
+Demonized Man-wolf
+şeytanlaşmış Kurt-adam
+
+Mirage Fairy
+serap perisi
+
+Medicine Storage Construction
+İlaç Deposu İnşaatı
+
+Alien base {d}
+uzaylı üssü $1
+
+Back Door
+Arka kapı
+
+Red Mane Lion
+kırmızı yeleli aslan
+
+Hunting Chest
+Av Sandığı
+
+Jewelry Merchant Clara
+Mücevher Tüccarı Clara
+
+Blue Slime
+Mavi Balçık
+
+Fleeing Rattlesnake
+kaçan çıngıraklı yılan
+
+The door lock is open
+Kapı kilidi açık
+
+Civilian Puppy
+Vatandaş Puppy
+
+secret roomsouth gate
+gizli oda güney kapısı
+
+Man-eating Rat Duplicate
+İnsan Yiyen Sıçan Kopyası
+
+juicer
+meyve sıkacağı
+
+ghost vacuum cleaner
+hayalet emici süpürge
+
+Damaged Artillery stand
+Hasarlı Topçu standı
+
+Level {d} Magic Cannon Construction
+seviye $1  Sihirli Top İnşaatı
+
+Armory Construction
+Cephanelik İnşaatı
+
+Bubble barrier
+Kabarcık bariyeri
+
+Ansible Space-time marketplace; Press G to check the product details.
+uzay-zaman pazarı; Ürünlerin detaylarını incelemek için "G" ye basınız.
+
+Laser cannon {d}
+lazer topu $1
+
+Fleeing lion
+Fleeing lion
+
+Demons' Base
+Şeytanların Üssü
+
+Do
+Do
+
+Mountain gate
+dağ kapısı
+
+Demonized Cat King
+şeytanlaşmış Kedi Kralı
+
+Christmas tree
+Noel ağacı
+
+Carnivorous Bat
+Etçil Yarasa
+
+Mutant Hen
+mutant tavuk
+
+Pirate Ship Teleportation Circle
+Korsan Gemisi Işınlanma Çemberi
+
+Colorful Boa Duplicate
+Renkli Boa Kopyası
+
+Armor Merchant Jonny
+Zırh Tüccarı Jonny
+
+Wisdom Tree
+Bilgelik Ağacı
+
+Fa
+Fa
+
+Hell Wraith
+Cehennem Hayaleti
+
+Weaver Girl
+dokumacı kız
+
+Luke
+Luke
+
+Highland Entrance
+Yayla Girişi
+
+Gem Craftsman Sarah
+Mücevher Ustası Sarah
+
+fence gate
+çit kapısı
+
+Wraith duplicate
+Hayalet kopyası
+
+Beautiful Gift Box
+Güzel Hediye Kutusu
+
+Exploding Ship
+Patlayan Gemi
+
+Jewelry Merchant Red
+Mücevher Tüccarı Red
+
+Mysterious Elder
+gizemli yaşlı
+
+Fleeing Living Dead
+Fleeing Living Dead
+
+Tana
+Tana
+
+Hexagram Platform
+Heksagram Platformu
+
+Black Stone Monster
+Siyah Taş Canavarı
+
+Ghost vacuum cleaner
+Hayalet elektrikli süpürge
+
+Caravan grocer Adam
+Karavan bakkalı Adam
+
+Millipede
+Kırkayak
+
+Recycle Station
+Geri Dönüşüm İstasyonu
+
+dungeon south gate
+zindan güney kapısı
+
+East encampment reinforced construction
+Doğu kampı takviye inşaatı
+
+Civilian Batty
+Vatandaş Batty
+
+Tusk Rat
+Dişli Sıçan
+
+Button on the stone gate
+Taş kapıdaki düğme
+
+potato
+patates
+
+Rattlesnake
+Çıngıraklı yılan
+
+Material Storage
+Malzeme deposu
+
+Black Boar
+kara domuz
+
+Civilian Yasmin
+Vatandaş Yasmin
+
+Townsfolk Rachee
+kasaba halkından rachee
+
+Civilian Gadane
+Sivil Gadane
+
+Lock
+Kilit
+
+movable stake
+hareketli kazık
+
+Rampage Bear
+Öfkeli Ayı
+
+Villager Kevin
+Köylü Kevin
+
+Grain basket
+Tahıl sepeti
+
+Galaxy
+Galaxy
+
+Emcee
+sunucu
+
+Loki Union Envoy Claire
+Loki Birliği Elçisi Claire
+
+Bank receptionist Gin
+Banka resepsiyonisti Cin
+
+Marbles
+Mermerler
+
+Stegosaurus
+Stegosaurus
+
+Primordial Iron
+İlkel Demir
+
+God of Love
+aşk tanrısı
+
+Herbal Mountain Teleportation Circle
+Bitkisel Dağ Işınlanma Çemberi
+
+Cockroaches
+hamam böcekleri
+
+Fleeing Strong Bear
+Fleeing Strong Bear
+
+Head of Outer hall
+Dış Salon Başkanı
+
+Level {d} Supply Camp Construction
+seviye  $1 Tedarik Kampı İnşaatı
+
+Maintenance of ancient buildings
+Eski binaların bakımı
+
+Fleeing Man-eating Rat
+Uçan İnsan yiyen Sıçan
+
+Vicious Dog leader Duplicate
+kopya Kısır Köpek lideri
+
+Monica
+Monica
+
+Chef Kouno
+Şef Kouno
+
+Piano
+Piyano
+
+Ceratops
+Ceratops
+
+Mi
+Mi
+
+Fisherman Poseidon
+Balıkçı Poseidon
+
+Blacksmith
+Demirci
+
+Audio Player
+Ses oynatıcı
+
+Gem Craftsman Jim
+Mücevher Ustası Jim
+
+Gang Tournament Messenger Gouken
+Çete Turnuvası habercisi Gouken
+
+Village Chief Lorenzo
+Köy Şefi Lorenzo
+
+Mage Aratta
+Büyücü Aratta
+
+Villager Ginger Head
+Zencefil Kafalı köylü
+
+Townsfolk
+kasaba halkı
+
+Maze Guard
+Labirent Muhafızı
+
+Village Chief Datin
+Köy Muhtarı Datin
+
+Fleeing Demon Skeleton
+Fleeing Demon Skeleton
+
+Almost-ripe rice spikelet
+Neredeyse olgunlaşmış pirinç Başağı
+
+Blood-Red Worm
+Kan Kırmızısı Solucan
+
+Mountain Stronghold Sentry
+Dağ Kalesi Nöbetçisi
+
+Drummer
+davulcu
+
+General Paul
+General Paul
+
+Living Dead
+Ölü yaşayan
+
+Fleeing Boar Leader
+Uçan  domuz lideri
+
+Village Chief Melon Head
+Köyün Muhtarı Kavun kafalı
+
+Jewelry Merchant Mimi
+Mücevher Tüccarı Mimi
+
+confession room south gate
+günah çıkarma odası güney kapısı
+
+Inner hall Guard
+İç salon Muhafızı
+
+Civilian Fanny
+Sivil Fanny
+
+Captain Cassi
+Kaptan Cassi
+
+Nether Cave
+Cehennem Mağarası
+
+Breeding room Construction
+üreme odası inşaatı
+
+mixer
+karıştırıcı
+
+Village Chief Konanna
+Köy Şefi Konanna
+
+Iron Claw Cat
+demir pençeli kedi
+
+ctrl
+ctrl
+
+Blue Stone Monster
+Mavi Taş Canavarı
+
+Garth Empire Envoy Sanmu
+Garth İmparatorluğu Elçisi Sanmu
+
+Potion Merchant
+İksir Tüccarı
+
+Re
+Re
+
+Locked door
+Kilitli kapı
+
+Fleeing White Skeleton
+Uçan beyaz iskelet
+
+Sophie
+Safiye
+
+Sentry Tower
+Nöbetçi Kulesi
+
+courtyard gate
+avlu kapısı
+
+pudding
+puding
+
+Villager Mrs. Shen
+Köylü Bayan Shen
+
+CTRL
+CTRL
+
+stone slate
+taş kayrak
+
+Strong Bear
+Güçlü Ayı
+
+Electronic Console
+Elektronik Konsol
+
+Black Tiger
+Siyah kaplan
+
+Commander Aydar
+Komutan Aydar
+
+Ice maze Teleportation Circle
+Buz labirenti Işınlanma Çemberi
+
+Fleeing Man-eating Tree
+Uçan İnsan yiyen ağaç
+
+Demon Tiger duplicate
+Demon Tiger duplicate
+
+Rain of Arnebia
+Arnebia Yağmuru
+
+Gem Craftsman Narissa
+Mücevher Ustası Narissa
+
+Vicious Wolf Leader duplicate
+Kısır Kurt Lider kopyası
+
+Highland Construction
+Yayla İnşaatı
+
+Flute Player
+Flütçü
+
+Chef Hasegawa
+Şef Hasegawa
+
+Ore Buyer Jordan
+Cevher Alıcısı Ürdün
+
+Red Boar
+Kızıl Domuz
+
+Fleeing Pointy Mouth Rat
+Fleeing Pointy Mouth Rat
+
+electronic lock
+elektronik kilit
+
+Wandering Villager
+gezgen köylü
+
+Fleeing giant Bear Leader
+Fleeing giant Bear Leader
+
+Lake Construction
+Göl İnşaatı
+
+Monami
+Monami
+
+Ripe rice spikelet
+olgun pirinç başakçığı
+
+Demon Skeleton duplicate
+İblis İskeleti kopyası
+
+Grinder
+Öğütücü
+
+Path Keeper
+Yol Bekçisi
+
+war zone shop
+savaş bölgesi dükkanı
+
+Seed Keeper
+tohum bekçisi
+
+Villager
+Köylü
+
+Hell Fire Dragon
+Cehennem Ateş Ejderhası
+
+Civilian Zachary
+Sivil Zachary
+
+Pharmacy room Construction
+Eczane odası İnşaatı
+
+Grand Duke Trini, lord of the city
+Büyük Dük Trini, şehrin efendisi
+
+Messenger
+haberci
+
+Chimney
+Baca
+
+Artillery stand
+topçu standı
+
+Civilian Aesop
+Sivil Ezop
+
+Car door
+Araç kapısı
+
+Crystal Turret
+Kristal Taret
+
+Mechanism
+mekanizma
+
+Crystal Slime
+kristal balçık
+
+Villager Zodafir
+Köylü Zodafir
+
+Circular groove
+Dairesel oluk
+
+Soldier
+Asker
+
+Villager Rice
+Pirinç seven köylü
+
+Old Villager
+Yaşlı Köylü
+
+Militiaman Ulan
+Yedek er Ulan
+
+Demonized Death worm
+şeytanlaşmış Ölüm solucanı
+
+Animal Shed
+Hayvan Kulübesi
+
+Grocer Henry
+Bakkal Henry
+
+Mutant Duck
+Mutant Ördek
+
+Herbal Garden Entrance
+Bitki Bahçesi Girişi
+
+River water
+nehir suyu
+
+Test room south gate
+Test odası güney kapısı
+
+Lake Entrance
+Göl Girişi
+
+Ice Stone
+buz taşı
+
+door
+kapı
+
+Elemental Crystal
+Element Kristali
+
+Instructor Hargard
+Eğitmen Hargard
+
+Forger Ganjiang
+Dökümcü Ganjiang
+
+Grass carp
+çim sazanı
+
+Demon Ape duplicate
+Demon Ape duplicate
+
+Smelting room Construction
+Eritme odası inşaatı
+
+Heaven Jade
+cennet yeşim taşı
+
+secret room north door
+gizli oda kuzey kapısı
+
+Guard Jack
+Bekçi Jack
+
+Keyboard Player
+Piyanocu
+
+Sharp Fang Wolf
+Keskin Dişli Kurt
+
+Townsfolk Mike
+Kasaba halkından Mike
+
+Villager Merlin
+Köylü Merlin
+
+Senior Huntress
+Kıdemli Avcı
+
+Villager Mattes
+Köylü Mattes
+
+Lucadan
+Lucadan
+
+Forger
+Dökümcü
+
+Kidnapped girl
+kaçırılan kız
+
+Undersea treasure hunt
+denizaltı hazine avı
+
+A letter
+bir mektup
+
+Black Witch
+Siyah cadı
+
+Little Girl
+Küçük kız
+
+Ansible Space-Time Storehouse
+uzay-zaman deposu
+
+Mining Area Construction
+Maden Sahası İnşaatı
+
+Mutant Rooster
+Mutant Horoz
+
+Strange Stone Ball
+Garip Taş Top
+
+Cable Car manager
+Teleferik yöneticisi
+
+Villager Charlene
+Köylü Charlene
+
+Demonized Cat Duplicate
+şeytanlaşmış Kedi Kopyası
+
+Locked Stone Door
+Kilitli Taş Kapı
+
+Wormhole teleportation Circle
+Solucan deliği ışınlanma Çemberi
+
+Information Board
+Bilgi panosu
+
+Combat Trainer Billy
+Savaş Eğitmeni Billy
+
+Head of inner hall
+iç salon başkanı
+
+Civilian Jasmine
+Vatandaş Yasemin
+
+Energy barrier
+Enerji bariyeri
+
+Saxophone Player
+saksafoncu
+
+Button
+Düğme
+
+Seven Treasures
+Yedi Hazine
+
+Old Mage
+Yaşlı Büyücü
+
+Fleeing bat
+Fleeing bat
+
+Gang Entrance
+çete girişi
+
+Mail custodian Starmark
+Posta sorumlusu Starmark
+
+Sound
+Sound
+
+Red Skeleton
+Red Skeleton
+
+Civilian Bohr
+Sivil Bohr
+
+Orc Chief
+Ork Şefi
+
+Demon Cheetah duplicate
+Demon Cheetah duplicate
+
+Fleeing Colorful Boa
+Fleeing Colorful Boa
+
+Soul-Draining Evil Spirit
+Soul-Draining Evil Spirit
+
+Villager Old Jack
+Köylü Yaşlı Jack
+
+Fleeing Stone Troll
+Fleeing Stone Troll
+
+Villager Lucian
+Köylü Lucian
+
+Stone walls
+Taş duvarlar
+
+Gold Ring Snake
+Altın Halka Yılanı
+
+Master's assistant
+usta yardımcısı
+
+Big Iron Lock
+Büyük Demir Kilit
+
+Stone Door
+Taş Kapı
+
+Trumpeter
+Trompetçi
+
+Bass Player
+Bas çalgıcısı
+
+Gem Craftsman
+Mücevher Ustası
+
+Secret door
+gizli kapı
+
+chestnut
+kestane
+
+Villager Little Jack
+Köylü Küçük Jack
+
+Sentry Tower Construction
+Nöbet Kulesi İnşaatı
+
+Man-eating Tree Duplicate
+Man-eating Tree Duplicate
+
+Yellow key
+Sarı anahtar
+
+Soul-Snatching Evil Spirit
+Soul-Snatching Evil Spirit
+
+blood bat Duplicate
+kopya kan yarasası
+
+Ghost Monkey
+hayalet maymun
+
+Black Panther
+Siyah Panter
+
+Guard Barr
+bekçi Bar
+
+Blue pearl
+Mavi inci
+
+Study Construction
+Çalışma İnşaatı
+
+Black Slime
+siyah balçık
+
+Fleeing blood bat
+Uçan Kan yarasası
+
+Bat King Incarnate
+Enkarne Yarasa Kral
+
+Locked gate
+kilitli kapı
+
+Centipede
+Kırkayak
+
+Material Storage Construction
+Malzeme Deposu İnşaatı
+
+Yellow pearl
+sarı inci
+
+Elf Elder
+Elf Yaşlısı
+
+Stone Button
+Taş Düğme
+
+Graceful Mountain Teleportation circle
+Zarif Dağı Işınlanma çemberi
+
+Cat-eating Rat
+Kedi yiyen Sıçan
+
+Apothecary Zoma
+eczacı Zoma
+
+Fisherman Paul
+Balıkçı Paul
+
+Test room north door
+test odası kuzey kapısı
+
+research room south gate
+araştırma odası güney kapısı
+
+Henry
+Henry
+
+Artificer Kania
+Zanaatkar Kania
+
+Young Man fetching water
+Genç adam su arıyor
+
+Forger Yelda
+Dökümcü Yelda
+
+hole
+delik
+
+Living Dead duplicate
+Living Dead duplicate
+
+Civilian Wald
+Sivil Wald
+
+Locked courtyard gate
+Kilitli avlu kapısı
+
+Fleeing Demon Ape
+Fleeing Demon Ape
+
+Growing wheat head
+Büyüyen buğday başağı
+
+Chest
+Sandık
+
+Apothecary Phillips
+Eczacı Phillips
+
+West encampment reinforced construction
+Batı kampı takviye inşaatı
+
+Arnebia
+arnebya
+
+Jame
+Jame
+
+Vampire Vine
+vampir asması
+
+Armor Merchant Varney
+Zırh Tüccarı Varney
+
+Artificer
+Zanaatkâr
+
+Uncle Wang
+Amca Wang
+
+Red Slime
+kırmızı balçık
+
+Demon Cave
+Şeytan Mağarası
+
+Fleeing Man-eating Grass
+Fleeing Man-eating Grass
+
+Competition Host Chun Li
+Yarışma Sunucusu Chun Li
+
+Instructor
+Eğitmen
+
+Fleeing Cheetah
+uçan çita
+
+Man-eating Dog
+İnsan yiyen Köpek
+
+Fleeing Soul-Draining Evil Spirit
+Fleeing Soul-Draining Evil Spirit
+
+dungeon north door
+zindan kuzey kapısı
+
+Polypod
+polipod
+
+Armor Merchant Jara
+Zırh Tüccarı Jara
+
+Fleeing Demon Cheetah
+Fleeing Demon Cheetah
+
+Alien
+Uzaylı
+
+Guru Elder
+yaşlı usta
+
+Walking Dead
+Yaşayan ölü
+
+Sliver Ring Snake
+Şerit Halka Yılanı
+
+Herb Buyer Benson
+Bitki Alıcısı Benson
+
+Sol
+Sol
+
+Panel
+Panel
+
+Listen to notes
+Notları dinle
+
+Sheriff Ralph
+Şerif Ralph
+
+Medicine Storage
+İlaç Deposu
+
+Seed of the Wisdom Tree
+Bilgelik Ağacının Tohumu
+
+Bounty Warrior Rick
+Ödül Savaşçısı Rick
+
+Caravan Master Solitury
+Karavan Ustası Solitury
+
+Grumpy
+Huysuz
+
+Hawk
+Hawk
+
+Dodge shells
+Dodge shells
+
+Fleeing Black Tiger
+Fleeing Black Tiger
+
+Mining Area Entrance
+Maden Sahası Girişi
+
+Cyan Slime
+camgöbeği balçık
+
+Grey Stone Monster
+Gri Taş Canavarı
+
+Zombie
+Zombi
+
+Steel Fang Wolf
+Çelik Dişli Kurt
+
+White Boar
+Beyaz Domuz
+
+Bloodthirsty Bat
+kana susamış yarasa
+
+Civilian Kitazawa
+Sivil Kitazawa
+
+Fleeing Zombie
+Fleeing Zombie
+
+Almost-ripe wheat head
+Neredeyse olgun buğday başağı
+
+Demon Lion duplicate
+Demon Lion duplicate
+
+Hero List
+Kahraman Listesi
+
+Civilian Rancy
+Sivil Rancy
+
+control
+kontrol
+
+Stove
+Soba
+
+Fleeing Blood Fang Wolf
+Fleeing Blood Fang Wolf
+
+Clay Pig
+Kilden Domuz
+
+Weapon Merchant Selmore
+Silah Tüccarı Selmore
+
+Opened Chest
+Açık Sandık
+
+Guitar Player
+Gitarist
+
+Ankylosaurus
+Ankilozorlar
+
+Green pearl
+yeşil inci
+
+Artificer Daisy
+Zanaatkar Papatya
+
+Fleeing macaque
+Fleeing macaque
+
+Bubble Cube Teleportation Circle
+Kabarcık Küp Işınlanma Çemberi
+
+White Tiger
+Beyaz kaplan
+
+Shopkeeper Mappa
+Esnaf Mapa
+
+Blue Skeleton
+Mavi İskelet
+
+Wooden block
+Tahta blok
+
+Herbal Garden Construction
+Bitkisel Bahçe İnşaatı
+
+Blacksmith Orisun
+Demirci Orisun
+
+Fleeing vicious dog leader
+Uçan kötü köpek lideri
+
+training room north door
+eğitim odası kuzey kapısı
+
+Weapon Merchant Tony
+Silah Tüccarı Tony
+
+Fence gate
+Çit kapısı
+
+Forest ranger
+orman bekçisi
+
+Silver Pig
+Gümüş Domuz
+
+Spider cave
+Örümcek mağarası
+
+Village Chief Matsubi
+Köy Muhtarı Matsubi
+
+Baker
+Fırıncı
+
+Civilian Kirk
+Sivil Kirk
+
+Armory
+cephanelik
+
+dumpling
+hamur tatlısı
+
+cTRL
+cTRL
+
+Accounting desk
+muhasebe masası
+
+Kitchen Construction
+Mutfak İnşaatı
+
+Washing and grinding room Construction
+Yıkama ve öğütme odası İnşaatı
+
+Green Slime
+Yeşil balçık
+
+Golden Mane Lion
+Altın Yeleli Aslan
+
+Demonized Worm King
+Şeytanlaşmış Solucan Kralı
+
+Purple Slime
+mor balçık
+
+Chaos Stone
+kaos taşı
+
+militia captain Nusan
+milis yüzbaşısı Nusan
+
+Fruit tree
+Meyve ağacı
+
+Magic keyboard player
+sihirli klavyeci
+
+Girl
+Kız
+
+Space invaders
+Uzay istilacıları
+
+Anxious man
+endişeli adam
+
+Ctrl
+Ctrl
+
+Fleeing Man-eating Dog
+Uçan İnsan yiyen Köpek
+
+Demon Bat
+Şeytani Yarasa
+
+Black T-Rex duplicate
+Siyah T-Rex kopyası
+
+Bloodthirsty Evil Spirit
+Kana Susamış Kötü Ruh
+
+Peach
+şeftali
+
+Door Bolt
+Kapı kilidi
+
+Ghoul Dog
+Gulyabani Köpek
+
+Control
+Kontrol
+
+Mountain Stronghold Gate
+Dağ Kalesi Kapısı
+
+Branch
+Dal
+
+Alexia
+Aleksi
+
+Veteran Tom
+Kıdemli Tom
+
+Road Sign
+Yol işareti
+
+Mok
+Mok
+
+Civilian Virik
+Sivil Virik
+
+Silver Mane Lion
+Gümüş Yeleli Aslan
+
+Scholar Eric
+Bilgin Eric
+
+Growing rice spikelet
+Büyüyen pirinç başakçığı
+
+Gate Guard
+kapı bekçisi
+
+Teleportation Portal
+Işınlanma Portalı
+
+Villager Marilyn
+Köylü Marilyn
+
+Master Kakarot
+Usta Kakarot
+
+Insecticide
+Böcek ilacı
+
+Roots
+Kökler
+
+Wolf head mountain teleportation circle
+Kurt başlı dağ ışınlanma çemberi
+
+East-pointing Arrow
+Doğu'yu gösteren ok
+
+Teleportation circle
+ışınlanma çemberi
+
+Villager Marge
+Köylü Marge
+
+Violent Bear
+şiddet düşkünü ayı
+
+Giant puppets
+dev kuklalar
+
+Blacksmith Orc Dyson
+Demirci Ork Dyson
+
+Caravan Leader Fantine
+Kervan Lideri Fantine
+
+Honor Guard {d}
+Onur Muhafızı $1
+
+Master Catherine
+Usta Catherine
+
+Stone Troll duplicate
+Taş Trol kopyası
+
+Colonel Demar
+Albay Demar
+
+Pentagram Circle
+Pentagram Çemberi
+
+Civilian Slarry
+Sivil Slarry
+
+training room south gate
+eğitim odası güney kapısı
+
+Gate; The key needs to be passed on to the tutor to open the door
+Geçit; Kapıyı açmak için anahtarın öğretmene verilmesi gerekir.
+
+Barrier Magic circle
+Sihirli daire bariyeri
+
+Imp duplicate
+Imp kopyası
+
+Caravan Crew Eva
+Karavan Ekibinden Eva
+
+Giant Bear Leader Duplicate
+Dev Ayı Lider Kopyası
+
+Blood Fang Wolf
+Kan Dişli Kurt
+
+Pointy Mouth Rat
+Sivri Ağızlı Sıçan
+
+Artificer Mirena
+Zanaatkar Mirena
+
+Scavenger dog
+çöpçü köpek
+
+Gang Upgrading Construction
+Çete Yükseltme İnşaatı
+
+Speed potion
+Hız iksiri
+
+Fleeing vicious wolf Leader 
+Uçan kötü kurt lideri
+
+research room north door
+araştırma odası kuzey kapısı
+
+Civilian Lissandra
+Sivil Lissandra
+
+King William III
+3. Kral William
+
+Fleeing Red Boar
+Uçan Kızıl Domuz
+
+Pharmacist
+Eczacı
+
+Dummy
+Kukla
+
+Mulberry tree
+dut ağacı
+
+Pharmacist Mia
+Eczacı Mia
+
+Kiki
+Kiki
+
+Temple gate
+Tapınak kapısı
+
+Combat Trainer Jimmy
+Savaş Eğitmeni Jimmy
+
+Aquaculture Buyer Luffy
+Su Ürünleri Alıcısı Luffy
+
+Fleeing Imp
+Uçan Imp
+
+Pet Trainer Lacey
+Evcil Hayvan Eğitmeni Lacey
+
+Bubble
+kabarcık
+
+Tree
+Ağaç
+
+Stake
+kazık
+
+centipede Duplicate
+çıyan
+
+Airship Administrator
+zeplin yöneticisi
+
+The Wraith Cave
+Hayalet Mağarası
+
+confession room north door
+günah çıkarma odası kuzey kapısı
+
+Cowherd
+Sığır çobanı
+
+Villager Jyaria
+Köylü Jyaria
+
+Fleeing demon lion
+Uçan şeytan aslan
+
+Man-eating Grass
+insan yiyen çimen
+
+Golden Tiger
+Altın Kaplan
+
+Usherette {d}
+mübaşir $1
+
+Civilian Cindy
+Sivil Cindy
+
+Yellow Slime
+Sarı Balçık
+
+Fleeing Blue Stone Monster
+Uçan Mavi Taş Canavarı
+
+Fleeing Demon Tiger
+Uçan Şeytan Kaplanı
+
+Chef
+Şef
+
+Equipment Maker
+Ekipman Üreticisi
+
+Blue key
+mavi anahtar
+
+Seabed Cloud Iron
+Deniz Tabanı Bulut Demiri
+
+Leaf Monkey
+yaprak maymunu
+
+Soul Storehouse
+Ruh Deposu
+
+Shells
+Kabuklar
+
+Grocer Vic
+Bakkal Vic
+
+Marquis Sami, Lord of the City
+Marquis Sami, Şehrin Efendisi
+
+White Skeleton
+beyaz iskelet
+
+Central Kingdom Envoy Daniel
+Merkezi Krallık Elçisi Daniel
+
+Civilian Mei
+Vatandaş mei
+
+Hercules Stone Man
+Herkül Taş Adam
+
+Burst Stone Man
+patlayan taş adam 
+
+Lucky Draw
+Şanslı Çekiliş
+
+treasure hunt under the sea
+deniz altında hazine avı
+
+treasure hunt in Wonderland
+harikalar diyarında hazine avı
+
+Civilian Mary
+Vatandaş Meryem
+
+Instructor Cody
+Eğitmen Cody
+
+Aquaculture Buyer Chantal
+Su Ürünleri Alıcısı Chantal
+
+Herb Buyer Emily
+Bitki Alıcısı Emily
+
+Ore Buyer Nicholas
+Cevher Alıcısı Nicholas
+
+Guard Captain Suke
+Muhafız Yüzbaşı Suke

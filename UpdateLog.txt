@@ -1,0 +1,9 @@
+Recent Changes
+2023-2-26
+From the Mist World team
+1. Add text "role_description_player.txt", "equipment_plus.txt".
+
+2023-2-19
+From the Mist World team
+1. Corrected all text errors with two spaces to the correct one space.
+2. Added translated strings for pet skill different level display to combat skill.txt at the end of the text.

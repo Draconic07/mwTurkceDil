@@ -1,0 +1,182 @@
+buy goods
+mal satın al
+
+sell goods
+mal sat
+
+the goods I'm selling now
+şu an sattığım ürünler
+
+trading description
+ticaret açıklaması
+
+{s}; Press to select category
+{sub2{$1}sub2}; Kategori seçmek için basın
+
+in chronological order; Selected
+kronolojik sıra Seçili
+
+in price order
+fiyat sırasına göre
+
+in price order; Selected
+fiyat sırasına göre; Seçili
+
+in chronological order
+kronolojik sıra
+
+all goods
+tüm mallar
+
+All goods
+tüm mallar
+
+weapons
+silahlar
+
+Weapons
+Silahlar
+
+helmets
+kasklar
+
+Helmets
+Kasklar
+
+hangings
+boyun ekipmanı
+
+Hangings
+boyun ekipmanı
+
+shawls
+omuz ekipmanı
+
+Shawls
+omuz ekipmanı
+
+armors
+gövde için ekipman
+
+Armors
+gövde için ekipman
+
+belts
+bel ekipmanı
+
+Belts
+bel ekipmanı
+
+shoes
+ayaklar için ekipman
+
+Shoes
+ayaklar için ekipman
+
+pant legs
+bacaklar için ekipman
+
+Leggings
+bacaklar için ekipman
+
+handwears
+Kollar ve eller için ekipmanlar
+
+Bracelets
+Kollar ve eller için ekipmanlar
+
+rings
+yüzükler
+
+Rings
+yüzükler
+
+other equipments
+Diğer ekipmanlar
+
+Other equipments
+Diğer ekipmanlar
+
+materials
+Malzemeler
+
+Materials
+Malzemeler
+
+collections
+koleksiyon ürünleri
+
+Collections
+koleksiyon ürünleri
+
+usable items
+kullanılabilir öğeler
+
+Usable goods
+kullanılabilir öğeler
+
+New; {d} {s};Unit price {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Yeni; $1 {sub2{$2}sub2}; Birim fiyatı: $3 altın; kalan görüntüleme süresi $4 dakika ve $5 saniye
+
+New; {d} {s};Unit price {d} gold coins;{d} seconds remaining in the display time
+Yeni; $1 {sub2{$2}sub2}; birim fiyatı: $3 altın; kalan görüntüleme süresi $4 saniye
+
+New; {s};{s} ;Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Yeni; {sub2{$1}sub2}; {sub2{$2}sub2}; Fiyat: $3 altın; kalan görüntüleme süresi $4 dakika ve $5 saniye
+
+New; {s};{s} ;Price: {d} gold coins;{d} seconds remaining in the display time
+Yeni; {sub2{$1}sub2}; {sub2{$2}sub2}; fiyat: $3 altın; kalan görüntüleme süresi $4 saniye
+
+{d} {s};Unit price {d} gold coins;Sale time {s}:{s}
+$1 {sub2{$2}sub2}; birim fiyatı: $3 altın; satışta: $4:$5
+
+ {s};{s} ;Price: {d} gold coins;Sale time {s}:{s}
+{sub2{$1}sub2}; {sub2{$2}sub2}; fiyat: $3 altın; satışta: $4:$5
+
+Purchase requires {d} gold coins, are you sure to buy?
+satın alma $1  altın ,gerektirir, ürünü gerçekten almak istiyor musunuz?
+
+Please enter the purchase quantity
+Lütfen satın alma miktarını girin
+
+New listing goods cannot be traded within one hour
+Yeni listelenen mallar bir saat içinde alınıp satılamaz
+
+Next page: {d}
+Sonraki Sayfa: $1
+
+Last page: {d}
+Son sayfa: $1
+
+Previous page: {d}
+Önceki sayfa:: $1
+
+page 1
+Sayfa 1
+
+items
+öğeler
+
+equipment
+ekipman
+
+on sale
+satılık
+
+Players above Level 15 can sell certain goods here, including items that are not trading-restricted or backpack-locked, as well as equipments that are not soul-bound or backpack-locked. No fees for listing goods for sale.
+Seviye 15'in üzerindeki oyuncular, burada takas kısıtlaması olmayan veya sırt çantasıyla kilitlenmeyen öğeler ile ruhu bağlı veya sırt çantasıyla kilitlenmeyen ekipmanlar da dahil olmak üzere belirli ürünleri satabilirler. Satılık malları listelemek için ücret alınmaz.
+
+When the goods are listed, there will be a one-hour display period. After the display period is over, the goods then can be traded, which means, any other player can purchase them through the marketplace.
+Mallar listelendiğinde, bir saatlik bir teşhir süresi olacaktır. Gösterim süresi sona erdikten sonra, mallar takas edilebilir, yani başka herhangi bir oyuncu onları pazardan satın alabilir.
+
+When the trade is completed, the marketplace will deduct a 5% commission from the gold coins paid by the buyer, and then send the remaining gold coins to the seller via private message. The seller can claim the gold coins from private messages.
+İşlem tamamlandığında pazaryeri alıcının ödediği altınlardan %5 komisyon kesecek ve kalan altınları özel mesaj ile satıcıya gönderecektir. Satıcı, özel mesajda görünecek seçenek aracılığıyla altınları talep edebilir.
+
+After being listed for 15 days, goods that are not traded will return to the seller's storage from the marketplace. If the Goods are listed for more than two hours, the seller can choose to retrieve them from sale.
+15 gün boyunca listelendikten sonra, ticareti yapılmayan mallar, pazar yerinden satıcının deposuna geri döner. Mallar iki saatten fazla listede kalırsa, satıcı bunları satıştan geri almayı seçebilir.
+
+back
+geri
+
+{d} {s}; {s}; Seller ID: {d}
+$1 {sub2{$2}sub2}; {sub2{$3}sub2}; satıcı kimliği: $4

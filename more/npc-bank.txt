@@ -1,0 +1,44 @@
+{s}, welcome, you have {d} diamonds in the bank
+$1, hoşgeldin, bankada $2 elmasın var
+
+The current daily income of 10,000 diamonds is 1000 gold coins and 50000 arnebia;Press to view instructions
+10.000 elmasın günlük geliri 1000 altın ve 50000 arnebiadır;Talimatları görüntülemek için basın
+
+The Bank
+Banka
+
+1. Players can deposit Diamonds into their back accounts and collect daily deposit income. The more you deposit, the more you earn.
+1. Oyuncular, elmasları arka hesaplarına yatırabilir ve günlük para yatırma geliri toplayabilir. Ne kadar çok para yatırırsanız, o kadar çok kazanırsınız.
+
+2. The deposited Diamonds can be withdrawn at any time. When withdrawn, all of them will return to the player's account. 
+2. Yatırılan Elmaslar herhangi bir zamanda geri çekilebilir. Çekildiğinde tamamı oyuncunun hesabına geri döner.
+
+3. The daily deposit income is settled on the next day, which means the Diamonds deposited on the first day will only generate income on the second day. You can still collect  income of the previous day after withdrawing the Diamonds on the same day.
+3. Günlük depozito geliri ertesi gün kapatılır, bu da ilk gün yatırılan Elmasların yalnızca ikinci gün gelir getireceği anlamına gelir. Aynı gün Elmasları çektikten sonra da bir önceki günün gelirini toplayabilirsiniz.
+
+4. After purchasing the "Value Product" from the Value Mall, you can collect income from the bank every day.
+4. Value Mall'dan "Değerli Ürün" satın aldıktan sonra her gün bankadan gelir tahsil edebilirsiniz.
+
+5. Deposit income and the income for every Value Product can be received once a day. Incomes not claimed on the same day will not accumulate to the next day.
+5. Depozito geliri ve her Değer Ürün geliri günde bir kez alınabilir. Aynı gün talep edilmeyen gelirler bir sonraki güne kalmaz.
+
+Value Product
+Değer Ürünü
+
+deposit diamonds
+elmas yatır
+
+withdraw the diamonds
+elmas çek
+
+get deposit income
+mevduat geliri al
+
+VIP And Income monthly card;After purchase, you can claim 60 bound Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+VIP ve aylık gelir kartı; Satın aldıktan sonra, art arda 30 gün boyunca herhangi bir şehrin Kraliyet Bankasından Karaktere bağlı 60 Elmas ve 50000 Arnebia talep edebilirsiniz. Ek olarak, depolama alanınız 20 raf artar ve diğer oyunculara günde 3000 şişeye kadar iksir verebilir veya satabilirsiniz.
+
+Valid from {s} {d}, {d}; to ;{s} {d}, {d}
+{$1} {$2}, {$3} tarihinden; ;{$4} {$5}, {$6} tarihine kadar geçerlidir
+
+get income
+geliri al

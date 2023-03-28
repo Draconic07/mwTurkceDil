@@ -1,0 +1,176 @@
+{d}秒后可重新发送
+$1 saniye içinde yeniden gönderilebilir
+
+请输入要丢弃的{s}数量
+Lütfen atılacak $1 miktarını girin
+
+您确定要丢掉装备({s})吗？
+($1) Ekipmanını atmak istediğinizden emin misiniz?
+
+您确定要丢掉融合兽({s})吗？
+($1) Fizyon canavarını atmak istediğinizden emin misiniz?
+
+您确定要放生宠物({s})吗？
+($1) Evcil hayvanını serbest bırakmak istediğinizden emin misiniz?
+
+{s}消息
+$1 Mesaj
+
+请选择{s}消息朗读方式
+Lütfen $1 mesaj okuma yöntemini seçin
+
+请选择{s}消息快捷显示方式
+Lütfen $1 mesaj kısayol görüntüleme yöntemini seçin
+
+短语{d}
+ifade $1
+
+{s}战报
+$1 Savaş Raporu
+
+{s}队伍{s}战报
+$1 Ekibinin $2 Savaş Raporu
+
+己方;{s}帮派
+Sizin tarafınız; $1 Çetesi
+
+敌方;{s}帮派
+Düşman; $1 Çetesi
+
+己方;{s}队伍
+Sizin tarafınız; $1 Takımı
+
+敌方;{s}队伍
+Düşman; $1 Takımı
+
+等级{d}
+Seviye $1
+
+摧毁水晶塔{d}
+Kristal Kuleler yok edildi: $1
+
+摧毁防御塔{d}
+Taretler yok edildi: $1
+
+杀敌{d}
+Düşmanlar öldürüldü: $1
+
+杀怪{d}
+Öldürülen Canavarlar: $1
+
+最高群伤输出{d}
+En Yüksek Grup Hasarı: $1
+
+最高单伤输出{d}
+En Yüksek Tek Hasar: $1
+
+最高群疗输出{d}
+En yüksek grup iyileştirmesi: $1
+
+最高单疗输出{d}
+En yüksek tek iyileştirme: $1
+
+总伤害输出{d}
+Toplam hasar: $1
+
+总疗伤输出{d}
+Toplam İyileşme: $1
+
+损益和控制输出{d}
+Kayıp ve Kontrol: $1
+
+增益输出{d}
+Kazanç: $1
+
+解损益数{d}
+Kaldırılan kayıplar: $1
+
+解增益数{d]
+kaldırılan kazançlar: $1
+
+复活人数{d}
+Diriliş sayıları: $1
+
+{d}血量
+;$1 Sağlık
+
+{d}血率
+;$1 Yüzde Sağlık
+
+;冷却剩余{d}分{d}秒
+; $1 dk $2 sn soğuma süresi kaldı
+
+;冷却剩余{d}分
+; $1 dk soğuma süresi kaldı
+
+;冷却剩余{d}秒
+; $1 sn Soğuma süresi kaldı
+
+{d}码
+;$1 Adım
+
+疗{d}
+İyileştirme $1
+
+增{d}
+ Kazanç $1
+
+损{d}
+ Kayıp $1
+
+服务器爆满，您前边约有{d}人在排队
+Sunucu dolu. $1 Oyuncu sırada
+
+{d}毫秒
+$1 ms
+
+私聊{s}:
+Özel sohbet $1:
+
+{s}说:
+$1 dedi: 
+
+角色{d}
+Karakter $1 
+
+{d}最大
+$1 maksimum
+
+{d}增大
+$1 Artış
+
+{d}最快
+$1 En hızlı
+
+{d}加快
+$1 Daha hızlı
+
+{d}最高
+$1 en yüksek
+
+{d}升高
+$1 daha yüksek
+
+{d}最小
+$1 En düşük
+
+{d}减小
+$1 Azaltmak
+
+{d}最慢
+$1 en yavaş
+
+{d}减慢
+$1 Daha yavaş
+
+{d}最低
+$1 en düşük
+
+{d}降低
+$1 daha düşük
+
+{s}后可用
+$1 Sonrasında kullanılabilir
+
+到期剩余{s}
+$1 kaldı

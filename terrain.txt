@@ -1,0 +1,5663 @@
+lawn
+çim
+
+grass
+çimen
+
+weed
+ot
+
+fallen leaves
+düşmüş yapraklar
+
+land
+kara
+
+sand
+kum
+
+beach
+sahil
+
+wetlands
+sulak alanlar
+
+mud
+çamur
+
+shore
+sahil
+
+stream
+akarsu
+
+river underground
+yeraltı nehri
+
+snow
+kar
+
+snow road
+karlı yol
+
+river
+nehir
+
+lake
+göl
+
+cliff
+uçurum
+
+cave
+mağara
+
+cave
+mağara
+
+path
+yol
+
+steps
+basamaklar
+
+inside the house
+evin içinde
+
+stairs
+merdivenler
+
+bridge
+köprü
+
+iron plate
+Demir plaka
+
+pipeline
+boru hattı
+
+ruins
+kalıntılar
+
+seabed
+Deniz yatağı
+
+Ice
+Buz
+
+cavern
+mağara
+
+silent
+sessizlik
+
+edge
+kenar
+
+wall
+duvar
+
+plank
+tahta
+
+obstacle
+engel
+
+reef
+Kayalık
+
+fence
+çit
+
+Door
+Kapı
+
+railing
+korkuluk
+
+Pillar
+Sütun
+
+Tree
+Ağaç
+
+board
+pano
+
+ironware
+demir eşya
+
+iron pillar
+demir sütun
+
+wooden box
+tahta kutu
+
+fence
+çit
+
+crystal wall
+kristal duvar
+
+cabinet
+kabine
+
+mountain wall
+dağ duvarı
+
+ 
+ 
+
+nameless
+isimsiz
+
+high platform 
+yüksek platform
+
+pool
+havuz
+
+intersection
+kavşak
+
+bank
+banka
+
+up the waterfall
+şelalenin yukarısında
+
+fall
+çöküş
+
+downward
+aşağı doğru
+
+teleportation point
+ışınlanma noktası
+
+la
+la
+
+mi
+mi
+
+do
+do
+
+sol
+sol
+
+Enchantment
+büyü
+
+slide
+slayt
+
+mountain
+dağ
+
+barrack
+kışla
+
+test room
+test odası
+
+camp
+kamp
+
+doorway
+giriş
+
+rock
+kaya
+
+southwest turn
+güneybatı dönüşü
+
+mountain road
+dağ yolu
+
+hole
+delik
+
+northeast turn
+kuzeydoğu dönüşü
+
+south door of the test room
+test odasının güney kapısı
+
+rear door of the barracks
+kışlanın arka kapısı
+
+outside the village
+köyün dışı
+
+village
+köy
+
+center of the village
+köyün merkezi
+
+South Street of the village
+Köyün Güney Caddesi
+
+North Street of the village
+Köyün Kuzey Caddesi
+
+West Street of the village
+Köyün Batı Caddesi
+
+East Street of the village
+Köyün Doğu Caddesi
+
+gate
+geçit
+
+Grove
+Koru
+
+road outside the village
+köyün dışındaki yol
+
+pharmacy
+eczane
+
+blacksmith shop
+Demirci dükkanı
+
+chalet
+dağ evi
+
+granary
+tahıl ambarı
+
+end of the path
+yolun sonu
+
+mountains
+dağlar
+
+house
+ev
+
+courtyard wall
+avlu duvarı
+
+courtyard gate
+avlu kapısı
+
+courtyard doorway
+avlu kapısı
+
+well
+kuyu
+
+stone ladder
+taş merdiven
+
+stone ladder entrance
+taş merdiven girişi
+
+crossing
+kavşak
+
+barn door
+ahır kapısı
+
+courtyard
+avlu
+
+door
+kapı
+
+wall
+duvar
+
+bottom
+alt
+
+aisle
+koridor
+
+bottom center
+alt merkez
+
+deep water
+derin su
+
+wall
+duvar
+
+wall of the cave
+mağara duvarı
+
+wall
+duvar
+
+slope, northeast turn
+yamaç, kuzeydoğu dönüşü
+
+slope
+yamaç
+
+Slope, Southwest turn
+Yamaç, Güneybatı dönüşü
+
+Cave entrance, northeast turn
+Mağara girişi, kuzeydoğu dönüşü
+
+west entrance
+batı girişi
+
+snake cave
+yılan mağarası
+
+side road
+yan yol
+
+slope, southeast turn
+yamaç, güneydoğu dönüşü
+
+slope, northwest turn
+yamaç, kuzeybatı dönüşü
+
+path, southeast turn
+yol, güneydoğu dönüşü
+
+Outside the cave, southwest turn
+Mağaranın dışı, güneybatı dönüşü
+
+Outer road
+Dış yol
+
+north entrance
+kuzey girişi
+
+well entrance
+kuyu girişi
+
+snake cave
+yılan mağarası
+
+Dirt road in the cave
+Mağaradaki toprak yol
+
+dirt road crossing
+toprak yol, kavşak
+
+path, southwest turn
+yol, güneybatı dönüşü
+
+Southwest turn
+Güneybatı dönüşü
+
+Northeast turn
+kuzeydoğu dönüşü
+
+southeast turn
+güneydoğu dönüşü
+
+Northwest turn
+kuzeybatı dönüşü
+
+well steps
+kuyu basamakları
+
+well steps
+kuyu basamakları
+
+water
+su
+
+lower stairs
+alt merdivenler
+
+upper stairs
+üst merdivenler
+
+Abandoned pipeline
+Terk edilmiş boru hattı
+
+dirt road
+toprak yol
+
+Snake Cave Center
+Yılan Mağarası, Merkez
+
+pipe wall
+boru duvarı
+
+outskirts
+varoşlar
+
+In the city
+Şehrin içi
+
+wall
+duvar
+
+dragon mountain
+ejderha dağı
+
+green mountain
+yeşil dağ
+
+crest  mountain
+tepe dağ
+
+squama mountain
+squama dağı
+
+canyon
+kanyon
+
+cottage
+kır evi
+
+floor
+zemin
+
+west gate
+batı kapısı
+
+north gate
+Kuzey Kapısı
+
+east gate
+Doğu kapısı
+
+south gate
+Güney kapısı
+
+fence
+çit
+
+north highroad
+kuzey karayolu
+
+East T-shaped
+Doğu T ayrımı
+
+west Street
+Batı Caddesi
+
+east Street
+Doğu caddesi
+
+north Street
+Kuzey caddesi
+
+south Street
+Güney caddesi
+
+farmland
+tarım arazisi
+
+field ridge
+tarla sınırı
+
+woods
+orman
+
+road in the woods
+ormanda yol
+
+bush
+çalı
+
+grove
+koru
+
+south highroad
+güney karayolu
+
+North T-shaped
+Kuzey T-ayrımı
+
+young tree
+genç ağaç
+
+scarecrow
+korkuluk
+
+lane
+patika
+
+Chalet
+Dağ evi
+
+entrance of the village
+köyün girişi
+
+town
+kasaba
+
+market
+pazar
+
+courtyard
+avlu
+
+Sunset Square
+Gün Batımı Meydanı
+
+Town centre
+kasaba merkezi
+
+City Lord's Mansion
+Şehir Lordunun Konağı
+
+master's Mansion
+ustanın konağı
+
+breeding garden
+üreme bahçesi
+
+Royal Bank
+Kraliyet Bankası
+
+Restaurant
+Restoran
+
+Jewelry shop
+Kuyumcu
+
+Armor shop
+Zırh dükkanı
+
+weapon shop
+silah dükkanı
+
+gang unions
+çete birlikleri
+
+gem room
+mücevher odası
+
+grocery store
+Bakkal
+
+west Entrance of the town
+kasabanın batı girişi
+
+east Entrance of the town
+kasabanın doğu girişi
+
+house
+ev
+
+Shrine
+türbe
+
+main hall
+ana koridor
+
+west of the front hall
+ön salonun batısında
+
+aisle
+koridor
+
+East of the front hall
+Ön salonun doğusu
+
+wasteland
+Çoraklık
+
+boulder
+aşınmış kaya parçası
+
+airship
+zeplin
+
+Wilderness
+El değmemiş doğa
+
+rushing River
+çağlayan
+
+crisp stream
+berrak akıntı
+
+smoke stream
+sisli akıntı
+
+east of the city
+şehrin doğusu
+
+Rock Square
+Kaya Meydanı
+
+palace of Central kingdom
+Orta krallığın sarayı
+
+Holy Light Cathedral
+Kutsal Işık Katedrali
+
+Cathedral Square
+Katedral Meydanı
+
+Railing
+Korkuluk
+
+stairway
+merdiven
+
+square road
+meydan yolu
+
+front hall
+ön salon
+
+palace doorway
+saray kapısı
+
+flower bed
+çiçeklik
+
+meadow
+çayır
+
+wooden bridge
+ahşap köprü
+
+suspension bridge
+asma köprü
+
+east highroad
+doğu karayolu
+
+west highroad
+batı karayolu
+
+sand dune
+kumul
+
+herby Mountain
+otlu Dağ
+
+valley
+vadi
+
+mountain forest
+dağ ormanı
+
+war guild
+savaş loncası
+
+magic guild
+sihir loncası
+
+profession guild
+meslek loncası
+
+front street
+ön cadde
+
+corridor
+koridor
+
+guardrail
+korkuluk
+
+stone beam
+taş kiriş
+
+cable car
+teleferik
+
+southeast turn
+güneydoğu dönüşü
+
+car
+araç
+
+in the car
+aracın içi
+
+car door
+araç kapısı
+
+outpost
+ileri karakol
+
+Room
+Oda
+
+Northwest turn
+kuzeybatı dönüşü
+
+exterior wall
+dış duvar
+
+forecourt
+avlu
+
+barren mountain
+çorak dağ
+
+dimensional wall
+boyutsal duvar
+
+doorway of the outpost
+karakolun kapısı
+
+Tiger Mountain
+Kaplan Dağı
+
+North T-shaped; the tutor goes west, the pupil goes east
+Kuzey T ayrımı; öğretmen batıya, öğrenci doğuya gider
+
+Bandit Village on the Peak
+Zirvedeki Haydut Köyü
+
+Loyalty Hall
+Sadakat Salonu
+
+backyard
+arka bahçe
+
+gazebo
+çardak
+
+gate
+geçit
+
+tunnel
+tünel
+
+end of the tunnel
+tünelin sonu
+
+West T-shaped
+Batı T ayrımı
+
+South T-shaped
+Güney T ayrımı
+
+South T-shaped; the tutor goes west, the pupil goes east
+Güney T ayrımı; öğretmen batıya, öğrenci doğuya gider
+
+palace
+Saray
+
+Stone Gate
+Taş kapı
+
+Cat king's Castle
+Kedi kralının Kalesi
+
+bedroom
+yatak odası
+
+enclosure
+Yüksek çit
+
+Fire Pit Upon The Deep
+Derinlikte Ateş Çukuru
+
+bridgehead
+köprübaşı
+
+bridge fence
+köprü çiti
+
+Brave Bridge
+Cesur Köprüsü
+
+North T-shaped; pupil continue to go east to get the key
+Kuzey T ayrımı; öğrenci anahtarı almak için doğuya gitmeli
+
+mouth of Valley
+Vadi ağzı
+
+orchard
+meyve bahçesi
+
+incubator
+kuluçka makinesi
+
+Wisdom Bridge
+Bilgelik Köprüsü
+
+Wisdom River
+Bilgelik Nehri
+
+stone wall
+taş duvar
+
+Precipice
+uçurum
+
+mountain gate
+dağ girişi
+
+training ground
+Eğitim alanı
+
+lounge
+salon
+
+Lookout
+Dikkat
+
+offstage
+sahne dışında
+
+arena
+arena
+
+White Sand square
+Beyaz Kum merkezi
+
+north of the city
+şehrin kuzeyi
+
+south of the city
+şehrin güneyi
+
+west of the city
+şehrin batısı
+
+Path outside the city
+Şehrin dışındaki yol
+
+Gravel road
+Çakıl taşlı yol
+
+west entrance of the village
+köyün batı girişi
+
+house
+ev
+
+Tari Village
+Tari Köyü
+
+ridge
+çıkıntı
+
+main road
+ana yol
+
+road outside the Camp
+Kampın dışındaki yol
+
+north door of the Camp
+kampın kuzey kapısı
+
+east door of the Camp
+kampın doğu kapısı
+
+traveller camp
+gezgin kampı
+
+road in the camp
+kamptaki yol
+
+Camp Center
+Kamp Merkezi
+
+grass
+çimen
+
+dirt road
+toprak yol
+
+paddy field
+Çeltik tarlası
+
+ancient mountain
+antik dağ
+
+mountain pass
+dağ geçidi
+
+diversion channels
+saptırma kanalları
+
+bank of the channels
+kanalların bankası
+
+master's Guild
+ustanın Loncası
+
+east entrance of the village
+köyün doğu girişi
+
+Howling Mountain
+uluyan dağ
+
+Gale  Mountain
+Gale Dağı
+
+forest
+orman
+
+forest path
+orman yolu
+
+forest wetland
+orman sulak alanı
+
+Mountain road
+dağ yolu
+
+slate
+kayrak
+
+canal
+kanal
+
+estuary
+haliç
+
+river course
+nehir rotası
+
+beach
+sahil
+
+uphill
+yokuş yukarı
+
+Snow beside the cave
+Mağaranın yanında kar
+
+stagnant water
+durgun su
+
+crushed ice
+kırık buz
+
+End of passage
+geçiş sonu
+
+doorway of secret room
+gizli odanın kapısı
+
+Secret passages
+Gizli geçitler
+
+secret room
+gizli oda
+
+doorway of secret room
+gizli odanın kapısı
+
+base
+üs
+
+Insulated corridor
+Yalıtımlı koridor
+
+warning corridor
+uyarı koridoru
+
+outer corridor
+dış koridor
+
+top
+tepe
+
+bottom
+alt
+
+porch
+sundurma
+
+live wire channel
+canlı tel kanalı
+
+neutral wire channel
+nötr tel kanalı
+
+sideway
+yan yol
+
+square
+meydan
+
+explosive barracks
+patlayıcı kışla
+
+West Control Room
+Batı Kontrol Odası
+
+East Control Room
+Doğu Kontrol Odası
+
+Lead Wire Channel
+Kurşun Tel Kanalı
+
+air duct
+havalandırma kanalı
+
+Secret passage
+Gizli geçit
+
+iron gate
+Demir kapı
+
+cellar
+kiler
+
+vegetable cellar
+sebze mahzeni
+
+wine cellar
+şarap mahzeni
+
+end of aisle
+koridorun sonu
+
+stone wall
+taş duvar
+
+Bandit Camp
+Haydut Kampı
+
+Bandit Camp
+Haydut Kampı
+
+snowfield
+karlı alan
+
+battery
+batarya
+
+flagpole
+bayrak direği
+
+colorful river
+renkli nehir
+
+graceful mountain
+zarif dağ
+
+iris
+iris
+
+water pine forest
+su çamı ormanı
+
+water pine
+su çamı
+
+reeds
+reeds
+
+pond
+gölet
+
+quagmire
+bataklık
+
+slab bridge
+döşeme köprüsü
+
+tulip square
+lale meydanı
+
+parliament hall
+parlamento salonu
+
+tulip
+lale
+
+backstreet
+arka cadde
+
+capsule toy house
+kapsül oyuncak evi
+
+lucky house
+şans evi
+
+union bank
+sendika bankası
+
+training ground
+Pratik alanı
+
+wooden ladder
+ahşap merdiven
+
+tree house
+ağaç ev
+
+training room
+antrenman Odası
+
+boulevard
+bulvar
+
+South Gate of the Training Room
+Eğitim Odasının Güney Kapısı
+
+wooden door
+tahta kapı
+
+grassland
+otlak
+
+official road
+resmi yol
+
+Moon Square
+Ay Meydanı
+
+moonlight Pool
+ay ışığı havuzu
+
+wood fence
+tahta çit
+
+south gate of plantation
+çiftliğin güney kapısı
+
+plantation
+çiftlik
+
+Flagstone Road
+Kaldırım Taşlı Yol
+
+plantation center
+ekim merkezi
+
+north gate of plantation
+çitliğin kuzey kapısı
+
+pond
+gölet
+
+pasture
+otlak
+
+tent
+çadır
+
+rolling mountain
+yuvarlanan dağ
+
+east gate of plantation
+çitliğin doğu kapısı
+
+west gate of plantation
+çitliğin batı kapısı
+
+city hall
+city hall
+
+sacrifice house
+kurban evi
+
+ranch doorway 
+çiftlik kapısı
+
+stone bench
+taş tezgah
+
+steep slope
+dik yamaç
+
+stone chamber
+taş oda
+
+soil slope
+toprak yamacı
+
+steep wall
+dik duvar
+
+green grass
+yeşil çimen
+
+bullpen
+boğa ağılı
+
+stable
+stabil
+
+sheep pen
+koyun ağılı
+
+Artemisia bushe
+artemisia çalı
+
+orange blossom bush
+portakal çiçeği çalısı
+
+in the courtyard
+Avlu
+
+doorway of tent
+çadır kapısı
+
+tent
+çadır
+
+Yurt
+Yurt
+
+stone house
+taş ev
+
+emperor square
+imparator meydanı
+
+platform
+platform
+
+stone steps
+taş basamaklar
+
+The Holy See of Sarantu
+Sarantu Kutsal Makamı
+
+Antechamber of the Holy See
+Kutsal Görüş'ün giriş odası
+
+upper floor of the Holy See
+Kutsal Görüş'ün üst katı
+
+cloister
+manastır
+
+Stair handrail
+merdiven korkuluğu
+
+stairs
+merdivenler
+
+foot of the mountain
+Dağın eteği
+
+empire bank
+imparatorluk bankası
+
+employment union
+iş birliği
+
+skull  mountain
+kafatası dağı
+
+religious academy
+dini akademi
+
+Secret training room
+gizli eğitim odası
+
+Silver gate
+gümüş kapı
+
+darkroom
+karanlık oda
+
+Proving Ground
+Deneme Sahası
+
+hillside
+yamaç
+
+fruit tree
+meyve ağacı
+
+hill
+tepe
+
+riverside
+nehir kenarı
+
+river surface
+nehir yüzeyi
+
+doorway of the outpost
+karakolun kapısı
+
+east street of the city
+şehrin doğu caddesi
+
+Gouging knife square
+Oyma bıçağı merkezi
+
+city doorway
+şehir kapısı
+
+Not yet open
+henüz açık değil
+
+Magnet Hill
+Mıknatıs Tepesi
+
+Inquisition
+Engizisyon mahkemesi
+
+barrier
+bariyer
+
+cell
+hücre
+
+prison door
+hapishane kapısı
+
+warehouse
+depo
+
+workshop
+atölye
+
+Defensive line
+Savunma hattı
+
+clay block
+kil blok
+
+secluded mountain
+tenha dağ
+
+gravel pile
+çakıl yığını
+
+north mouth of Valley
+vadinin kuzey ağzı
+
+north entrance of the village
+köyün kuzey girişi
+
+south entrance of the village
+köyün güney girişi
+
+south mouth of Valley
+vadinin güney ağzı
+
+east of village
+köyün doğusu
+
+north of village
+köyün kuzeyi
+
+west of village
+köyün batısı
+
+south of village
+köyün güneyi
+
+field road
+tarla yolu
+
+Southern Flowering Shrub
+Güney Çiçekli Çalı
+
+western  Flowering Shrub
+batı Çiçekli Çalı
+
+northern  Flowering Shrub
+Kuzey Çiçekli Çalı
+
+outside the city
+şehrin dışı
+
+Violet Square
+Menekşe Meydanı
+
+quiet  river
+sessiz nehir
+
+quiet   Lake
+sessiz göl
+
+lakeside
+göl kenarı
+
+hall
+salon
+
+gate
+geçit
+
+riverbed
+nehir yatağı
+
+wilderness
+el değmemiş doğa
+
+weeds
+yabani otlar
+
+dead leaves
+solmuş yapraklar
+
+fallen leaves path
+düşen yapraklar yolu
+
+dead tree
+ölü ağaç
+
+strange rock
+garip kaya
+
+dark night square
+karanlık gece meydanı
+
+dark temple
+karanlık tapınak
+
+lobby
+lobi
+
+main temple
+ana tapınak
+
+idol
+idol
+
+magic circle
+sihirli daire
+
+eye of magic circle
+sihirli dairenin gözü
+
+Scorched earth
+kavrulmuş toprak
+
+church
+kilise
+
+prayer room
+dua odası
+
+confession room
+itiraf odası
+
+South Gate of the Confession Room
+İtiraf Odasının Güney Kapısı
+
+back door of the church
+kilisenin arka kapısı
+
+Research room
+araştırma odası
+
+South Gate of the Research room
+Araştırma odasının Güney Kapısı
+
+side of the rushing river
+akan nehrin kenarı
+
+side of the colorful river
+renkli nehrin kenarı
+
+golden river
+altın nehir
+
+side of the golden river
+altın nehrin kenarı
+
+north lake
+kuzey gölü
+
+middle lake
+orta göl
+
+South Lake
+Güney Gölü
+
+reservoir
+rezervuar
+
+side of the north lake
+kuzey gölü tarafı
+
+side of the south lake
+güney gölü tarafı
+
+waterfall
+şelale
+
+Hive nest
+kovan
+
+Northwest corner
+Kuzeybatı köşesi
+
+northeast corner
+kuzeydoğu köşesi
+
+southeast corner
+güneydoğu köşesi
+
+southwest corner
+güneybatı köşesi
+
+west exit
+batı çıkışı
+
+East Exit
+Doğu Çıkışı
+
+North Exit
+Kuzey Çıkışı
+
+South Exit
+Güney Çıkışı
+
+mountain stream
+dağ deresi
+
+abyss
+Uçurum
+
+South T-shaped; creek
+Güney T ayrımı; dere
+
+creek
+dere
+
+pool
+havuz
+
+fissure
+yarık
+
+Tranquil River
+sakin nehir
+
+Three River Mouth
+Üç Nehir Ağzı
+
+Imbrication River
+Bindirme Nehri
+
+peace and tranquility under heaven
+cennetin altında barış ve huzur
+
+crossing of waterway
+su yolu geçişi
+
+west waterway
+batı su yolu
+
+East Waterway
+Doğu Su Yolu
+
+West Sea
+Batı Denizi
+
+Middle Sea
+orta deniz
+
+East Sea
+Doğu Denizi
+
+estuary
+haliç
+
+goon mountain
+goon dağı
+
+sea dam
+deniz barajı
+
+side of Tranquil River
+sakin nehir tarafı
+
+side of Imbrication River
+Imbrication Nehri'nin tarafı
+
+ancestral temple
+atalar tapınağı
+
+backyard of the ancestral temple
+atalar tapınağının arka bahçesi
+
+doorway
+giriş
+
+firewood room
+yakacak odun odası
+
+Sundries room
+çeşitli eşyalar odası
+
+coffin
+tabut
+
+altar
+altar
+
+plank road
+tahta yol
+
+West Cave
+Batı Mağarası
+
+East Cave
+Doğu Mağarası
+
+mountain spring
+dağ yayı
+
+Platform mouth
+Platform ağzı
+
+swirl
+girdap
+
+villa
+villa
+
+west yard
+batı avlusu
+
+east yard
+doğu avlusu
+
+concierge
+kapıcı
+
+South Corridor
+Güney Koridoru
+
+front hall
+ön salon
+
+West Corridor
+Batı Koridoru
+
+East Corridor
+Doğu Koridoru
+
+main hall
+ana koridor
+
+East bedroom
+doğu yatak odası
+
+West bedroom
+Batı yatak odası
+
+windowsill
+denizlik
+
+crossroad
+kavşak
+
+secret door
+gizli kapı
+
+stone road
+taş yol
+
+grotto
+mağara
+
+edge of the abyss
+uçurumun kenarı
+
+abyss
+Uçurum
+
+Stone Hall
+Taş Salon
+
+hall door
+salon kapısı
+
+grottoe
+mağara
+
+shoal
+sürü
+
+Turbulence
+türbülans
+
+South Exit 1
+Güney Çıkışı 1
+
+South Exit 2
+Güney Çıkışı 2
+
+South Exit 3
+Güney Çıkışı 3
+
+South Exit 4
+Güney Çıkışı 4
+
+North Exit 4
+Kuzey Çıkışı 4
+
+north exit 3
+kuzey çıkışı 3
+
+North Exit 2
+Kuzey Çıkışı 2
+
+North Exit 1
+Kuzey Çıkışı 1
+
+West Exit 1
+Batı Çıkışı 1
+
+West Exit 2
+Batı Çıkışı 2
+
+desert island
+çöl ada
+
+gravel road
+çakıl taşlı yol
+
+sparrow  mountainserçe dağıçakıl taşlı yol
+serçe dağı
+
+Bo Sea
+bo denizi
+
+South Sea
+Güney Denizi
+
+temple
+tapınak
+
+broken wall
+kırık duvar
+
+shattered pedestal
+paramparça kaide
+
+collapsed statue
+çökmüş anıt
+
+cargo ship
+kargo gemisi
+
+reef
+Kayalık
+
+workshop
+atölye
+
+guillotine
+giyotin
+
+courtyard
+avlu
+
+Tusk stone
+Diş taşı
+
+Pig nose slope
+Domuz burnu eğimi
+
+Stone slope
+Taş eğim
+
+bunker
+sığınak
+
+sea surface
+Deniz yüzeyi
+
+Langley Dam
+Langley Barajı
+
+Pillar
+Sütun
+
+mast
+direk
+
+battleship
+savaş gemisi
+
+bulkhead
+perde
+
+barrel
+varil
+
+crumbs
+kırıntılar
+
+cabin
+kabin
+
+ladder
+merdiven
+
+storage cabinet
+saklama dolabı
+
+Showroom
+Sergi salonu
+
+safe
+güvenli
+
+Beast Mountain
+Canavar Dağı
+
+gravel
+çakıl
+
+pit
+çukur
+
+treetop
+ağaç tepesi
+
+wilderness
+el değmemiş doğa
+
+command room
+komuta odası
+
+Camp Gate
+Kamp Kapısı
+
+forest path
+orman yolu
+
+jungle
+orman
+
+old tree
+yaşlı ağaç
+
+flower bush
+çiçek çalı
+
+flower path
+çiçek yolu
+
+crisp woods
+gevrek ormanlar
+
+sea of flowers
+çiçek denizi
+
+jade river
+yeşim nehri
+
+Export
+Dışarıya
+
+Secret practice room
+Gizli uygulama odası
+
+bubble barrier
+kabarcık bariyeri
+
+green area
+yeşil alan
+
+blue area
+mavi alan
+
+purple area
+mor alan
+
+yellow area
+sarı alan
+
+Central region
+Merkezi Bölge
+
+cyan area
+mavi alan
+
+black area
+siyah alan
+
+red area
+kırmızı alan
+
+white area
+beyaz alan
+
+ice wall
+buz duvarı
+
+ice gate
+buz kapısı
+
+fence wall
+çit duvarı
+
+village
+köy
+
+trail
+iz
+
+ox demon cave
+öküz iblis mağarası
+
+inner room
+iç oda
+
+wok
+wok
+
+Artemisia annua
+Artemisia annua
+
+Center of the Forest
+Ormanın Merkezi
+
+temple gate
+tapınak kapısı
+
+ridge
+çıkıntı
+
+root
+kök
+
+trunk
+gövde
+
+tree hole
+ağaç deliği
+
+inner road
+iç yol
+
+Center of the Tree Hole
+Ağaç Deliğinin Merkezi
+
+dead wood
+ölü odun
+
+Zagrama Mountain
+Zagrama Dağı
+
+cliff
+uçurum
+
+cliff
+uçurum
+
+neck
+boyun
+
+Fingerboard
+Klavye
+
+nut
+ceviz
+
+frets
+perdeler
+
+Sound board
+ses kartı
+
+fortress
+kale
+
+control room
+Kontrol odası
+
+armory
+cephanelik
+
+Wall barricade
+Duvar barikatı
+
+front gate
+ön kapı
+
+southeast exit
+güneydoğu çıkışı
+
+Southwest Exit
+Güneybatı Çıkışı
+
+Northwest Exit
+Kuzeybatı Çıkışı
+
+Northeast Exit
+Kuzeydoğu Çıkışı
+
+mountain peak
+dağ zirvesi
+
+ramp
+rampa
+
+Escarpment
+yamaç
+
+peak
+doruk
+
+jungle
+orman
+
+big tree
+Büyük ağaç
+
+Platoon room
+takım odası
+
+corridor
+koridor
+
+compound
+birleşim
+
+blockhouse
+beton sığınak
+
+broken box
+kırık kutu
+
+broken door
+kırık kapı
+
+small door
+küçük kapı
+
+Side door
+Yan kapı
+
+inner hall
+iç salon
+
+Outer hall
+dış salon
+
+Reception
+Resepsiyon
+
+Room 101
+oda 101
+
+Room 102
+oda 102
+
+Room 103
+oda 103
+
+Room 104
+oda 104
+
+Room 105
+oda 105
+
+Room 106
+oda 106
+
+Room 107
+oda 107
+
+Room 108
+oda 108
+
+stair case
+merdiven sahanlığı
+
+Room 201
+oda 201
+
+Room 202
+oda 202
+
+Room 203
+oda 203
+
+Room 204
+oda 204
+
+Room 205
+oda 205
+
+Room 206
+oda 206
+
+Room 207
+oda 207
+
+Room 208
+oda 208
+
+Room 301
+oda 301
+
+Room 302
+oda 302
+
+Room 303
+oda 303
+
+Room 304
+oda 304
+
+Room 305
+oda 305
+
+Room 306
+oda 306
+
+Room 307
+oda 307
+
+Room 308
+oda 308
+
+Room 401
+oda 401
+
+Room 402
+oda 402
+
+Room 403
+oda 403
+
+Room 404
+oda 404
+
+Room 405
+oda 405
+
+Room 406
+oda 406
+
+Room 407
+oda 407
+
+Room 408
+oda 408
+
+Room 501
+oda 501
+
+Room 502
+oda 502
+
+Room 503
+oda 503
+
+Room 504
+oda 504
+
+Room 505
+oda 505
+
+Room 506
+oda 506
+
+Room 507
+oda 507
+
+Room 508
+oda 508
+
+rooftop
+çatı katı
+
+Broken wooden case
+Kırık tahta sandık
+
+Haystack
+saman yığını
+
+South mining area
+Güney madencilik alanı
+
+West mining area
+Batı madencilik alanı
+
+Central mining area
+merkezi madencilik alanı
+
+East mining area
+Doğu madencilik alanı
+
+vein
+damar
+
+mine
+Maden
+
+mine heart
+Maden kalbi
+
+mine road
+maden yolu
+
+Vein turn
+damar dönüşü
+
+rock
+kaya
+
+mine Well
+maden kuyusu
+
+Cross Well
+Kuyu kavşaı
+
+West T-Well
+Batı T Kuyusu
+
+Lifts
+asansörler
+
+Wraith Portal
+Hayalet Portalı
+
+Wraith Cave
+Hayalet Mağarası
+
+Nether Portal
+Cehennem Portalı
+
+Nether Cave
+Cehennem Mağarası
+
+Demon  Portal
+Şeytan Portalı
+
+Demon  Cave
+Şeytan Mağarası
+
+boarding  Gate 1
+Biniş Kapısı 1
+
+North T-Well
+Kuzey T Kuyusu
+
+boarding  Gate 2
+Biniş Kapısı 2
+
+boarding  Gate 3
+Biniş Kapısı 3
+
+black gate
+kara kapı
+
+space
+boşluk
+
+Guard room
+bekçi odası
+
+indoor
+içeride
+
+Black Gate Road
+Kara Kapı Yolu
+
+tower
+kule
+
+west ground
+batı zemin
+
+east ground
+doğu zemin
+
+West of the Detention Area
+Gözaltı Alanının Batısı
+
+West of the Severe punishment area
+Ağır Ceza Alanının Batısı
+
+Cell 1
+hücre 1
+
+Cell 2
+Hücre 2
+
+Cell 3
+Hücre 3
+
+Cell 4
+Hücre 4
+
+Warden's Office
+Müdür Ofisi
+
+East of the Detention Area
+Gözaltı Alanının Doğusu
+
+East of the Severe punishment area
+Ağır Ceza Alanının Doğusu
+
+Front prison door
+Ön hapishane kapısı
+
+back prison door
+arka hapishane kapısı
+
+prison gate
+hapishane kapısı
+
+Tomb passage
+Mezar geçidi
+
+main burial chamber
+ana mezar odası
+
+ear chamber
+kulak odası
+
+Stone Hall Center
+Taş Salon Merkezi
+
+sarcophagus
+lahit
+
+freight corridor
+yük koridoru
+
+Energy room
+enerji odası
+
+Radiant corridor
+Parlak koridor
+
+Radiant Wall
+Parlak Duvar
+
+energy room
+enerji odası
+
+storage room
+depo
+
+black sand
+siyah kum
+
+grottoe
+mağara
+
+fault zone
+fay bölgesi
+
+black cemetery
+siyah mezarlık
+
+sedimentary rock
+tortul kayaçlar
+
+deep pit
+derin çukur
+
+inclined pit
+eğimli çukur
+
+crack
+kırıklık
+
+Bevel
+Eğim
+
+pit edge
+çukur kenarı
+
+lower steps
+alt basamaklar
+
+Abyssal cliffs
+Uçurumlu kayalıklar
+
+cemetery
+mezarlık
+
+burial chamber
+mezar odası
+
+Cross lawn
+ayrım çim
+
+Tower of Babel
+Babil Kulesi
+
+Magic gate
+sihirli kapı
+
+Tower base
+Kule tabanı
+
+Northwest of the city
+şehrin kuzeybatısı
+
+Southwest of the city
+şehrin güneybatısı
+
+southeast of the city
+şehrin güneydoğusu
+
+Northeast of the city
+şehrin kuzeydoğusu
+
+upper layer
+üst kat
+
+lower layer
+alt kat
+
+fracture layer
+kırılma tabakası
+
+Plague Abyss
+Veba Uçurumu
+
+quagmire
+bataklık
+
+Guardian Temple
+Koruyucu Tapınak
+
+North Corridor
+Kuzey Koridoru
+
+Ring corridor
+Çevre koridoru
+
+West Guard Hall
+Batı Muhafız Salonu
+
+East Guard Hall
+Doğu Muhafız Salonu
+
+explosive path
+patlayıcı yol
+
+stone fort
+taş kale
+
+inner fort
+iç kale
+
+outer fort
+dış kale
+
+explosive track
+patlayıcı parça
+
+sinkhole
+düden
+
+underground palace
+yeraltı sarayı
+
+throne
+taht
+
+burial pit
+mezar çukuru
+
+mountainside
+dağ yamacı
+
+stone beam edge
+taş kiriş kenarı
+
+Ghost Cave
+Hayalet Mağarası
+
+earth pit
+toprak çukuru
+
+Mine cave
+maden mağarası
+
+position
+konum
+
+guard room
+Muhafız odası
+
+South battery Entrance
+Güney batarya girişi
+
+South battery
+Güney batarya
+
+Entrance to the Central Battery
+Merkezi Bataryaya Giriş
+
+Middle battery
+orta batarya
+
+aisle
+koridor
+
+North battery entrance
+Kuzey batarya girişi
+
+North battery
+Kuzey bataryası
+
+warehouse
+depo
+
+conveyor belt
+taşıma bandı
+
+ammo compartment
+cephane bölmesi
+
+base
+temel
+
+corridor
+koridor
+
+side road
+yan yol
+
+main road
+ana yol
+
+Stealth artillery area
+ Gizli topçu alanı
+
+sedimentary rock
+tortul kayaçlar
+
+Conductive plate
+iletken levha
+
+cab
+cab
+
+hatch
+haç
+
+High wall
+Yüksek duvar
+
+jail
+hapishane
+
+Shock Room 13
+13 numaralı şok odası
+
+electric chair
+elektrikli sandalye
+
+South Watchtower
+Güney Gözetleme Kulesi
+
+North Watchtower
+Kuzey Gözetleme Kulesi
+
+demon cave
+şeytan mağarası
+
+hotel
+otel
+
+shop
+mağaza
+
+School
+Okul
+
+Hospital
+hastahane
+
+hotel lobby
+otel lobisi
+
+school hall
+Okul salonu
+
+classroom
+sınıf
+
+office
+ofis
+
+Ward
+koğuş
+
+altar
+altar
+
+burn  platform
+yanan platform
+
+stake
+kazık
+
+waterway
+su yolu
+
+central waterhole
+merkez su birikintisi
+
+whirlpool center
+whirlpool center
+
+magma pool
+magma havuzu
+
+rock wall
+taş duvar
+
+pub
+birahane
+
+wine barrel
+şarap fıçısı
+
+stove
+soba
+
+tower wall
+kule duvarı
+
+Tiankeng
+Tiankeng
+
+pedestal
+pedestal
+
+broken wall
+kırık duvar
+
+statue
+heykel
+
+giant gate
+dev geçiş
+
+spa
+spa
+
+blackstone
+siyah taş
+
+pit
+çukur
+
+stone
+taş
+
+Dragon Barrier
+Ejderha Bariyeri
+
+dragon scale tree
+ejderha pulu ağacı
+
+dragon Village
+ejderha Köyü
+
+Iron Stone Mountain
+Demir Taş Dağı
+
+wild cave
+vahşi mağara
+
+brick wall
+tuğla duvar
+
+collapse channel
+dar kanal
+
+Dragon's Nest
+ejderha yuvası
+
+Dragon Mire
+ejderha çamuru
+
+jungle road
+orman yolu
+
+glade
+açık alan
+
+south entrance of the village
+köyün güney girişi
+
+entrance of the Open space
+Açık alan girişi
+
+collapsed brick wall
+yıkılmış tuğla duvar
+
+pass of the iron stone mountain
+demir taş dağ geçidi
+
+Northwest Cave
+Kuzey batı Mağarası
+
+Northeast Cave
+Kuzey doğu Mağarası
+
+Southeast Cave
+Güney doğu Mağarası
+
+Southwest Cave
+Güney batı Mağarası
+
+central cave
+merkez mağara
+
+Road in the cave
+Mağaradaki yol
+
+mysterious space
+gizemli alan
+
+Desolate Dragon's Nest
+Issız Ejderha Yuvası
+
+Right channel
+sa kanal
+
+center channel
+merkez kanal
+
+Left channel
+Sol kanal
+
+doorway of the Garden
+bahçe kapısı
+
+doorway of the Library
+kütüphane kapısı
+
+Dirt road
+toprak yol
+
+garden path
+bahçe yolu
+
+doorway of the courtyard, southwest turn
+avlunun kapısı, güney batı dönüşü
+
+Entrance of jewelry exhibition room
+mücevher sergi salonunun girişi
+
+wet soil
+ıslak toprak
+
+pondside
+gölet kenarı
+
+pond wall
+Gölet duvarı
+
+pond gap
+gölet boşluğu
+
+altar side
+sunak tarafı
+
+Ruined soil
+harap toprak
+
+gazebo steps
+çardak basamakları
+
+pavilion column
+köşk sütunu
+
+Rockery fissure
+Döşeli çatlak
+
+Rockery
+taş döşeme
+
+Inside Rockery
+Inside Rockery
+
+doorway of the courtyard
+avlu kapısı
+
+kennel fence
+köpek kulübesi çiti
+
+kennel
+köpek kulübesi
+
+courtyard center
+avlu merkezi
+
+stone table
+taş masa
+
+central aisle
+orta koridor
+
+aisle; Southwest Color
+koridor; Güneybatı Tarafı
+
+Jewelry Showroom
+mücevher Mağazası
+
+showcase
+vitrin
+
+gallery
+galeri
+
+Passage West Fork Road
+Geçit Batı  Yolu
+
+Passage southeast turn
+Geçiş güney doğu dönüşü
+
+red carpet
+kırmızı halı
+
+library
+kütüphane
+
+bookshelf
+kitaplık
+
+library secret room
+gizli kütüphane odası
+
+deep in the secret room
+gizli odanın derini
+
+doorway of the Arsenal
+cephanelik kapısı
+
+doorway of the warehouse
+depo kapısı
+
+Warehouse entrance, southwest turn
+Depo girişi, güney batı dönüşü
+
+dark passage
+karanlık geçit
+
+basement
+bodrum
+
+underground chamber
+yeraltı odası
+
+Armory
+cephanelik
+
+Armor library
+Zırh kitaplığı
+
+Church entrance
+Kilise girişi
+
+Church entrance, southwest turn
+Kilise girişi, güney batı dönüşü
+
+pool entrance
+havuz girişi
+
+Pool entrance, Three fork road
+Havuz girişi, Üç çatallı yol
+
+pool
+havuz
+
+waterway
+su yolu
+
+Pool core, Three fork road
+Havuz çekirdeği, Üç çatallı yol
+
+upper waterway
+üst su yolu
+
+silt
+alüvyon
+
+square entrance, east-west passage
+meydan girişi, doğu-batı geçidi
+
+front platform
+ön platform
+
+front door of the church
+kilisenin ön kapısı
+
+deep in the church
+kilisenin derinlikleri
+
+Crystal Throne
+Kristal Taht
+
+Land of redemption
+kurtuluş diyarı
+
+East Fork Road
+Doğu Çatal Yolu
+
+Fork road
+çatal yol
+
+West Fork Road
+Batı Çatal Yolu
+
+Meditation room
+Meditasyon odası
+
+square Entrance
+meydan girişi
+
+flower bed gap
+çiçek tarhı boşluğu
+
+groove
+oluk
+
+gate of the Kennel Fence
+köpek kulübesi Çit kapısı
+
+gate of the Jewelry showroom
+kuyumcunun gösteri odası kapısı
+
+library
+kütüphane
+
+arsenal
+cephanelik
+
+church gate
+kilise kapısı
+
+library gate
+kütüphane kapısı
+
+Arsenal gate
+cephanelik kapısı
+
+Rolling Stone Storage
+Rolling Stone Storage
+
+Rolling Stones Launch
+Rolling Stones Launch
+
+doorway of the church
+kilisenin kapısı
+
+main entrance
+ana giriş
+
+open space behind camp
+kampın arkasındaki açık alan
+
+open space in front of camp
+kampın önündeki açık alan
+
+path in front of camp
+kampın önündeki yol
+
+watchtower
+gözetleme kulesi
+
+path in the Camp
+Kampa giden yol
+
+moat
+hendek
+
+Mystery Room
+gizemli oda
+
+three fork road
+üç çatallı yol
+
+living room
+oturma odası
+
+canopy
+gölgelik
+
+southeast turn; stone steps
+güney doğu dönüşü; taş basamaklar
+
+Northwest turn; stone steps
+Kuzey batı dönüşü; taş basamaklar
+
+broken wall
+kırık duvar
+
+Southwest turn; stone steps
+Güney batı dönüşü; taş basamaklar
+
+stone table
+taş masa
+
+edge of stone table
+taş masanın kenarı
+
+dungeon
+zindan
+
+back door of the cave
+mağaranın arka kapısı
+
+fault
+arıza
+
+balcony
+balkon
+
+secret test room
+gizli test odası
+
+South Gate of the Secret Room
+Gizli Odanın Güney Kapısı
+
+snow mountain
+karlı dağ
+
+Gorge passage
+Gorge passage
+
+Gorge
+geçit
+
+cave
+mağra
+
+glacier
+buzul
+
+meditation room
+meditasyon odası
+
+extinguished torch
+sönmüş meşale
+
+energy barrier
+enerji bariyeri
+
+null
+hiclik
+
+avenue
+Bulvar
+
+green land
+yeşil arazi
+
+seaside
+sahil
+
+lava island
+lav adası
+
+Magma
+Magma
+
+rock
+kaya
+
+Martial Arts Hall
+Dövüş Sanatları Salonu
+
+martial arts field
+dövüş sanatları alanı
+
+mud pond
+göl çamuru
+
+Reeds
+sazlık
+
+the sea
+Deniz
+
+island
+ada
+
+North Road
+kuzey yolu
+
+South Road
+güney yolu
+
+East Street
+Doğu sokağı
+
+West Street
+Batı Sokağı
+
+desert
+çöl
+
+rock formation
+kaya oluşumu
+
+dune
+kum tepe
+
+in the tower
+kulenin içi
+
+wind magic circle
+rüzgarlı sihirli daire
+
+Earth Magic circle
+Toprak Sihirli daire
+
+water magic circle
+su sihirli daire
+
+fire magic circle
+ateş sihirli daire
+
+mountainside
+dağa yamacı
+
+Ice layer
+buz tabakası
+
+snowdrift
+rüzgârla oluşan kar yığını
+
+inside the cave
+mağaranın içi
+
+Trench
+Siper
+
+Undersea Garden
+Denizaltı Bahçesi
+
+sea flower bush
+deniz çiçeği çalısı
+
+seaweed
+Deniz yosunu
+
+South Gate of the Dungeon
+Zindanın Güney Kapısı
+
+lakeshore
+göl kıyısı
+
+West coast
+batı kıyısı
+
+east coast
+Doğu Kıyısı
+
+red camp
+kırmızı kamp
+
+blue camp
+mavi kamp
+
+center bridge
+orta köprü
+
+main road in front of camp
+kampın önündeki ana yol
+
+center Island
+merkez ada
+
+bench
+bank
+
+small bridge
+küçük köprü
+
+north branch road
+kuzey yolu
+
+playground
+oyun alanı
+
+south branch road
+güney yolu
+
+gap
+açıklık
+
+ramp entrance
+Rampa girişi
+
+ruins
+kalıntılar
+
+Flying sand alley
+Uçan kum sokağı
+
+collapsed wall
+çökmüş duvar
+
+north hillside
+kuzey yamacı
+
+mountaintop
+dağın zirvesi
+
+south hillside
+güney yamacı
+
+east hillside
+doğu yamacı
+
+west hillside
+batı yamacı
+
+north foothill
+kuzey eteği
+
+east foothill
+doğu eteği
+
+west foothill
+batı eteği
+
+south foothill
+güney eteği
+
+roots
+kökler
+
+Cross Mountain
+Çapraz Dağ
+
+North Pit 1
+Kuzey Çukuru 1
+
+North Pit 2
+Kuzey Çukuru 2
+
+North Pit 3
+Kuzey Çukuru 3
+
+North Pit 4
+Kuzey Çukuru 4
+
+middle  platform 1
+orta platform 1
+
+middle pit 2
+orta çukur 2
+
+middle pit 3
+orta çukur 3
+
+middle  platform 4
+orta platform 4
+
+South Pit 1
+Güney Çukuru 1
+
+South Pit 2
+Güney Çukuru 2
+
+South Pit 3
+Güney Çukuru 3
+
+South Pit 4
+Güney Çukuru 4
+
+corridor
+koridor
+
+terrace
+teras
+
+ground
+zemin
+
+SouthWest of the Highland
+Yaylanın Güneybatısı
+
+SouthEast of the Highland
+Yaylanın Güneydoğusu
+
+ground fence
+zemin çiti
+
+canteen
+canteen
+
+bathroom
+banyo
+
+Guardian room
+Muhafız odası
+
+step bottom
+alt basamak
+
+middle path
+orta yol
+
+Walking stage
+Yürüme alanı
+
+front door of the ground
+yerin ön kapısı
+
+back door of the ground
+yerin arka kapısı
+
+safe door
+güvenli kapı
+
+ice cave
+buz marası
+
+hidden grid
+gizli ızgara
+
+Snow Cave
+Kar Mağarası
+
+Ice Cave Center
+Buz Mağarası Merkezi
+
+orizontal Road 1
+yatay yol 1
+
+orizontal Road 2
+yatay yol 2
+
+orizontal Road 3
+yatay yol 3
+
+orizontal Road 4
+yatay yol 4
+
+Vertical Road No. 1
+Dikey Yol No. 1
+
+vertical road 2
+Dikey Yol No. 2
+
+vertical road 3
+Dikey Yol No. 3
+
+vertical road 4
+Dikey Yol No. 4
+
+end of orizontal road
+yatay yolun sonu
+
+end of vertical road
+dikey yolun sonu
+
+ship's rail
+gemi rayı
+
+deck
+güverte
+
+stern
+kıç
+
+bow
+yay
+
+captain's room
+kaptan odası
+
+cargo hold
+yük ambarı
+
+cargo box
+kargo kutusu
+
+gangway
+çete yolu
+
+Towering Mountain
+Yükselen Dağ
+
+farm warehouse
+çiftlik deposu
+
+mountainside
+dağ yamacı
+
+villa road
+villa yolu
+
+back room
+arka oda
+
+middle room
+orta oda
+
+front room
+ön oda
+
+grass
+çimen
+
+gravel slope
+çakıllı eğim
+
+willow
+Söğüt
+
+Heaven Pool
+Cennet Havuzu
+
+Villa gate
+villa kapısı
+
+inner wall
+iç duvar
+
+transmission shaft
+transmisyon mili
+
+Turbine cabin
+türbin kabini
+
+switch
+anahtar
+
+Power cabin
+Güç kabini
+
+pothole
+çukur
+
+kitchen
+mutfak
+
+pharmacy room
+eczane odası
+
+study
+Çalışma odası
+
+Breeding room
+yetiştirme odası
+
+Smelting room
+eritme odası
+
+Washing and grinding room
+Mücehver sentezi ve zanaat odası
+
+Storage Room
+Depo odası
+
+exercise room
+egzersiz odası
+
+main mansion
+ana giriş
+
+inner hall
+iç salon
+
+backyard west
+arka bahçenin  batısı
+
+backyard east
+arka bahçenin doğusu
+
+front yard west
+ön bahçenin batısı
+
+front yard east
+ön bahçenin doğusu
+
+west grass
+batı çimeni
+
+east flower bush
+doğu çiçeği çalısı
+
+road in front of mansion
+malikanenin önündeki yol
+
+west side road
+batı yolu
+
+east side road
+Doğu yolu
+
+road behind mansion
+malikanenin arkasındaki yol
+
+inner door
+iç kapı
+
+lake
+göl
+
+West Lake
+,Batı gölü
+
+East Lake
+,Doğu Gölü
+
+water platform
+,su platformu
+
+west platform
+,batı platformu
+
+east platform
+doğu platformu
+
+South Bridge
+Güney Köprüsü
+
+North Bridge
+Kuzey köprüsü
+
+west side bridge
+batı köprüsü
+
+east side bridge
+Doğu köprüsü
+
+Southwest Platform
+Güneybatı Platformu
+
+Southeast Platform
+Güneydoğu Platformu
+
+East side platform
+Doğu platformu
+
+west side platform
+Batı platformu
+
+Northwest Platform
+Kuzeybatı Platformu
+
+Northeast Platform
+Kuzeydoğu Platformu
+
+courtyard
+avlu
+
+East side courtyard
+doğu avlusu
+
+West side courtyard
+batı avlusu
+
+front avenue of the mansion
+malikanenin ön yolu
+
+back avenue of the mansion
+malikanenin arka yolu
+
+west side snowfield
+batı tarafı kar alanı
+
+east side snowfield
+doğu tarafı kar alanı
+
+steel platform
+çelik platform
+
+fortress
+kale
+
+Steel Avenue
+Çelik Cadde
+
+west side passage
+Batı geçidi
+
+East side  Passage
+Doğu  Geçidi
+
+center
+merkez
+
+northwest
+Kuzey Batı
+
+north
+kuzey
+
+northeast
+kuzeydoğu
+
+West
+Batı
+
+East
+Doğu
+
+southwest
+güneybatı
+
+South
+Güney
+
+southeast
+güneydoğu
+
+Northwest of the pit
+çukurun kuzeybatısı
+
+North of the pit
+çukurun kuzeyi
+
+Northeast of the Pit
+Çukurun Kuzeydoğusu
+
+East of the pit
+çukurun doğusu
+
+Center of the pit
+çukurun merkezi
+
+West of the pit
+çukurun batısı
+
+Southwest of the pit
+Çukurun güneybatısı
+
+south of the pit
+çukurun güneyi
+
+southeast of the pit
+çukurun güneydoğusu
+
+stone maze
+taş labirent
+
+center stone room
+merkez taş oda
+
+end of the maze
+labirentin sonu
+
+Entrance
+Giriş
+
+west mouth of Valley
+Vadinin batı ağzı
+
+east mouth of Valley
+vadinin doğu ağzı
+
+maze entrance
+labirent girişi
+
+Herb field
+Bitki alanı
+
+curly tree
+kıvırcık ağaç
+
+Outer ring of tree hole
+Ağaç deliğinin dış halkası
+
+annual ring wall
+Halkalı duvar
+
+Inner ring of tree hole
+Ağaç deliğinin iç bölümü
+
+tree heart
+ağacın merkezi
+
+turn southeast
+güneydoğuya dön
+
+turn northwest
+kuzeybatıya dön
+
+turn southwest
+güneybatıya dön
+
+turn northeast
+kuzeydoğuya dön
+
+turn east
+doğuya dön
+
+turn south
+güneye dön
+
+turn north
+kuzeye dön
+
+turn west
+batıya dön
+
+water lily
+Nilüfer
+
+North Shore
+Kuzey kıyısı
+
+South Shore
+Güney kıyısı
+
+northern waters
+kuzey suları
+
+Northeast waters
+kuzeydoğu suları
+
+Eastern Waters
+Doğu Suları
+
+Southeast waters
+Güneydoğu suları
+
+southern waters
+güney suları
+
+Southwest waters
+güneybatı suları
+
+western waters
+batı suları
+
+Northwest Waters
+Kuzeybatı Suları
+
+central waters
+merkezi sular
+
+west river estuary
+batı nehri ağzı
+
+west river
+batı nehri
+
+East River Estuary
+Doğu Nehri  ağzı
+
+east river
+Doğu Nehri
+
+giant snail reef
+dev salyangoz resifi
+
+snail heart
+salyangoz kalbi
+
+hall
+salon
+
+Red carpet
+kırmızı halı
+
+stage
+sahne
+
+pink petals
+pembe yapraklar
+
+curtain wall
+perde duvar
+
+river
+nehir
+
+love Bridge
+aşk köprüsü
+
+pontoon
+duba
+
+floating platform
+yüzer platform
+
+storehouse
+ambar
+
+stone lion
+taş aslan
+
+North Street
+Kuzey Sokağı
+
+South Street
+Güney cadde
+
+wish alley
+dilek sokağı
+
+peace alley
+barış sokağı
+
+Outer teleportation room
+Dış ışınlanma odası
+
+episcopal room
+piskoposluk odası
+
+Inner teleportation room
+İç ışınlanma odası
+
+dais
+kürsü
+
+baptismal room
+vaftiz odası
+
+fjord river
+fiyort nehri
+
+upper river
+üst nehir
+
+lower river
+aşağı nehir
+
+Iron railing
+Demir korkuluk
+
+central  camp
+merkez kamp
+
+west camp
+batı kampı
+
+east camp
+doğu kampı
+
+south camp
+güney kampı
+
+demonization Cabin
+şeytanlaştırma Kabini
+
+north camp
+kuzey kampı
+
+starting point
+başlangıç ​​noktası
+
+end
+son
+
+artillery array
+topçu dizisi
+
+piano
+piano
+
+Do
+do
+
+Re
+Re
+
+Mi
+Mi
+
+Fa
+Fa
+
+Sol
+Sol
+
+floor 5
+kat 5
+
+floor 4
+kat 4
+
+floor 3
+kat 3
+
+floor 2
+kat 2
+
+floor 1
+kat 1
+
+up the ladder
+merdivenin üstü
+
+down the ladder
+Merdivenin aşağısı
+
+sea ​​floor
+deniz tabanı
+
+beach
+sahil
+
+Sea
+Deniz
+
+Evil Temple
+Kötü Tapınak
+
+blood pool
+kan havuzu
+
+front road of the Village
+Köyün ön yolu
+
+Grocery store
+Bakkal
+
+paddy
+çeltik
+
+wheat field
+buğday tarlası
+
+Orchard
+meyve bahçesi
+
+Sapphire River
+Safir Nehri
+
+Hearth
+ocak
+
+laundry tub
+çamaşır küveti
+
+fish tank
+Akvaryum
+
+oven
+fırın
+
+fish basket
+balık sepeti
+
+table
+masa
+
+clothesline
+çamaşır ipi
+
+cliff
+uçurum
+
+central platform
+merkezi platform
+
+north platform
+kuzey platformu
+
+East Platform
+Doğu Platformu
+
+South platform
+güney platformu
+
+West Platform
+Batı Platformu
+
+edge of the platform
+platformun kenarı
+
+black purgatory
+kara araf
+
+magma hell
+magma cehennemi
+
+Abyss Demon realm
+Şeytan alemi uçurumu
+
+magnolia tree
+manolya ağacı
+
+Garden under the Moon
+Ayın Altındaki Bahçe
+
+galaxy
+gökada
+
+Magpie Bridge
+Saksağan Köprüsü
+
+cattles Mountain
+sığır Dağı
+
+house
+ev
+
+West Wing
+Batı kanadı
+
+main room
+ana oda
+
+East wing
+doğu kanadı
+
+Downside Room
+Alt oda
+
+doorway
+Kapı ağzı
+
+Lancang River
+Lancan Nehri
+
+tree stump
+ağaç kütüğü
+
+igloo
+igloo
+
+auditorium
+konferans salonu
+
+Dining room
+Yemek odası
+
+dining table
+yemek masası
+
+Chair
+Sandalye
+
+hill bag
+Tepecik
+
+rock pile
+Kaya yığını
+
+stalagmite
+dikit
+
+channel
+kanal
+
+forest export
+orman ihracatı
+
+ancient tree
+antik ağaç
+
+tree heart entrance
+ağaç merkezi girişi
+
+grass
+çimen
+
+wolf head mountain
+Kurt başı dağı
+
+swamp
+bataklık
+
+puddle
+su birikintisi
+
+swamp tree
+bataklık ağacı
+
+sea river
+deniz nehri
+
+east sea Bridge
+doğu deniz köprüsü
+
+big quagmire
+büyük bataklık
+
+quagmire entrance
+bataklık girişi
+
+mud slope
+Çamurlu yamaç
+
+port
+liman
+
+West Port
+Batı Limanı
+
+east port
+doğu limanı
+
+Dock Bridge
+Rıhtım Köprüsü
+
+coconut tree
+Hindistan cevizi ağacı
+
+Nepeta bush
+Çalılık
+
+bunker
+Açıklık
+
+Villa of the cat king
+kedi kralının villası
+
+villa gate
+villa kapısı
+
+staircase
+merdiven
+
+side yard
+yan bahçe
+
+side door
+yan kapı
+
+Sand Holly
+Kumluk
+
+aloe vera
+aloe vera
+
+Collapsed courtyard wall
+Çökmüş avlu duvarı
+
+workshop
+atölye
+
+collapsed gate
+çökmüş kapı
+
+main hallway
+ana koridor
+
+broken window
+kırık pencere
+
+south side corridor
+Güney koridoru
+
+North side Corridor
+Kuzey koridoru
+
+dirt road in the courtyard
+avludaki toprak yol
+
+production workshop
+üretim atolyesi
+
+single conveyor belt
+tek konveyör bant
+
+workshop channel
+atölye kanalı
+
+conveyor belt entrance
+konveyör bandı girişi
+
+conveyor belt exit
+konveyör bandı çıkışı
+
+doorway of the control room
+kontrol odasının kapısı
+
+connecting corridor
+bağlantı koridoru
+
+Stone Hall in the center
+Merkezdeki Taş Salon
+
+stone steps of the secret path
+gizli yolun taş basamakları
+
+abrupt gravel
+Çakıll
+
+stone ladder of the secret path
+gizli yolun taş merdiveni
+
+stone ladder  entrance
+taş merdiven girişi
+
+Circling Stone Ladder
+Dönen Taş Merdiven
+
+Tomb of the Pharaoh
+firavunun mezarı
+
+hillside road
+yamaç yolu
+
+crater
+krater
+
+torch tree
+meşale ağacı
+
+flame flower bush
+alev çiçeği çalısı
+
+hot spring pool
+Sıcak su havuzu
+
+Flaming Mountain
+alevli dağ
+
+stone bridge
+taş Köprü
+
+lava lake
+lav gölü
+
+cabin
+kabin
+
+artificial island
+yapay ada
+
+lighthouse
+deniz feneri
+
+doorway of the Captain's room
+Kaptan odası kapısı
+
+finger hill
+parmak tepesi
+
+Basalt
+Bazalt
+
+cave in the sea
+denizdeki mağara
+
+Cave mouth
+Mağara ağzı
+
+river
+nehir
+
+large  eucalyptus
+büyük okaliptüs
+
+root of the large eucalyptus
+büyük okaliptüsün kökü
+
+tree hole tunnel
+ağaç deliği tüneli
+
+tree hole mouth
+ağaç deliği ağzı
+
+Hovering Wooden Ladder
+Uçan Ahşap Merdiven
+
+lacquer tree
+Cilalı ağaç
+
+Parasitic vine
+asalak asma
+
+parasitic root
+asalak kök
+
+banyan trunk
+banyan gövdesi
+
+banyan root
+banyan kökü
+
+Poison Swamp
+Zehirli bataklık
+
+mud
+çamur
+
+tree top
+ağaç tepesi
+
+tree branch
+ağaç dalı
+
+turkey mountain
+Hindi dağı
+
+weathered rock
+Yıpranmış kaya
+
+halfway up the mountain
+Dağın yarısı
+
+mountain fissure
+dağ yarığı
+
+narrow road
+dar yol
+
+earth wall
+toprak duvar
+
+house
+ev
+
+collapsed earth wall
+çökmüş toprak duvar
+
+collapsed wooden wall
+çökmüş ahşap duvar
+
+dry well
+Kuruluk
+
+back hallway
+arka koridor
+
+bed
+yatak
+
+ancient clock
+antik saat
+
+closet
+dolap
+
+ocean
+okyanus
+
+Great Trench
+Büyük Siper
+
+Crystal Palace
+Kristal Saray
+
+cobblestone path
+parke taşlı yol
+
+Coral island
+Mercan adası
+
+back hall
+arka salon
+
+central hall
+merkez salon
+
+side hall
+yan salon
+
+Blood sucking tree
+Kan emici ağaç
+
+broken sand
+kırık kum
+
+bloodstone
+kantaşı
+
+weeds
+yabani otlar
+
+Burial Ground
+Mezarlık
+
+grave bag
+grave bag
+
+dead woods
+Ölüm ormanı
+
+dead leaf forest
+ölü yaprak ormanı
+
+gravel
+çakıl
+
+doorway of the blood red castle
+kan kırmızısı kalenin kapısı
+
+blood red castle
+kan kırmızısı kale
+
+main hall
+ana koridor
+
+Gobi
+Gobi
+
+desert
+çöl
+
+oasis
+vaha
+
+Populus euphratica
+Populus euphratica
+
+desert export
+çöl ihracatı
+
+quicksand whirlpool
+bataklık girdabı
+
+ice pine
+buzlu çam
+
+iceberg
+buzdağı
+
+ice wall
+buz duvarı
+
+Ice Palace
+Buz sarayı
+
+side hall
+yan salon
+
+mirrored hallway
+Geniş koridor
+
+ice brick steps
+buz basamaklar
+
+central cave
+merkezi mağara
+
+center pit
+orta çukur
+
+Entrance to the pool
+havuz girişi
+
+torch
+meşale
+
+hallway
+koridor
+
+central fortress
+merkez kale
+
+steps handrail
+Basamaklar
+
+laboratory
+laboratuvar
+
+energy storage room
+enerji depolama odası
+
+power room
+güç odası
+
+energy delivery pipe
+enerji dağıtım borusu
+
+Magic Research Laboratory
+Sihir Araştırma Laboratuvarı
+
+Magic Item Storage Room
+Sihirli Öğe Depolama Odası
+
+Liaison Room
+İrtibat Odası
+
+monitoring room
+izleme odası
+
+Robot warehouse
+Robot deposu
+
+monster training room
+canavar eğitim odası
+
+showroom
+sergi salonu
+
+guard house
+bekçi evi
+
+Machine production room
+makine üretim odası
+
+exhibition room
+sergi odası
+
+escalator
+yürüyen merdiven
+
+platform of the escalator
+yürüyen merdiven platformu
+
+escalator entrance
+yürüyen merdiven girişi
+
+machine training ground
+makine eğitim alanı
+
+Machine production room
+makine üretim odası
+
+energy reaction pit
+enerji reaksiyon çukuru
+
+energy delivery port
+enerji dağıtım limanı
+
+energy delivery table
+enerji dağıtım tablosu
+
+petri dish
+Petri kabı
+
+parts making machine
+parça yapma makinesi
+
+main control room
+ana kontrol odası
+
+Thunder Mountain
+Gök Gürültüsü Dağı
+
+Monster Mountain
+Canavar Dağı
+
+Thunder Dragon Mountain
+Thunder Dragon Dağı
+
+wilderness
+el değmemiş doğa
+
+Crescent Moon Spring
+Hilal Ay Yayı
+
+attic
+Çatı katı
+
+dark shrine
+karanlık türbe
+
+ancient well
+antik kuyu
+
+Pure Land Temple
+Saf Kara Tapınağı
+
+Dead Water Temple
+Ölü Su Tapınağı
+
+Dark Flame Temple
+Karanlık Alev Tapınağı
+
+Evil Wind Temple
+Kötü Rüzgar Tapınağı
+
+stone pillar
+taş sütun
+
+bonfire
+şenlik ateşi
+
+black quagmire
+siyah bataklık
+
+turning place
+dönüş alanı
+
+sacrificial hall
+kurban salonu
+
+south gate of the cell
+hücrenin güney kapısı
+
+barrack
+kışla
+
+Brute Valley Entrance
+Brute Vadisi Girişi
+
+Stone Ladder of the well
+kuyunun taş merdiveni
+
+ Granary doorway
+tahıl ambarı kapısı
+
+northern town
+kuzey kasabası
+
+breezy Village
+esintili Köy
+
+Entrance to Takama Desert
+Takama Çölü' girişi
+
+Entrance to Karst cave
+Karst mağarası girişi
+
+Entrance to Fred  Forest
+Fred Ormanı' girişi
+
+main entrance of the shrine
+türbenin ana girişi
+
+south entrance  of the town
+kasaba güney girişi
+
+north entrance  of the town
+kasaba kuzey girişi
+
+main hall entrance
+ana salon girişi
+
+Butterfly Valley
+Kelebek Vadisi
+
+entrance to beauty of river and mountain
+güzel nehir ve dağ girişi
+
+Entrance to Wolfe Prairie
+Kurt Çayırı girişi
+
+underground entrance
+yeraltı girişi
+
+Entrance to Abundant green hills
+Bol yeşil tepeler girişi
+
+back to the ground
+yerüstü çıkışı
+
+Cable Car; to Lifting Platform No. 1
+Teleferik; 1 Nolu Platforma
+
+Cable car; to Tulip City
+Teleferik; Lale Şehri'ne
+
+Cable car; to holy blood city
+Teleferik; kutsal kan şehrine
+
+spy base
+casus üssü
+
+doorway of room
+odanın kapısı
+
+Demon Banner
+Şeytan Sancağı
+
+brave Valley
+cesur Vadisi
+
+Wisdom Forest
+Bilgelik Ormanı
+
+Wisdom Cabin; Wisdom Forest
+Bilgelik Kabini; Bilgelik Ormanı
+
+Stone maze: Wisdom Forest
+Taş labirent: Bilgelik Ormanı
+
+Wisdom Cabin
+Bilgelik Kabini
+
+deep in the diversion channel
+oyalama kanalının derinliklerinde
+
+Entrance to Polson Wetland
+Polson Sulak Alanına Giriş
+
+uphill road
+yokuş yukarı yol
+
+Gale   Cave
+Fırtına Mağarası
+
+Wolf Prairie
+Kurt Çayırı
+
+underground cave
+yeraltı mağarası
+
+stone gate of cave
+mağaranın taş kapısı
+
+west stairwell
+batı merdiven boşluğu
+
+east stairwell
+doğu merdiven boşluğu
+
+Stairwell No. 1
+1 numaralı merdiven boşluğu
+
+Stairwell No. 2
+2 numaralı merdiven boşluğu
+
+Stairwell No. 3
+3 numaralı merdiven boşluğu
+
+Stairwell No. 4
+4 numaralı merdiven boşluğu
+
+Stairwell No. 5
+5 numaralı merdiven boşluğu
+
+Stairwell No. 6
+6 numaralı merdiven boşluğu
+
+Stairwell No. 7
+7 numaralı merdiven boşluğu
+
+Stairwell No. 8
+8 numaralı merdiven boşluğu
+
+Stairwell No. 9
+9 numaralı merdiven boşluğu
+
+Stairwell No. 10
+10 numaralı merdiven boşluğu
+
+Stairwell 11
+11 numaralı merdiven boşluğu
+
+Stairwell No. 12
+12 numaralı merdiven boşluğu
+
+Stairwell 13
+13 numaralı merdiven boşluğu
+
+Stairwell No. 14
+14 numaralı merdiven boşluğu
+
+Stairwell No. 15
+15 numaralı merdiven boşluğu
+
+Stairwell 16
+16 numaralı merdiven boşluğu
+
+Stairwell No. 17
+17 numaralı merdiven boşluğu
+
+Stairwell No. 18
+18 numaralı merdiven boşluğu
+
+Stairwell No. 19
+19 numaralı merdiven boşluğu
+
+Stairwell No. 20
+20 numaralı merdiven boşluğu
+
+Passage doorway
+geçit kapısı
+
+cellar exit
+kiler çıkışı
+
+doorway of vegetable cellar
+sebze mahzeni kapısı
+
+doorway of wine cellar
+şarap mahzeni kapısı
+
+doorway of barracks
+kışla kapısı
+
+doorway of parliament hall
+meclis salonunun kapısı
+
+Domi Wasteland
+Domi Çölü
+
+Entrance to Margit Rainforest
+Margit Yağmur Ormanı'na giriş
+
+Oaks Tribe
+Meşe Kabilesi
+
+Cable Car; to lifting platform No. 2
+Teleferik; 2 numaralı platforma
+
+Cable car; to Giant Rock City
+Teleferik; Dev Kaya şehrine
+
+North Mountain Plantation
+Kuzey Dağı Ovası
+
+deep in the cave
+mağaranın derinlikleri
+
+entrance to Domi wasteland
+Domi arazisine giriş
+
+ranch gate
+çiftlik kapısı
+
+Entrance to Glorious Grassland
+Görkemli Otlak'a giriş
+
+Entrance to Dark pit City
+Karanlık Çukur Şehri'ne giriş
+
+Stone Cliff Village
+Taş Kayalık Köyü
+
+Rogue Camp
+Haydut Kampı
+
+doorway of Holy See
+Kutsal Görüş'ün kapısı
+
+Entrance to Flaming Mountain
+alevli dağa giriş
+
+Entrance to skeleton Basin
+İskelet Havzasına giriş
+
+Cable Car; to lifting platform No. 3
+Teleferik; 3 numaralı platforma
+
+Stonehelm Outpost
+Taşmiğfer Karakolu
+
+gouging knife city
+oyma bıçağı şehiri
+
+Outpost North Gate
+Karakol Kuzey Kapısı
+
+Outpost West Gate
+Karakol Batı Kapısı
+
+Entrance to Magnet Hill
+Mıknatıs Tepesine giriş
+
+Outpost South Gate
+Karakol Güney Kapısı
+
+Outpost East Gate
+Karakol Doğu Kapısı
+
+Entrance to Devil's Valley
+Şeytan Vadisi'ne giriş
+
+Camp South Gate
+Kamp Güney Kapısı
+
+Camp West Gate
+Kamp Batı Kapısı
+
+Camp North Gate
+Kamp Kuzey Kapısı
+
+Camp East Gate
+Kamp Doğu Kapısı
+
+doorway of temple
+tapınağın kapısı
+
+night sky plain
+gece gökyüzü düzlüğü
+
+black forest
+Kara Orman
+
+secret room underground
+yeraltındaki gizli oda
+
+crystal ball
+Kristal top
+
+graceful Lake
+zarif göl
+
+Tranquil River estuary
+Sakin nehir ağzı
+
+Entrance to Central Plains
+Orta Ovalar girişi
+
+Entrance to Tuneful Wetland
+Tuneful Sulak Alanı Girişi
+
+water curtain cave
+su perdesi mağarası
+
+inland sea
+iç deniz
+
+river bend
+nehir kıvrımı
+
+Hanging bell
+Asılı çan
+
+entrance to graceful Lake
+zarif göl girişi
+
+entrance to open sea
+açık deniz girişi
+
+Entrance to the dark river cave
+Karanlık nehir mağarası girişi
+
+upper floor of Villa
+villanın üst katı
+
+Lower floor  of villa
+Villanın alt katı
+
+Nepeta
+Nepeta
+
+gear 1
+vites 1
+
+earth array
+toprak dizisi
+
+water array
+su dizisi
+
+fire array
+ateş dizisi
+
+wind array
+rüzgar dizisi
+
+center maze
+merkez labirenti
+
+Baru Stone Room
+Baru Taş Oda
+
+Inland Sea entrance
+İç Deniz girişi
+
+hay cutter
+saman kesici
+
+golf villa
+golf villası
+
+pig head stone
+domuz kafası taşı
+
+Evergreen Valley
+Dökmeyen Vadi
+
+tree Valley
+ağaç Vadisi
+
+flower Valley
+çiçek Vadisi
+
+grass Valley
+çim Vadisi
+
+North of Colorful Valley
+Renkli Vadinin Kuzeyi
+
+South of Colorful Valley
+Renkli Vadinin Güneyi
+
+hidden water cave
+gizli su mağarası
+
+Entrance to High climbing grassland
+Yüksek tepeli çayır girişi
+
+Entrance  of hidden water cave
+Gizli su mağarası girişi
+
+Entrance to Valley of Luxuriant forests
+Bereketli ormanlar Vadisi girişi
+
+Herbs Village
+Otlak Köyü
+
+Verdant Valley
+Yemyeşil Vadi
+
+Sapphire Valley
+Safir Vadisi
+
+branch
+dallar
+
+floor 1
+kat 1
+
+floor 2
+kat 2
+
+floor 3
+kat 3
+
+floor 4
+kat 4
+
+floor 5
+kat 5
+
+to Lifting No. 1
+1 No'lu platforma
+
+to Lifting No. 2
+2 No'lu PLatforma
+
+to Lifting No. 3
+3 No'lu Platforma
+
+Entrance to Ancient Ruins
+Kadim Harabeler Girişi
+
+Entrance to South mining area
+Güney maden alanı girişi
+
+Cable Car No. 1
+1 Numaralı araç
+
+Cable Car No. 2
+2 Numaralı araç
+
+Entrance to West mining area
+Batı maden alanı girişi
+
+Cable Car No. 3
+3 Numaralı araç
+
+doorway of main cemetery
+ana mezarlık kapısı
+
+doorway of the ear room
+arka oda kapısı
+
+doorway of Energy room
+Enerji odası kapısı
+
+doorway of the research room
+araştırma odası kapısı
+
+doorway of storage room
+depo odası kapısı
+
+slump zone
+çökme bölgesi
+
+City of the Ancient tower
+Antik kule şehri
+
+entrance to underground mine
+yeraltı madeni girişi
+
+doorway of West Guard Hall
+Batı Muhafız Salonu kapısı
+
+doorway of East Guard Hall
+Doğu Muhafız Salonu kapısı
+
+doorway of Guardian Temple
+Muhafız Tapınağı kapısı
+
+fortress gate
+kale kapısı
+
+Sarcophagus under stone beams
+Taş kirişlerin altındaki lahit
+
+Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+Hayalet Mağarası; anında ölüm; Burada Yeniden doğmak için diriliş kristali kullanmayınız.
+
+prison gate
+hapishane kapısı
+
+Pentagram Altar
+Pentagram Sunağı
+
+East Gate of the Hospital
+Hastanenin Doğu Kapısı
+
+West Gate of the Hospital
+Hastanenin Batı Kapısı
+
+East gate of the school
+Okulun doğu kapısı
+
+West gate of the school
+Okulun batı kapısı
+
+doorway of the house
+evin kapısı
+
+Hotel entrance
+otel girişi
+
+store entrance
+mağaza girişi
+
+East Sealing Tower
+Doğu Mühür Kulesi
+
+West Sealing Tower
+Batı Mühür Kulesi
+
+stone pier
+taş iskele
+
+collapse channel
+Çökmüş kanal
+
+jungle road
+orman yolu
+
+Cathedral of Darkness
+Karanlığın Katedrali
+
+dark library
+karanlık kütüphane
+
+Dark Arsenal
+karanlık cephanelik
+
+dark monastery
+karanlık manastır
+
+gate of the monastery
+Manastır Geçidi
+
+Orc Cave
+Ork Mağarası
+
+Legacy Chamber of Secrets
+Eski Sırlar Odası
+
+red banner
+kırmızı bayrak
+
+blue banner
+mavi bayrak
+
+railing gap
+korkuluk boşluğu
+
+North Gate of Cabin No.1
+1 Nolu Kabinin Kuzey Kapısı
+
+South Gate of Cabin No.1
+1 Nolu Kabinin Güney Kapısı
+
+South Gate of Cabin No.2
+2 Nolu Kabinin Güney Kapısı
+
+North Gate of Cabin No.2
+2 Nolu Kabinin Kuzey Kapısı
+
+North Gate of Cabin No.3
+3 Nolu Kabinin Kuzey Kapısı
+
+South Gate of Cabin No.3
+3 Nolu Kabinin Güney Kapısı
+
+doorway of the cabin
+kabin kapısı
+
+mountains
+dağlar
+
+Willows Villa
+Söğütler Villası
+
+bright peak
+parlak tepe
+
+back to map 1
+harita 1'e geri dönüş
+
+inner hall
+iç salon
+
+Outer hall
+dış salon
+
+Northwest of Herbal Garden
+Bitki bahçesinin kuzeybatısı
+
+Northeast of Herbal  Garden
+Bitki bahçesinin kuzeydoğusu
+
+East of Herbal  Garden
+Bitki bahçesinin Doğusu
+
+central of Herbal  Garden
+Bitki bahçesinin merkezi
+
+West of Herbal  Garden
+Bitki bahçesinin batısı
+
+Southwest of Herbal   Garden
+Bitki bahçesinin güneybatısı
+
+South of Herbal  Garden
+Bitki bahçesinin güneyi
+
+Southeast of Herbal   Garden
+Bitki bahçesinin güney doğusu
+
+North of Herbal  Garden
+Bitki bahçesinin kuzeyi
+
+tree hole 1
+ağaç deliği 1
+
+tree hole 2
+ağaç deliği 2
+
+tree hole 3
+ağaç deliği 3
+
+tree hole 4
+ağaç deliği 4
+
+tree hole 5
+ağaç deliği 5
+
+tree hole 6
+ağaç deliği 6
+
+tree hole 7
+ağaç deliği 7
+
+tree hole 8
+ağaç deliği 8
+
+grass and insects
+çim ve böcekler
+
+church hall
+kilise salonu
+
+garden
+bahçe
+
+ancient building
+tarihi bina
+
+Ghost Canyon
+Hayalet Kanyonu
+
+cave
+mağara
+
+peach orchard Village
+şeftali bahçesi Köyü
+
+doorway of Grocery store
+Bakkalın giriş kapısı
+
+North of the Blackwater
+Kara su'nun Kuzeyi
+
+East of the Blackwater
+Kara su'nun Doğusu
+
+South of the Blackwater
+Kara su'nun Güneyi
+
+West of the Blackwater
+Kara su'nun Batısı
+
+north of the magma field
+magma alanının Kuzeyi
+
+east of the magma field
+Magma alanının Doğusu
+
+south of the magma field
+Magma alanının Güneyi
+
+west of the magma field
+Magma alanının Batısı
+
+Abyss Domain
+Uçurum Alanı
+
+Northwest of the Blackwater
+Kara su'nun Kuzey batısı
+
+Northeast of the Blackwater
+Kara su'nun Kuzey doğusu
+
+Southeast of the Blackwater
+Kara su'nun Güney doğusu
+
+Southwest of the Blackwater
+Kara su'nun Güney batısı
+
+Southwest of the magma field
+Magma alanının Güney batısı
+
+Southeast of the magma field
+Magma alanının Güney doğusu
+
+Northwest of the magma field
+magma alanının Kuzey batısı
+
+Northwest
+KuzeyBatı
+
+north
+kuzey
+
+northeast
+kuzeydoğu
+
+west
+batı
+
+Central
+Merkez
+
+east
+doğu
+
+Southwest
+güneybatı
+
+south
+güney
+
+Southeast
+Güneydoğu
+
+entrance to corpse cave
+entrance to corpse cave
+
+Bruder Cave
+Bruder Mağarası
+
+Mario Basin
+Mario Havzası
+
+cannibal cave
+yamyam mağarası
+
+central plains
+merkezi ovalar
+
+Fertile Wilds
+Bereketli Topraklar
+
+Entrance to Carter Plain
+Carter Ovası girişi
+
+Entrance to Fertile Wilds
+Bereketli topraklar girişi
+
+sailing port
+yelken limanı
+
+Entrance to Marion Sea
+Marion Denizi girişi
+
+center
+merkez
+
+Entrance to Carter tribe
+Carter kabilesi girişi
+
+abandoned factory
+terk edilmiş fabrika
+
+Entrance to Tuneful Wetland
+Tuneful Sulak Alanı Girişi
+
+upper stairs
+üst merdivenler
+
+second floor of the factory
+fabrikanın ikinci katı
+
+broken window
+kırık pencere
+
+lower stairs
+alt merdivenler
+
+top floor of the factory
+fabrikanın üst katı
+
+mysterious tomb
+gizemli mezar
+
+second floor underground
+Yeraltının ikinci katı
+
+upper floor of the tomb
+Mezarın üst katı
+
+third floor underground
+Yeraltının üçüncü katı
+
+Entrance to hilly terrain
+Engebeli arazi girişi
+
+Entrance to Flame Cave
+Alev Mağarası girişi
+
+entrance to volcanic cave
+volkanik mağara girişi
+
+finger Cave
+parmak Mağarası
+
+Reef Cave
+resif mağarası
+
+deep in the cave
+mağaranın derinlikleri
+
+sailing port
+yelken limanı
+
+reef cave
+resif mağarası
+
+entrance to secluded valley
+tenha vadi girişi
+
+Entrance to the cave
+mağara girişi
+
+upper exit
+üst çıkış
+
+Lower exit
+Alt çıkış
+
+old tree under mountain
+dağın altındaki eski ağaç
+
+entrance to black wasteland
+siyah çorak arazi girişi
+
+old house
+eski ev
+
+High climbing grassland
+Yüksek tepeli çayır
+
+Blood Wasteland
+Kanlı Çoraklık
+
+western gobi
+batı gobisi
+
+central desert
+Çöl merkezi
+
+Eastern desert
+Çölün doğusu
+
+Entrance to Mario Basin
+Mario Havzası girişi
+
+Underground Wormhole
+Yeraltı solucan deliği
+
+ice cave entrance
+buz mağarası girişi
+
+Earles Palace
+Earles Sarayı
+
+lower palace
+Sarayın aşağısı
+
+doorway of the palace
+sarayın kapısı
+
+rolling mountain cave
+yuvarlanan dağ mağarası
+
+upper palace
+üst saray
+
+Throne Gem
+Taht Mücevheri
+
+torche on the wall
+duvardaki meşale
+
+west gate of the fortress
+kalenin batı kapısı
+
+East Gate of the fortress
+Kalenin Doğu Kapısı
+
+North Gate of the fortress
+Kalenin Kuzey Kapısı
+
+South Gate of the fortress
+Kalenin Güney Kapısı
+
+go to the upper level
+üst seviyeye git
+
+return to lower level
+alt seviyeye geri dön
+
+Thunder Cave
+Gök Gürültüsü Mağarası
+
+upper entrance
+üst giriş
+
+Entrance to secluded valley
+Tenha vadiye giriş
+
+black wasteland
+siyah çorak arazi
+
+Chasing Star Pavilion
+Avcilik Yıldız Köşkü
+
+down stairs
+alt kat
+
+Temple Dungeon
+Tapınak Zindanı
+
+lower of the temple
+tapınağın alt kısmı
+
+up stairs
+üst kat
+
+mist gods Ruins
+Sis tanrıları Harabeleri
+
+Dream Barrier
+Rüya Bariyeri
+
+Dream Palace
+rüya sarayı
+
+Broken Idol
+kırık idol
+
+Control Monster C1 of 4
+Kontrol Canavarı C1/4
+
+Southwest turn; slope
+Güneybatı dönüşü; yamaç
+
+Northwest turn; slope
+Kuzeybatı dönüşü; yamaç
+
+Southeast turn; slope
+Güneydoğu dönüşü; yamaç
+
+Northeast turn; slope
+kuzeydoğu dönüşü; yamaç
+
+Dark Demon Tower
+Kara Şeytan Kulesi
+
+Wasteland
+Çorak
+
+Side wall
+yan duvar
+
+spectre wilderness
+hayalet vahşi doğa
+
+Sunset City
+gün batımı şehri
+
+Giant Rock City
+Dev Kaya Şehri
+
+mettle village
+cesur köyü
+
+starlight Village
+yıldız ışığı Köyü
+
+White Sand City
+Beyaz Kum Şehri
+
+Tulip City
+Lale Şehri
+
+Aria Village
+Arya Köyü
+
+Tucana Village
+tucana köyü
+
+Moon City
+Ay Şehri
+
+holy blood city
+kutsal kan şehri
+
+Gouging knife City
+Oyma bıçağı Şehiri
+
+East Lake Village
+Doğu Gölü Köyü
+
+Violet City
+Menekşe Şehiri
+
+dark night City
+karanlık gece şehri
+
+sunless camp
+güneşsiz kamp
+
+Soul Burial Village
+Ruh Mezarı Köyü
+
+Orchid woods Village
+Orkide ormanları Köyü
+
+Hermit Camp
+Münzevi Kampı
+
+Garlic Village
+Sarımsak Köyü

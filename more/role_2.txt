@@ -1,0 +1,5 @@
+Empty chest
+boş sandık
+
+ belongs to {s}
+ ait olduğu kişi $1

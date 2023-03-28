@@ -1,0 +1,110 @@
+You have no fish and shrimp to sell
+Satacak balığın veya karidesin yok
+
+You have no herbs to sell
+Satacak otunuz yok
+
+You have no ore to sell
+satacak cevherin yok
+
+lack of vitality
+canlılık eksik
+
+CD {d} sec remaining for pickup
+Yeniden almak için $1 saniye bekleme süresi
+
+Collect the wedding gift package and leave the hall
+Düğün hediye paketini alın ve salonu terk edin.
+
+Do you want to rename the character?
+Karakteri yeniden adlandırmak istiyor musunuz?
+
+{d} seconds; {s}
+$1 saniye; {sub2{$2}sub2}
+
+Please select the equipment to be repaired
+Lütfen tamir edilecek ekipmanı seçin
+
+Are you sure to learn to upgrade this skill?
+Bu beceriyi geliştirmeyi öğrenmek istediğinizden emin misiniz?
+
+You have learned {s} skill
+{sub2{$1}sub2} yeteneğini öğrendin
+
+learning
+öğreniliyor
+
+Cultivate talent points
+Yetenek puanları geliştirin
+
+Cultivate Talent Point; up to 60; Higher Talent Points can only be cultivated by interacting with the Guru Elders of Gangs.
+Yetenek Puanı Geliştirmek; 60'a kadar; Daha Yüksek Yetenek Puanları, yalnızca Çetelerin Guru Yaşlıları ile etkileşime girerek geliştirilebilir.
+
+Learn profession skills
+meslek becerisi öğren
+
+learn profession skills
+meslek becerisi öğren
+
+Learn Gang skills
+Çete becerisi öğren
+
+Forget profession skills
+Meslek becerilerini unut
+
+forget profession skills
+meslek becerilerini unut
+
+Learn Profession Skill
+Meslek Becerisi Öğren
+
+not enough proficiency to upgrade
+yükseltmek için yeterli deneyim yok
+
+Are you sure to learn this profession skill?
+Bu meslek becerisini öğrenmek istediğinize emin misiniz?
+
+No gang Skills to Learn
+Öğrenilecek Çete Becerisi Yok
+
+You already have {s} skill, cannot learn {s} skill
+Zaten {sub2{$1}sub2}'ye sahipsiniz, {sub2{$2}sub2}'yi öğrenemezsiniz
+
+Fishing; upgrade to {s}
+Balıkçılık; {sub2{$1}sub2} seviyesine yükselt
+
+Skinning; upgrade to {s}
+deri yüzme; {sub2{$1}sub2} seviyesine yükselt
+
+ Oldhand
+ Tecrübeli
+
+ Elite
+ seçkin
+
+ Expert
+ Uzman
+
+ Master
+ Usta
+
+ Grand Master
+ Büyük usta
+
+Profession Skill Introduction
+Meslek Beceri Tanıtımı
+
+Hey, warrior, want to cultivate and learn new skills?
+Hey, savaşçı, yeni beceriler geliştirmek ve öğrenmek ister misin?
+
+Learn Talent; After you've learned the talent, head to {s} to activate it.
+Yetenek Öğrenin; Yeteneği öğrendikten sonra, etkinleştirmek için {sub2{$1}sub2}'e gidin.
+
+team leader is not on the current map
+takım lideri mevcut haritada değil
+
+Language
+dil
+
+{s}: {s} {d}, {d} {d}:{d}; Real time: {s} {d}, {d}:{d}:{d}, {d}
+{sub2{$1}sub2}: $2 $3, $4 $5:$6; Gerçek zaman: $7 $8, $9:$10:$11, $12

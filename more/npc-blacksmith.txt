@@ -1,0 +1,29 @@
+Repair equipment
+Ekipman tamiri
+
+Craft Equipment
+Ekipman üretimi
+
+Breakdown Equipment
+Ekipman parçalama
+
+enhance equipment
+ekipman geliştirme
+
+smelt equipment
+Ekipman eritme
+
+elevate equipment; Exclusive operation for Great, Epic, Heavenly and Godbless equipment
+ekipman yükseltme; Harika, Destansı, Göksel ve Tanrısal  ekipmanlar için özel operasyon
+
+View instruction
+Talimatları görüntüle
+
+Enhance, Smelt and Elevate
+Geliştirme, Eritme ve Yükseltme
+
+1. Enhancing an equipment will increase its enhancement level. The higher the enhancement level, the higher the attributes. 
+1. Bir ekipmanı geliştirmek, geliştirme seviyesini artıracaktır. Geliştirme seviyesi ne kadar yüksek olursa, nitelikler de o kadar yüksek olur.
+
+10. Elevated equipments will keep the same sockets and gems.
+10. Yükseltilmiş ekipmanlar aynı delikleri ve taşları koruyacaktır.

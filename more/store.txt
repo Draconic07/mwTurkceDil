@@ -1,0 +1,441 @@
+you have {d} account diamonds;{d} character bound diamonds;Note: Account diamonds will be used when purchasing free-trading items, and character-bound diamonds will be used first when purchasing non-free-trading items, and account diamonds will be used when the number of bound diamonds is insufficient.
+$1 hesap elmasınız;$2 karaktere bağlı elmasınız var; Not: Serbest ticaret ürünleri satın alırken hesap elmasları, serbest ticaret dışı ürünler satın alırken ilk olarak karaktere bağlı elmaslar kullanılacak ve bağlı elmas sayısı yetersiz olduğunda hesap elmasları kullanılacaktır.
+
+you have {d} account diamonds;{d} character bound diamonds
+$1 hesap elmasınız;$2 karakter bağlı elmasınız var
+
+Note: The products in the value mall can only be purchased with account diamonds. The products that can be purchased at different character levels are different. You can visit the mall to check for new value products at any time. Maybe there are value products that can surprise you!
+Not: Değer Market'indeki ürünler sadece hesap elmasları ile satın alınabilir. Farklı karakter seviyelerinde satın alınabilen ürünler farklıdır. Yeni değerli ürünleri kontrol etmek için istediğiniz zaman alışveriş merkezini ziyaret edebilirsiniz. Belki sizi şaşırtabilecek değerli ürünler vardır!
+
+You have {d} account recharge points
+$1 hesap yükleme puanınız var
+
+Commonly used
+Genel olarak kullanılanlar
+
+teleportation items
+ışınlanma öğeleri
+
+Gem and enhance items
+mücevher ve geliştirme öğeleri
+
+Fusion Beasts
+Füzyon Canavarları
+
+pets
+Evcil Hayvanlar
+
+Lucky treasure and gifts
+Şanslı hazine ve hediyeler
+
+gang related
+çeteyle ilgili
+
+bound diamond items
+bağlı elmas öğeleri
+
+please choose
+lütfen seçin
+
+{s};unit price {d} {s};{s}
+{sub2{$1}sub2}; birim fiyatı: $2 {sub2{$3}sub2}; {sub2{$4}sub2}
+
+{s}; restricted of trading
+{sub2{$1}sub2}; satım kısıtlamalı
+
+diamonds
+elmas
+
+this is {s};Enter the {s};Enter the {s}
+bu {sub2{$1}sub2}; Giriş {sub2{$2}sub2}; Giriş {sub2{$3}sub2}
+
+this is {s}
+Bu {sub2{$1}sub2}
+
+Enter the Diamond Mall
+Elmas Mağazası'na girin
+
+Enter the value mall
+Değer mağazasına  girin
+
+Enter the Point Mall
+Puan Mağazası'na girin
+
+diamond mall
+elmas mağazası
+
+Diamond Mall
+Elmas Mağazası
+
+value mall
+değer mağazası
+
+Point Mall
+ppuan mağazası
+
+Points Mall
+Puan mağazası
+
+{d} points area
+$1 puan alanı
+
+Newcomer Super Package
+Yeni Gelen Süper Paketi
+
+Newcomer Value Product
+Yeni Gelen Değer Ürünü
+
+VIP And Income monthly card
+VIP ve aylık Gelir  kartı
+
+Butterfly Package
+Kelebek Paketi
+
+Giant Rock City Teleportation Package
+Dev kaya Şehri Işınlanma Paketi
+
+price {d} diamonds
+Fiyat: $1 elmas
+
+A gift package worthy of $30, only for newcomers before level 35, including 1 soul stone that can summon top cute baby frog pets, 1 million arnebia, 20,000 gold coins, 30 memory butterflies, and 2 Weapon Enhance Boost Runes, 2 Weapon Enhance Protection Runes, 20 Equipment Enhance Boost Runes, 20 Equipment Enhance Protection Runes, 10 Resurrection Crystals, 5 1.5x EXP acceleration Cards, 1 Player Rename Card and 2 Pet Rename Cards.
+Sadece 35. seviyeden önce alınabilir, yeni gelenler için 30 $ değerinde bir hediye paketi; Şunları içerir:  en sevimli yavru kurbağa evcil hayvanını çağırabilen 1 ruh taşı, 1 milyon arnebya, 20.000 altın, 30 hafıza kelebeği ve 2 Silah Geliştirme şans artırıcısı, 2 Silah Geliştirme Koruyucusu, 20 Ekipman Geliştirme Şans artırıcısı, 20 Ekipman Geliştirme Koruyucusu, 10 Diriliş Kristali, 5 1,5x Deneyim hızlandırma Kartı, 1 Oyuncu Yeniden Adlandırma Kartı ve 2 Evcil hayvan Yeniden Adlandırma Kartı.
+
+A Value Product worthy of $20, can only be purchased at level 30 to 40, and each person is limited to one purchase. After purchase, you can collect 120 bound diamonds and 20,000 arnebia from the Royal Bank of any city for 10 consecutive days.
+20 $ değerinde bir Değer Ürünü yalnızca 30 ila 40. seviyelerde satın alınabilir ve her kişi bir satın alma ile sınırlıdır. Satın aldıktan sonra, 10 gün boyunca herhangi bir şehrin Banka'sından 120 karaktere bağlı elmas ve 20.000 arnebia alabilirsiniz.
+
+After purchase, you can claim 60 bound Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+Satın aldıktan sonra, art arda 30 gün boyunca herhangi bir şehrin Kraliyet Bankasından Karaktere bağlı 60 Elmas ve 50000 Arnebia talep edebilirsiniz. Ek olarak, depolama alanınız 20 raf artar ve diğer oyunculara günde 3000 şişeye kadar iksir verebilir veya satabilirsiniz.
+
+20 memory butterflies
+20 hafıza kelebeği
+
+20 Giant Rock City Teleportation stones
+20 Dev kaya şehri Işınlanma taşı
+
+{s};price {d} diamonds;{s}
+{sub2{$1}sub2}; fiyat: $2 elmas; {sub2{$3}sub2}
+
+buy goods
+mal satın al
+
+sell goods
+mal sat
+
+the goods I'm selling now
+şu an sattığım ürünler
+
+trading description
+ticaret açıklaması
+
+{s}; Press to select category
+{sub2{$1}sub2}; Kategori seçmek için basın
+
+in chronological order; Selected
+kronolojik sıra Seçili
+
+in price order
+fiyat sırasına göre
+
+in price order; Selected
+fiyat sırasına göre; Seçili
+
+in chronological order
+kronolojik sıra
+
+all goods
+tüm mallar
+
+All goods
+tüm mallar
+
+weapons
+silahlar
+
+Weapons
+Silahlar
+
+helmets
+kasklar
+
+Helmets
+Kasklar
+
+hangings
+boyun ekipmanı
+
+Hangings
+boyun ekipmanı
+
+shawls
+omuz ekipmanı
+
+Shawls
+omuz ekipmanı
+
+armors
+gövde için ekipman
+
+Armors
+gövde için ekipman
+
+belts
+bel ekipmanı
+
+Belts
+bel ekipmanı
+
+shoes
+ayaklar için ekipman
+
+Shoes
+ayaklar için ekipman
+
+pant legs
+bacaklar için ekipman
+
+Leggings
+bacaklar için ekipman
+
+handwears
+Kollar ve eller için ekipmanlar
+
+Bracelets
+Kollar ve eller için ekipmanlar
+
+rings
+yüzükler
+
+Rings
+yüzükler
+
+other equipments
+Diğer ekipmanlar
+
+Other equipments
+Diğer ekipmanlar
+
+materials
+Malzemeler
+
+Materials
+Malzemeler
+
+collections
+koleksiyon ürünleri
+
+Collections
+koleksiyon ürünleri
+
+usable items
+kullanılabilir öğeler
+
+Usable goods
+kullanılabilir öğeler
+
+New; {d} {s};Unit price {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Yeni; $1 {sub2{$2}sub2}; Birim fiyatı: $3 altın; kalan görüntüleme süresi $4 dakika ve $5 saniye
+
+New; {d} {s};Unit price {d} gold coins;{d} seconds remaining in the display time
+Yeni; $1 {sub2{$2}sub2}; birim fiyatı: $3 altın; kalan görüntüleme süresi $4 saniye
+
+New; {s};{s} ;Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Yeni; {sub2{$1}sub2}; {sub2{$2}sub2}; Fiyat: $3 altın; kalan görüntüleme süresi $4 dakika ve $5 saniye
+
+New; {s};{s} ;Price: {d} gold coins;{d} seconds remaining in the display time
+Yeni; {sub2{$1}sub2}; {sub2{$2}sub2}; fiyat: $3 altın; kalan görüntüleme süresi $4 saniye
+
+{d} {s};Unit price {d} gold coins;Sale time {s}:{s}
+$1 {sub2{$2}sub2}; birim fiyatı: $3 altın; satışta: $4:$5
+
+ {s};{s} ;Price: {d} gold coins;Sale time {s}:{s}
+{sub2{$1}sub2}; {sub2{$2}sub2}; fiyat: $3 altın; satışta: $4:$5
+
+Purchase requires {d} gold coins, are you sure to buy?
+satın alma $1  altın ,gerektirir, ürünü gerçekten almak istiyor musunuz?
+
+Please enter the purchase quantity
+Lütfen satın alma miktarını girin
+
+New listing goods cannot be traded within one hour
+Yeni listelenen mallar bir saat içinde alınıp satılamaz
+
+Next page: {d}
+Sonraki Sayfa: $1
+
+Last page: {d}
+Son sayfa: $1
+
+Previous page: {d}
+Önceki sayfa:: $1
+
+page 1
+Sayfa 1
+
+items
+öğeler
+
+equipment
+ekipman
+
+on sale
+satılık
+
+Players above Level 15 can sell certain goods here, including items that are not trading-restricted or backpack-locked, as well as equipments that are not soul-bound or backpack-locked. No fees for listing goods for sale.
+Seviye 15'in üzerindeki oyuncular, burada takas kısıtlaması olmayan veya sırt çantasıyla kilitlenmeyen öğeler ile ruhu bağlı veya sırt çantasıyla kilitlenmeyen ekipmanlar da dahil olmak üzere belirli ürünleri satabilirler. Satılık malları listelemek için ücret alınmaz.
+
+When the goods are listed, there will be a one-hour display period. After the display period is over, the goods then can be traded, which means, any other player can purchase them through the marketplace.
+Mallar listelendiğinde, bir saatlik bir teşhir süresi olacaktır. Gösterim süresi sona erdikten sonra, mallar takas edilebilir, yani başka herhangi bir oyuncu onları pazardan satın alabilir.
+
+When the trade is completed, the marketplace will deduct a 5% commission from the gold coins paid by the buyer, and then send the remaining gold coins to the seller via private message. The seller can claim the gold coins from private messages.
+İşlem tamamlandığında pazaryeri alıcının ödediği altınlardan %5 komisyon kesecek ve kalan altınları özel mesaj ile satıcıya gönderecektir. Satıcı, özel mesajda görünecek seçenek aracılığıyla altınları talep edebilir.
+
+After being listed for 15 days, goods that are not traded will return to the seller's storage from the marketplace. If the Goods are listed for more than two hours, the seller can choose to retrieve them from sale.
+15 gün boyunca listelendikten sonra, ticareti yapılmayan mallar, pazar yerinden satıcının deposuna geri döner. Mallar iki saatten fazla listede kalırsa, satıcı bunları satıştan geri almayı seçebilir.
+
+back
+geri
+
+{s};Unit price {d} arnebia
+{sub2{$1}sub2}; Birim fiyatı: $2 arnebia
+
+Welcome to Shard  Market;View description
+Parça Market'ine hoş geldiniz;Açıklamayı görüntüle
+
+View description
+Açıklamayı görüntüle
+
+Welcome to Shard  Market
+Parça Market'ine hoş geldiniz
+
+Shard Trading
+Parça Ticareti
+
+1. Players can buy and sell Shards at market price in the Shard Market. The Market will deduct a 5% commission on the Arnebia that players obtain when selling the shards. 
+1. Oyuncular, Parça Pazarında piyasa fiyatından Parça alıp satabilirler. Pazar, oyuncuların parçaları satarken elde ettikleri Arnebia üzerinden %5 komisyon alacaktır.
+
+2. Shards are the material for making Enhance Crystals and Gems, the process of which can be done by interacting with the corresponding NPCs.
+2. Parçalar, İşlemleri ilgili NPC'lerle etkileşime girerek yapılabilen Geliştirme Kristalleri ve Cevherleri yapmak için kullanılan malzemelerdir.
+
+3. Shard prices will change according to the market. Shards that are in high demand will increase in price; shards that are in low demand will decrease in price.
+3. Parça fiyatları piyasaya göre değişecektir. Yüksek talep gören parçaların fiyatı artacak; Düşük talep gören parçaların fiyatı düşecektir.
+
+4. The displayed Shard price when trading may become invalid as market situation changes, resulting in a failed deal. When this happens, please refresh the price and start the trade again.
+4. Alım satım sırasında görüntülenen parça fiyatı, piyasa durumu değiştikçe geçersiz hale gelebilir ve bu da başarısız bir satın alım girişimine neden olabilir. Bu olduğunda, lütfen fiyatları yenileyin ve ticarete yeniden başlayın.
+
+buy
+satın al
+
+sell
+sat
+
+Please enter the purchase quantity, up to 2000
+Lütfen satın alma miktarını giriniz, 2000 adete kadar.
+
+Please enter the quantity to sell, up to 2000
+Lütfen satılacak miktarı giriniz, 2000 adete kadar.
+
+gang contributions
+çete katkı haracı
+
+Hello {s}, what would you like to sell?
+Selam $1, ne satmak istersin?
+
+unit {d}: {s};{d};{d}
+kayıt {$1}: {sub2{$2}sub2};{$3};{$4}
+
+Please select the coordinates to transfer to or select the memory unit to save the current coordinates
+Lütfen ışınlanılacak koordinatları  veya mevcut koordinatları kaydetmek için hafıza biriminin altındaki kayıt butonunu seçin
+
+Save the current coordinate to unit {d}
+Mevcut koordinatı birim $1'e kaydet
+
+unit {d}: none
+kayıt $1: boş
+
+{s}, welcome, you have {d} diamonds in the bank
+$1, hoşgeldin, bankada $2 elmasın var
+
+The current daily income of 10,000 diamonds is 1000 gold coins and 50000 arnebia;Press to view instructions
+10.000 elmasın günlük geliri 1000 altın ve 50000 arnebiadır;Talimatları görüntülemek için basın
+
+The Bank
+Banka
+
+1. Players can deposit Diamonds into their back accounts and collect daily deposit income. The more you deposit, the more you earn.
+1. Oyuncular, elmasları arka hesaplarına yatırabilir ve günlük para yatırma geliri toplayabilir. Ne kadar çok para yatırırsanız, o kadar çok kazanırsınız.
+
+2. The deposited Diamonds can be withdrawn at any time. When withdrawn, all of them will return to the player's account. 
+2. Yatırılan Elmaslar herhangi bir zamanda geri çekilebilir. Çekildiğinde tamamı oyuncunun hesabına geri döner.
+
+3. The daily deposit income is settled on the next day, which means the Diamonds deposited on the first day will only generate income on the second day. You can still collect  income of the previous day after withdrawing the Diamonds on the same day.
+3. Günlük depozito geliri ertesi gün kapatılır, bu da ilk gün yatırılan Elmasların yalnızca ikinci gün gelir getireceği anlamına gelir. Aynı gün Elmasları çektikten sonra da bir önceki günün gelirini toplayabilirsiniz.
+
+4. After purchasing the "Value Product" from the Value Mall, you can collect income from the bank every day.
+4. Value Mall'dan "Değerli Ürün" satın aldıktan sonra her gün bankadan gelir tahsil edebilirsiniz.
+
+5. Deposit income and the income for every Value Product can be received once a day. Incomes not claimed on the same day will not accumulate to the next day.
+5. Depozito geliri ve her Değer Ürün geliri günde bir kez alınabilir. Aynı gün talep edilmeyen gelirler bir sonraki güne kalmaz.
+
+Value Product
+Değer Ürünü
+
+deposit diamonds
+elmas yatır
+
+withdraw the diamonds
+elmas çek
+
+get deposit income
+mevduat geliri al
+
+VIP And Income monthly card;After purchase, you can claim 60 bound Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+VIP ve aylık gelir kartı; Satın aldıktan sonra, art arda 30 gün boyunca herhangi bir şehrin Kraliyet Bankasından Karaktere bağlı 60 Elmas ve 50000 Arnebia talep edebilirsiniz. Ek olarak, depolama alanınız 20 raf artar ve diğer oyunculara günde 3000 şişeye kadar iksir verebilir veya satabilirsiniz.
+
+Valid from {s} {d}, {d}; to ;{s} {d}, {d}
+{$1} {$2}, {$3} tarihinden; ;{$4} {$5}, {$6} tarihine kadar geçerlidir
+
+get income
+geliri al
+
+Repair equipment
+Ekipman tamiri
+
+Craft Equipment
+Ekipman üretimi
+
+Breakdown Equipment
+Ekipman parçalama
+
+enhance equipment
+ekipman geliştirme
+
+smelt equipment
+Ekipman eritme
+
+elevate equipment; Exclusive operation for Great, Epic, Heavenly and Godbless equipment
+ekipman yükseltme; Harika, Destansı, Göksel ve Tanrısal  ekipmanlar için özel operasyon
+
+View instruction
+Talimatları görüntüle
+
+Enhance, Smelt and Elevate
+Geliştirme, Eritme ve Yükseltme
+
+1. Enhancing an equipment will increase its enhancement level. The higher the enhancement level, the higher the attributes. 
+1. Bir ekipmanı geliştirmek, geliştirme seviyesini artıracaktır. Geliştirme seviyesi ne kadar yüksek olursa, nitelikler de o kadar yüksek olur.
+
+10. Elevated equipments will keep the same sockets and gems.
+10. Yükseltilmiş ekipmanlar aynı delikleri ve taşları koruyacaktır.
+
+Hello, , do you want to get back the things in the recycling system? Recycled things within 48 hours can be retrieved by paying double the recycling price.
+Merhaba , geri dönüşüm sistemine giren şeyleri geri almak ister misiniz? 48 saat içinde geri dönüştürülen şeyler, geri dönüşüm bedelinin iki katı ödenerek geri alınabilir.
+
+View recycled items
+Geri dönüştürülmüş öğeleri görüntüle
+
+View recycled equipments
+Geri dönüştürülmüş ekipmanları görüntüle
+
+View Recycled Fusion Beasts
+Geri Dönüştürülmüş Füzyon Canavarlarını Görüntüle
+

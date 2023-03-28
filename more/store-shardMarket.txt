@@ -1,0 +1,95 @@
+{s};Unit price {d} arnebia; {s}
+{sub2{$1}sub2};birim fiyatı $2 arnebya; {sub2{$3}sub2}
+
+can make Ruby that increase maximum HP
+maksimum sağlığı artıran Yakut yapılabilir
+
+can make Sapphire that increase maximum mana
+maksimum manayı artıran Safir yapılabilir
+
+can make Tiger Eye Stone that increase physical attack
+fiziksel saldırıyı artıran Kaplan Gözü yapılabilir
+
+can make Opal that increase magic attack
+Sihirsel saldırıyı artıran Opal yapılabilir
+
+can make Spinel that increase physical defense
+fiziksel savunmayı artıran Spinel yapılabilir
+
+can make Aquamarine that increase magic defense
+Sihirsel savunmayı artıran Akuamarin yapılabilir
+
+can make Garnet that increase hit chance
+isabet şansını artıran Garnet yapılabilir
+
+can make Blond Jade that increase dodge chance
+kaçınma şansını artıran Sarı Yeşim yapılabilir
+
+can make Grape Stone that increase defense break chance
+savunmayı kırma şansını artıran Üzüm Taşı yapılabilir
+
+can make Olivine that increase defense break damage
+savunma kırıldığında hasarı artıran Olivin yapılabilir
+
+can make Topaz that increase toughness
+Dayanıklılığı artıran Topaz yapılabilir
+
+can make Obsidian that increase critical hit chance
+kritik vuruş şansını artıran Obsidyen yapılabilir
+
+can make Sunlight Stone that increase critical hit damage
+kritik vurulduğunda hasarı artıran Güneş Taşı yapılabilir
+
+can make Moonstone that increase critical hit resistance
+kritik vuruşlara karşı  direnci artıran Aytaşı yapılabilir
+
+can make Turquoise that increase movement speed
+hareket hızını artıran Turkuaz yapılabilir
+
+{s};Unit price {d} arnebia
+{sub2{$1}sub2}; Birim fiyatı: $2 arnebia
+
+Welcome to Shard  Market;View description
+Parça Market'ine hoş geldiniz;Açıklamayı görüntüle
+
+View description
+Açıklamayı görüntüle
+
+Welcome to Shard  Market
+Parça Market'ine hoş geldiniz
+
+Shard Trading
+Parça Ticareti
+
+1. Players can buy and sell Shards at market price in the Shard Market. The Market will deduct a 5% commission on the Arnebia that players obtain when selling the shards. 
+1. Oyuncular, Parça Pazarında piyasa fiyatından Parça alıp satabilirler. Pazar, oyuncuların parçaları satarken elde ettikleri Arnebia üzerinden %5 komisyon alacaktır.
+
+2. Shards are the material for making Enhance Crystals and Gems, the process of which can be done by interacting with the corresponding NPCs.
+2. Parçalar, İşlemleri ilgili NPC'lerle etkileşime girerek yapılabilen Geliştirme Kristalleri ve Cevherleri yapmak için kullanılan malzemelerdir.
+
+3. Shard prices will change according to the market. Shards that are in high demand will increase in price; shards that are in low demand will decrease in price.
+3. Parça fiyatları piyasaya göre değişecektir. Yüksek talep gören parçaların fiyatı artacak; Düşük talep gören parçaların fiyatı düşecektir.
+
+4. The displayed Shard price when trading may become invalid as market situation changes, resulting in a failed deal. When this happens, please refresh the price and start the trade again.
+4. Alım satım sırasında görüntülenen parça fiyatı, piyasa durumu değiştikçe geçersiz hale gelebilir ve bu da başarısız bir satın alım girişimine neden olabilir. Bu olduğunda, lütfen fiyatları yenileyin ve ticarete yeniden başlayın.
+
+buy
+satın al
+
+sell
+sat
+
+Please enter the purchase quantity, up to 2000
+Lütfen satın alma miktarını giriniz, 2000 adete kadar.
+
+Please enter the quantity to sell, up to 2000
+Lütfen satılacak miktarı giriniz, 2000 adete kadar.
+
+{d} {s}; Unit price {d} arnebia
+$1 {sub2{$2}sub2}; birim fiyatı: $3 arnebia
+
+successfully Sold
+Satıldı
+
+successfully Purchased
+satın alındı

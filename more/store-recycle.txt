@@ -1,0 +1,11 @@
+Hello, , do you want to get back the things in the recycling system? Recycled things within 48 hours can be retrieved by paying double the recycling price.
+Merhaba , geri dönüşüm sistemine giren şeyleri geri almak ister misiniz? 48 saat içinde geri dönüştürülen şeyler, geri dönüşüm bedelinin iki katı ödenerek geri alınabilir.
+
+View recycled items
+Geri dönüştürülmüş öğeleri görüntüle
+
+View recycled equipments
+Geri dönüştürülmüş ekipmanları görüntüle
+
+View Recycled Fusion Beasts
+Geri Dönüştürülmüş Füzyon Canavarlarını Görüntüle

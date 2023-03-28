@@ -1,0 +1,30 @@
+item storage
+öğe deposu
+
+deposit item
+öğe depola
+
+equipment storage
+ekipman deposu
+
+deposit equipment
+ekipman depola
+
+fusion beast storage
+füzyon canavar deposu
+
+deposit fusion beast
+füzyon canavarı depola
+
+Welcome, the soul storage can only store soul-bound equipment, mall fusion beasts and special commemorative fusion beasts. All characters under the same account can use it after storage.
+Hoş geldiniz, ruh deposu yalnızca ruha bağlı ekipmanı, alışveriş merkezi füzyon canavarlarını ve özel hatıra füzyon canavarlarını saklayabilir. Depolamadan sonra aynı hesap altındaki tüm karakterler onu kullanabilir.
+
+take out
+al
+
+deposited
+koyuldu
+
+taken out
+alındı
+

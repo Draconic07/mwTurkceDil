@@ -1,0 +1,131 @@
+Behemoth Beast
+Dev Canavarı
+
+Behemoth Lord Beast
+dev Lord Canavarı
+
+Thunderbird
+yıldırım kuşu
+
+Thunderbird Lord
+Yıldırım kuşu Lordu
+
+Wind Spirit Guardian
+Rüzgar Ruhu Muhafızı
+
+Super Wind Spirit Guardian
+Süper Rüzgar Ruhu Muhafızı
+
+Phantom Wyvern
+Hayalet Ejder
+
+Bluish White Horse
+Mavimsi Beyaz At
+
+Bluish White Horse—Cloud
+Mavimsi Beyaz At—Bulut
+
+Nightmare Beast
+Kabus Canavarı
+
+Nightmare of Ice
+Buz Kabusu
+
+Nightmare of Fire
+Ateş Kabusu
+
+Nightmare of Blood
+Kan Kabusu
+
+Wind Chaser
+rüzgar avcısı
+
+Wind Chaser—Precipice
+Rüzgar Avcısı—Uçurum
+
+Wind Chaser—Shadow
+Rüzgar Avcısı—Gölge
+
+Wind Chaser—Mist
+Rüzgar Avcısı—Sis
+
+Small Wind Chaser
+Küçük Rüzgar Avcısı
+
+Fire-Capped Tit
+Ateş Başlıklı Baştankara
+
+Blue fire plume
+Mavi ateş tüyü
+
+Black fire plume
+Siyah ateş tüyü
+
+White fire plume
+Beyaz ateş tüyü
+
+Unicorn
+tek boynuzlu at
+
+Unicorn—Lightning
+Tek Boynuzlu At—Yıldırım
+
+Unicorn—Light Chaser
+Unicorn—Hafif Avcısı
+
+Unicorn Lord
+tek boynuzlu at efendisi
+
+Rock Spirit Beast Guardian
+Kaya Ruhu Canavar Muhafızı
+
+Ice Scale Leopard
+Buz Pulu Leoparı
+
+Ghost baby Guardian
+Hayalet bebek Muhafızı
+
+Shadow Wolf
+Gölge Kurt
+
+Angel Baby Guardian
+Melek Bebek Koruyucusu
+
+Iron Beetle
+Demir Böceği
+
+Firefly
+ateş böceği
+
+Werewolf
+kurt adam
+
+Sea Spirit Guardian
+Deniz Ruhu Muhafızı
+
+Minotaur
+Minotor
+
+Blood spirit guardian
+Kan ruhu koruyucusu
+
+Mammoth
+Mamut
+
+Flame Spirit Guardian
+Alev Ruhu Muhafızı
+
+Glacier Giant Bear
+Buzul Dev Ayısı
+
+Polar Ice Bear
+Kutup Buz Ayısı
+
+Frost Spirit Guardian
+Don Ruhu Muhafızı
+
+Radiation-proof armor
+Radyasyona dayanıklı zırh
+
+Bullfinch
+şakrak kuşu

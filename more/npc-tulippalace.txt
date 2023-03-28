@@ -1,0 +1,17 @@
+Exchange Contribution Chest
+Katkı Sandığı takası
+
+Each contribution chest requires 5000 contributions to exchange, and can be exchanged up to twice a day. Are you sure you want to exchange a chest with your contributions?
+Her katkı sandığı, takas için 5000 katkı gerektirir ve günde en fazla iki kez değiştirilebilir. Katkılarınızla bir sandık takas etmek istediğinizden emin misiniz?
+
+Confirm
+Onayla
+
+Cancel
+İptal et
+
+Insufficient contributions
+yetersiz katkı
+
+Enter the mist god Valley; Consume 1000 Morality; White name required; One hour between each entry; Please complete all mini-game challenges within 45 minutes
+Sis tanrısı Vadisi'ne girin; 1000 Ahlak Tüketir; Beyaz isim gerekli; Her giriş arasında bir saat; Lütfen tüm mini oyunları 45 dakika içinde tamamlayın

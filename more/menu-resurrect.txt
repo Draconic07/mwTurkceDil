@@ -1,0 +1,14 @@
+Please select your respawn method
+Lütfen yeniden doğma yönteminizi seçin
+
+Respawn On-Spot with Resurrection Crystal; Costs {d} Resurrection Crystals
+Bulunduğunuz yerde diriliş kristali ile doğun; $1 Diriliş kristali harcanacak.
+
+Map Respawn with Resurrection Crystal; Costs {d} Resurrection Crystals
+Haritada diriliş kristali ile doğun; $1 Diriliş kristali harcanacak
+
+Respawn On-Spot with Resurrection Crystal; Costs {d} Resurrection Crystals; You have used Resurrection Crystals {d} times in this map
+Bulunduğunuz yerde diriliş kristali ile doğun; $1 Diriliş kristali harcanacak. Bu haritada Diriliş kristalini $2 defa kullandınız
+
+Map Respawn with Resurrection Crystal; Costs {d} Resurrection Crystals; You have used Resurrection Crystals {d} times in this map
+Haritada diriliş kristali ile doğun; $1 Diriliş kristali harcanacak. Bu haritada Diriliş kristalini $2 defa kullandınız

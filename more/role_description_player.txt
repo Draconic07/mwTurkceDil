@@ -1,0 +1,918 @@
+male 
+erkek 
+
+female 
+kadın 
+
+; level {d}
+; seviye $1 
+
+; upgrading requires {d} experience
+; sonraki seviye için $1 deneyim gerekli 
+
+; Contribution {d}
+; Katkı $1 
+
+; battlefield merit points {d}
+; savaş alanı liyakat puanı $1 
+
+; {c} gang leader
+; $1 çete lideri 
+
+; {c} gang internal affairs elder
+; $1 çete iç işleri yöneticisi
+
+; {c} gang foreign affairs elder
+; $1 çete dışişleri yöneticisi
+
+; {c} gang development elder
+; $1 çete gelişim yöneticisi
+
+; {c} gang war elder
+; $1 çete savaş yöneticisi
+
+; {c} gang member
+; $1 çete üyesi
+
+; {c} team
+; $1 takım
+
+Outfit attack and defense value {d}
+Kıyafet saldırı ve savunma değeri $1
+
+; View details
+; Detayları göster
+
+no set bonus
+set bonusu yok
+
+{c} {c} Set of equipments
+{sub2{(1($1 $2 Set)1)}sub2} of equipments
+
+; increase {d}% attack damage
+; $1% atak hasar artışı
+
+; reduce {d}% damage taken during defense
+; Savunma sırasında alınan hasarı %$1 azaltır
+
+ holding {t}\>\|\|\<{n}
+ elinde tutulu {sub2{$1>||<$2}sub2}
+
+ wearing {t}\>\|\|\<{n} on the head
+ kafada {sub2{$1>||<$2}sub2}
+
+ wearing {t}\>\|\|\<{n} on the neck
+ boynunda {sub2{$1>||<$2}sub2}
+
+ wearing {t}\>\|\|\<{n} on the shoulders
+ omuzlarında {sub2{$1>||<$2}sub2}
+
+ wearing {t}\>\|\|\<{n} on the body
+ vücudunda {sub2{$1>||<$2}sub2}
+
+ hands wearing {t}\>\|\|\<{n}, {t}\>\|\|\<{n}, {t}\>\|\|\<{n}
+ ellerinde {sub2{$1>||<$2}sub2},{sub2{$3>||<$4}sub2},{sub2{$5>||<$6}sub2}
+
+ hands wearing {t}\>\|\|\<{n}, {t}\>\|\|\<{n}
+ ellerinde {sub2{$1>||<$2}sub2},{sub2{$3>||<$4}sub2}
+
+ hands wearing {t}\>\|\|\<{n}
+ ellerinde {sub2{$1>||<$2}sub2}
+
+ {t}\>\|\|\<{n} is wrapped around the waist
+ belinde {sub2{$1>||<$2}sub2} sarılı
+
+ wearing {t}\>\|\|\<{n} on the legs
+ bacaklarında {sub2{$1>||<$2}sub2}
+
+ wearing {t}\>\|\|\<{n} on the feet
+ ayaklarında {sub2{$1>||<$2}sub2}
+
+ carrying {m}
+ sırtında {sub2{$1}sub2}
+
+ wearing {n} on finger
+ parmaklarında {sub2{$1}sub2} takılı
+
+ with {n} on your clothes
+ {sub2{$1}sub2} kıyafetlerinde
+
+ with {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2}
+
+ with {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2}
+
+ with {n}, {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2}
+
+ with {n}, {n}, {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2}
+
+ with {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2}
+
+ with {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2}
+
+ with {n}, {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ kıyafetlerinde {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2},{sub2{$8}sub2}
+
+ with {n}
+ {sub2{$1}sub2} ile
+
+{n} on your clothes
+kıyafetlerinde {sub2{$1}sub2}
+
+ incarnate in the form of {n}
+  {sub2{$1}sub2} şeklinde vücut bulunuyor
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<;{c} 
+ekipman adı: {sub2{$1>||<$2>||<;>||<$3}sub2}
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<
+ekipman adı: {sub2{$1>||<$2}sub2}
+
+{t}\>\|\|\<{n}
+{sub2{$1>||<$2}sub2}
+
+state of the insert is:
+Eklenmiş:
+
+ no socketing
+ delik yok
+
+Crimson socket
+Kızıl delik
+
+increase maximum HP {d}
+maksimum sağlığı artır $1
+
+Dark Blue socket
+Koyu Mavi delik
+
+increase maximum mana {d}
+maksimum manayı artır $1
+
+Brown Yellow socket
+Kahverengi Sarı delik
+
+increase physical attack {d}
+fiziksel saldırıyı artırır $1
+
+Honey Yellow socket
+bal sarısı delik
+
+increase magic attack {d}
+büyü saldırısını artırır $1
+
+Pink socket
+pembe delik
+
+increase physical defense {d}
+fiziksel savunmayı artırır $1
+
+Blue socket
+mavi delik
+
+increase magic defense {d}
+büyü savunmasını artırır $1
+
+Dark Purple socket
+Koyu Mor delik
+
+increase hit chance {d}
+isabet şansını artırır $1
+
+Dark Yellow socket
+Koyu Sarı delik
+
+increase dodge chance {d}
+kaçınma şansını arttırır $1
+
+Blue purple socket
+mavi mor delik
+
+increase defense break chance {d}
+savunma kırma şansını artırır $1
+
+Dark green socket
+Koyu yeşil delik
+
+increase defense break damage {d}
+savunma kırılma hasarını artırır $1
+
+Golden yellow socket
+Altın sarısı delik
+
+increase toughness {d}
+tokluğu artırır $1
+
+Black socket
+siyah delik
+
+increase critical hit chance {d}
+kritik vuruş şansını artırır $1
+
+Orange socket
+Turuncu delik
+
+increase critical hit damage {d}
+kritik vuruş hasarını artırır $1
+
+White socket
+Beyaz delik
+
+increase critical hit resistance {d}
+kritik vuruş direncini artırır $1
+
+Emerald Green socket
+Zümrüt Yeşili delik
+
+increase movement speed {d}
+hareket hızını artırır $1
+
+Ordinary bronze Set
+Sıradan bronz Set
+
+Refined bronze Set
+Seçkin bronz Set
+
+Ordinary silk Set
+Sıradan ipek Set
+
+Refined silk Set
+Seçkin İpek Set
+
+Ordinary Sword of Fighter
+Sıradan Savaşçı Kılıcı
+
+Refined Sword of Fighter
+Seçkin Dövüşçü Kılıcı
+
+Ordinary machete of Berserker
+Berserker'ın sıradan palası
+
+Refined machete of Berserker
+Seçkin Vahşi'nin palası
+
+Ordinary Blade of Killer
+Ordinary Blade of Killer
+
+Refined Blade of Killer
+Seçkin Blade of Killer
+
+Ordinary Bow of chaser
+Ordinary Bow of chaser
+
+Refined Bow of chaser
+Seçkin Bow of chaser
+
+Ordinary Staff of Wisdom
+Ordinary Staff of Wisdom
+
+Refined Staff of Wisdom
+Refined Staff of Wisdom
+
+Ordinary Staff of Nature
+Ordinary Staff of Nature
+
+Refined Staff of Nature
+Refined Staff of Nature
+
+Ordinary Scepter of Mercy
+Ordinary Scepter of Mercy
+
+Refined Scepter of Mercy
+Refined Scepter of Mercy
+
+Ordinary Scepter of Bones
+Ordinary Scepter of Bones
+
+Refined Scepter of Bones
+Refined Scepter of Bones
+
+Ordinary fighter Set
+Ordinary fighter Set
+
+Refined fighter Set
+Refined fighter Set
+
+Ordinary Berserker Set
+Ordinary Berserker Set
+
+Refined Berserker Set
+Refined Berserker Set
+
+Ordinary killer Set
+Ordinary killer Set
+
+Refined killer Set
+Refined killer Set
+
+Ordinary chaser Set
+Ordinary chaser Set
+
+Refined chaser Set
+Refined chaser Set
+
+Ordinary Wisdom Set
+Ordinary Wisdom Set
+
+Refined Wisdom Set
+Refined Wisdom Set
+
+Ordinary colorful Set
+Ordinary colorful Set
+
+Refined colorful Set
+Refined colorful Set
+
+Ordinary charity Set
+Ordinary charity Set
+
+Refined charity Set
+Refined charity Set
+
+Ordinary Skull Set
+Ordinary Skull Set
+
+Refined Skull Set
+Refined Skull Set
+
+Ordinary Ocean Roaring
+Ordinary Ocean Roaring
+
+Refined Ocean Roaring
+Refined Ocean Roaring
+
+Ordinary Mountain Crushing
+Ordinary Mountain Crushing
+
+Refined Mountain Crushing
+Refined Mountain Crushing
+
+Ordinary Shadow Kissing
+Ordinary Shadow Kissing
+
+Refined Shadow Kissing
+Refined Shadow Kissing
+
+Ordinary Wind Dancing
+Ordinary Wind Dancing
+
+Refined Wind Dancing
+Refined Wind Dancing
+
+Ordinary Ice Sighing
+Ordinary Ice Sighing
+
+Refined Ice Sighing
+Refined Ice Sighing
+
+Ordinary Fire Enveloping
+Ordinary Fire Enveloping
+
+Refined Fire Enveloping
+Refined Fire Enveloping
+
+Ordinary Light Weaving
+Ordinary Light Weaving
+
+Refined Light Weaving
+Refined Light Weaving
+
+Ordinary Soul Sucking
+Ordinary Soul Sucking
+
+Refined Soul Sucking
+Refined Soul Sucking
+
+Ordinary Fencer Set
+Ordinary Fencer Set
+
+Refined Fencer Set
+Refined Fencer Set
+
+Ordinary Gladiator Set
+Ordinary Gladiator Set
+
+Refined Gladiator Set
+Refined Gladiator Set
+
+Ordinary Tearer Set
+Ordinary Tearer Set
+
+Refined Tearer Set
+Refined Tearer Set
+
+Ordinary Windrunner Set
+Ordinary Windrunner Set
+
+Refined Windrunner Set
+Refined Windrunner Set
+
+Ordinary Freezing Set
+Ordinary Freezing Set
+
+Refined Freezing Set
+Refined Freezing Set
+
+Ordinary Flaming Set
+Ordinary Flaming Set
+
+Refined Flaming Set
+Refined Flaming Set
+
+Ordinary Radiant Set
+Ordinary Radiant Set
+
+Refined Radiant Set
+Refined Radiant Set
+
+Ordinary Ghost Set
+Ordinary Ghost Set
+
+Refined Ghost Set
+Refined Ghost Set
+
+Ordinary Solemn Oath
+Ordinary Solemn Oath
+
+Refined Solemn Oath
+Refined Solemn Oath
+
+Ordinary Savage invader
+Ordinary Savage invader
+
+Refined Savage invader
+Refined Savage invader
+
+Ordinary Grief Bringer
+Ordinary Grief Bringer
+
+Refined Grief Bringer
+Refined Grief Bringer
+
+Ordinary Mutant Slayer
+Ordinary Mutant Slayer
+
+Refined Mutant Slayer
+Refined Mutant Slayer
+
+Ordinary Frost Sorrow
+Ordinary Frost Sorrow
+
+Refined Frost Sorrow
+Refined Frost Sorrow
+
+Ordinary Scorching Torch
+Ordinary Scorching Torch
+
+Refined Scorching Torch
+Refined Scorching Torch
+
+Ordinary Praying seraph
+Ordinary Praying seraph
+
+Refined Praying seraph
+Refined Praying seraph
+
+Ordinary Griffin Claw
+Ordinary Griffin Claw
+
+Refined Griffin Claw
+Refined Griffin Claw
+
+Ordinary Honor Set
+Ordinary Honor Set
+
+Refined Honor Set
+Refined Honor Set
+
+Ordinary Barbarian Set
+Ordinary Barbarian Set
+
+Refined Barbarian Set
+Refined Barbarian Set
+
+Ordinary ascetic Set
+Ordinary ascetic Set
+
+Refined ascetic Set
+Refined ascetic Set
+
+Ordinary Raider Set
+Ordinary Raider Set
+
+Refined Raider Set
+Refined Raider Set
+
+Ordinary Frost Set
+Ordinary Frost Set
+
+Refined Frost Set
+Refined Frost Set
+
+Ordinary wildfire Set
+Ordinary wildfire Set
+
+Refined wildfire Set
+Refined wildfire Set
+
+Ordinary angel Set
+Ordinary angel Set
+
+Refined angel Set
+Refined angel Set
+
+Ordinary Lich Set
+Ordinary Lich Set
+
+Refined Lich Set
+Refined Lich Set
+
+Ordinary Ribcracker
+Ordinary Ribcracker
+
+Refined Ribcracker
+Refined Ribcracker
+
+Ordinary Tornado Scourge
+Ordinary Tornado Scourge
+
+Refined Tornado Scourge
+Refined Tornado Scourge
+
+Ordinary Invisible Claw
+Ordinary Invisible Claw
+
+Refined Invisible Claw
+Refined Invisible Claw
+
+Ordinary Heart Hitter
+Ordinary Heart Hitter
+
+Refined Heart Hitter
+Refined Heart Hitter
+
+Ordinary Pelting Hail
+Ordinary Pelting Hail
+
+Refined Pelting Hail
+Refined Pelting Hail
+
+Ordinary Thousands Blast
+Ordinary Thousands Blast
+
+Refined Thousands Blast
+Refined Thousands Blast
+
+Ordinary Inspire Scepter
+Ordinary Inspire Scepter
+
+Refined Inspire Scepter
+Refined Inspire Scepter
+
+Ordinary Terror Scepter
+Ordinary Terror Scepter
+
+Refined Terror Scepter
+Refined Terror Scepter
+
+Ordinary Champion Set
+Ordinary Champion Set
+
+Refined Champion Set
+Refined Champion Set
+
+Ordinary Rampage Set
+Ordinary Rampage Set
+
+Refined Rampage Set
+Refined Rampage Set
+
+Ordinary Stealth Set
+Ordinary Stealth Set
+
+Refined Stealth Set
+Refined Stealth Set
+
+Ordinary sniper Set
+Ordinary sniper Set
+
+Refined sniper Set
+Refined sniper Set
+
+Ordinary Blizzard Set
+Ordinary Blizzard Set
+
+Refined Blizzard Set
+Refined Blizzard Set
+
+Ordinary Firestorm Set
+Ordinary Firestorm Set
+
+Refined Firestorm Set
+Refined Firestorm Set
+
+Ordinary Sermon Set
+Ordinary Sermon Set
+
+Refined Sermon Set
+Refined Sermon Set
+
+Ordinary Horror Set
+Ordinary Horror Set
+
+Refined Horror Set
+Refined Horror Set
+
+Ordinary Royal Victory
+Ordinary Royal Victory
+
+Refined Royal Victory
+Refined Royal Victory
+
+Ordinary Lethal Warhammer
+Ordinary Lethal Warhammer
+
+Refined Lethal Warhammer
+Refined Lethal Warhammer
+
+Ordinary Bloodletting razor	
+Ordinary Bloodletting razor	
+
+Refined Bloodletting razor	
+Refined Bloodletting razor	
+
+Ordinary Hydra crossbow
+Ordinary Hydra crossbow
+
+Refined Hydra crossbow
+Refined Hydra crossbow
+
+Ordinary Sealing Moon
+Ordinary Sealing Moon
+
+Refined Sealing Moon
+Refined Sealing Moon
+
+Ordinary eruption Magma
+Ordinary eruption Magma
+
+Refined eruption Magma
+Refined eruption Magma
+
+Ordinary Pure Wisdom
+Ordinary Pure Wisdom
+
+Refined Pure Wisdom
+Refined Pure Wisdom
+
+Ordinary mummy Curse
+Ordinary mummy Curse
+
+Refined mummy Curse
+Refined mummy Curse
+
+Ordinary hero Set
+Ordinary hero Set
+
+Refined hero Set
+Refined hero Set
+
+Ordinary Sentinel Set
+Ordinary Sentinel Set
+
+Refined Sentinel Set
+Refined Sentinel Set
+
+Ordinary Executioner Set
+Ordinary Executioner Set
+
+Refined Executioner Set
+Refined Executioner Set
+
+Ordinary Penetrator Set
+Ordinary Penetrator Set
+
+Refined Penetrator Set
+Refined Penetrator Set
+
+Ordinary Glacier Set
+Ordinary Glacier Set
+
+Refined Glacier Set
+Refined Glacier Set
+
+Ordinary Volcano Set
+Ordinary Volcano Set
+
+Refined Volcano Set
+Refined Volcano Set
+
+Ordinary Saint Set
+Ordinary Saint Set
+
+Refined Saint Set
+Refined Saint Set
+
+Ordinary Toxin Set
+Ordinary Toxin Set
+
+Refined Toxin Set
+Refined Toxin Set
+
+Ordinary Broken Sky
+Ordinary Broken Sky
+
+Refined Broken Sky
+Refined Broken Sky
+
+Ordinary Lost Eternity
+Ordinary Lost Eternity
+
+Refined Lost Eternity
+Refined Lost Eternity
+
+Ordinary Dragon Scale
+Ordinary Dragon Scale
+
+Refined Dragon Scale
+Refined Dragon Scale
+
+Ordinary Star Fury
+Ordinary Star Fury
+
+Refined Star Fury
+Refined Star Fury
+
+Ordinary Desolate Snow
+Ordinary Desolate Snow
+
+Refined Desolate Snow
+Refined Desolate Snow
+
+Ordinary Black Smoke
+Ordinary Black Smoke
+
+Refined Black Smoke
+Refined Black Smoke
+
+Ordinary Redemption finger
+Ordinary Redemption finger
+
+Refined Redemption finger
+Refined Redemption finger
+
+Ordinary Demon Spine
+Ordinary Demon Spine
+
+Refined Demon Spine
+Refined Demon Spine
+
+Ordinary Pioneer Set
+Ordinary Pioneer Set
+
+Refined Pioneer Set
+Refined Pioneer Set
+
+Ordinary Giant Set
+Ordinary Giant Set
+
+Refined Giant Set
+Refined Giant Set
+
+Ordinary Reaper Set
+Ordinary Reaper Set
+
+Refined Reaper Set
+Refined Reaper Set
+
+Ordinary Destroyer Set
+Ordinary Destroyer Set
+
+Refined Destroyer Set
+Refined Destroyer Set
+
+Ordinary Winter Set
+Ordinary Winter Set
+
+Refined Winter Set
+Refined Winter Set
+
+Ordinary Inferno Set
+Ordinary Inferno Set
+
+Refined Inferno Set
+Refined Inferno Set
+
+Ordinary Revival Set
+Ordinary Revival Set
+
+Refined Revival Set
+Refined Revival Set
+
+Ordinary Undead Set
+Ordinary Undead Set
+
+Refined Undead Set
+Refined Undead Set
+
+Ordinary Evil Purger
+Ordinary Evil Purger
+
+Refined Evil Purger
+Refined Evil Purger
+
+Ordinary Thor Hammer
+Ordinary Thor Hammer
+
+Refined Thor Hammer
+Refined Thor Hammer
+
+Ordinary Revenge Tooth
+Ordinary Revenge Tooth
+
+Refined Revenge Tooth
+Refined Revenge Tooth
+
+Ordinary Phoenix Longbow
+Ordinary Phoenix Longbow
+
+Refined Phoenix Longbow
+Refined Phoenix Longbow
+
+Ordinary Poseidon Trident
+Ordinary Poseidon Trident
+
+Refined Poseidon Trident
+Refined Poseidon Trident
+
+Ordinary Burning Corona
+Ordinary Burning Corona
+
+Refined Burning Corona
+Refined Burning Corona
+
+Ordinary Salvation Cross
+Ordinary Salvation Cross
+
+Refined Salvation Cross
+Refined Salvation Cross
+
+Ordinary Death Scythe
+Ordinary Death Scythe
+
+Refined Death Scythe
+Refined Death Scythe
+
+Ordinary Saviour Set
+Ordinary Saviour Set
+
+Refined Saviour Set
+Refined Saviour Set
+
+Ordinary Patronus Set
+Ordinary Patronus Set
+
+Refined Patronus Set
+Refined Patronus Set
+
+Ordinary Slaughterer Set
+Ordinary Slaughterer Set
+
+Refined Slaughterer Set
+Refined Slaughterer Set
+
+Ordinary Dominator Set
+Ordinary Dominator Set
+
+Refined Dominator Set
+Refined Dominator Set
+
+Ordinary Tsunami Set
+Ordinary Tsunami Set
+
+Refined Tsunami Set
+Refined Tsunami Set
+
+Ordinary Sunfire Set
+Ordinary Sunfire Set
+
+Refined Sunfire Set
+Refined Sunfire Set
+
+Ordinary Celestial Set
+Ordinary Celestial Set
+
+Refined Celestial Set
+Refined Celestial Set
+
+Ordinary Sacrifice Set
+Ordinary Sacrifice Set
+
+Refined Sacrifice Set
+Refined Sacrifice Set
+ 

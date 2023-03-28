@@ -1,0 +1,74 @@
+Get Rebirth
+Yeniden doğuş al
+
+Pet Rebirth Instruction
+Evcil Hayvan yeniden doğuş talimatları
+
+Change the character of blessed pet; Fee 50 diamonds
+Kutsanmış evcil hayvanın karakterini değiştirin; ücret 50 elmas
+
+Change blessed pet; Fee 500 diamonds
+Kutsanmış evcil hayvanı değiştirin; ücret 500 elmas
+
+Pet Rebirth
+Evcil Hayvanın Yeniden Doğuşu
+
+1. Pet Rebirth can regenerate the five pet assets: Strength, Physique, Spirit, Resolve, Agility. You can stop the process when your pet has good assets.
+1. Evcil Hayvanın Yeniden Doğuşu, beş evcil hayvan varlığını yenileyebilir: Güç, Fizik, Ruh, Kararlılık, Çeviklik. Evcil hayvanınızın iyi varlıkları olduğunda işlemi durdurabilirsiniz.
+
+2. The functions of the five pet assets are:
+2. Beş evcil hayvan varlığının işlevleri şunlardır:
+
+Strength increases attack and defense break chance
+Güç, saldırı ve savunma kırma şansını artırır
+
+Physique increases hit chance and critical damage
+Fizik, vuruş şansını ve kritik hasarı artırır
+
+Spirit increases critical hit chance and defense break damage
+Ruh, kritik vuruş şansını ve savunma kırılma hasarını artırır
+
+Resolve increases toughness and critical hit resistance
+Kararlılık, dayanıklılık ve kritik vuruş direncini artırır
+
+Agility increases dodge chance and defense
+Çeviklik, saldırılardan kaçınma şansını ve savunmayı artırır
+
+3. In addition, the pet's overall assets grant damage bonus and damage resistance, the higher the assets, the better the effect.
+3. Ek olarak, evcil hayvanın genel varlıkları, hasar bonusu ve hasar direnci sağlar, varlıklar ne kadar yüksek olursa, etki o kadar iyi olur.
+
+4.Every player has two free Pet Rebirths per day, and any additional attempts will require a certain number of diamonds.
+4.Her oyuncunun günde iki ücretsiz Evcil Hayvan Yeniden Doğuş hakkı vardır ve herhangi bir ek deneme için belirli sayıda elmas gerekir.
+
+5. When undergoing Pet Rebirth, the pet will add 1{s}2 Rebirth Points, which will be accumulated in a weak. At 24:00 every Sunday, half of the Rebirth Points will be merged into the pet's Foundation, and the rest will be cleared.
+5. Evcil Hayvan her Yeniden Doğuş geçirirken, 1 ila 2 Yeniden Doğuş Puanı eklenecektir. Her Pazar saat 24:00'te, Yeniden Doğuş Puanlarının yarısı evcil hayvanın Temelinde birleştirilecek ve geri kalanı temizlenecektir.
+
+6. The sum of Foundation and Rebirth Points is the pet's Breakthrough Index. After the Breakthrough Index is increased, the pet has a chance to mutate into a Mutant Pet when undergoing Pet Rebirth, and will have higher assets. The higher the Breakthrough Index, the greater the chance of pet mutation when undergoing Pet Rebirth. When the Breakthrough Index reaches maximum level, pet mutation has a 100% chance to happen.
+6. Temel ve Yeniden Doğuş Puanlarının toplamı, evcil hayvanın Atılım Endeksidir. atılım İndeksi artırıldıktan sonra, evcil hayvanın, Evcil Hayvan Yeniden Doğuşu sırasında bir Mutasyon geçirme şansı olur ve daha yüksek varlıklara sahip olur. Atılım İndeksi ne kadar yüksekse, Evcil Hayvan Yeniden Doğuşu geçirirken evcil hayvan mutasyonu olasılığı o kadar yüksektir. Atılım Endeks maksimum seviyeye ulaştığında, evcil hayvan mutasyonunun gerçekleşme şansı %100'dür.
+
+7. When the pet mutates, its Foundation and Rebirth Points will be reset.
+7. Evcil hayvan mutasyona uğradığında Temel ve Yeniden Doğuş Puanları sıfırlanır.
+
+8. There are five levels of pet mutations: primary mutation, intermediate mutation, advanced mutation, super mutation and perfect mutation. The higher the mutation level, the smaller the chance of another mutation.
+8. Evcil hayvan mutasyonlarının beş seviyesi vardır: birincil mutasyon, ara mutasyon, ileri mutasyon, süper mutasyon ve mükemmel mutasyon. Mutasyon seviyesi ne kadar yüksek olursa, başka bir mutasyonun şansı o kadar az olur.
+
+Please choose a pet
+Lütfen bir evcil hayvan seçin
+
+Pet name: {s} 
+Evcil Hayvan {sub2{$1}sub2}
+
+{s};assets range {d} to {d}
+{sub2{$1}sub2}varlıklar $2 ila $3 arası
+
+Breakthrough Index {d};include Foundation {d};this week's Rebirth Points {d}
+Atılım Endeksi $1;Temel $2;bu haftanın Yeniden Doğuş puanları $3
+
+maximum Index {d};Note: The higher the Breakthrough Index, the greater the chance of pet mutation when undergoing Pet Rebirth. When the Breakthrough Index reaches maximum level, pet mutation has a 100% chance to happen.
+maksimum İndeks $1;Not: atılım İndeksi ne kadar yüksekse, Evcil Hayvan Yeniden Doğuşu geçirirken evcil hayvan mutasyonu olasılığı o kadar yüksektir. Atılım Endeks maksimum seviyeye ulaştığında, evcil hayvan mutasyonunun gerçekleşme şansı %100'dür.
+
+Press to  rebirth, fee {d} diamonds
+Yeniden doğuş için basın, $1 elmas ödemek gerektirir
+
+Current assets {d}; mean value {d}, specifically are: Strength {d}, Physique {d}, Spirit {d}, Resolve {d}, Agility {d}, 
+Şuanki varlık toplamı $1; ortalama değer $2, varlıklar şunlardır: Güç $3, Fizik $4, Ruh $5, Kararlılık $6, Çeviklik $7,

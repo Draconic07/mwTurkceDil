@@ -1,0 +1,1268 @@
+yyyy年MM月dd日; HH点mm分ss秒
+MMM dd, HH:mm:ss, yyyy
+
+减小背景音乐音量
+Arka plan müzik seviyesi azaltıldı
+
+最小背景音乐音量
+En düşük arka plan müzik seviyesi
+
+增加背景音乐音量
+Arka plan müzik seviyesi artırıldı
+
+最大背景音乐音量
+En yüksek arka plan müzik seviyesi
+
+减小游戏音量
+Oyun ses seviyesi azaltıldı
+
+最小游戏音量
+En düşük oyun ses seviyesi
+
+增加游戏音量
+Oyun ses seviyesi artırıldı
+
+最大游戏音量
+En yüksek oyun seviyesi
+
+登录
+Giriş yap
+
+注册
+Hesap oluştur
+
+修改和找回密码
+Şifreyi değiştir ve al
+
+修改密码
+Şifreyi değiştir
+
+找回密码
+Şifreyi al
+
+退出游戏
+Çıkış
+
+拷贝
+Kopyalandı
+
+添加
+Eklendi
+
+开启切换实时导航
+Gerçek zamanlı Navigasyon etkin
+
+关闭切换实时导航
+Gerçek zamanlı Navigasyon devredışı
+
+第一页
+İlk sayfa
+
+第二页
+ikinci sayfa
+
+手机号或邮箱地址
+e-posta adresi
+
+密码
+şifre
+
+记住密码(&R)
+şifreyi hatırla (&R)
+
+自动登录(&A)
+Otomatik giriş (&A)
+
+确定(&o)
+Tamam (&o)
+
+取消(&c)
+iptal (&c)
+
+请输入帐号！
+lütfen hesabınızı giriniz!
+
+帐号格式不正确！
+Hesap formatı yanlış!
+
+请输入密码！
+Lütfen şifrenizi giriniz!
+
+密码长度有误！
+Geçersiz şifre uzunluğu!
+
+密码格式不正确！
+Şifre formatı yanlış!
+
+连接出错;退出游戏
+Bağlantı hatası; oyundan çıkılıyor
+
+发送验证码(&S)
+Doğrulama kodu Gönder (&S)
+
+请填写收到的验证码
+Lütfen alınan doğrulama kodunu giriniz
+
+下一步(&N)
+Sonraki (&N)
+
+返回(&b)
+geri (&b)
+
+请填写手机号或邮箱地址！
+Lütfen e-posta adresinizi giriniz!
+
+手机号或邮箱地址格式不正确！
+E-posta adresi formatı yanlış!
+
+重新发送验证码
+Doğrulama kodunu tekrar gönder
+
+请填写帐号！
+Lütfen hesabınızı giriniz!
+
+请先发送验证码！
+Lütfen önce doğrulama kodunu gönderin!
+
+请填写验证码！
+Lütfen doğrulama kodunu giriniz!
+
+验证码格式不正确！
+Doğrulama kodu formatı yanlış!
+
+注册成功
+hesap oluşturuldu!
+
+恭喜您，注册成功！
+Tebrikler, kaydınız başarılı!
+
+请输入密码（6-16个字符）
+Lütfen bir şifre girin (En az 6 -  En fazla 16 karakter )
+
+确认密码
+Şifreyi Onayla
+
+注册(&R)
+kayıt ol (&R)
+
+请填写密码！
+lütfen bir şifre girin!
+
+密码长度必须是6到16个字符！
+Şifre uzunluğu 6 ile 16 karakter arasında olmalıdır!
+
+请填写确认密码！
+Lütfen onay şifresini giriniz!
+
+密码和确认密码必须相同！
+şifre ve onay şifresi aynı olmalıdır!
+
+该帐号已注册过了！
+Bu hesap zaten kayıtlı!
+
+验证码错误！
+Doğrulama kodu hatası!
+
+禁止注册！
+Yasaklı kayıt!
+
+验证码超时！
+Doğrulama kodu zaman aşımına uğradı!
+
+非法操作！
+Yasadışı operasyon!
+
+IP注册太频繁了！
+IP kaydı çok fazla!
+
+服务器错误！
+Sunucu hatası!
+
+删除角色
+karakteri sil
+
+发送邮箱验证码(&S)
+E-posta Doğrulama Kodu Gönder (&S)
+
+发送手机验证码(&S)
+Mobil Doğrulama Kodu Gönder (&S)
+
+邮箱验证码
+E-posta doğrulama kodu
+
+手机验证码
+Mobil doğrulama kodu
+
+删除(&N)
+Sil (&N)
+
+重新发送邮箱验证码
+E-posta Doğrulama Kodunu Tekrar Gönder
+
+重新发送手机验证码
+Mobil doğrulama kodunu tekrar gönder
+
+请先发送邮箱验证码！
+Lütfen önce e-posta doğrulama kodunu gönderin!
+
+请先发送手机验证码！
+Lütfen önce mobil doğrulama kodunu gönderin!
+
+请填写邮箱验证码！
+Lütfen e-posta doğrulama kodunu giriniz!
+
+请填写手机验证码！
+Lütfen mobil doğrulama kodunu giriniz!
+
+验证码已失效！
+Doğrulama kodunun süresi doldu!
+
+角色删除成功
+karakter başarıyla silindi
+
+帐号
+Hesap
+
+旧密码
+eski Şifre
+
+填写验证码
+Doğrulama kodunu giriniz
+
+请填写收到的验证码！
+Lütfen alınan doğrulama kodunu giriniz!
+
+密码修改成功
+Şifre sıfırlama işlemi tamamlandı
+
+恭喜，新的密码已生效！
+Tebrikler, yeni şifre artık geçerli!
+
+填写新密码
+yeni bir şifre giriniz
+
+请输入新密码（6-16个字符）
+Lütfen yeni bir şifre giriniz (en az 6 - en fazla 16 karakter)
+
+确认新密码
+yeni şifreyi onayla
+
+确定(&R)
+Tamam (&R)
+
+帐号不存在！
+hesap mevcut değil!
+
+密码错误！
+şifre yanlış!
+
+您刚找回过密码，请不要在短时间内多次找回！
+Şifrenizi yeni aldınız, lütfen kısa bir süre içinde birden fazla şifre almayın!
+
+修改绑定邮箱/手机
+Bağlı e-postayı değiştir
+
+填写原邮箱收到的验证码
+Orijinal e-posta tarafından alınan doğrulama kodunu girin
+
+填写原手机收到的验证码
+Orijinal numara tarafından alınan doğrulama kodunu girin
+
+验证绑定新帐号
+Yeni hesabı doğrulayın ve bağlayın
+
+新手机号或邮箱地址
+Yeni e posta adresi
+
+系统错误！
+Sistem hatası!
+
+请输入数量！
+Lütfen miktarı giriniz!
+
+请正确输入数量！
+Lütfen miktarı doğru giriniz!
+
+短语不能为空！
+İfade boş olamaz!
+
+不能含有非法字符！
+Geçersiz karakterler içeremez!
+
+频道聊天
+Sohbet kanalı
+
+消息
+Geçmiş
+
+输入
+Metin alanı
+
+频道
+ 
+
+发送(&S)
+gönder (&S)
+
+发送消息后关闭聊天窗口(&X)
+Mesajı gönderdikten sonra sohbet penceresini kapatın (&X)
+
+显示
+göster
+
+所有消息
+Tüm mesajlar
+
+系统消息和广播
+Sistem mesajları ve yayınları
+
+系统广播
+yayınlar
+
+消息过长！
+Mesaj çok uzun!
+
+好友聊天
+özel sohbet
+
+对象(&O)
+nesne (&O)
+
+查看信息(&I)
+Bilgileri Görüntüle (&I)
+
+会话记录(&L)
+oturum kaydı (&L)
+
+选择(&C)
+seç (&C)
+
+删除(&D)
+sil (&D)
+
+加入黑名单(&J)
+Karalisteye ekle (&J)
+
+黑名单
+kara liste
+
+移出黑名单(&R)
+Kara listeden kaldır (&R)
+
+请填写玩家ID或在会话记录选择发送对象
+Lütfen oyuncu kimliğini girin veya oturum kaydındaki nesneyi seçin
+
+物品
+öğeler
+
+装备
+ekipmanlar
+
+融合兽
+füzyon canavarları
+
+宠物
+Evcil Hayvanlar
+
+战斗技能
+savaş becerileri
+
+天赋技能
+Yetenek becerileri
+
+生活技能
+meslek becerileri
+
+所有物品
+Tüm öğeler
+
+日常物品
+Genel kullanılanlar
+
+药品和食物
+İksir ve Yiyecekler
+
+采集物品
+koleksiyonlar
+
+材料物品
+malzemeler
+
+宝石和强化物品
+Mücevherler ve geliştirme öğeleri
+
+已选中
+seçildi
+
+未选中
+seçilmedi
+
+确定
+Onayla
+
+取消
+iptal
+
+已屏蔽
+engellendi
+
+已解除
+kilitsiz
+
+设置菜单
+ayar menüsü
+
+朗读切换目标序号
+Hedefin kimliğini oku
+
+距离在后
+Mesafe arkada
+
+距离在前
+Mesafe önde
+
+距离朗读方式
+Mesafe okuma modu
+
+请选择目标距离朗读方式
+Lütfen hedef mesafe okuma yöntemini seçin
+
+切目标时读出玩家职业
+Hedef değiştirirken oyuncunun sınıfını oku
+
+不朗读目标生命状态
+Hedefin sağlık durumunu okuma
+
+朗读生命描述
+Sağlık açıklamasını oku
+
+朗读生命值
+Sağlık puanını oku
+
+朗读生命百分比
+Sağlık yüzdesini oku
+
+切换目标时
+Hedef değiştirirken
+
+请选择目标生命状态朗读方式
+Lütfen hedef sağlık durumu okuma yöntemini seçin
+
+前置朗读尸体状态
+Önce ceset durumunu oku
+
+查看目标数值时前置朗读增损益信息
+Hedef değeri görüntülerken önce kazanç ve kayıp bilgilerini oku.
+
+使用物品时朗读数量和名称
+Öğeleri kullanırken miktarı ve adı oku
+
+朗读输出数值
+Verilen hasarı oku
+
+朗读输入数值
+Alınan hasarı oku
+
+切己方目标时跳过尸体
+Müttefik hedefler arasında geçiş yaparken cesetleri atla
+
+切敌方目标时跳过尸体
+Düşman hedefleri arasında geçiş yaparken cesetleri atla
+
+对调跟随攻击和站桩攻击的热键
+Beceri kullanıldığında hedefe doğru yürümeyi engelle
+
+混合显示聊天消息
+Her kanalın mesajını karışık olarak göster
+
+按攻击技能时在面对的方向上自动锁定新目标
+Saldırı becerisi  kullanıldığında karakterin dönük olduğu  yöndeki hedefe otomatik olarak odaklan
+
+用副语音库朗读聊天消息
+İkincil ses kitaplığıyla sohbet mesajlarını  oku
+
+用副语音库朗读系统提示消息
+İkincil ses kitaplığıyla sistem bilgi istemi mesajlarını oku
+
+播放暴击音效
+Kritik vuruş efektini duyur
+
+消息屏蔽管理
+Mesaj Engelleme Yönetimi
+
+启用NVDA朗读主语音库(需要开启NVDA)
+NVDA'yı ana ses kitaplığı olarak etkinleştir (NVDA'yı etkinleştirmeniz gerekir)
+
+启用NVDA朗读副语音库(需要开启NVDA)
+NVDA'yı ikincil ses kitaplığı olarak etkinleştir (NVDA'yı etkinleştirmeniz gerekir)
+
+更换帐号
+hesabı değiştir
+
+退出
+çıkış
+
+帮助
+yardım
+
+帮助与反馈
+yardım ve geri bildirim
+
+频道消息朗读和快捷显示设置菜单
+Kanal mesajı okuma ve hızlı görüntüleme ayarları
+
+全部朗读
+hepsini oku
+
+只读系统消息
+sadece sistem mesajlarını oku
+
+禁止朗读
+hiçbirşeyi okuma
+
+全部显示
+hepsini göster
+
+只显示系统消息
+sadece sistem mesajlarını göster
+
+禁止显示
+Hiçbirşeyi gösterme
+
+快捷短语设置菜单
+Kısayol ayarı
+
+请输入短语
+Lütfen bir cümle girin
+
+战报
+savaş raporu
+
+公告
+duyuru
+
+帮派公告
+çete duyurusu
+
+私信
+Özel mesaj
+
+,有新
+, yeni
+
+上一页
+önceki sayfa
+
+下一页
+sonraki Sayfa
+
+时间;
+zaman;
+
+总杀怪数:
+Toplam öldürülen canavar: 
+
+杀怪最多玩家:
+En çok canavarı öldüren oyuncu: 
+
+杀怪数;
+sayı: 
+
+总伤害输出最多玩家:
+En yüksek toplam hasar çıktısına sahip oyuncu: 
+
+总伤害输出:
+toplam hasar: 
+
+总疗伤输出最多玩家:
+En yüksek toplam iyileştirme çıktısına sahip oyuncu: 
+
+总疗伤输出:
+toplam iyileştirme: 
+
+最高单伤害输出玩家:
+En yüksek bireysel hasar çıktısına sahip oyuncu: 
+
+伤害值:
+Hasar: 
+
+最高群体伤害输出玩家:
+En yüksek grup hasarı çıktısına sahip oyuncu: 
+
+伤害值:
+hasar: 
+
+最高单疗伤输出玩家:
+En yüksek bireysel iyileştirme çıktısına sahip oyuncu: 
+
+疗伤值:
+iyileştirme: 
+
+最高群体疗伤输出玩家:
+En yüksek grup iyileştirme çıktısına sahip oyuncu: 
+
+损益输出和控制最多玩家:
+En çok kayıp ve Kontrole Sahip Oyuncu:
+
+影响人次:
+etkilenen rakam: 
+
+增益输出最多玩家:
+En çok kazanca sahip oyuncu: 
+
+解损益最多玩家:
+En çok kayıp kaldıran oyuncu: 
+
+解损益数:
+kaldırılan kayıp: 
+
+解增益最多玩家:
+En çok kazanç kaldıran oyuncu: 
+
+解增益数:
+kaldırılan kazanç: 
+
+复活人次最多玩家:
+En çok dirilen oyuncu: 
+
+复活数:
+Diriliş rakamları: 
+
+己方:
+senin tarafın: 
+
+男
+erkek
+
+女
+kadın
+
+,等级
+, seviye
+
+敌方:
+düşman: 
+
+怪角色
+NPC
+
+己方杀敌数:
+Sizin tarafınızdan öldürülen düşman sayısı: 
+
+敌方杀敌数:
+Düşmanın sizi öldürme sayısı: 
+
+己方杀怪数:
+Sizin tarafınızdan öldürülen canavar sayısı: 
+
+敌方杀怪数:
+Düşmanlar tarafından öldürülen canavar sayısı: 
+
+己方伤害总输出:
+sizin toplam hasar çıktınız: 
+
+敌方伤害总输出:
+düşmanın toplam hasar çıktısı: 
+
+己方疗伤总输出:
+sizin toplam iyileştirme çıktınız: 
+
+敌方疗伤总输出:
+düşmanın toplam iyileştirme çıktısı: 
+
+己方单次最高伤害:
+Sizin tek seferdeki en yüksekhasar çıktınız: 
+
+敌方单次最高伤害:
+Düşmanın tek seferdeki enyüksek hasar çıktısı: 
+
+己方单次最高疗伤:
+Sizin en yüksek tek seferdeki iyileştirmeniz: 
+
+敌方单次最高疗伤:
+düşmanın en yüksek tek Seferde iyileştirmesi: 
+
+己方摧毁水晶塔数:
+sizin tarafınızdan yok edilen kristal kule sayısı: 
+
+敌方摧毁水晶塔数:
+düşmanlar tarafından yok edilen kristal kule sayısı: 
+
+己方摧毁防御塔数:
+sizin tarafınızdan yok edilen taret sayısı: 
+
+敌方摧毁防御塔数:
+düşmanlar tarafından yok edilen taret sayısı: 
+
+己方总杀敌数:
+Sizin tarafınızdan öldürülen düşman sayısı: 
+
+敌方总杀敌数:
+Düşmanın sizi  öldürme sayısı: 
+
+己方总杀怪数:
+Sizin tarafınızdan öldürülen canavar sayısı: 
+
+敌方总杀怪数:
+Düşmanlar tarafından öldürülen canavar sayısı: 
+
+己方总伤害输出:
+sizin Toplam hasar çıktınız: 
+
+敌方总伤害输出:
+düşmanın toplam hasar çıktısı: 
+
+己方总疗伤输出:
+sizin toplam iyileştirme çıktınız: 
+
+敌方总疗伤输出:
+düşmanın toplam iyileştirme çıktısı: 
+
+己方总损益输出:
+sizin toplam Kayıp çıktınız: 
+
+敌方总损益输出:
+düşmanın toplam Kayıp çıktısı: 
+
+己方总增益输出:
+sizin toplam kazanç çıktınız: 
+
+敌方总增益输出:
+düşmanın toplam kazanç çıkışı: 
+
+己方总解损益数:
+sizin toplam kayıp kaldırma sayınız: 
+
+敌方总解损益数:
+düşmanın toplam kayıp kaldırma sayısı: 
+
+己方总解增益数:
+sizin toplam kazanç kaldırma sayınız: 
+
+敌方总解增益数:
+düşmanın toplam kazanç kaldırma sayısı: 
+
+己方总复活人数:
+Dirilttiğiniz toplam kişi sayısı:
+
+敌方总复活人数:
+Dirilen toplam düşman sayısı:
+
+己方最高单体伤害输出:
+sizin en yüksek bireysel hasar çıktınız: 
+
+敌方最高单体伤害输出:
+düşmanın en yüksek bireysel hasar çıktısı: 
+
+己方最高群体伤害输出:
+sizin en yüksek grup hasarı çıktınız: 
+
+敌方最高群体伤害输出:
+düşmanın en yüksek grup hasarı çıktısı: 
+
+己方最高单体疗伤输出:
+sizin en yüksek bireysel iyileştirme çıktınız: 
+
+敌方最高单体疗伤输出:
+düşmanın en yüksek bireysel iyileştirme çıktısı: 
+
+己方最高群体疗伤输出:
+sizin en yüksek grup iyileştirme çıktınız: 
+
+敌方最高群体疗伤输出:
+düşmanın en yüksek grup iyileştirme çıktısı: 
+
+拷贝窗口文字
+Metni pencereden kopyala
+
+己方
+  
+
+敌方
+düşmanın 
+
+摧毁水晶塔数排名
+kristal kule yıkma sıralama listesi
+
+摧毁防御塔数排名
+taret yıkma sıralama listesi
+
+杀敌数排名
+Düşman öldürmelerinin sıralama listesi
+
+杀怪数排名
+canavar öldürmelerinin sıralama listesi
+
+总伤害输出排名
+toplam hasar çıktısının sıralama listesi
+
+总疗伤输出排名
+toplam iyileştirme çıktısının sıralama listesi
+
+总控制和损益输出排名
+kayıp ve kontrollerin sıralama listesi
+
+总增益输出排名
+Kazanç sayılarının sıralama listesi
+
+总解损益数排名
+Kayıp kaldırma sıralama listesi
+
+总解增益数排名
+kazanç  kaldırma sıralama listesi
+
+总复活人数排名
+Diriliş  sıralama listeniz
+
+最高单伤输出排名
+en yüksek bireysel hasar çıktısının sıralama listesi
+
+最高群伤输出排名
+en yüksek grup hasarı çıktısının sıralama listesi
+
+最高单疗输出排名
+en yüksek bireysel iyileştirme çıktısının sıralama listesi
+
+最高群疗输出排名
+en yüksek grup iyileştirme çıktısının sıralama listesi
+
+说明:屏蔽一个角色后，本地客户端将不再接收该角色的任何消息
+Açıklama: Bir karakter engellendiğinde, yerel istemci artık o karakterden herhangi bir mesaj almayacaktır.
+
+添加新的屏蔽角色
+Yeni Engellenen Karakter Ekle
+
+请填写角色ID
+Lütfen karakter kimliğini girin
+
+已屏蔽的ID
+Engellendi IDs
+
+角色ID:
+Karakter Kimliği: 
+
+备注名称:
+not adı: 
+
+解除
+engellemeyi kaldır.
+
+确定解除对该ID的屏蔽吗？
+Bu kimliğin engellemesini kaldırmak istediğinizden emin misiniz?
+
+备注名称
+not adı
+
+请填写备注名称
+Lütfen bir not adı girin
+
+已损坏;无法装备
+Hasarlı; giyilemez
+
+不能丢弃穿上的装备
+Ekipman giyilmiştir, atılamaz
+
+不能丢弃化身中的融合兽
+Başkalaşım geçiren Füzyon Canavarları atılamaz
+
+不能抛弃放出的宠物
+Çağrılan evcil hayvanlar terk edilemez
+
+没有物品
+öğe yok
+
+请填写存入数量
+Lütfen koyulacak miktarı giriniz
+
+没有可存入的物品
+Koyulacak öğe yok
+
+没有装备
+ekipman yok
+
+没有可存入的装备
+Koyulacak ekipman yok
+
+没有融合兽
+füzyon canavarı yok
+
+没有可存入的融合兽
+Koyulacak füzyon canavarı yok
+
+请填写要出售的数量
+Lütfen satılacak miktarı giriniz
+
+没有可出售的物品
+Satılacak öğe yok
+
+请填写出售价格
+Lütfen satış fiyatını giriniz
+
+没有可出售的装备
+Satılacak ekipman yok
+
+已设置
+tamamlandı
+
+全部
+Tümü
+
+己方 
+kendi tarafın
+
+敌方 
+düşman
+
+NPC
+NPC
+
+和平模式
+Barış modu
+
+和平反击模式
+Barışçıl karşı saldırı modu
+
+善恶模式
+Ahlaki Mod
+
+帮派模式
+çete modu
+
+团队模式
+takım modu
+
+所有模式
+tüm mod
+
+无法查看自己
+kendinle iletişim kuramazsın
+
+不能私聊自己
+kendi kendine konuşamazsın
+
+启动跟随
+takip etmeye başlandı
+
+停止跟随
+takip etme bırakıldı
+
+安全区禁用技能
+Güvenli bölgede beceriler kullanılamaz
+
+未设置
+ayarlanmamış
+
+取消导航
+hedef navigasyonu iptal et
+
+导航
+hedef navigasyonu
+
+导航;
+hedef navigasyonu;
+
+导航失败
+Navigasyon başarısız
+
+取消环境导航
+konum navigasyonunu iptal et
+
+环境导航;
+konum navigasyonu;
+
+拷贝窗口
+pencereyi kopyala
+
+非法操作;退出游戏
+Yasadışı işlem; oyundan çıkılıyor
+
+程序版本过低;退出游戏
+Oyun sürümü eski; oyundan çıkılıyor
+
+请校准系统时间;退出游戏
+Lütfen sistem saatinizi kontrol edin; oyundan çıkılıyor
+
+非法登录;退出游戏
+Yasadışı oturum açma; oyundan çıkılıyor
+
+该电脑禁止登录;退出游戏
+Bu bilgisayarın girmesi yasaktır; oyundan çıkılıyor
+
+用户名错误;退出游戏
+Yanlış kullanıcı adı; oyundan çıkılıyor
+
+密码错误;退出游戏
+Yanlış şifre; oyundan çıkılıyor
+
+保存的密码已失效;退出游戏
+Kayıtlı şifrenin süresi doldu; oyundan çıkılıyor
+
+该用户禁止登录;退出游戏
+Bu kullanıcının oturum açması yasaktır; oyundan çıkılıyor
+
+服务器故障;退出游戏
+Sunucu hatası; oyundan çıkılıyor
+
+帐号在别处登录;退出游戏
+Bu hesap başka bir yerde oturum açmış; oyundan çıkılıyor
+
+刷新查看
+Yenile
+
+创建新角色
+yeni karakter oluştur
+
+创建新角色，请按，S，和，W，键选择角色种类，选择后回车确定。
+yeni bir karakter oluştururken, karakter türünü seçmek için S ve W tuşlarına basın ve onaylamak için Enter tuşuna basın.
+
+填写您想要的昵称;需要是两到六个汉字
+Takma adınızı giriniz; 4 ila 12 karakter arasında olması gerekir
+
+，请重新填写
+, lütfen tekrar girin
+
+上次进入：
+Son erişim: 
+
+删除角色
+ karakteri sil
+
+该角色十天内登录过,不能删除!
+Bu karaktere on gün içinde giriş yapıldı ve silinemez!
+
+该功能可将已注册的帐号修改成还没注册过的邮箱/手机，修改后的帐号需要重新找回密码后登录，确定继续吗？
+Bu işlev, kayıtlı hesabı kayıtlı olmayan bir e-posta ile değiştirmek için kullanılabilir. Değiştirilen hesabın oturum açmadan önce parolayı sıfırlaması gerekir. Devam etmek istediğinize emin misiniz?
+
+请选择传送地点
+Lütfen ışınlanmak için bir yer seçin
+
+即将损坏
+Hasar almak üzere
+
+已损坏
+hasarlı
+
+提交太快了，消息发送失败。
+mesaj çok hızlı gönderildi: iletilemedi.
+
+修改成功,退出游戏
+Başarıyla değiştirildi. Oyundan çıkılıyor
+
+世界
+global 
+
+地图
+harita 
+
+附近
+yakınlarda 
+
+帮派
+çete 
+
+队伍
+takım 
+
+国际
+uluslararası 
+
+私有
+özel 
+
+已加入
+katıldı
+
+已移出
+kaldırıldı
+
+系统
+sistem 
+
+广播
+yayın 
+
+ - 聊天
+ - sohbet
+
+我说:
+Siz: 
+
+$1到$2
+$1 den $2
+
+音量
+ses seviyesi
+
+语速
+hız
+
+音调
+kalınlık
+
+语音
+konuşucu
+
+战士
+savaşçı;
+
+兽人
+ork;
+
+猎人
+avcı;
+
+刺客
+suikastçı;
+
+法师
+büyücü;
+
+精灵
+elf;
+
+牧师
+rahip;
+
+巫师
+sihirbaz;
+
+边缘
+ kenar
+
+黑名
+siyah;
+
+红名
+kırmızı;
+
+黄名
+sarı;
+
+尸体
+Ceset
+
+干尸
+kurutulmuş ceset
+
+腐尸
+çürümüş ceset
+
+枯骨
+solmuş kemikler
+
+碎屑
+ Hurda 
+
+轻伤
+;hafif sıyrıklarla 
+
+流血
+;kanıyor 
+
+伤残
+;devre dışı
+
+吐血
+;kan kusuyor 
+
+重伤
+;Ağır yaralı 
+
+游戏版本过期，请重新下载
+Oyun sürümünün süresi doldu, lütfen tekrar indirin
+
+版本更新失败，退出游戏
+Sürüm güncellemesi başarısız oldu, oyundan çıkılıyor
+
+小时
+Saat 
+
+分
+Dakika 
+
+秒
+saniye 
+
+闪开攻击
+Saldırıdan kaçınıldı 
+
+闪
+Kaçınma 
+
+破
+Kırık 
+
+暴
+kritik 
+
+疗
+İyileştirme 
+
+;有菜单
+; alt menü
+
+(限制)
+ (sınırlı) 
+
+(锁定)
+ (kilitli) 
+
+;可用时间
+;müsait zaman 
+
+到
+ den 
+
+粗糙
+Ham 
+
+普通
+Sıradan 
+
+精良
+İyi 
+
+完美
+Mükemmel 
+
+珍奇
+Nadir 
+
+传说
+Efsanevi 
+
+精品
+Seçkin 
+
+绝品
+Harika 
+
+极品
+Destansı 
+
+仙化
+Göksel 
+
+神佑
+Tanrısal 
+
+(绑定)
+ (bağlı) 
+
+更新进度： 
+Güncelleme ilerlemesi: 
+
+版本升级
+Sürüm yükseltmesi
+
+迷雾世界
+Mist World
+
+新转移帐号24小时内不能再次转移！
+Yeni değiştirilen hesap 24 saat içinde tekrar değiştirilemez!
+
+未开放功能！
+İşlev açılmadı!
+
+team leader is not on the current map
+takım lideri bu haritada değil

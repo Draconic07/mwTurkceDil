@@ -1,0 +1,3557 @@
+cudgel
+sopa
+
+bamboo bow
+bambu yay
+
+straw hat
+hasır Şapka
+
+mahogany necklace
+maun kolye
+
+tulle cape
+tül pelerin
+
+cotton clothes
+pamuklu giysi
+
+Bark Belt
+Kabuk Kemer
+
+straw sandals
+saman sandalet
+
+linen trousers
+keten pantolon
+
+mahogany bracelet
+maun bilezik
+
+mahogany ring (left)
+maun yüzük (sol)
+
+mahogany ring (right)
+maun yüzük (sağ)
+
+iron sword
+Demir kılıç
+
+iron hammer
+demir çekiç
+
+dagger
+hançer
+
+wooden bow
+ahşap yay
+
+Ivy Staff
+sarmaşık sopa
+
+Ivy Scepter
+sarmaşık asa
+
+bronze helmet
+bronz kask
+
+Golden necklace
+altın kolye
+
+Bronze Shoulders
+Bronz Omuzluk
+
+bronze armor
+bronz zırh
+
+Bronze Belt
+Bronz Kemer
+
+Bronze Boots
+Bronz Çizmeler
+
+Bronze Leggings
+Bronz Tayt
+
+gold bracelet
+altın bilezik
+
+gold ring (left)
+altın yüzük (sol)
+
+gold ring (right)
+altın yüzük (sağ)
+
+silk hat
+ipek şapka
+
+jade necklace
+yeşim kolye
+
+silk cape
+ipek pelerin
+
+silk robe
+ipek elbise
+
+silk belt
+ipek kemer
+
+silk boots
+ipek çizmeler
+
+silk pants
+ipek pantolon
+
+jade bracelet
+yeşim bilezik
+
+jade ring (left)
+yeşim yüzük (sol)
+
+jade ring (right)
+yeşim yüzük (sağ)
+
+Sword of Fighter
+Dövüşçünün Kılıcı
+
+machete of Berserker
+Vahşi'nin palası
+
+Blade of Killer
+Katilin Kılıcı
+
+Bow of chaser
+Kovalayanın yayı
+
+Staff of Wisdom
+Bilgelik Asası
+
+Staff of Nature
+Doğanın Asası
+
+Scepter of Mercy
+Merhamet Asası
+
+Scepter of Bones
+Kemik Asası
+
+soft pouch
+yumuşak kese
+
+fighter Helm
+savaşçının Miğferi
+
+fighter 's Courage
+savaşçının cesareti
+
+fighter Shoulders
+savaşçının Omuzluğu
+
+fighter Armor
+savaşçının Zırhı
+
+fighter Waistguard
+savaşçının kemeri
+
+fighter Boots
+savaşçının botları
+
+fighter Legplates
+savaşçının Bacak plakaları
+
+fighter Bracers
+savaşçının Bileklikleri
+
+fighter ring (left)
+savaşçının yüzüğü (sol)
+
+fighter ring (right)
+savaşçının yüzüğü (sağ)
+
+Berserker Helm
+Vahşinin Miğferi
+
+Berserker's power
+Vahşinin gücü
+
+Berserker Shoulders
+Vahşinin Omuzluğu
+
+Berserker Armor
+Vahşinin Zırhı
+
+Berserker Waistguard
+Vahşinin Kuşağı
+
+Berserker Boots
+Vahşinin Çizmeleri
+
+Berserker Legplates
+Vahşinin bacak plakaları
+
+Berserker Bracers
+Vahşinin Bileklikleri
+
+Berserker Ring (Left)
+Vahşinin Yüzüğü (Sol)
+
+Berserker Ring (right)
+Vahşinin yüzüğü (sağ)
+
+killer Mask
+katilin Maskesi
+
+killer's lethality
+katilin ölümcüllüğü
+
+killer Cloak
+katilin Pelerini
+
+killer Armor
+katilin zırhı
+
+killer Waistguard
+katilin Kuşağı
+
+killer Boots
+katilin botları
+
+killer Leggings
+katilin Taytı
+
+killer Gloves
+katilin eldivenleri
+
+Killing Ring (Left)
+katilin Yüzüğü (Sol)
+
+Killing Ring (Right)
+katilin Yüzüğü (Sağ)
+
+chaser Hat
+kovalayanın şapkası
+
+chaser's gaze
+kovalayanın bakışı
+
+chaser Cloak
+kovalayanın Pelerini
+
+chaser jacket
+kovalayanın ceketi
+
+chaser Waistguard
+kovalayanın bel koruması
+
+chaser Riding Boots
+kovalayanın Binicilik Botları
+
+chaser Leather Pants
+kovalayanın deri pantolonu
+
+chaser Gauntlets
+kovalayanın Eldivenleri
+
+Eagle eye ring (left)
+Kartal gözlü yüzük (sol)
+
+Eagle eye ring (right)
+Kartal gözlü yüzük (sağ)
+
+Wisdom Hat
+Bilgelik Şapkası
+
+magic from Wisdom
+Bilgelikten gelen büyü
+
+Wisdom Cloak
+Bilgelik Pelerini
+
+Wisdom Robe
+Bilgelik Cübbesi
+
+Wisdom Belt
+Bilgelik Kemeri
+
+Wisdom Boots
+Bilgelik Botları
+
+Wisdom Pants
+Bilgelik Pantolonu
+
+Wisdom bracelet
+bilgelik bileziği
+
+Wisdom Ring (left)
+Bilgelik Yüzüğü (sol)
+
+Wisdom Ring (right)
+Bilgelik Yüzüğü (sağ)
+
+colorful wreath
+renkli çelenk
+
+breath of nature
+doğanın nefesi
+
+Leaf wings
+Yaprak kanatları
+
+green robe
+yeşil elbise
+
+vine Belt
+asma Kemer
+
+lotus Boots
+nilüfer botları
+
+green hakama
+yeşil Hakama
+
+nature bracelet
+doğa bilezik
+
+nature ring (left)
+doğa yüzüğü (sol)
+
+nature ring (right)
+doğa yüzüğü (sağ)
+
+charity Hat
+sadaka Şapkası
+
+forgiving from heart
+kalpten affetme
+
+benevolence Cloak
+iyilik Pelerini
+
+Fraternity Robe
+kardeşlik cüppesi
+
+Kindness Girdle
+Nezaket Kuşağı
+
+Compassion Boots
+Şefkat Botları
+
+Fraternity Leggings
+kardeşlik taytı
+
+loving Bracelet
+sevgi bileziği
+
+loving ring (left)
+sevgi yüzüğü (sol)
+
+loving ring (right)
+sevgi yüzüğü (sağ)
+
+Skull Mask
+Kafatası Maskesi
+
+odor of decay
+çürümenin kokusu
+
+Corpse Cloak
+Ceset Pelerini
+
+Carrion Tabard
+Leş Tabardı
+
+shroud belt
+kefen kemeri
+
+Zombie Boots
+Zombi Botları
+
+Skeleton Leggings
+İskelet Taytı
+
+Bone Bracelet
+Kemik Bileklik
+
+Bone Ring (left)
+Kemik Yüzüğü (sol)
+
+Bone Ring (right)
+Kemik Yüzüğü (sağ)
+
+Ocean Roaring
+Okyanus Kükremesi
+
+Mountain Crushing
+Dağ Ezici
+
+Shadow Kissing
+gölge öpücüğü
+
+Wind Dancing
+rüzgar dansı
+
+Ice Sighing
+Buz İç Çekişi
+
+Fire Enveloping
+Yangın Sarıcısı
+
+Light Weaving
+Işık Dokuyucusu
+
+Soul Sucking
+Ruh emici
+
+Fencer helmet
+Eskrimci kaskı
+
+Fencer's Heart
+Eskrimcinin Kalbi
+
+Fencer Shoulder Guard
+Eskrimci Omuz Koruyucu
+
+Fencer Armor
+Eskrimci Zırhı
+
+Fencer waist guard
+Eskrimci bel koruması
+
+Fencer boots
+eskrimci botları
+
+Fencer Legplates
+Eskrimci Bacak Plakaları
+
+Fencer Bracers
+Eskrimci Bileklikleri
+
+Fencer Ring (Left)
+Eskrimci Yüzüğü (Sol)
+
+Fencer Ring (Right)
+Eskrimci Yüzüğü (Sağ)
+
+Gladiator Helmet
+Gladyatör Miğferi
+
+Pulse of Gladiator
+Gladyatörün Nabzı
+
+Gladiator Shoulders
+Gladyatör Omuzluğu
+
+Gladiator Armor
+Gladyatör Zırhı
+
+Gladiator Waistguard
+gladyatör bel koruması
+
+Gladiator Boots
+Gladyatör Botları
+
+Gladiator Legplates
+Gladyatör Bacak Plakaları
+
+Gladiator Bracers
+Gladyatör Bileklikleri
+
+Gladiator ring (Left)
+Gladyatör yüzüğü (Sol)
+
+Gladiator ring (Right)
+Gladyatör yüzüğü (Sağ)
+
+Tearer mask
+Yırtıcı maskesi
+
+Judgment Of Tearer
+Yırtıcı Yargısı
+
+Tearer Cloak
+Yırtıcı Pelerini
+
+tearer suit
+Yırtıcı takım elbisesi
+
+tearer Belt
+Yırtıcı Kemeri
+
+tearer Boots
+Yırtıcı Çizmeleri
+
+tearer Leggings
+Yırtıcı taytı
+
+tearer Gloves
+Yırtıcı eldivenleri
+
+tearer Ring (Left)
+Yırtıcı Yüzüğü (Sol)
+
+tearer Ring (Right)
+Yırtıcı Yüzüğü (Sağ)
+
+Windrunner Hood
+rüzgar koşucusu Kapüşonu
+
+Windrunner's Harvest
+rüzgar koşucusunun Hasatı
+
+Windrunner Cloak
+rüzgar koşucusu Pelerini
+
+Windrunner Armor
+rüzgar koşucusu Zırhı
+
+Windrunner Belt
+rüzgar koşucusu Kemeri
+
+Windrunner Boots
+rüzgar koşucusu Botları
+
+Windrunner Leather Pants
+rüzgar koşucusu Deri pantalonu
+
+Windrunner Gauntlets
+rüzgar koşucusu Eldivenleri
+
+Windrunner ring (Left)
+rüzgar koşucusu Yüzüğü (Sol)
+
+Windrunner ring (Right)
+rüzgar koşucusu yüzüğü (Sağ)
+
+Freezing cap
+Dondurucu şapkası
+
+Freezing pendant
+Dondurucu kolyesi
+
+Freezing Cloak
+Dondurucu Pelerini
+
+Freezing Robe
+Dondurucu Bornozu
+
+Freezing Belt
+Dondurucu kemeri
+
+Freezing boots
+Dondurucu botları
+
+Freezing Leggings
+Dondurucu Taytı
+
+Freezing Bracelet
+Dondurucu Bilekliği
+
+Freezing ring (Left)
+Dondurucu yüzüğü (Sol)
+
+Freezing ring (Right)
+Dondurucu yüzüğü (Sağ)
+
+Flaming headband
+Alevli kafa bandı
+
+Flaming Pendant
+Alevli Kolye
+
+Flaming Cloak
+alevli pelerin
+
+Flaming Robe
+alevli bornoz
+
+Flaming Belt
+Alevli Kemer
+
+Flaming Boots
+alevli botlar
+
+Flaming Leggings
+alevli tayt
+
+Flaming Bracelet
+Alevli Bileklik
+
+Flaming ring (Left)
+Alev yüzüğü (Sol)
+
+Flaming ring (Left)
+Alev yüzüğü (Sol)
+
+Radiant Hood
+Işıltılı Kapüşon
+
+Radiant Pendant
+Işıltılı Kolye
+
+Radiant Cloak
+Işıltılı Pelerin
+
+Radiant Tabard
+Işıltılı Cüppe
+
+Radiant Belt
+Işıltılı Kemer
+
+Radiant Boots
+Işıltılı Çizmeler
+
+Radiant Leggings
+Işıltılı Tayt
+
+Radiant Bracelet
+Işıltılı Bileklik
+
+Radiant Ring (Left)
+Işıklı Yüzük (Sol)
+
+Radiant Ring (Right)
+Işıltılı Yüzük (Sağ)
+
+Ghost Mask
+Hayalet Maskesi
+
+Ghost Pendant
+Hayalet Kolyesi
+
+Ghost Cloak
+Hayalet Pelerini
+
+Ghost Robe
+Hayalet Elbisesi
+
+Ghost Belt
+Hayalet Kemeri
+
+Ghost Boots
+Hayalet Çizmeleri
+
+Ghost Leggings
+Hayalet Taytı
+
+Ghost Bracelet
+Hayalet Bilekliği
+
+Ghost Ring (Left)
+Hayalet Yüzüğü (Sol)
+
+Ghost Ring (Right)
+Hayalet Yüzüğü (Sağ)
+
+Solemn Oath
+ciddi yemin
+
+Savage invader
+vahşi istilacı
+
+Grief Bringer
+Keder Getiren
+
+Mutant Slayer
+Mutant Avcısı
+
+Frost Sorrow
+Ayaz Üzüntü
+
+Scorching Torch
+kavurucu meşale
+
+Praying seraph
+dua eden melek
+
+Griffin Claw
+Grifon Pençesi
+
+hot bag
+sıcak çanta
+
+Honor Helm
+Onur Miğferi
+
+Honor Pendant
+Onur Kolyesi
+
+Honor Shoulders
+Onur Omuzlukları
+
+Honor Armor
+Onur Zırhı
+
+Honor Belt
+Onur Kemeri
+
+Honor Boots
+Onur Botları
+
+Honor Legplates
+Onur bacak plakaları
+
+Honorable Bracers
+Saygıdeğer Bileklikler
+
+Honor Ring (Left)
+Onur Yüzüğü (Sol)
+
+Honor Ring (Right)
+Onur Yüzüğü (Sağ)
+
+Barbarian Helm
+Barbar Miğferi
+
+Barbarian Pendant
+barbar kolyesi
+
+Barbarian Shoulders
+Barbar Omuzlukları
+
+Barbarian Heavy Armor
+Barbar Ağır Zırhı
+
+Barbarian Waistguard
+Barbar Kuşağı
+
+Barbarian Boots
+barbar botları
+
+Barbarian Legplates
+Barbar Bacak Plakaları
+
+Barbarian Bracers
+Barbar Bileklikleri
+
+Barbarian Ring (Left)
+Barbar Yüzüğü (Sol)
+
+Barbarian Ring (Right)
+Barbar Yüzüğü (Sağ)
+
+ascetic mask
+münzevi maskesi
+
+Ascetic Pendant
+münzevi kolyesi
+
+Ascetic cloak
+münzevi pelerini
+
+Ascetic Suit
+münzevi takım elbisesi
+
+Ascetic Belt
+münzevi kemeri
+
+Ascetic Boots
+münzevi Çizmeleri
+
+Ascetic Leggings
+münzevi Taytı
+
+Ascetic Gloves
+münzevi eldivenleri
+
+Ascetic ring (Left)
+münzevi yüzüğü (Sol)
+
+Ascetic ring (Right)
+münzevi yüzüğü (Sağ)
+
+Raider Hat
+Akıncı Şapkası
+
+Raider Pendant
+Akıncı Kolyesi
+
+Raider Cape
+Akıncı Pelerini
+
+Raider Leather Armor
+Akıncı Deri Zırhı
+
+Raider Belt
+Akıncı Kemeri
+
+Raider Boots
+Akıncı Botları
+
+Raider Leather Pants
+Akıncı Deri Pantolonu
+
+Raider Gauntlets
+Akıncı Eldivenleri
+
+Raider Ring (Left)
+Raider Ring (Left)
+
+Raider Ring (Right)
+Raider Ring (Right)
+
+Frost Helm
+Frost Helm
+
+Frost pendant
+Frost pendant
+
+Frost shawl
+Frost shawl
+
+Frost Armor
+Frost Armor
+
+Frost Belt
+Frost Belt
+
+Frost Boots
+Frost Boots
+
+Frost Leggings
+Frost Leggings
+
+Frost Bracelet
+Frost Bracelet
+
+Frost Ring (Left)
+Frost Ring (Left)
+
+Frost Ring (Right)
+Frost Ring (Right)
+
+wildfire helmet
+wildfire helmet
+
+Wildfire Pendant
+Wildfire Pendant
+
+Wildfire Cloak
+Wildfire Cloak
+
+Wildfire Armor
+Wildfire Armor
+
+Wildfire Belt
+Wildfire Belt
+
+Wildfire Boots
+Wildfire Boots
+
+Wildfire Leggings
+Wildfire Leggings
+
+wildfire bracelets
+wildfire bracelets
+
+wildfire ring (Left)
+wildfire ring (Left)
+
+wildfire ring (Right)
+wildfire ring (Right)
+
+angel halo
+angel halo
+
+Angel's Tears
+Angel's Tears
+
+Angel Wings
+Angel Wings
+
+Angel Clothes
+Angel Clothes
+
+Angel Girdle
+Angel Girdle
+
+Angel Boots
+Angel Boots
+
+Angel Leggings
+Angel Leggings
+
+angel bracelet
+angel bracelet
+
+Angel ring (Left)
+Angel ring (Left)
+
+angel ring (Right)
+angel ring (Right)
+
+Lich Mask
+Lich Mask
+
+Legacy of the Lich
+Legacy of the Lich
+
+Lich Cloak
+Lich Cloak
+
+Lich Tabard
+Lich Tabard
+
+Lich Belt
+Lich Belt
+
+Lich Boots
+Lich Boots
+
+Lich Leggings
+Lich Leggings
+
+Lich Bracelet
+Lich Bracelet
+
+Lich Ring (Left)
+Lich Ring (Left)
+
+Lich Ring (Right)
+Lich Ring (Right)
+
+Ribcracker
+Ribcracker
+
+Tornado Scourge
+Tornado Scourge
+
+Invisible Claw
+Invisible Claw
+
+Heart Hitter
+Heart Hitter
+
+Pelting Hail
+Pelting Hail
+
+Thousands Blast
+Thousands Blast
+
+Inspire Scepter
+Inspire Scepter
+
+Terror Scepter
+Terror Scepter
+
+Champion Helm
+Champion Helm
+
+Champion Pendant
+Champion Pendant
+
+Champion Shoulders
+Champion Shoulders
+
+Champion armor
+Champion armor
+
+champion belt
+champion belt
+
+Champion Boots
+Champion Boots
+
+Champion Legplates
+Champion Legplates
+
+Champion bracers
+Champion bracers
+
+Champion ring (Left)
+Champion ring (Left)
+
+Champion ring (Right)
+Champion ring (Right)
+
+Rampage Helm
+Rampage Helm
+
+Rampage Pendant
+Rampage Pendant
+
+Rampage Pauldrons
+Rampage Pauldrons
+
+Rampage Armor
+Rampage Armor
+
+Rampage Belt
+Rampage Belt
+
+Rampage Boots
+Rampage Boots
+
+Rampage Legplates
+Rampage Legplates
+
+Rampage Bracers
+Rampage Bracers
+
+Rampage ring (Left)
+Rampage ring (Left)
+
+Rampage ring (Right)
+Rampage ring (Right)
+
+Stealth Mask
+Stealth Mask
+
+Stealth Pendant
+Stealth Pendant
+
+Stealth Cloak
+Stealth Cloak
+
+Stealth Suit
+Stealth Suit
+
+Stealth Belt
+Stealth Belt
+
+Stealth Boots
+Stealth Boots
+
+Stealth shorts
+Stealth shorts
+
+Stealth Gloves
+Stealth Gloves
+
+Stealth Ring (Left)
+Stealth Ring (Left)
+
+Stealth Ring (Right)
+Stealth Ring (Right)
+
+sniper hat
+sniper hat
+
+Sniper Pendant
+Sniper Pendant
+
+sniper cape
+sniper cape
+
+Sniper armor
+Sniper armor
+
+Sniper Belt
+Sniper Belt
+
+sniper boots
+sniper boots
+
+Sniper Leggings
+Sniper Leggings
+
+Sniper Bracers
+Sniper Bracers
+
+sniper ring (left)
+sniper ring (left)
+
+sniper ring (right)
+sniper ring (right)
+
+Blizzard Hat
+Blizzard Hat
+
+Blizzard Charm
+Blizzard Charm
+
+Blizzard Cloak
+Blizzard Cloak
+
+Blizzard Robe
+Blizzard Robe
+
+Blizzard Belt
+Blizzard Belt
+
+Blizzard Boots
+Blizzard Boots
+
+Blizzard Leggings
+Blizzard Leggings
+
+Blizzard Bracelet
+Blizzard Bracelet
+
+Blizzard Ring (Left)
+Blizzard Ring (Left)
+
+blizzard ring (Right)
+blizzard ring (Right)
+
+Firestorm Crown
+Firestorm Crown
+
+Fire Storm Pendant
+Fire Storm Pendant
+
+Firestorm Cloak
+Firestorm Cloak
+
+Firestorm Tabard
+Firestorm Tabard
+
+Firestorm Belt
+Firestorm Belt
+
+Firestorm Boots
+Firestorm Boots
+
+Firestorm Leggings
+Firestorm Leggings
+
+Firestorm Bracelet
+Firestorm Bracelet
+
+Firestorm ring (Left)
+Firestorm ring (Left)
+
+Firestorm ring (Right)
+Firestorm ring (Right)
+
+Sermon Hood
+Sermon Hood
+
+Sermon Pendant
+Sermon Pendant
+
+Sermon cloak
+Sermon cloak
+
+Sermon Tabard
+Sermon Tabard
+
+Sermon Belt
+Sermon Belt
+
+Sermon boots
+Sermon boots
+
+Sermon Leggings
+Sermon Leggings
+
+Sermon bracelet
+Sermon bracelet
+
+Sermon ring (Left)
+Sermon ring (Left)
+
+Sermon ring (Right)
+Sermon ring (Right)
+
+Horror mask
+Horror mask
+
+Horror Orb
+Horror Orb
+
+Horror cloak
+Horror cloak
+
+Horror Robe
+Horror Robe
+
+Horror Belt
+Horror Belt
+
+Horror Boots
+Horror Boots
+
+Horror Leggings
+Horror Leggings
+
+Horror bracelets
+Horror bracelets
+
+Horror ring (left)
+Horror ring (left)
+
+Horror ring (right)
+Horror ring (right)
+
+Royal Victory
+Royal Victory
+
+Lethal Warhammer
+Lethal Warhammer
+
+Bloodletting razor	
+Bloodletting razor	
+
+Hydra crossbow
+Hydra crossbow
+
+Sealing Moon
+Sealing Moon
+
+eruption Magma
+eruption Magma
+
+Pure Wisdom
+Pure Wisdom
+
+mummy Curse
+mummy Curse
+
+weightless sack
+weightless sack
+
+hero helmet
+hero helmet
+
+hero pendant
+hero pendant
+
+Hero Pauldrons
+Hero Pauldrons
+
+Hero Armor
+Hero Armor
+
+Hero Belt
+Hero Belt
+
+Hero Boots
+Hero Boots
+
+Hero Legplates
+Hero Legplates
+
+Heroic Bracers
+Heroic Bracers
+
+Hero ring (left)
+Hero ring (left)
+
+Hero ring (right)
+Hero ring (right)
+
+Sentinel Helm
+Sentinel Helm
+
+Sentinel Pendant
+Sentinel Pendant
+
+Sentinel Pauldrons
+Sentinel Pauldrons
+
+Sentinel Armor
+Sentinel Armor
+
+Sentinel Belt
+Sentinel Belt
+
+Sentinel boots
+Sentinel boots
+
+Sentinel Legplates
+Sentinel Legplates
+
+Sentinel Bracers
+Sentinel Bracers
+
+Sentinel ring (left)
+Sentinel ring (left)
+
+Sentinel ring (right)
+Sentinel ring (right)
+
+Executioner Mask
+Executioner Mask
+
+Executioner Pendant
+Executioner Pendant
+
+Executioner Cloak
+Executioner Cloak
+
+Executioner Suit
+Executioner Suit
+
+Executioner Belt
+Executioner Belt
+
+Executioner Boots
+Executioner Boots
+
+Executioner Shorts
+Executioner Shorts
+
+Executioner Gloves
+Executioner Gloves
+
+executioner ring (left)
+executioner ring (left)
+
+executioner ring (right)
+executioner ring (right)
+
+Penetrator helmet
+Penetrator helmet
+
+Penetrator Pendant
+Penetrator Pendant
+
+Penetrator shawl
+Penetrator shawl
+
+Penetrator Leather Armor
+Penetrator Leather Armor
+
+Penetrator Belt
+Penetrator Belt
+
+Penetrator boots
+Penetrator boots
+
+Penetrator Leather Pants
+Penetrator Leather Pants
+
+Penetrator Bracers
+Penetrator Bracers
+
+Penetrator ring (left)
+Penetrator ring (left)
+
+Penetrator ring (right)
+Penetrator ring (right)
+
+Glacier Helmet
+Glacier Helmet
+
+Glacier Pendant
+Glacier Pendant
+
+Glacier Cloak
+Glacier Cloak
+
+Glacier Armor
+Glacier Armor
+
+Glacier Belt
+Glacier Belt
+
+Glacier Boots
+Glacier Boots
+
+Glacier Leggings
+Glacier Leggings
+
+Glacier Bracelet
+Glacier Bracelet
+
+glacier ring (left)
+glacier ring (left)
+
+glacier ring (right)
+glacier ring (right)
+
+Volcano helmet
+Volcano helmet
+
+Volcano Orb
+Volcano Orb
+
+Volcano Cape
+Volcano Cape
+
+Volcano Armor
+Volcano Armor
+
+Volcano Belt
+Volcano Belt
+
+Volcano boots
+Volcano boots
+
+Volcano Leggings
+Volcano Leggings
+
+Volcano bracelet
+Volcano bracelet
+
+Volcano ring (left)
+Volcano ring (left)
+
+Volcano ring (right)
+Volcano ring (right)
+
+Saint Helmet
+Saint Helmet
+
+Saint Orb
+Saint Orb
+
+Saint cloak
+Saint cloak
+
+Saint Robe
+Saint Robe
+
+Saint Belt
+Saint Belt
+
+Saint boots
+Saint boots
+
+Saint Leggings
+Saint Leggings
+
+Saint bracelet
+Saint bracelet
+
+Saint ring (left)
+Saint ring (left)
+
+Saint ring (right)
+Saint ring (right)
+
+Toxin mask
+Toxin mask
+
+Toxin Magic Beads
+Toxin Magic Beads
+
+Toxin cloak
+Toxin cloak
+
+Toxin Robe
+Toxin Robe
+
+Toxin Belt
+Toxin Belt
+
+Toxin boots
+Toxin boots
+
+Toxin Leggings
+Toxin Leggings
+
+Toxin bracelet
+Toxin bracelet
+
+Toxin ring (left)
+Toxin ring (left)
+
+Toxin ring (right)
+Toxin ring (right)
+
+Broken Sky
+Broken Sky
+
+Lost Eternity
+Kayıp Sonsuzluk
+
+Dragon Scale
+Ejderha Pulu
+
+Star Fury
+Yıldız Öfkesi
+
+Desolate Snow
+Desolate Snow
+
+Black Smoke
+Black Smoke
+
+Redemption finger
+Redemption finger
+
+Demon Spine
+Demon Spine
+
+Pioneer Helm
+Pioneer Helm
+
+Pioneer Pendant
+Pioneer Pendant
+
+Pioneer Shoulders
+Pioneer Shoulders
+
+Pioneer Armor
+Pioneer Armor
+
+Pioneer Belt
+Pioneer Belt
+
+Pioneer Boots
+Pioneer Boots
+
+Pioneer Legplates
+Pioneer Legplates
+
+Pioneer Bracers
+Pioneer Bracers
+
+Pioneer Ring (Left)
+Pioneer Ring (Left)
+
+Pioneer Ring (Right)
+Pioneer Ring (Right)
+
+Giant Helm
+Giant Helm
+
+giant pendant
+giant pendant
+
+Giant Pauldrons
+Giant Pauldrons
+
+Giant Armor
+Giant Armor
+
+Giant Belt
+Giant Belt
+
+Giant Boots
+Giant Boots
+
+Giant Legplates
+Giant Legplates
+
+Giant Bracers
+Giant Bracers
+
+giant ring (left)
+giant ring (left)
+
+Giant Ring (Right)
+Giant Ring (Right)
+
+Reaper Mask
+Reaper Mask
+
+Reaper Pendant
+Reaper Pendant
+
+Reaper Cloak
+Reaper Cloak
+
+Reaper Suit	
+Reaper Suit	
+
+Reaper Belt
+Reaper Belt
+
+Reaper Boots
+Reaper Boots
+
+Reaper Shorts
+Reaper Shorts
+
+Reaper Gloves
+Reaper Gloves
+
+reaper ring (left)
+reaper ring (left)
+
+reaper ring (right)
+reaper ring (right)
+
+Destroyer Hat
+Destroyer Hat
+
+Destroyer Pendant
+Destroyer Pendant
+
+Destroyer Cape
+Destroyer Cape
+
+Destroyer Armor
+Destroyer Armor
+
+Destroyer Belt
+Destroyer Belt
+
+Destroyer Boots
+Destroyer Boots
+
+Destroyer Pants
+Destroyer Pants
+
+Destroyer Gauntlets
+Destroyer Gauntlets
+
+Destroyer ring (left)
+Destroyer ring (left)
+
+Destroyer ring (right)
+Destroyer ring (right)
+
+Winter helmet
+Winter helmet
+
+Winter Pendant
+Winter Pendant
+
+winter cloak
+winter cloak
+
+Winter armor
+Winter armor
+
+Winter Belt
+Winter Belt
+
+winter boots
+winter boots
+
+Winter Leggings
+Winter Leggings
+
+Winter bracelet
+Winter bracelet
+
+Winter ring (left)
+Winter ring (left)
+
+Winter ring (right)
+Winter ring (right)
+
+Inferno helmet
+Inferno helmet
+
+Inferno Pendant
+Inferno Pendant
+
+Inferno cape
+Inferno cape
+
+Inferno Armor
+Inferno Armor
+
+Inferno Belt
+Inferno Belt
+
+Inferno boots
+Inferno boots
+
+Inferno Leggings
+Inferno Leggings
+
+Inferno bracelet
+Inferno bracelet
+
+Inferno ring (left)
+Inferno ring (left)
+
+Inferno ring (right)
+Inferno ring (right)
+
+Revival headband
+Revival headband
+
+Revival Pendant
+Revival Pendant
+
+Revival cape
+Revival cape
+
+Revival Robe
+Revival Robe
+
+Revival Belt
+Revival Belt
+
+Revival boots
+Revival boots
+
+Revival Leggings
+Revival Leggings
+
+Revival bracelet
+Revival bracelet
+
+Revival ring (left)
+Revival ring (left)
+
+Revival ring (right)
+Revival ring (right)
+
+Undead mask
+Undead mask
+
+Undead Pendant
+Undead Pendant
+
+Undead Cloak
+Undead Cloak
+
+Undead Tabard
+Undead Tabard
+
+Undead Belt
+Undead Belt
+
+Undead Boots
+Undead Boots
+
+Undead Leggings
+Undead Leggings
+
+Undead bracelet
+Undead bracelet
+
+Undead Ring (Left)
+Undead Ring (Left)
+
+Undead Ring (Right)
+Undead Ring (Right)
+
+Evil Purger
+Evil Purger
+
+Thor Hammer
+Thor Hammer
+
+Revenge Tooth
+Revenge Tooth
+
+Phoenix Longbow
+Phoenix Longbow
+
+Poseidon Trident
+Poseidon Trident
+
+Burning Corona
+Burning Corona
+
+Salvation Cross
+Salvation Cross
+
+Death Scythe
+Death Scythe
+
+Realm Pack
+Realm Pack
+
+Saviour helmet
+Saviour helmet
+
+Saviour Pendant
+Saviour Pendant
+
+Saviour Shoulders
+Saviour Shoulders
+
+Saviour Battlegear
+Saviour Battlegear
+
+Saviour Waistguard
+Saviour Waistguard
+
+Saviour boots
+Saviour boots
+
+Saviour Legplates
+Saviour Legplates
+
+Saviour Bracers
+Saviour Bracers
+
+Saviour ring (left)
+Saviour ring (left)
+
+Saviour ring (right)
+Saviour ring (right)
+
+Patronus helmet
+Patronus helmet
+
+Patronus Pendant
+Patronus Pendant
+
+Patronus Pauldrons
+Patronus Pauldrons
+
+Patronus Armor
+Patronus Armor
+
+Patronus Waist
+Patronus Waist
+
+Patronus boots
+Patronus boots
+
+Patronus Legplates
+Patronus Legplates
+
+Patronus Bracers
+Patronus Bracers
+
+Patronus ring (left)
+Patronus ring (left)
+
+Patronus ring (right)
+Patronus ring (right)
+
+Slaughterer Mask
+Slaughterer Mask
+
+Slaughterer Pendant
+Slaughterer Pendant
+
+Slaughterer Cloak
+Slaughterer Cloak
+
+Slaughterer Suit
+Slaughterer Suit
+
+Slaughterer Belt
+Slaughterer Belt
+
+Slaughterer Boots
+Slaughterer Boots
+
+Slaughterer Trousers
+Slaughterer Trousers
+
+Slaughterer Gloves
+Slaughterer Gloves
+
+Slaughterer Ring (Left)
+Slaughterer Ring (Left)
+
+Slaughterer Ring (Right)
+Slaughterer Ring (Right)
+
+Dominator hat
+Dominator hat
+
+Dominator Pendant
+Dominator Pendant
+
+Dominator Shawl
+Dominator Shawl
+
+Dominator Armor
+Dominator Armor
+
+Dominator Belt
+Dominator Belt
+
+Dominator Boots
+Dominator Boots
+
+Dominator Leggings
+Dominator Leggings
+
+Dominator Gauntlets
+Dominator Gauntlets
+
+Dominator ring (left)
+Dominator ring (left)
+
+Dominator ring (right)
+Dominator ring (right)
+
+Tsunami crown
+Tsunami crown
+
+Tsunami Pendant
+Tsunami Pendant
+
+Tsunami cape
+Tsunami cape
+
+Tsunami Tabard
+Tsunami Tabard
+
+Tsunami Belt
+Tsunami Belt
+
+Tsunami boots
+Tsunami boots
+
+Tsunami Leggings
+Tsunami Leggings
+
+Tsunami bracelet
+Tsunami bracelet
+
+Tsunami ring left hand
+Tsunami ring left hand
+
+Tsunami ring right hand
+Tsunami ring right hand
+
+Sunfire Cap
+Sunfire Cap
+
+Sunfire Charm
+Sunfire Charm
+
+Sunfire Cloak
+Sunfire Cloak
+
+Sunfire Robe
+Sunfire Robe
+
+Sunfire Belt
+Sunfire Belt
+
+Sunfire boots
+Sunfire boots
+
+Sunfire Leggings
+Sunfire Leggings
+
+Sunfire bracelet
+Sunfire bracelet
+
+Sunfire ring (left)
+Sunfire ring (left)
+
+Sunfire Ring (Right)
+Sunfire Ring (Right)
+
+Celestial Halo
+Celestial Halo
+
+Celestial pendant
+Celestial pendant
+
+Celestial Wings
+Celestial Wings
+
+Celestial robe
+Celestial robe
+
+Celestial Girdle
+Celestial Girdle
+
+Celestial Boots
+Celestial Boots
+
+Celestial Leggings
+Celestial Leggings
+
+Celestial bracelet
+Celestial bracelet
+
+Celestial ring (left)
+Celestial ring (left)
+
+Celestial ring (right)
+Celestial ring (right)
+
+Sacrifice Mask
+Sacrifice Mask
+
+Sacrifice Pendant
+Sacrifice Pendant
+
+Sacrifice Cloak
+Sacrifice Cloak
+
+Sacrifice Tabard
+Sacrifice Tabard
+
+Sacrifice belt
+Sacrifice belt
+
+Sacrifice boots
+Sacrifice boots
+
+Sacrifice Leggings
+Sacrifice Leggings
+
+Sacrifice bracelet
+Sacrifice bracelet
+
+Sacrifice ring (left)
+Kurban yüzüğü (sol)
+
+Sacrifice ring (right)
+Kurban yüzüğü (sağ)
+
+War badge {d}
+Savaş rozeti $1
+
+_Arena lzs0lzs2250lzs1lzsGold medal
+_Arena lzs0lzs2250lzs1lzsAltın madalya
+
+_Arena lzs0lzs2249lzs1lzsSilver medal
+_Arena lzs0lzs2249lzs1lzsGümüş madalya
+
+_Arena lzs0lzs2248lzs1lzsBlue medal
+_Arena lzs0lzs2248lzs1lzsMavi madalya
+
+_Arena lzs0lzs2247lzs1lzsWhite medal
+_Arena lzs0lzs2247lzs1lzsBeyaz madalya
+
+_Arena Outstanding
+_Arena Üstün madalya
+
+Arena medal
+Arena madalya
+
+_Tactical lzs0lzs2250lzs1lzsGold medal
+_Taktiksel lzs0lzs2250lzs1lzsAltın madalya
+
+_Tactical lzs0lzs2249lzs1lzsSilver medal
+_Taktiksel lzs0lzs2249lzs1lzsGümüş madalya
+
+_Tactical lzs0lzs2248lzs1lzsBlue medal
+_Taktiksel lzs0lzs2248lzs1lzsMavi madalya
+
+_Tactical lzs0lzs2247lzs1lzsWhite medal
+_Taktiksel lzs0lzs2247lzs1lzsBeyaz madalya
+
+_Tactical Outstanding
+_Taktiksel Üstün madalya
+
+Tactical medal
+Taktiksel madalya
+
+One Star Attack Medal
+Bir Yıldız Saldırı Madalyası
+
+Two Star Attack Medal
+İki Yıldız Saldırı Madalyası
+
+Three Star Attack Medal
+Üç Yıldız Saldırı Madalyası
+
+Four Star Attack Medal
+Dört Yıldızlı Saldırı Madalyası
+
+Five Star Attack Medal
+Beş Yıldızlı Saldırı Madalyası
+
+Medal of the demon Hunting boy
+İblis Avcısı çocuğun madalyası
+
+Medal of the Demon Chasing girl
+İblis Kovalayan Kız Madalyası
+
+Medal of adored by Female Soldiers
+Kadın Askerlerin Sevdiği Madalya
+
+Medal of loved by the Counts
+Kontlar tarafından sevilen madalya
+
+Princess's Kiss
+Prensesin Öpücüğü
+
+Prince's Tears
+Prensin Gözyaşları
+
+White skeleton
+Beyaz iskelet
+
+Bloody Skeleton
+Kanlı İskelet
+
+Undead Skeleton
+Ölümsüz İskelet
+
+Demon Skeleton
+Şeytan İskeleti
+
+Gold medal of Hunting
+Avcılık altın madalyası
+
+Silver medal of Hunting
+Avcılık gümüş madalyası
+
+Blue medal of Hunting
+Mavi Avcılık Madalyası
+
+White medal of Hunting
+Beyaz Avcılık Madalyası
+
+Expert of Hunting
+Avcılık Uzmanı
+
+Apprentice of Hunting
+Avcılık Çırağı
+
+gold wedding ring
+altın alyans
+
+Platinum wedding ring
+platin alyans
+
+lzs0lzs2243lzs1lzsdiamond wedding ring
+lzs0lzs2243lzs1lzselmas alyans
+
+Tutor Medal
+Öğretmen Madalyası
+
+Benevolent Medal
+Hayırsever Madalyası
+
+Kindhearted Medal
+İyi Kalplilik Madalya
+
+Renowned Medal
+Ünlülük Madalyası
+
+Master Medal
+Usta Madalyası
+
+Contribution Medal
+Katkı Madalyası
+
+Mist god Emblem
+sis tanrısı amblemi
+
+Crispy potato and vegetable pie
+Çıtır patates ve sebzeli börek
+
+concentric knot
+eşmerkezli düğüm
+
+Five-Nuts Osmanthus Cake
+Beş Cevizli Osmanthus Kek
+
+Festival Medal
+Festival Madalyası
+
+Great iron sword
+Harika demir kılıç
+
+Epic iron sword
+Destansı demir kılıç
+
+Heavenly iron sword
+göksel demir kılıç
+
+Godbless iron sword
+Tanrısal demir kılıç
+
+Great iron hammer
+Harika demir çekiç
+
+Epic iron hammer
+Destansı demir çekiç
+
+Heavenly iron hammer
+Göksel demir çekiç
+
+Godbless iron hammer
+Tanrısal demir çekiç
+
+Great dagger
+Harika hançer
+
+Epic dagger
+destansı hançer
+
+Heavenly dagger
+göksel hançer
+
+Godbless dagger
+Tanrısal hançer
+
+Great wooden bow
+Harika ahşap yay
+
+Epic wooden bow
+Destansı ahşap yay
+
+Heavenly wooden bow
+göksel ahşap yay
+
+Godbless wooden bow
+Tanrısal  ahşap yay
+
+Great Ivy Staff
+Great Ivy Staff
+
+Epic Ivy Staff
+Epic Ivy Staff
+
+Heavenly Ivy Staff
+Heavenly Ivy Staff
+
+Godbless Ivy Staff
+Godbless Ivy Staff
+
+Great Ivy Scepter
+Great Ivy Scepter
+
+Epic Ivy Scepter
+Epic Ivy Scepter
+
+Heavenly Ivy Scepter
+Heavenly Ivy Scepter
+
+Godbless Ivy Scepter
+Godbless Ivy Scepter
+
+Great bronze Set
+Harika bronz Seti
+
+Epic bronze Set
+Harika bronz Set
+
+Heavenly bronze Set
+Heavenly bronze Set
+
+Godbless bronze Set
+Godbless bronze Set
+
+Great silk Set
+Harika İpek Seti
+
+Epic silk Set
+destansı ipek seti
+
+Heavenly silk Set
+Göksel ipek Seti
+
+Godbless silk Set
+Tanrısal ipek Seti
+
+Great Sword of Fighter
+Great Sword of Fighter
+
+Epic Sword of Fighter
+Epic Sword of Fighter
+
+Heavenly Sword of Fighter
+Heavenly Sword of Fighter
+
+Godbless Sword of Fighter
+Godbless Sword of Fighter
+
+Great machete of Berserker
+Harika Vahşinin palası
+
+Epic machete of Berserker
+Epic machete of Berserker
+
+Heavenly machete of Berserker
+Heavenly machete of Berserker
+
+Godbless machete of Berserker
+Godbless machete of Berserker
+
+Great Blade of Killer
+Great Blade of Killer
+
+Epic Blade of Killer
+Epic Blade of Killer
+
+Heavenly Blade of Killer
+Heavenly Blade of Killer
+
+Godbless Blade of Killer
+Godbless Blade of Killer
+
+Great Bow of chaser
+Harika Avcının yayı
+
+Epic Bow of chaser
+Epic Bow of chaser
+
+Heavenly Bow of chaser
+Heavenly Bow of chaser
+
+Godbless Bow of chaser
+Godbless Bow of chaser
+
+Great Staff of Wisdom
+Harika Hikmet Asası
+
+Epic Staff of Wisdom
+Epic Staff of Wisdom
+
+Heavenly Staff of Wisdom
+Heavenly Staff of Wisdom
+
+Godbless Staff of Wisdom
+Godbless Staff of Wisdom
+
+Great Staff of Nature
+Great Staff of Nature
+
+Epic Staff of Nature
+Epic Staff of Nature
+
+Heavenly Staff of Nature
+Heavenly Staff of Nature
+
+Godbless Staff of Nature
+Godbless Staff of Nature
+
+Great Scepter of Mercy
+Great Scepter of Mercy
+
+Epic Scepter of Mercy
+Epic Scepter of Mercy
+
+Heavenly Scepter of Mercy
+Heavenly Scepter of Mercy
+
+Godbless Scepter of Mercy
+Godbless Scepter of Mercy
+
+Great Scepter of Bones
+Great Scepter of Bones
+
+Epic Scepter of Bones
+Epic Scepter of Bones
+
+Heavenly Scepter of Bones
+Heavenly Scepter of Bones
+
+Godbless Scepter of Bones
+Godbless Scepter of Bones
+
+Great fighter Set
+Harika dövüşçü seti
+
+Epic fighter Set
+Epic fighter Set
+
+Heavenly fighter Set
+Heavenly fighter Set
+
+Godbless fighter Set
+Tanrısal savaşçı Seti
+
+Great Berserker Set
+Harika Vahşi Seti
+
+Epic Berserker Set
+Destansı Berserker Seti
+
+Heavenly Berserker Set
+Heavenly Berserker Set
+
+Godbless Berserker Set
+Godbless Berserker Set
+
+Great killer Set
+Great killer Set
+
+Epic killer Set
+Epic killer Set
+
+Heavenly killer Set
+Heavenly killer Set
+
+Godbless killer Set
+Godbless killer Set
+
+Great chaser Set
+Harika Avcı Seti
+
+Epic chaser Set
+Epic chaser Set
+
+Heavenly chaser Set
+Heavenly chaser Set
+
+Godbless chaser Set
+Godbless chaser Set
+
+Great Wisdom Set
+Harika Bilgelik Seti
+
+Epic Wisdom Set
+Destansı Bilgelik Seti
+
+Heavenly Wisdom Set
+Göksel Bilgelik Seti
+
+Godbless Wisdom Set
+Tanrısal Bilgelik Seti
+
+Great colorful Set
+Harika renkli Set
+
+Epic colorful Set
+Epic colorful Set
+
+Heavenly colorful Set
+Heavenly colorful Set
+
+Godbless colorful Set
+Godbless colorful Set
+
+Great charity Set
+Great charity Set
+
+Epic charity Set
+Epic charity Set
+
+Heavenly charity Set
+Heavenly charity Set
+
+Godbless charity Set
+Godbless charity Set
+
+Great Skull Set
+Great Skull Set
+
+Epic Skull Set
+Epic Skull Set
+
+Heavenly Skull Set
+Heavenly Skull Set
+
+Godbless Skull Set
+Godbless Skull Set
+
+Great Ocean Roaring
+Great Ocean Roaring
+
+Epic Ocean Roaring
+Epic Ocean Roaring
+
+Heavenly Ocean Roaring
+Heavenly Ocean Roaring
+
+Godbless Ocean Roaring
+Godbless Ocean Roaring
+
+Great Mountain Crushing
+Great Mountain Crushing
+
+Epic Mountain Crushing
+Epic Mountain Crushing
+
+Heavenly Mountain Crushing
+Heavenly Mountain Crushing
+
+Godbless Mountain Crushing
+Godbless Mountain Crushing
+
+Great Shadow Kissing
+Great Shadow Kissing
+
+Epic Shadow Kissing
+Epic Shadow Kissing
+
+Heavenly Shadow Kissing
+Heavenly Shadow Kissing
+
+Godbless Shadow Kissing
+Godbless Shadow Kissing
+
+Great Wind Dancing
+Harika Rüzgarın Dansı
+
+Epic Wind Dancing
+Epic Wind Dancing
+
+Heavenly Wind Dancing
+Heavenly Wind Dancing
+
+Godbless Wind Dancing
+Godbless Wind Dancing
+
+Great Ice Sighing
+Great Ice Sighing
+
+Epic Ice Sighing
+Epic Ice Sighing
+
+Heavenly Ice Sighing
+Heavenly Ice Sighing
+
+Godbless Ice Sighing
+Godbless Ice Sighing
+
+Great Fire Enveloping
+Great Fire Enveloping
+
+Epic Fire Enveloping
+Epic Fire Enveloping
+
+Heavenly Fire Enveloping
+Heavenly Fire Enveloping
+
+Godbless Fire Enveloping
+Godbless Fire Enveloping
+
+Great Light Weaving
+Great Light Weaving
+
+Epic Light Weaving
+Epic Light Weaving
+
+Heavenly Light Weaving
+Heavenly Light Weaving
+
+Godbless Light Weaving
+Godbless Light Weaving
+
+Great Soul Sucking
+harika ruh emici
+
+Epic Soul Sucking
+Destansı Ruh Emici
+
+Heavenly Soul Sucking
+Heavenly Soul Sucking
+
+Godbless Soul Sucking
+Godbless Soul Sucking
+
+Great Fencer Set
+Great Fencer Set
+
+Epic Fencer Set
+Epic Fencer Set
+
+Heavenly Fencer Set
+Heavenly Fencer Set
+
+Godbless Fencer Set
+Godbless Fencer Set
+
+Great Gladiator Set
+Harika Gladyatör Seti
+
+Epic Gladiator Set
+Epic Gladiator Set
+
+Heavenly Gladiator Set
+Heavenly Gladiator Set
+
+Godbless Gladiator Set
+Godbless Gladiator Set
+
+Great Tearer Set
+Harika Yırtıcı Seti
+
+Epic Tearer Set
+Epic Tearer Set
+
+Heavenly Tearer Set
+Heavenly Tearer Set
+
+Godbless Tearer Set
+Godbless Tearer Set
+
+Great Windrunner Set
+Harika rüzgar koşucusu Seti
+
+Epic Windrunner Set
+Epic Windrunner Set
+
+Heavenly Windrunner Set
+Heavenly Windrunner Set
+
+Godbless Windrunner Set
+Godbless Windrunner Set
+
+Great Freezing Set
+Harika Dondurucu Seti
+
+Epic Freezing Set
+Epic Freezing Set
+
+Heavenly Freezing Set
+Heavenly Freezing Set
+
+Godbless Freezing Set
+Godbless Freezing Set
+
+Great Flaming Set
+Harika Alev Seti
+
+Epic Flaming Set
+Destansı Alev Seti
+
+Heavenly Flaming Set
+Göksel Alev Seti
+
+Godbless Flaming Set
+Tanrısal Alev Seti
+
+Great Radiant Set
+Harika Işıltı Seti
+
+Epic Radiant Set
+Epic Radiant Set
+
+Heavenly Radiant Set
+Heavenly Radiant Set
+
+Godbless Radiant Set
+Godbless Radiant Set
+
+Great Ghost Set
+Harika Hayalet Seti
+
+Epic Ghost Set
+Destansı Hayalet Seti
+
+Heavenly Ghost Set
+Göksel Hayalet Seti
+
+Godbless Ghost Set
+Tanrısal Hayalet Seti
+
+Great Solemn Oath
+Great Solemn Oath
+
+Epic Solemn Oath
+Epic Solemn Oath
+
+Heavenly Solemn Oath
+Heavenly Solemn Oath
+
+Godbless Solemn Oath
+Godbless Solemn Oath
+
+Great Savage invader
+Great Savage invader
+
+Epic Savage invader
+Epic Savage invader
+
+Heavenly Savage invader
+Heavenly Savage invader
+
+Godbless Savage invader
+Godbless Savage invader
+
+Great Grief Bringer
+Great Grief Bringer
+
+Epic Grief Bringer
+Epic Grief Bringer
+
+Heavenly Grief Bringer
+Heavenly Grief Bringer
+
+Godbless Grief Bringer
+Godbless Grief Bringer
+
+Great Mutant Slayer
+Great Mutant Slayer
+
+Epic Mutant Slayer
+Epic Mutant Slayer
+
+Heavenly Mutant Slayer
+Heavenly Mutant Slayer
+
+Godbless Mutant Slayer
+Godbless Mutant Slayer
+
+Great Frost Sorrow
+Great Frost Sorrow
+
+Epic Frost Sorrow
+Epic Frost Sorrow
+
+Heavenly Frost Sorrow
+Heavenly Frost Sorrow
+
+Godbless Frost Sorrow
+Godbless Frost Sorrow
+
+Great Scorching Torch
+Great Scorching Torch
+
+Epic Scorching Torch
+Epic Scorching Torch
+
+Heavenly Scorching Torch
+Heavenly Scorching Torch
+
+Godbless Scorching Torch
+Godbless Scorching Torch
+
+Great Praying seraph
+Great Praying seraph
+
+Epic Praying seraph
+Epic Praying seraph
+
+Heavenly Praying seraph
+Heavenly Praying seraph
+
+Godbless Praying seraph
+Godbless Praying seraph
+
+Great Griffin Claw
+Great Griffin Claw
+
+Epic Griffin Claw
+Epic Griffin Claw
+
+Heavenly Griffin Claw
+Heavenly Griffin Claw
+
+Godbless Griffin Claw
+Godbless Griffin Claw
+
+Great Honor Set
+Great Honor Set
+
+Epic Honor Set
+Epic Honor Set
+
+Heavenly Honor Set
+Heavenly Honor Set
+
+Godbless Honor Set
+Godbless Honor Set
+
+Great Barbarian Set
+Great Barbarian Set
+
+Epic Barbarian Set
+Epic Barbarian Set
+
+Heavenly Barbarian Set
+Heavenly Barbarian Set
+
+Godbless Barbarian Set
+Godbless Barbarian Set
+
+Great ascetic Set
+Great ascetic Set
+
+Epic ascetic Set
+Epic ascetic Set
+
+Heavenly ascetic Set
+Heavenly ascetic Set
+
+Godbless ascetic Set
+Godbless ascetic Set
+
+Great Raider Set
+Great Raider Set
+
+Epic Raider Set
+Epic Raider Set
+
+Heavenly Raider Set
+Heavenly Raider Set
+
+Godbless Raider Set
+Godbless Raider Set
+
+Great Frost Set
+Great Frost Set
+
+Epic Frost Set
+Epic Frost Set
+
+Heavenly Frost Set
+Heavenly Frost Set
+
+Godbless Frost Set
+Godbless Frost Set
+
+Great wildfire Set
+Great wildfire Set
+
+Epic wildfire Set
+Epic wildfire Set
+
+Heavenly wildfire Set
+Heavenly wildfire Set
+
+Godbless wildfire Set
+Godbless wildfire Set
+
+Great angel Set
+Great angel Set
+
+Epic angel Set
+Epic angel Set
+
+Heavenly angel Set
+Heavenly angel Set
+
+Godbless angel Set
+Godbless angel Set
+
+Great Lich Set
+Great Lich Set
+
+Epic Lich Set
+Epic Lich Set
+
+Heavenly Lich Set
+Heavenly Lich Set
+
+Godbless Lich Set
+Godbless Lich Set
+
+Great Ribcracker
+Great Ribcracker
+
+Epic Ribcracker
+Epic Ribcracker
+
+Heavenly Ribcracker
+Heavenly Ribcracker
+
+Godbless Ribcracker
+Godbless Ribcracker
+
+Great Tornado Scourge
+Great Tornado Scourge
+
+Epic Tornado Scourge
+Epic Tornado Scourge
+
+Heavenly Tornado Scourge
+Heavenly Tornado Scourge
+
+Godbless Tornado Scourge
+Godbless Tornado Scourge
+
+Great Invisible Claw
+Great Invisible Claw
+
+Epic Invisible Claw
+Epic Invisible Claw
+
+Heavenly Invisible Claw
+Heavenly Invisible Claw
+
+Godbless Invisible Claw
+Godbless Invisible Claw
+
+Great Heart Hitter
+Great Heart Hitter
+
+Epic Heart Hitter
+Epic Heart Hitter
+
+Heavenly Heart Hitter
+Heavenly Heart Hitter
+
+Godbless Heart Hitter
+Godbless Heart Hitter
+
+Great Pelting Hail
+Great Pelting Hail
+
+Epic Pelting Hail
+Epic Pelting Hail
+
+Heavenly Pelting Hail
+Heavenly Pelting Hail
+
+Godbless Pelting Hail
+Godbless Pelting Hail
+
+Great Thousands Blast
+Great Thousands Blast
+
+Epic Thousands Blast
+Epic Thousands Blast
+
+Heavenly Thousands Blast
+Heavenly Thousands Blast
+
+Godbless Thousands Blast
+Godbless Thousands Blast
+
+Great Inspire Scepter
+Great Inspire Scepter
+
+Epic Inspire Scepter
+Epic Inspire Scepter
+
+Heavenly Inspire Scepter
+Heavenly Inspire Scepter
+
+Godbless Inspire Scepter
+Godbless Inspire Scepter
+
+Great Terror Scepter
+Great Terror Scepter
+
+Epic Terror Scepter
+Epic Terror Scepter
+
+Heavenly Terror Scepter
+Heavenly Terror Scepter
+
+Godbless Terror Scepter
+Godbless Terror Scepter
+
+Great Champion Set
+Great Champion Set
+
+Epic Champion Set
+Epic Champion Set
+
+Heavenly Champion Set
+Heavenly Champion Set
+
+Godbless Champion Set
+Godbless Champion Set
+
+Great Rampage Set
+Great Rampage Set
+
+Epic Rampage Set
+Epic Rampage Set
+
+Heavenly Rampage Set
+Heavenly Rampage Set
+
+Godbless Rampage Set
+Godbless Rampage Set
+
+Great Stealth Set
+Great Stealth Set
+
+Epic Stealth Set
+Epic Stealth Set
+
+Heavenly Stealth Set
+Heavenly Stealth Set
+
+Godbless Stealth Set
+Godbless Stealth Set
+
+Great sniper Set
+Great sniper Set
+
+Epic sniper Set
+Epic sniper Set
+
+Heavenly sniper Set
+Heavenly sniper Set
+
+Godbless sniper Set
+Godbless sniper Set
+
+Great Blizzard Set
+Great Blizzard Set
+
+Epic Blizzard Set
+Epic Blizzard Set
+
+Heavenly Blizzard Set
+Heavenly Blizzard Set
+
+Godbless Blizzard Set
+Godbless Blizzard Set
+
+Great Firestorm Set
+Great Firestorm Set
+
+Epic Firestorm Set
+Epic Firestorm Set
+
+Heavenly Firestorm Set
+Heavenly Firestorm Set
+
+Godbless Firestorm Set
+Godbless Firestorm Set
+
+Great Sermon Set
+Great Sermon Set
+
+Epic Sermon Set
+Epic Sermon Set
+
+Heavenly Sermon Set
+Heavenly Sermon Set
+
+Godbless Sermon Set
+Godbless Sermon Set
+
+Great Horror Set
+Great Horror Set
+
+Epic Horror Set
+Epic Horror Set
+
+Heavenly Horror Set
+Heavenly Horror Set
+
+Godbless Horror Set
+Godbless Horror Set
+
+Great Royal Victory
+Great Royal Victory
+
+Epic Royal Victory
+Epic Royal Victory
+
+Heavenly Royal Victory
+Heavenly Royal Victory
+
+Godbless Royal Victory
+Godbless Royal Victory
+
+Great Lethal Warhammer
+Great Lethal Warhammer
+
+Epic Lethal Warhammer
+Epic Lethal Warhammer
+
+Heavenly Lethal Warhammer
+Heavenly Lethal Warhammer
+
+Godbless Lethal Warhammer
+Godbless Lethal Warhammer
+
+Great Bloodletting razor	
+Great Bloodletting razor	
+
+Epic Bloodletting razor	
+Epic Bloodletting razor	
+
+Heavenly Bloodletting razor	
+Heavenly Bloodletting razor	
+
+Godbless Bloodletting razor	
+Godbless Bloodletting razor	
+
+Great Hydra crossbow
+Great Hydra crossbow
+
+Epic Hydra crossbow
+Epic Hydra crossbow
+
+Heavenly Hydra crossbow
+Heavenly Hydra crossbow
+
+Godbless Hydra crossbow
+Godbless Hydra crossbow
+
+Great Sealing Moon
+Great Sealing Moon
+
+Epic Sealing Moon
+Epic Sealing Moon
+
+Heavenly Sealing Moon
+Heavenly Sealing Moon
+
+Godbless Sealing Moon
+Godbless Sealing Moon
+
+Great eruption Magma
+Great eruption Magma
+
+Epic eruption Magma
+Epic eruption Magma
+
+Heavenly eruption Magma
+Heavenly eruption Magma
+
+Godbless eruption Magma
+Godbless eruption Magma
+
+Great Pure Wisdom
+Great Pure Wisdom
+
+Epic Pure Wisdom
+Epic Pure Wisdom
+
+Heavenly Pure Wisdom
+Heavenly Pure Wisdom
+
+Godbless Pure Wisdom
+Godbless Pure Wisdom
+
+Great mummy Curse
+Great mummy Curse
+
+Epic mummy Curse
+Epic mummy Curse
+
+Heavenly mummy Curse
+Heavenly mummy Curse
+
+Godbless mummy Curse
+Godbless mummy Curse
+
+Great hero Set
+Great hero Set
+
+Epic hero Set
+Epic hero Set
+
+Heavenly hero Set
+Heavenly hero Set
+
+Godbless hero Set
+Godbless hero Set
+
+Great Sentinel Set
+Great Sentinel Set
+
+Epic Sentinel Set
+Epic Sentinel Set
+
+Heavenly Sentinel Set
+Heavenly Sentinel Set
+
+Godbless Sentinel Set
+Godbless Sentinel Set
+
+Great Executioner Set
+Great Executioner Set
+
+Epic Executioner Set
+Epic Executioner Set
+
+Heavenly Executioner Set
+Heavenly Executioner Set
+
+Godbless Executioner Set
+Godbless Executioner Set
+
+Great Penetrator Set
+Great Penetrator Set
+
+Epic Penetrator Set
+Epic Penetrator Set
+
+Heavenly Penetrator Set
+Heavenly Penetrator Set
+
+Godbless Penetrator Set
+Godbless Penetrator Set
+
+Great Glacier Set
+Great Glacier Set
+
+Epic Glacier Set
+Epic Glacier Set
+
+Heavenly Glacier Set
+Heavenly Glacier Set
+
+Godbless Glacier Set
+Godbless Glacier Set
+
+Great Volcano Set
+Great Volcano Set
+
+Epic Volcano Set
+Epic Volcano Set
+
+Heavenly Volcano Set
+Heavenly Volcano Set
+
+Godbless Volcano Set
+Godbless Volcano Set
+
+Great Saint Set
+Great Saint Set
+
+Epic Saint Set
+Epic Saint Set
+
+Heavenly Saint Set
+Heavenly Saint Set
+
+Godbless Saint Set
+Godbless Saint Set
+
+Great Toxin Set
+Great Toxin Set
+
+Epic Toxin Set
+Epic Toxin Set
+
+Heavenly Toxin Set
+Heavenly Toxin Set
+
+Godbless Toxin Set
+Godbless Toxin Set
+
+Great Broken Sky
+Great Broken Sky
+
+Epic Broken Sky
+Epic Broken Sky
+
+Heavenly Broken Sky
+Heavenly Broken Sky
+
+Godbless Broken Sky
+Godbless Broken Sky
+
+Great Lost Eternity
+Great Lost Eternity
+
+Epic Lost Eternity
+Epic Lost Eternity
+
+Heavenly Lost Eternity
+Heavenly Lost Eternity
+
+Godbless Lost Eternity
+Godbless Lost Eternity
+
+Great Dragon Scale
+Great Dragon Scale
+
+Epic Dragon Scale
+Epic Dragon Scale
+
+Heavenly Dragon Scale
+Heavenly Dragon Scale
+
+Godbless Dragon Scale
+Godbless Dragon Scale
+
+Great Star Fury
+Great Star Fury
+
+Epic Star Fury
+Epic Star Fury
+
+Heavenly Star Fury
+Heavenly Star Fury
+
+Godbless Star Fury
+Godbless Star Fury
+
+Great Desolate Snow
+Great Desolate Snow
+
+Epic Desolate Snow
+Epic Desolate Snow
+
+Heavenly Desolate Snow
+Heavenly Desolate Snow
+
+Godbless Desolate Snow
+Godbless Desolate Snow
+
+Great Black Smoke
+Great Black Smoke
+
+Epic Black Smoke
+Epic Black Smoke
+
+Heavenly Black Smoke
+Heavenly Black Smoke
+
+Godbless Black Smoke
+Godbless Black Smoke
+
+Great Redemption finger
+Great Redemption finger
+
+Epic Redemption finger
+Epic Redemption finger
+
+Heavenly Redemption finger
+Heavenly Redemption finger
+
+Godbless Redemption finger
+Godbless Redemption finger
+
+Great Demon Spine
+Great Demon Spine
+
+Epic Demon Spine
+Epic Demon Spine
+
+Heavenly Demon Spine
+Heavenly Demon Spine
+
+Godbless Demon Spine
+Godbless Demon Spine
+
+Great Pioneer Set
+Great Pioneer Set
+
+Epic Pioneer Set
+Epic Pioneer Set
+
+Heavenly Pioneer Set
+Heavenly Pioneer Set
+
+Godbless Pioneer Set
+Godbless Pioneer Set
+
+Great Giant Set
+Great Giant Set
+
+Epic Giant Set
+Epic Giant Set
+
+Heavenly Giant Set
+Heavenly Giant Set
+
+Godbless Giant Set
+Godbless Giant Set
+
+Great Reaper Set
+Great Reaper Set
+
+Epic Reaper Set
+Epic Reaper Set
+
+Heavenly Reaper Set
+Heavenly Reaper Set
+
+Godbless Reaper Set
+Godbless Reaper Set
+
+Great Destroyer Set
+Great Destroyer Set
+
+Epic Destroyer Set
+Epic Destroyer Set
+
+Heavenly Destroyer Set
+Heavenly Destroyer Set
+
+Godbless Destroyer Set
+Godbless Destroyer Set
+
+Great Winter Set
+Great Winter Set
+
+Epic Winter Set
+Epic Winter Set
+
+Heavenly Winter Set
+Heavenly Winter Set
+
+Godbless Winter Set
+Godbless Winter Set
+
+Great Inferno Set
+Great Inferno Set
+
+Epic Inferno Set
+Epic Inferno Set
+
+Heavenly Inferno Set
+Heavenly Inferno Set
+
+Godbless Inferno Set
+Godbless Inferno Set
+
+Great Revival Set
+Great Revival Set
+
+Epic Revival Set
+Epic Revival Set
+
+Heavenly Revival Set
+Heavenly Revival Set
+
+Godbless Revival Set
+Godbless Revival Set
+
+Great Undead Set
+Great Undead Set
+
+Epic Undead Set
+Epic Undead Set
+
+Heavenly Undead Set
+Heavenly Undead Set
+
+Godbless Undead Set
+Godbless Undead Set
+
+Great Evil Purger
+Great Evil Purger
+
+Epic Evil Purger
+Epic Evil Purger
+
+Heavenly Evil Purger
+Heavenly Evil Purger
+
+Godbless Evil Purger
+Godbless Evil Purger
+
+Great Thor Hammer
+Great Thor Hammer
+
+Epic Thor Hammer
+Epic Thor Hammer
+
+Heavenly Thor Hammer
+Heavenly Thor Hammer
+
+Godbless Thor Hammer
+Godbless Thor Hammer
+
+Great Revenge Tooth
+Great Revenge Tooth
+
+Epic Revenge Tooth
+Epic Revenge Tooth
+
+Heavenly Revenge Tooth
+Heavenly Revenge Tooth
+
+Godbless Revenge Tooth
+Godbless Revenge Tooth
+
+Great Phoenix Longbow
+Great Phoenix Longbow
+
+Epic Phoenix Longbow
+Epic Phoenix Longbow
+
+Heavenly Phoenix Longbow
+Heavenly Phoenix Longbow
+
+Godbless Phoenix Longbow
+Godbless Phoenix Longbow
+
+Great Poseidon Trident
+Great Poseidon Trident
+
+Epic Poseidon Trident
+Epic Poseidon Trident
+
+Heavenly Poseidon Trident
+Heavenly Poseidon Trident
+
+Godbless Poseidon Trident
+Godbless Poseidon Trident
+
+Great Burning Corona
+Great Burning Corona
+
+Epic Burning Corona
+Epic Burning Corona
+
+Heavenly Burning Corona
+Heavenly Burning Corona
+
+Godbless Burning Corona
+Godbless Burning Corona
+
+Great Salvation Cross
+Great Salvation Cross
+
+Epic Salvation Cross
+Epic Salvation Cross
+
+Heavenly Salvation Cross
+Heavenly Salvation Cross
+
+Godbless Salvation Cross
+Godbless Salvation Cross
+
+Great Death Scythe
+Great Death Scythe
+
+Epic Death Scythe
+Epic Death Scythe
+
+Heavenly Death Scythe
+Heavenly Death Scythe
+
+Godbless Death Scythe
+Godbless Death Scythe
+
+Great Saviour Set
+Great Saviour Set
+
+Epic Saviour Set
+Epic Saviour Set
+
+Heavenly Saviour Set
+Heavenly Saviour Set
+
+Godbless Saviour Set
+Godbless Saviour Set
+
+Great Patronus Set
+Great Patronus Set
+
+Epic Patronus Set
+Epic Patronus Set
+
+Heavenly Patronus Set
+Heavenly Patronus Set
+
+Godbless Patronus Set
+Godbless Patronus Set
+
+Great Slaughterer Set
+Great Slaughterer Set
+
+Epic Slaughterer Set
+Epic Slaughterer Set
+
+Heavenly Slaughterer Set
+Heavenly Slaughterer Set
+
+Godbless Slaughterer Set
+Godbless Slaughterer Set
+
+Great Dominator Set
+Great Dominator Set
+
+Epic Dominator Set
+Epic Dominator Set
+
+Heavenly Dominator Set
+Heavenly Dominator Set
+
+Godbless Dominator Set
+Godbless Dominator Set
+
+Great Tsunami Set
+Great Tsunami Set
+
+Epic Tsunami Set
+Epic Tsunami Set
+
+Heavenly Tsunami Set
+Heavenly Tsunami Set
+
+Godbless Tsunami Set
+Godbless Tsunami Set
+
+Great Sunfire Set
+Great Sunfire Set
+
+Epic Sunfire Set
+Epic Sunfire Set
+
+Heavenly Sunfire Set
+Heavenly Sunfire Set
+
+Godbless Sunfire Set
+Godbless Sunfire Set
+
+Great Celestial Set
+Great Celestial Set
+
+Epic Celestial Set
+Epic Celestial Set
+
+Heavenly Celestial Set
+Heavenly Celestial Set
+
+Godbless Celestial Set
+Godbless Celestial Set
+
+Great Sacrifice Set
+Great Sacrifice Set
+
+Epic Sacrifice Set
+Epic Sacrifice Set
+
+Heavenly Sacrifice Set
+Heavenly Sacrifice Set
+
+Godbless Sacrifice Set
+Godbless Sacrifice Set

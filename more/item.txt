@@ -1,0 +1,3422 @@
+Gold Coin
+Altın
+
+Arnebia
+arnebya
+
+Resurrection Crystal
+Diriliş Kristali
+
+Skill Protection Stone
+Beceri Koruma Taşı
+
+Hexagram Key
+Heksagram Anahtarı
+
+Romance Stone
+Aşk Taşı
+
+Lovebird Stone
+cennet papağanı taşı
+
+Eternity Stone
+sonsuzluk taşı
+
+Value Monthly Card
+Aylık Kart
+
+{d}x experience acceleration card
+$1x deneyim hızlandırma kartı
+
+Channel Card
+Kanal Kartı
+
+Channel group rename card
+Kanal grubu yeniden adlandırma kartı
+
+Yin-Yang Water
+Yin-Yang Suyu
+
+Blessed Pet Reset and Transfer Card
+Kutsanmış Evcil Hayvan Sıfırlama ve Transfer Kartı
+
+Player Rename Card
+Oyuncu Yeniden Adlandırma Kartı
+
+Pet rename card
+Evcil hayvan yeniden adlandırma kartı
+
+Gang Rename Card
+Çete Yeniden Adlandırma Kartı
+
+Gang Kill Order Token
+Çete Öldürme Emri jetonu
+
+Gang Token
+Çete jetonu
+
+Gang Environment Card-Greenery
+Çete Ortamı Kartı-Yeşillik
+
+Gang Environment Card-Bridge and Stream
+Çete Ortamı Kartı-Köprü ve Akarsu
+
+Gang Environment Card-Falling Leaves
+Çete Ortamı Kartı-Düşen Yapraklar
+
+Gang Environment Card-Snowy Fortress
+Çete Ortamı Kartı-Karlı Kale
+
+Worthless Blood
+Değersiz Kan
+
+Lesser Blood
+Düşük Kan
+
+medium Blood
+orta Kan
+
+Higher blood
+yüksek kan
+
+Excellent Blood
+Mükemmel Kan
+
+Premium Blood
+Premium Kan
+
+Worthless Jerky
+Değersiz Et
+
+Lesser Jerky
+Düşük Et
+
+Medium Jerky
+Orta Et
+
+Higher Jerky
+Yüksek Et
+
+Excellent Jerky
+Mükemmel Et
+
+Premium Jerky
+Premium Et
+
+Worthless Pelt
+Değersiz Kürk
+
+Lesser Pelt
+Düşük Kürk
+
+Medium Pelt
+Orta Kürk
+
+Higher Pelt
+Yüksek Kürk
+
+Excellent Pelt
+Mükemmel Kürk
+
+Premium Pelt
+Premium Kürk
+
+Snakeskin
+yılan derisi
+
+Anaconda's Gall
+Anakonda Safrası
+
+Insulating glue
+Yalıtım tutkalı
+
+Ironclad crystal
+Demir kaplı kristal
+
+Glowstone
+parıldayan taş
+
+Ebony Metal
+abanoz metali
+
+Suspicious Plating
+Şüpheli Kaplama
+
+Green cotton yarn
+Yeşil pamuk ipliği
+
+Red velvet
+kırmızı kadife
+
+Crystal Wolf Teeth
+Kristal Kurt Dişi
+
+Werewolf Soul Orb
+Kurt Adam Ruh Küresi
+
+Crystal coral
+kristal mercan
+
+Sea Spirit Soul Orb
+Deniz Elfi Ruh Küresi
+
+Turquoise Metal
+Turkuaz Metal
+
+White Bone Piece
+Beyaz Kemik Parçası
+
+Nether Fire
+Cehennem Ateşi
+
+Lesser Demon Core
+Küçük İblis Çekirdeği
+
+Glazed Diamond
+Değerli elmas
+
+Crystal horn
+kristal boynuz
+
+Minotaur Soul Orb
+Minotor Ruh Küresi
+
+Blood of Source
+Blood of Source
+
+Blood Spirit Soul Orb
+Kan Elfi Ruh Küresi
+
+Powerful magnet
+güçlü mıknatıs
+
+Liquid metal
+Sıvı metal
+
+Silver white metal
+gümüş beyazı metal
+
+Gel essence
+Jel özü
+
+Horseshoe stone
+At nalı taşı
+
+Wind Chaser Soul Orb
+Rüzgar Avcısı Ruh Küresi
+
+Medium Demon Essence
+Orta İblis Özü
+
+Lake Blue Diamond
+Göl Mavisi Elmas
+
+Crystal ivory
+kristal fildişi
+
+Mammoth Soul Orb
+Mamut Ruh Küresi
+
+Seed of Blaze
+Blaze Tohumu
+
+Flame Spirit Soul Orb
+Alev Elfi Ruh Küresi
+
+Bright Yellow Metal
+Parlak Sarı Metal
+
+Dark matter crystal
+Karanlık kristal
+
+Flame Feather
+alev tüyü
+
+Fire-capped tit soul orb
+Ateş başlıklı baştankara ruh küresi
+
+Earth Center Diamond
+Dünya Merkezi Elması
+
+Eternal Star
+Ebedi Yıldız
+
+Higher Demon Core
+Yüksek İblis Çekirdeği
+
+Dark Purple Gold
+Koyu Mor Altın
+
+Spiral Golden Horn
+Sarmal Haliç
+
+Unicorn Soul Orb
+Tek Boynuzlu Ruh Küresi
+
+Polar Ice
+Buzul ayısı
+
+Glacier Giant Bear Soul Fragment
+Buzul Dev Ayı Ruh Parçası
+
+Hexagon ice crystal
+altıgen buz kristali
+
+Frost Spirit Soul Orb
+Buz Canavarı Ruh Küresi
+
+Orb of Space-Time
+Uzay-Zaman Küresi
+
+Dimension Key
+Boyut Anahtarı
+
+Bactrian camel's metatarsal
+Bactrian devesinin metatarsalı
+
+Alpaca's Pelt
+alpaka postu
+
+Vulture's Claw
+Akbaba Pençesi
+
+Golden Eagle's Wings
+Altın Kartal'ın Kanatları
+
+Sand Snake's Fang
+Kum Yılanının Dişi
+
+Sand Snake's Scales
+Kum Yılanının Pulları
+
+Death Worm's Horn
+Ölüm Solucanının Boynuzu
+
+Death Worm's Venom Sac
+Ölüm Solucanının Zehir Kesesi
+
+Crested Penguin's Wings
+Tepeli Penguenin Kanatları
+
+Ring Seal's Paws
+Ring Seal'in Pençeleri
+
+Sea Lion's Whiskers
+Deniz Aslanının Bıyıkları
+
+Snow Leopard's Tail
+Kar Leoparının Kuyruğu
+
+White Bear's Gall
+Beyaz Ayının Safrası
+
+Ice Lizard's Tail
+Buz Kertenkelesinin Kuyruğu
+
+Ice Lizard's Tongue
+Buz Kertenkelesinin Dili
+
+Handmaiden's bracelet
+Hizmetçinin bileziği
+
+Handmaiden's hairpin
+hizmetçinin saç tokası
+
+Queen's Ice Orb
+Kraliçe'nin Buz Küresi
+
+Queen's Cold Jade
+Kraliçe'nin Soğuk Yeşimtaşı
+
+Gnome's pocket
+Cücenin cebi
+
+Goblin's Bamboo Bow
+Goblin'in Bambu Yayı
+
+Dwarf elf's staff
+Cüce elfin asası
+
+Dark elf's dagger
+kara elfin hançeri
+
+Dwarf's Hammer
+Cücenin Çekici
+
+Gnome Leader's Pocket
+Cüce Liderinin Cebi
+
+Goblin Leader's Bamboo Bow
+Goblin Liderinin Bambu Yayı
+
+Dwarf elf elder's staff
+Cüce elf liderinin asası
+
+Dark Elf Leader's Dagger
+Kara Elf Liderinin Hançeri
+
+Dwarf Leader's Hammer
+Cüce Liderinin Çekici
+
+Elven King's Arrows
+Elf Kralın Oku
+
+Elven King's Phalanx
+Elf Kralının Falanksı
+
+Robot Fly's Antenna
+Robot Sineğin Anteni
+
+Robot Bird's Wings
+Robot Kuşun Kanadı
+
+Robot Dog's Tail
+Robot Köpeğin Kuyruğu
+
+Robot Cat's Ears
+Robot Kedinin Kulağı
+
+Robot Dinosaur's Tooth
+Robot Dinozorun Dişi
+
+Robot Guard's Arm
+Robot Muhafızının kolu
+
+Robot Guard's Breastplate
+Robot Muhafızının Göğüs Zırhı
+
+Flame Researcher's Nozzle
+Alev Araştırmacısı Nozulu
+
+Bomb Researcher's Detonator
+Bomba Araştırmacısının Fünyesi
+
+The Doctor's Brain-Computer Chip
+Doktorun Beyin Çipi
+
+The Doctor's Motor Runner
+Doktorun Motoru
+
+Cannibal's Skull's
+Yamyamın Kafatası
+
+Cannibal Tooth
+yamyamın dişi
+
+Bloodthirsty Demon's Blood Core
+Kana susamış Şeytanın Kan Çekirdeği
+
+Bloodthirsty Demon's Spirit Orb
+Kana Susamış Şeytanın Ruh Küresi
+
+Little Devil's Tears
+Küçük Şeytanın Gözyaşı
+
+Little Devil's Wings
+Küçük Şeytanın Kanadı
+
+Lightning Spirit's Electric Orb
+Yıldırım Ruhunun Elektrik Küresi
+
+Lightning Spirit's yin-yang Charm
+Yıldırım Ruhunun yin-yang Cazibesi
+
+Thunder Beast's Thunder Core
+Yıldırım Canavarının Gök Gürültüsü Çekirdeği
+
+Thunder Beast's Thunder Charm
+Yıldırım Canavarının Gök Gürültüsü Cazibesi
+
+Two-Faced Demon's Man Face
+Çift Yüzlü Şeytanın Erkek Yüzü
+
+Two-Faced Demon's Woman Face
+Çift Yüzlü Şeytanın Kadın Yüzü
+
+Succubus's Eyeball
+Succubus'un Göz Küresi
+
+Succubus's Tongue
+Succubus'un Dili
+
+Thunder Lord's Broken palm
+Yıldırım Kralının Parçalanmış avuç içi
+
+Thunder Lord's Patella
+Yıldırım kralının diz kapağı
+
+Masked Knifeman's Machete
+Maskeli Bıçaklının Palası
+
+Masked Knifeman's Mask
+Maskeli Bıçaklının Maskesi
+
+Masked Thrower's Boomerang
+Maskeli Atıcının Bumerangı
+
+Masked Thrower's Mask
+Maskeli Atıcının Maskesi
+
+Aqua Witch's Crystal Staff
+Su Cadısının Kristal Asası
+
+Aqua Witch's Dress
+Su Cadısının Elbisesi
+
+Fire Witch's Flame Staff
+Ateş Cadısı'nın Alev Asası
+
+Fire Witch's Skirt
+Ateş Cadısının Eteği
+
+Temptress's Scepter
+Baştan çıkarıcının Asası
+
+Temptress's Cape
+Baştan Çıkarıcının Pelerini
+
+Nightmare's Soul
+Kabusun Ruhu
+
+Nightmare's Gemstone
+Kabusun Değerli Taşı
+
+Meteor Witch's Leather Vest
+Meteor Cadısı'nın Deri Yeleği
+
+Meteor Witch's Leather Dress
+Meteor Cadısı'nın Deri Elbisesi
+
+Meteor Queen's Black Ribbon
+Meteor Kraliçesinin Siyah Kurdelesi
+
+Meteor Queen's Luminous Pearl
+Meteor Kraliçesinin Aydınlık İncisi
+
+Apostle's Ears
+Havarinin Kulakları
+
+Apostle's Nose
+Havarinin Burnu
+
+Harpy's Wings
+Harpy'nin Kanatları
+
+Harpy's Claws
+Harpy'nin Pençeleri
+
+Hag's Tongue
+cadının dili
+
+Hag's Eyeball
+Cadının Göz Küresi
+
+Black Witcher's Ribs
+Kara Cadının Kaburgası
+
+Black Witcher's Kidney
+Kara Cadının  Böbreği
+
+Death Knight's Leg Bone
+Ölüm Şövalyesinin Bacak kemiği
+
+Death Knight's Liver
+Ölüm Şövalyesinin Ciğeri
+
+Dark Messenger's Spine
+Karanlık Habercinin Omurgası
+
+Dark Messenger's Shoulder Bone
+Karanlık Habercinin Omuz Kemiği
+
+Altar Guard's Heart
+Sunak Muhafızının Kalbi
+
+Alter Guard's Head
+Sunak Muhafızının Kafası
+
+Dark Priest's Magic Core
+Karanlık Rahibin Büyü Çekirdeği
+
+Dark Priest's Wand
+Karanlık Rahibin Asası
+
+Greenleaf Fish
+Yeşil yüzgeçli balık
+
+Bigmouth Fish
+Koca ağızlı balık
+
+Red Shrimp
+kırmızı karides
+
+Crystal Fish
+Kristal Balık
+
+Scallop
+Deniz Tarağı
+
+Pink Fish
+Pembe Balık
+
+Barracuda
+Baraküda
+
+Rice Shrimp
+Pirinç karidesi
+
+Ice Crab
+buz yengeci
+
+Milkfish
+Süt balığı
+
+Bullfrog
+kurbağa
+
+Blue Goldfish
+Mavi Japon Balığı
+
+Long-age Turtle
+Uzun Ömürlü Kaplumbağa
+
+Mitten Crab
+Eldivenli Yengeç
+
+Flying Fish
+Uçan balık
+
+Lobster
+Istakoz
+
+Map Turtle
+Gezgin kaplumbağa
+
+Puffer Fish
+Kirpi balığı
+
+Swallowtail Fish
+Kırlangıç Balığı
+
+Butterfly shell
+kelebek kabuğu
+
+Crystal shrimp
+kristal karides
+
+Saw-Edged Blue Crab
+Kesik Kenarlı Mavi Yengeç
+
+Water Rabbit
+Su Tavşanı
+
+Rainbow Fish
+Gökkuşağı balığı
+
+General Crab
+Genel Yengeç
+
+Long-snouted Alligator
+Uzun burunlu timsah
+
+Golden Dragonfish
+Altın Ejderha Balığı
+
+Silver Dragonfish
+Gümüş Ejderha Balığı
+
+Big black shark
+büyük siyah köpekbalığı
+
+Ghost Octopus
+Hayalet Ahtapot
+
+Wine Glass Jellyfish
+Şarap Kadehi Denizanası
+
+Flame Starfish
+alevli denizyıldızı
+
+Yellow pearl
+sarı inci
+
+Green Pearl
+Yeşil İnci
+
+Blue pearl
+Mavi inci
+
+Licorice
+Meyan kökü
+
+Destruction Weeds
+Yıkım Otu
+
+Wild Chrysanthemum
+Vahşi krizantem
+
+Spring grass
+Bahar otu
+
+Acacia Bean
+Akasya Fasulyesi
+
+Lantern Flower
+Fener Çiçeği
+
+Dancing Grass
+dans eden çim
+
+Albizia Flower
+Albizia Çiçeği
+
+Edelweiss
+Edelweiss
+
+Vigna umbellata
+Vigna şemsiyesi
+
+Snowflake Bean
+Kar Tanesi Fasulyesi
+
+Centenarian Orchid
+Asırlık Orkide
+
+Sunflower
+Ayçiçeği
+
+Rose
+Gül
+
+Mimosa
+Mimoza
+
+Golden bean
+Altın fasulye
+
+Maltiflower
+Maltiflower
+
+Honeysuckle
+Hanımeli
+
+Immy Flower
+Kokulu çiçek
+
+Prunella
+kuru erik
+
+Saffron
+Safran
+
+Ghost Needle
+Hayalet İğne
+
+Devil flower
+şeytan çiçeği
+
+Fox charm flower
+Tilki çiçeği
+
+Trumpet Creeper
+trompet sarmaşık
+
+Snake Vine
+Yılan Asması
+
+Ice Flake Grass
+Buz Tanesi Otu
+
+Flame Flower
+Alev Çiçeği
+
+Twin Flower
+İkiz Çiçek
+
+Soul Revival Grass
+Ruh Canlandırma Otu
+
+Blood Vine
+Kanlı Asma
+
+Ice Nine-Leaf Lotus
+Dokuz Yapraklı Lotus
+
+Sugar-loving Earthworm
+Şeker seven solucan
+
+Destiny Cicada
+Şarkıcı ağustosböceği
+
+Music Bamboo Worm
+Müzik Bambu Solucanı
+
+Iron ore
+Demir cevheri
+
+Copper ore
+Bakır cevheri
+
+Silica ore
+Silika cevheri
+
+Flint
+Çakmaktaşı
+
+Green Crystal ore
+Yeşil Kristal cevheri
+
+Primal Stone
+İlkel Taş
+
+Silver ore
+Gümüş cevheri
+
+Flame ore
+Alev cevheri
+
+Blue crystal ore
+Mavi kristal cevheri
+
+Ice ore
+Buz cevheri
+
+Lanthanum ore
+Lantan cevheri
+
+Red Crystal ore
+Kırmızı Kristal cevheri
+
+Dark Green ore
+Koyu Yeşil cevher
+
+Gold ore
+altın cevheri
+
+Vajra Ore
+Vajra cevheri
+
+Thorium ore
+toryum cevheri
+
+Black Crystal ore
+Kara Kristal cevheri
+
+Black Iron ore
+Siyah Demir cevheri
+
+Mythril ore
+mitril cevheri
+
+Purple Crystal ore
+Mor Kristal cevheri
+
+Violet Gold ore
+Menekşe Altın cevheri
+
+Magic Iron ore
+Sihirli Demir cevheri
+
+Fine Gold ore
+İnce Altın cevheri
+
+Rainbow Crystal ore
+Gökkuşağı Kristali cevheri
+
+Blood ore
+kan cevheri
+
+White Crystal ore
+Beyaz Kristal cevheri
+
+Fire Crystal
+Ateş Kristali
+
+Ambergris Crystal
+Ambergris Kristali
+
+Elven Tear
+Elf Gözyaşı
+
+Seabed Cloud Iron
+Deniz Tabanı Bulut Demiri
+
+Ice Stone
+buz taşı
+
+Elemental Crystal
+Element Kristali
+
+Primordial Iron
+İlkel Demir
+
+Chaos Stone
+kaos taşı
+
+Heaven Jade
+cennet yeşim taşı
+
+Compensation Chest
+Tazminat Sandığı
+
+Black Shipwreck Chest
+Siyah Batık Sandığı
+
+Green Shipwreck Chest
+Yeşil Batık Sandığı
+
+Red Shipwreck Chest
+Kırmızı Batık Sandığı
+
+blue Shipwreck Chest
+mavi Batık Sandığı
+
+purple Shipwreck Chest
+mor Batık Sandığı
+
+Gang Tournament Chest
+Çete Turnuvası Sandığı
+
+Black Herbal Chest
+Siyah Bitki Sandıı
+
+Green Herbal Chest
+Yeşil Bitki Sandığı
+
+red Herbal Chest
+kırmızı Bitki Sandığı
+
+blue Herbal Chest
+mavi Bitki Sandığı
+
+Purple Herbal Chest
+Mor Bitki Sandığı
+
+Contribution Chest
+Katkı Sandığı
+
+Black Earth God Chest
+Siyah Maden Sandığı
+
+Green Earth God Chest
+Yeşil Maden Sandığı
+
+Red Earth God Chest
+Kırmızı Maden Sandığı
+
+Blue Earth God Chest
+Mavi Maden Sandığı
+
+Purple Earth God Chest
+Mor Maden Sandığı
+
+Level 15 New Year Chest
+Seviye 15 Yeni Yıl Sandığı
+
+Level 3 Mystery Chest
+Seviye 3 Gizemli Sandık
+
+Festive Silver-Silk Red Envelope
+Gümüş işlemeli zarf
+
+Festive Gold-Foil Red Envelope
+Altın işlemeli zarf
+
+Festive Diamond-Inlaid Red Envelope
+Elmas işlemeli zarf
+
+Wedding Gift Package
+Düğün Hediye Paketi
+
+Exquisite Wedding Gift Package
+Enfes Düğün Hediye Paketi
+
+Deluxe Wedding Gift Package
+Lüks Düğün Hediye Paketi
+
+Firecracker
+havai fişek
+
+Gift Balloon
+Hediye Balonu
+
+Fun Capsule Toy
+Eğlenceli Kapsül Oyuncağı
+
+Birthday Music Box
+Doğum Günü Müzik Kutusu
+
+Church Large Fireworks
+Kilise Büyük Havai Fişeği
+
+Noble Large Fireworks
+Asil Büyük Havai Fişek
+
+Royal Large Fireworks
+Kraliyet Büyük Havai Fişeği
+
+Church Fireworks
+Kilise Havai Fişeği
+
+Noble Fireworks
+asil havai fişek
+
+Royal Fireworks
+Kraliyet Havai Fişeği
+
+New Year Fireworks
+Yeni Yıl Havai Fişeği
+
+Beautiful Gift Box
+Güzel Hediye Kutusu
+
+Team Gift Box
+Takım Hediye Kutusu
+
+Gang Gift Box
+Çete Hediye Kutusu
+
+Mist God's Blessing
+Sis Tanrısının Lütfu
+
+Red Envelope
+Kırmızı zarf
+
+Large Red Envelope
+Büyük Kırmızı Zarf
+
+New Year Gift Box
+Yeni Yıl Hediye Kutusu
+
+Spring Festival Gift Box
+Bahar Şenliği Hediye Kutusu
+
+Festival Gift Box
+Festival Hediye Kutusu
+
+Glazed Treasure Box
+Sırlı Hazine Kutusu
+
+Moonlight Treasure Box
+Ayışığı Hazine Kutusu
+
+Temple Treasure Box
+Tapınak Hazine Kutusu
+
+Abyss Demon Box
+Uçurum Şeytanı Kutusu
+
+Sealed Demon Box
+Mühürlü Şeytan Kutusu
+
+Universe Bag
+Evren Çantası
+
+Enhanced Lucky Chest
+Gelişmiş Şanslı sandık
+
+Gem Shard Pack
+Mücevher Parça Paketi
+
+Level {d} Bash Skill Crystal
+Seviye $1 Bash Beceri Kristali
+
+Level {d} Cleave Crystal
+Level $1 Cleave Crystal
+
+Level {d} Sweep Attack Crystal
+Level $1 Sweep Attack Crystal
+
+Level {d} Armor Break Crystal
+Level $1 Armor Break Crystal
+
+Wind Step Crystal
+Wind Step Crystal
+
+Swallow Dance Crystal
+Swallow Dance Crystal
+
+Level {d} Execute Crystal
+Level $1 Execute Crystal
+
+Level {d} Taunt Attack Crystal
+Level $1 Taunt Attack Crystal
+
+Level {d} Rupture Crystal
+Level $1 Rupture Crystal
+
+Level {d} Lethal Strike Crystal
+Level $1 Lethal Strike Crystal
+
+Command Cry Crystal
+Command Cry Crystal
+
+Level {d} Valiant Strike Crystal
+Level $1 Valiant Strike Crystal
+
+Level {d} Reckless Strike Crystal
+Level $1 Reckless Strike Crystal
+
+Level {d} Flesh Cleave Crystal
+Level $1 Flesh Cleave Crystal
+
+Level {d} Giant Strike Crystal
+Level $1 Giant Strike Crystal
+
+Level {d} Thunderous Blow Crystal
+Level $1 Thunderous Blow Crystal
+
+Haste Crystal
+Haste Crystal
+
+Level {d} Bloodthirsty Crystal
+Level $1 Bloodthirsty Crystal
+
+Taunt Crystal
+Taunt Crystal
+
+Ignore the Pain Crystal
+Ignore the Pain Crystal
+
+Reckless Crystal
+Reckless Crystal
+
+Challenge Cry Crystal
+Challenge Cry Crystal
+
+Level {d} Vengeance Crystal
+Level $1 Vengeance Crystal
+
+Battle Roar Crystal
+Battle Roar Crystal
+
+Level {d} Blade Strike Crystal
+Level $1 Blade Strike Crystal
+
+Level {d} Rapid Sting Crystal
+Level $1 Rapid Sting Crystal
+
+Level {d} Fan of Knives Crystal
+Level $1 Fan of Knives Crystal
+
+Level {d} Puncture Crystal
+Level $1 Puncture Crystal
+
+Level {d} Leap Gouge Crystal
+Level $1 Leap Gouge Crystal
+
+Shadow Steps Crystal
+Shadow Steps Crystal
+
+Level {d} Kidney Strike Crystal
+Level $1 Kidney Strike Crystal
+
+Level {d} Kidney Strike Crystal
+Level $1 Kidney Strike Crystal
+
+Scorn Crystal
+Scorn Crystal
+
+Level {d} Shattering Moon Crystal
+Level $1 Shattering Moon Crystal
+
+Void Shift Crystal
+Void Shift Crystal
+
+Level {d} Arcane Shot Crystal
+Level $1 Arcane Shot Crystal
+
+Level {d} Aimed Shot Crystal
+Level $1 Aimed Shot Crystal
+
+Level {d} Multi Shot Crystal
+Level $1 Multi Shot Crystal
+
+Vine Trap Crystal
+Vine Trap Crystal
+
+Level {d} Marked Shot Crystal
+Level $1 Marked Shot Crystal
+
+Level {d} Concussive Shot Crystal
+Level $1 Concussive Shot Crystal
+
+Turtle Guardian Crystal
+Turtle Guardian Crystal
+
+Level {d} Rapid Arrows Crystal
+Level $1 Rapid Arrows Crystal
+
+Level {d} Burst Shot Crystal
+Level $1 Burst Shot Crystal
+
+Tranquility Aura Crystal
+Tranquility Aura Crystal
+
+Level {d} Magic Sphere Crystal
+Level $1 Magic Sphere Crystal
+
+Level {d} Ice Lance Crystal
+Level $1 Ice Lance Crystal
+
+Level {d} Ice Storm Crystal
+Level $1 Ice Storm Crystal
+
+Level {d} Ice Arrow Crystal
+Level $1 Ice Arrow Crystal
+
+Level {d} Frost Nova Crystal
+Level $1 Frost Nova Crystal
+
+Icicle Crystal
+Icicle Crystal
+
+Teleportation Crystal
+Teleportation Crystal
+
+Blizzard Crystal
+Blizzard Crystal
+
+Chilling Frost Crystal
+Chilling Frost Crystal
+
+Cold Winter Crystal
+Cold Winter Crystal
+
+Level {d} Fireball Crystal
+Level $1 Fireball Crystal
+
+Level {d} Fire Impact Crystal
+Level $1 Fire Impact Crystal
+
+Level {d} Fire Surge Crystal
+Level $1 Fire Surge Crystal
+
+Invisibility Crystal
+Invisibility Crystal
+
+Level {d} Pyroblast Crystal
+Level $1 Pyroblast Crystal
+
+Ignition Crystal
+Ignition Crystal
+
+Level {d} Blazing Storm Crystal
+Level $1 Blazing Storm Crystal
+
+Level {d} Sear Crystal
+Level $1 Sear Crystal
+
+Scorch Crystal
+Scorch Crystal
+
+Level {d} Retribution Crystal
+Level $1 Retribution Crystal
+
+Level {d} Mind Whip Crystal
+Level $1 Mind Whip Crystal
+
+Level {d} Holy Light Wave Crystal
+Level $1 Holy Light Wave Crystal
+
+Recover Crystal
+Recover Crystal
+
+Level {d} Divine Fire Crystal
+Level $1 Divine Fire Crystal
+
+Divine Protection Crystal
+Divine Protection Crystal
+
+Holy Light Crystal
+Kutsal Işık Kristali
+
+Level {d} Divine Nova Crystal
+Level $1 Divine Nova Crystal
+
+Group Dispel Crystal
+Group Dispel Crystal
+
+Resurrection Skill Crystal
+Resurrection Skill Crystal
+
+Level {d} Shadow Arrow Crystal
+Level $1 Shadow Arrow Crystal
+
+Level {d} Corrosion Spell Crystal
+Level $1 Corrosion Spell Crystal
+
+Level {d} Skeleton Explosion Crystal
+Level $1 Skeleton Explosion Crystal
+
+Healing Surge Crystal
+Healing Surge Crystal
+
+Level {d} Incessant Pain Crystal
+Level $1 Incessant Pain Crystal
+
+Break the Chain Crystal
+Break the Chain Crystal
+
+Soul Purify Crystal
+Soul Purify Crystal
+
+Level {d} Dead Toxin Crystal
+Level $1 Dead Toxin Crystal
+
+Spiritual Totem Crystal
+Spiritual Totem Crystal
+
+Soul Returnal Crystal
+Soul Returnal Crystal
+
+Bash Skill Crystal Shard
+Bash Skill Crystal Shard
+
+Execute Crystal Shard
+Execute Crystal Shard
+
+Sweep Attack Skill Crystal Shard
+Sweep Attack Skill Crystal Shard
+
+Rupture Skill Crystal Shard
+Rupture Skill Crystal Shard
+
+Valiant Strike Skill Crystal Shard
+Valiant Strike Skill Crystal Shard
+
+Bloodthirsty Skill Crystal Shard
+Bloodthirsty Skill Crystal Shard
+
+Flesh Cleave Skill Crystal Shard
+Flesh Cleave Skill Crystal Shard
+
+Thunderous Blow Skill Crystal Shard
+Thunderous Blow Skill Crystal Shard
+
+Blade Strike Skill Crystal Shard
+Blade Strike Skill Crystal Shard
+
+Fan of Knives Skill Crystal Shard
+Fan of Knives Skill Crystal Shard
+
+Leap Gouge Skill Crystal Shard
+Leap Gouge Skill Crystal Shard
+
+Kidney Strike Skill Crystal Shard
+Kidney Strike Skill Crystal Shard
+
+Arcane Shot Skill Crystal Shard
+Arcane Shot Skill Crystal Shard
+
+Multi Shot Skill Crystal Shard
+Multi Shot Skill Crystal Shard
+
+Rapid Arrows Skill Crystal Shard
+Rapid Arrows Skill Crystal Shard
+
+Marked Shot Skill Crystal Shard
+Marked Shot Skill Crystal Shard
+
+Magic Sphere Skill Crystal Shard
+Magic Sphere Skill Crystal Shard
+
+Ice Storm Skill Crystal Shard
+Buz Fırtınası Beceri Kristal Parçası
+
+Ice Arrow Skill Crystal Shard
+buz okuBeceri Kristal Parçası
+
+Frost Nova Skill Crystal Shard
+Frost Nova Beceri Kristal Parçası
+
+Fireball Skill Crystal Shard
+Fireball Skill Crystal Shard
+
+Fire Surge Skill Crystal Shard
+Fire Surge Skill Crystal Shard
+
+Pyroblast Skill Crystal Shard
+Pyroblast Skill Crystal Shard
+
+Blazing Storm Skill Crystal Shard
+Blazing Storm Skill Crystal Shard
+
+Retribution Skill Crystal Shard
+Retribution Skill Crystal Shard
+
+Holy Light Wave Skill Crystal Shard
+Holy Light Wave Skill Crystal Shard
+
+Divine Nova Skill Crystal Shard
+Divine Nova Skill Crystal Shard
+
+Divine Fire Skill Crystal Shard
+Divine Fire Skill Crystal Shard
+
+Shadow Arrow Skill Crystal Shard
+Shadow Arrow Skill Crystal Shard
+
+Skeleton Explosion Skill Crystal Shard
+Skeleton Explosion Skill Crystal Shard
+
+Dead Toxin Skill Crystal Shard
+Dead Toxin Skill Crystal Shard
+
+Incessant Pain Skill Crystal Shard
+Incessant Pain Skill Crystal Shard
+
+Level {d} Ruby Shard
+Seviye $1 Yakut Parçası
+
+Level {d} Ruby
+Seviye $1 Yakut
+
+Level {d} Sapphire Shard
+Seviye $1 Safir Parçası
+
+Level {d} Sapphire
+Seviye $1 Safir
+
+Level {d} Tiger Eye Stone Shard
+Seviye $1 Kaplan Gözü Taş Parçası
+
+Level {d} Tiger Eye Stone
+Seviye $1 Kaplan Gözü Taşı
+
+Level {d} Opal Shard
+Seviye $1 Opal Parçası
+
+Level {d} Opal
+Seviye $1 Opal
+
+Level {d} Spinel Shard
+Seviye $1 Spinel Parçası
+
+Level {d} Spinel
+Seviye $1 Spinel
+
+Level {d} Aquamarine Shard
+Seviye $1 Akuamarin Parçası
+
+Level {d} Aquamarine
+Seviye $1 Akuamarin
+
+Level {d} Garnet Shard
+Seviye $1 Garnet Parçası
+
+Level {d} Garnet
+Seviye $1 Garnet taşı
+
+Level {d} Blond Jade Shard
+Seviye $1 Sarı Yeşim Parçası
+
+Level {d} Blond Jade
+Seviye $1 sarı yeşim
+
+Level {d} Grape Stone Shard
+Seviye $1 Üzüm Taşı Parçası
+
+Level {d} Grape Stone
+Seviye $1 Üzüm Taşı
+
+Level {d} Olivine Shard
+Seviye $1 Olivin Parçası
+
+Level {d} Olivine
+Seviye $1 Olivin
+
+Level {d} Topaz Shard
+Seviye $1 Topaz Parçası
+
+Level {d} Topaz
+Seviye $1 Topaz
+
+Level {d} Obsidian Shard
+Seviye $1 Obsidyen Parçası
+
+Level {d} Obsidian
+Seviye $1 obsidyen
+
+Level {d} Sunlight Stone Shard
+Seviye $1 Güneş Taş Parçası
+
+Level {d} Sunlight Stone
+Seviye $1 güneş taşı
+
+Level {d} Moonstone Shard
+Seviye $1 Aytaşı Parçası
+
+Level {d} Moonstone
+Seviye $1 Aytaşı
+
+Level {d} Turquoise Shard
+Seviye $1 Turkuaz Parçası
+
+Level {d} Turquoise
+Seviye $1 Turkuaz
+
+Weapon Enhance Crystal Shard
+Silah Geliştirme Kristal Parçası
+
+Level {d} Weapon Enhance Crystal
+Seviye $1 Silah Geliştirme Kristali
+
+Equipment Enhance Crystal Shard
+Ekipman Geliştirme Kristal Parçası
+
+Level {d} Equipment Enhance Crystal
+Seviye $1 Ekipman Geliştirme Kristali
+
+Gem Protection Rune
+Mücevher Koruyucu
+
+Socket Protection Stone
+Delik Koruma Taşı
+
+Weapon Enhance Boost Rune
+Silah Geliştirme Şans Arttırıcı
+
+Equipment Enhance Boost Rune
+Ekipman Geliştirme Şans Arttırıcı
+
+Weapon Enhance Protection Rune
+Silah Geliştirme Koruyucu
+
+Equipment Enhance Protection Rune
+Ekipman Geliştirme Koruyucu
+
+Pale Jade Crystal
+Soluk Yeşim Kristali
+
+Violet Haze Crystal
+Menekşe Pus Kristali
+
+Cannonball
+gülle
+
+Key
+Anahtar
+
+Metal Plate
+Metal tabak
+
+Enchanted Bead
+Büyülü Boncuk
+
+Kumiss
+Kımız
+
+Ore
+cevher
+
+Barr's Letter
+Barr'ın Mektubu
+
+Silk
+İpek
+
+Merlin's Letter
+Merlin'in Mektubu
+
+Snow Leopard Leather Coat
+Kar Leoparı derisinden Mont
+
+Tiger Mountain Pass
+Kaplan Dağı Anahtarı
+
+Bandit Hideout Key
+Haydut Sığınağı Anahtarı
+
+Octorium
+Octorium
+
+Fruit of the Wisdom Tree
+Bilgelik Ağacının Meyvesi
+
+Seed of the Wisdom Tree
+Bilgelik Ağacının Tohumu
+
+Potions
+İksirler
+
+Weapon
+silah
+
+White Bear's Pelt
+Beyaz Ayı Postu
+
+Wolf's Head
+kurt kafası
+
+Frostbite Ointment
+Donma Merhemi
+
+Packed Licorice
+Paketlenmiş Meyan Kökü
+
+Water of Moonlight River
+Ayışığı Nehrinin Suyu
+
+Stone Ball
+taş top
+
+Wedding Dress
+Düğün elbisesi
+
+Cicada Robe
+ağustos böceği bornozu
+
+Antidote
+panzehir
+
+Empty iron bucket
+Boş demir kova
+
+Iron Bucket
+demir kova
+
+wound-healing powder
+yara iyileştirici toz
+
+Clay Block
+Kil Blok
+
+Iron Bucket
+demir kova
+
+Raw Milk
+Çiğ süt
+
+Forage
+Yem
+
+Raw Milk
+Çiğ süt
+
+Blue key
+mavi anahtar
+
+Yellow key
+Sarı anahtar
+
+White key
+Beyaz anahtar
+
+Black key
+Siyah anahtar
+
+Red crystal stone
+kırmızı kristal taş
+
+Green crystal stone
+yeşil kristal taş
+
+Blue crystal stone
+mavi kristal taş
+
+Penetration Ring
+Penetrasyon Yüzüğü
+
+Reward order
+ödül Emri
+
+Punishment order
+ceza emri
+
+Fertilizer
+Gübre
+
+C4 Explosive
+C4 Patlayıcı
+
+magnetic card
+manyetik kart
+
+Beast's head
+canavarın kafası
+
+Beast's Leg
+Canavarın Bacağı
+
+Probe Stick
+Prob Çubuğu
+
+Spirit Crystal
+Ruh Kristali
+
+Orb of Benevolence
+Merhamet Küresi
+
+Magic Stand
+Sihirli Stand
+
+Secret Letter of the Moon Princess
+Ay Prensesinin Gizli Mektubu
+
+Carpenter's family letter
+Marangozun aile mektubu
+
+Secret Letter of the Master Antino
+Usta Antino'nun Gizli Mektubu
+
+Lord Garcina's Token
+Lord Garcina'nın Simgesi
+
+Ice bead
+Buz boncuğu
+
+Peach
+şeftali
+
+Black Comb
+Siyah Tarak
+
+Stallone's Head
+Stallone'un Kafası
+
+Secret Letter of the High Priest Theo
+Baş Rahip Theo'nun Gizli Mektubu
+
+Purchase order
+Satın alma emri
+
+Contract
+Sözleşme
+
+Family Letter to Sailor Ron
+Denizci Ronun Aile Mektubu
+
+Wheat Head
+Buğday Başı
+
+Bait
+Yem
+
+Rice Spikelet
+Pirinç tohumu
+
+Grass carp
+çim sazanı
+
+Medical Supply
+Tıbbi malzeme
+
+Large brick
+Büyük tuğla
+
+Unprocessed brick
+işlenmemiş tuğla
+
+Perfect brick
+Mükemmel tuğla
+
+Unidentified cannonball
+tanımlanamayan gülle
+
+Water Monster's Egg
+Su Canavarı Yumurtası
+
+Water Convex Lens
+Su Merceği
+
+Full Note
+Tam Nota
+
+Semi Note
+Yarım Nota
+
+Loofah seedling
+lif kabağı fidesi
+
+Pea seed
+bezelye tohumu
+
+Cross
+Haç
+
+Shining Cross
+Parlayan Haç
+
+Canned spinach
+konserve ıspanak
+
+Rice Cracker
+Pirinç kraker
+
+potatoes
+patates
+
+Tomato
+Domates
+
+Chestnut
+kestane
+
+Mashed potatoes
+Patates püresi
+
+Tomato juice
+Domates suyu
+
+Chestnut powder
+kestane tozu
+
+Crispy potato and vegetable pie
+Çıtır patates ve sebzeli börek
+
+Bronze fruit
+bronz meyve
+
+Silver fruit
+gümüş meyve
+
+Gold Fruit
+Altın Meyve
+
+Platinum fruit
+platin meyve
+
+Star Diamond Fruit
+Yıldız Elması Meyvesi
+
+Dough
+Hamur
+
+Pie
+Turta
+
+Festive Bronze Gift Package
+Şenlik Bronz Hediye Paketi
+
+Festive Silver Gift Package
+Şenlik Gümüş Hediye Paketi
+
+Festive Gold Gift Package
+Şenlik Altın Hediye Paketi
+
+Festive Platinum Gift Package
+Şenlik Platin Hediye Paketi
+
+Festive Star Diamond Gift Package
+Şenlik Yıldız Pırlantalı Hediye Paketi
+
+Dragon-Moth Double Jade
+Dragon-Moth Çift Yeşim
+
+lightning rod
+paratoner
+
+Magic Fossil
+Sihirli Fosil
+
+Identification Scroll
+Kimlik Parşömeni
+
+Common fossil
+ortak fosil
+
+Damaged Cube
+Hasarlı Küp
+
+Interdimensional Cube
+Boyutlararası Küp
+
+Golden Rice dumpling seed
+Altın Pirinç hamur tatlısı tohumu
+
+Colorful Golden Rice Dumpling
+Renkli Altın Pirinç Böreği
+
+BBQ Pork Seed
+Barbekü Domuz Tohumu
+
+BBQ Pork bun
+barbekü domuz topuzu
+
+Phantom Ice Crystal
+Fantom Buz Kristali
+
+Time Bomb
+Saatli Bomba
+
+Godmother Zoira's Magic Charm
+Vaftiz Anası Zoira'nın Sihirli Cazibesi
+
+Godmother Zoira's Seal Letter
+Vaftiz Anası Zoira'nın Mühür Mektubu
+
+Templar Knight's Letter
+Tapınak Şövalyesinin Mektubu
+
+Exploration data
+keşif verisi
+
+Hunting net
+Hunting net
+
+Mojito
+Mojito
+
+Delicate Fruit
+Delicate Fruit
+
+Hunting Medal
+Hunting Medal
+
+Hunting Gift Package
+Hunting Gift Package
+
+Hunting Pass
+Hunting Pass
+
+Samael Emblem
+Samael Emblem
+
+Fish Gelatin
+Fish Gelatin
+
+Five-Nuts Filling
+Five-Nuts Filling
+
+Crust
+Crust
+
+Egg
+Egg
+
+Osmanthus wine
+Osmanthus wine
+
+Five-Nuts Mooncake
+Five-Nuts Mooncake
+
+Wind Chaser Soul Fragment
+Wind Chaser Soul Fragment
+
+Knight Code
+Knight Code
+
+Refined Iron
+Refined Iron
+
+Spear
+Spear
+
+Shield
+Shield
+
+Armor
+Armor
+
+Equipment
+Equipment
+
+Tinder
+Tinder
+
+Silver Cross
+Silver Cross
+
+Flash Bomb
+Flash Bomb
+
+Great Dragon Valley Bar
+Great Dragon Valley Bar
+
+Dragon Village Token
+Dragon Village Token
+
+Christmas stockings
+Christmas stockings
+
+Colorful Shard Pack
+Colorful Shard Pack
+
+Snowball
+Snowball
+
+Hat
+Hat
+
+Scarf
+Scarf
+
+Broom
+Broom
+
+Marbles
+Marbles
+
+Button
+Button
+
+Stones
+Stones
+
+Little snowman
+Little snowman
+
+Christmas gift box
+Christmas gift box
+
+Magnet
+Magnet
+
+Dragon Power Stone
+Dragon Power Stone
+
+Remote Control Bomb
+Remote Control Bomb
+
+Remote Control
+Remote Control
+
+Energy Shield
+Energy Shield
+
+Apple
+Apple
+
+Chocolate Popsicle
+Chocolate Popsicle
+
+Butter Popsicle
+Butter Popsicle
+
+Chocolate ice cream
+Chocolate ice cream
+
+Butter ice cream
+Butter ice cream
+
+Candy
+Candy
+
+Rat Tooth Shovel
+Rat Tooth Shovel
+
+Jumping Spring
+Jumping Spring
+
+dumpling
+dumpling
+
+Cat ears
+Cat ears
+
+Nian Monster's Demon Crystal
+Nian Monster's Demon Crystal
+
+Wish Blessing
+Wish Blessing
+
+Fortune Blessing
+Fortune Blessing
+
+Peace Blessing
+Peace Blessing
+
+Luck Blessing
+Luck Blessing
+
+Happiness Blessing
+Happiness Blessing
+
+Packaged Rice Ball
+Packaged Rice Ball
+
+sesame rice ball
+sesame rice ball
+
+peanut rice ball
+peanut rice ball
+
+Zoira's earring
+Zoira's earring
+
+Zoira's earring
+Zoira's earring
+
+Purified water
+Purified water
+
+Earth Magic Stone
+Earth Magic Stone
+
+Water Magic Stone
+Water Magic Stone
+
+Fire Magic Stone
+Fire Magic Stone
+
+Wind Magic Stone
+Wind Magic Stone
+
+Wood
+Wood
+
+Insecticide
+Insecticide
+
+Ghost vacuum cleaner
+Ghost vacuum cleaner
+
+Control Button
+Control Button
+
+Time Bomb
+Time Bomb
+
+Fatal Tenderness
+Fatal Tenderness
+
+Beauty of the Forest
+Beauty of the Forest
+
+Midnight Kiss
+Midnight Kiss
+
+Satisfied Morning
+Satisfied Morning
+
+Bones of the mutant skeleton
+Bones of the mutant skeleton
+
+Black Magic Antidote
+Black Magic Antidote
+
+Ghost
+Ghost
+
+Intelligence letter
+Intelligence letter
+
+Rock
+Rock
+
+Clown Box
+Clown Box
+
+Grimace Cookie
+Grimace Cookie
+
+Bookmark Badge
+Bookmark Badge
+
+Sabre Badge
+Sabre Badge
+
+Cross Badge
+Cross Badge
+
+Soul Bottle
+Soul Bottle
+
+Axe
+Axe
+
+Divine Light Orb
+Divine Light Orb
+
+Iron Wire
+Iron Wire
+
+Black Rock
+Black Rock
+
+White Rock
+White Rock
+
+Remote Control Bomb
+Remote Control Bomb
+
+Remote Control
+Remote Control
+
+Demining Stick
+Demining Stick
+
+Scissors
+Scissors
+
+Note
+Note
+
+Note
+Note
+
+Master's Pendant
+Master's Pendant
+
+Cherub Illustration
+Cherub Illustration
+
+Colorful Golden Rice Dumpling
+Colorful Golden Rice Dumpling
+
+Beast King Demon General's Blood
+Beast King Demon General's Blood
+
+Candy
+Candy
+
+Blue Ice Crystal
+Blue Ice Crystal
+
+Werebear Commander's Head
+Werebear Commander's Head
+
+Concentrated Fire Source Crystal
+Concentrated Fire Source Crystal
+
+Silver Cross
+Silver Cross
+
+Small Red Potion
+Küçük Kırmızı İksir
+
+Medium Red Potion
+Orta Kırmızı İksir
+
+Large Red Potion
+Büyük Kırmızı İksir
+
+Super Red Potion
+Süper Kırmızı İksir
+
+Plasma
+Plazma
+
+Potent Plasma
+Güçlü Plazma
+
+Serum Protein
+serum proteini
+
+Hemoglobin
+Hemoglobin
+
+Small Blue Potion
+Küçük Mavi İksir
+
+Medium Blue Potion
+Orta Mavi İksir
+
+Large Blue Potion
+Büyük Mavi İksir
+
+Super Blue Potion
+Süper Mavi İksir
+
+Magic Potion
+Sihir iksiri
+
+Potent Magic Potion
+Güçlü Sihir İksiri
+
+Mist Potion
+Sis İksiri
+
+Mist Essence
+Sis Özü
+
+Chicken Drumstick
+Tavuk budu
+
+Steak
+Biftek
+
+Ham
+jambon
+
+Pie
+Turta
+
+Burrito
+börek
+
+Pizza
+Pizza
+
+Hot Dog
+Sosisli sandviç
+
+Sandwich
+Sandviç
+
+Hamburger
+Hamburger
+
+Coco
+hindistan cevizi
+
+Coffee
+Kahve
+
+Tea
+Çay
+
+Orange Juice
+Portakal suyu
+
+Grapefruit Juice
+Greyfurt Suyu
+
+Lemonade
+Limonata
+
+Raspberry Juice
+Ahududu suyu
+
+Plum Juice
+Erik Suyu
+
+Blueberry Juice
+Blueberry Juice
+
+Arena Power Pill
+Arena Güç Hapı
+
+Arena Iron Stone Pill
+Arena Demir Taş Hapı
+
+Tactical Power Pill
+Taktik Güç Hapı
+
+Tactical Iron Stone Pill
+Taktik Demir Taş Hapı
+
+Pet Small Red Potion
+Evcil Hayvan Küçük Kırmızı İksir
+
+Pet Medium Red Potion
+Evcil Hayvan Orta Kırmızı İksir
+
+Pet Large Red Potion
+Evcil Hayvan Büyük Kırmızı İksir
+
+Pet Super Red Potion
+Evcil Hayvan Süper Kırmızı İksir
+
+Pet Plasma
+Evcil Hayvan Plazma
+
+Pet Potent Plasma
+Pet Potent Plasma
+
+Pet Albumin
+Pet Albumin
+
+Pet globulin
+Pet globulin
+
+Pet Small Blue Potion
+Evcil Hayvan Küçük Mavi İksir
+
+Pet Medium Blue Potion
+Evcil Hayvan Orta Mavi İksir
+
+Pet Large Blue Potion
+Evcil Hayvan Büyük Mavi İksir
+
+Pet Super Blue Potion
+Evcil Hayvan Süper Mavi İksir
+
+Bone Cookie
+kemikli kurabiye
+
+Fine Bone Cookie
+İnce Kemikli Kurabiye
+
+Bone Marrow Soup
+Kemik İliği Çorbası
+
+Potent Bone Marrow Soup
+Güçlü Kemik İliği Çorbası
+
+Pet Meat Cube
+Evcil Hayvan Et Küpü
+
+Pet Jerky
+Pet Jerky
+
+Pet Sausage
+evcil hayvan sosisi
+
+Pet Pie
+Pet Pie
+
+Pet Burrito
+Pet Burrito
+
+Pet Pizza
+Pet Pizza
+
+Pet Hot Dog
+Pet Hot Dog
+
+Pet Sandwich
+Pet Sandwich
+
+Pet Hamburger
+Pet Hamburger
+
+Pet Peach Juice
+Pet Peach Juice
+
+Pet Mango Juice
+Pet Mango Juice
+
+Pet Apple Juice
+Pet Apple Juice
+
+Pet Orange Juice
+Pet Orange Juice
+
+Pet Grapefruit Juice
+Pet Grapefruit Juice
+
+Pet Lemonade
+Pet Lemonade
+
+Pet Raspberry Juice
+Pet Raspberry Juice
+
+Pet Plum Juice
+Pet Plum Juice
+
+Pet Blueberry Juice
+Pet Blueberry Juice
+
+Pet Rice Roll
+Pet Pirinç Rulosu
+
+Lesser Frog Soul Stone
+Küçük Kurbağa Ruh Taşı
+
+Medium Frog Soul Stone
+Orta Kurbağa Ruh Taşı
+
+Higher Frog Soul Stone
+Yüksek Kurbağa Ruh Taşı
+
+Pure Frog Soul Stone
+Saf Kurbağa Ruh Taşı
+
+Brilliant Frog Soul Stone
+Parlak Kurbağa Ruh Taşı
+
+Lesser Beetle Soul Stone
+Küçük Böcek Ruh Taşı
+
+Medium Beetle Soul Stone
+Orta Böcek Ruh Taşı
+
+Higher Beetle Soul Stone
+Yüksek Böcek Ruh Taşı
+
+Pure Beetle Soul Stone
+Saf Böcek Ruh Taşı
+
+Brilliant Beetle Soul Stone
+Parlak Böcek Ruh Taşı
+
+Lesser Golden Rooster Soul Stone
+Küçük Altın Horoz Ruh Taşı
+
+Medium Golden Rooster Soul Stone
+Medium Golden Rooster Soul Stone
+
+Higher Golden Rooster Soul Stone
+Higher Golden Rooster Soul Stone
+
+Pure Golden Rooster Soul Stone
+Pure Golden Rooster Soul Stone
+
+Brilliant Golden Rooster Soul Stone
+Brilliant Golden Rooster Soul Stone
+
+Lesser Duck Soul Stone
+Lesser Duck Soul Stone
+
+Medium Duck Soul Stone
+Medium Duck Soul Stone
+
+Higher Duck Soul Stone
+Higher Duck Soul Stone
+
+Pure Duck Soul Stone
+Pure Duck Soul Stone
+
+Brilliant Duck Soul Stone
+Brilliant Duck Soul Stone
+
+Lesser Donkey Soul Stone
+Lesser Donkey Soul Stone
+
+Medium Donkey Soul Stone
+Medium Donkey Soul Stone
+
+Higher Donkey Soul Stone
+Higher Donkey Soul Stone
+
+Pure Donkey Soul Stone
+Pure Donkey Soul Stone
+
+Brilliant Donkey Soul Stone
+Brilliant Donkey Soul Stone
+
+Lesser Goat Soul Stone
+Lesser Goat Soul Stone
+
+Medium Goat Soul Stone
+Medium Goat Soul Stone
+
+Higher Goat Soul Stone
+Higher Goat Soul Stone
+
+Pure Goat Soul Stone
+Pure Goat Soul Stone
+
+Brilliant Goat Soul Stone
+Brilliant Goat Soul Stone
+
+Lesser Steed Soul Stone
+Lesser Steed Soul Stone
+
+Medium Steed Soul Stone
+Medium Steed Soul Stone
+
+Higher Steed Soul Stone
+Higher Steed Soul Stone
+
+Pure Steed Soul Stone
+Pure Steed Soul Stone
+
+Brilliant Steed Soul Stone
+Brilliant Steed Soul Stone
+
+Lesser Cattle Soul Stone
+Lesser Cattle Soul Stone
+
+Medium Cattle Soul Stone
+Medium Cattle Soul Stone
+
+Higher Cattle Soul Stone
+Higher Cattle Soul Stone
+
+Pure Cattle Soul Stone
+Pure Cattle Soul Stone
+
+Brilliant Cattle Soul Stone
+Brilliant Cattle Soul Stone
+
+Lesser Shorthair Cat Soul Stone
+Lesser Shorthair Cat Soul Stone
+
+Medium Shorthair Cat Soul Stone
+Medium Shorthair Cat Soul Stone
+
+Higher Shorthair Cat Soul Stone
+Higher Shorthair Cat Soul Stone
+
+Pure Shorthair Cat Soul Stone
+Pure Shorthair Cat Soul Stone
+
+Brilliant Shorthair Cat Soul Stone
+Brilliant Shorthair Cat Soul Stone
+
+Lesser Hound Soul Stone
+Lesser Hound Soul Stone
+
+Medium Hound Soul Stone
+Medium Hound Soul Stone
+
+Higher Hound Soul Stone
+Higher Hound Soul Stone
+
+Pure Hound Soul Stone
+Pure Hound Soul Stone
+
+Brilliant Hound Soul Stone
+Brilliant Hound Soul Stone
+
+Lesser Curly Cat Soul Stone
+Lesser Curly Cat Soul Stone
+
+Medium Curly Cat Soul Stone
+Medium Curly Cat Soul Stone
+
+Higher Curly Cat Soul Stone
+Higher Curly Cat Soul Stone
+
+Pure Curly Cat Soul Stone
+Pure Curly Cat Soul Stone
+
+Brilliant Curly Cat Soul Stone
+Brilliant Curly Cat Soul Stone
+
+Lesser Shepard Dog Soul Stone
+Lesser Shepard Dog Soul Stone
+
+Medium Shepard Dog Soul Stone
+Medium Shepard Dog Soul Stone
+
+Higher Shepard Dog Soul Stone
+Higher Shepard Dog Soul Stone
+
+Pure Shepard Dog Soul Stone
+Pure Shepard Dog Soul Stone
+
+Brilliant Shepard Dog Soul Stone
+Brilliant Shepard Dog Soul Stone
+
+Lesser Parrot Soul Stone
+Lesser Parrot Soul Stone
+
+Medium Parrot Soul Stone
+Medium Parrot Soul Stone
+
+Higher Parrot Soul Stone
+Higher Parrot Soul Stone
+
+Pure Parrot Soul Stone
+Pure Parrot Soul Stone
+
+Brilliant Parrot Soul Stone
+Brilliant Parrot Soul Stone
+
+LesserLizard Soul Stone
+LesserLizard Soul Stone
+
+Medium Lizard Soul Stone
+Medium Lizard Soul Stone
+
+Higher Lizard Soul Stone
+Higher Lizard Soul Stone
+
+Pure Lizard Soul Stone
+Pure Lizard Soul Stone
+
+Brilliant Lizard Soul Stone
+Brilliant Lizard Soul Stone
+
+Lesser Monkey Soul Stone
+Lesser Monkey Soul Stone
+
+Medium Monkey Soul Stone
+Medium Monkey Soul Stone
+
+Higher Monkey Soul Stone
+Higher Monkey Soul Stone
+
+Pure Monkey Soul Stone
+Pure Monkey Soul Stone
+
+Brilliant Monkey Soul Stone
+Brilliant Monkey Soul Stone
+
+Lesser Eagle Soul Stone
+Lesser Eagle Soul Stone
+
+Medium Eagle Soul Stone
+Medium Eagle Soul Stone
+
+Higher Eagle Soul Stone
+Higher Eagle Soul Stone
+
+Pure Eagle Soul Stone
+Pure Eagle Soul Stone
+
+Brilliant Eagle Soul Stone
+Brilliant Eagle Soul Stone
+
+Lesser Hippo Soul Stone
+Lesser Hippo Soul Stone
+
+Medium Hippo Soul Stone
+Medium Hippo Soul Stone
+
+Higher Hippo Soul Stone
+Higher Hippo Soul Stone
+
+Pure Hippo Soul Stone
+Pure Hippo Soul Stone
+
+Brilliant Hippo Soul Stone
+Brilliant Hippo Soul Stone
+
+Lesser Boar Soul Stone
+Lesser Boar Soul Stone
+
+Medium Boar Soul Stone
+Medium Boar Soul Stone
+
+Higher Boar Soul Stone
+Higher Boar Soul Stone
+
+Pure Boar Soul Stone
+Pure Boar Soul Stone
+
+Brilliant boar Soul Stone
+Brilliant boar Soul Stone
+
+Lesser Elephant Soul Stone
+Lesser Elephant Soul Stone
+
+Medium Elephant Soul Stone
+Medium Elephant Soul Stone
+
+Higher Elephant Soul Stone
+Higher Elephant Soul Stone
+
+Pure Elephant Soul Stone
+Pure Elephant Soul Stone
+
+Brilliant Elephant Soul Stone
+Brilliant Elephant Soul Stone
+
+Lesser Brown Bear Soul Stone
+Lesser Brown Bear Soul Stone
+
+Medium Brown Bear Soul Stone
+Medium Brown Bear Soul Stone
+
+Higher Brown Bear Soul Stone
+Higher Brown Bear Soul Stone
+
+Pure Brown Bear Soul Stone
+Pure Brown Bear Soul Stone
+
+Brilliant Brown Bear Soul Stone
+Brilliant Brown Bear Soul Stone
+
+Lesser Snow Wolf Soul Stone
+Lesser Snow Wolf Soul Stone
+
+Medium Snow Wolf Soul Stone
+Medium Snow Wolf Soul Stone
+
+Higher Snow Wolf Soul Stone
+Higher Snow Wolf Soul Stone
+
+Pure Snow Wolf Soul Stone
+Pure Snow Wolf Soul Stone
+
+Brilliant Snow Wolf Soul Stone
+Brilliant Snow Wolf Soul Stone
+
+Lesser Lion Soul Stone
+Lesser Lion Soul Stone
+
+Medium Lion Soul Stone
+Medium Lion Soul Stone
+
+Higher Lion Soul Stone
+Higher Lion Soul Stone
+
+Pure Lion Soul Stone
+Pure Lion Soul Stone
+
+Brilliant Lion Soul Stone
+Brilliant Lion Soul Stone
+
+Lesser Cheetah Soul Stone
+Lesser Cheetah Soul Stone
+
+Medium Cheetah Soul Stone
+Medium Cheetah Soul Stone
+
+Higher Cheetah Soul Stone
+Higher Cheetah Soul Stone
+
+Pure Cheetah Soul Stone
+Pure Cheetah Soul Stone
+
+Brilliant Cheetah Soul Stone
+Brilliant Cheetah Soul Stone
+
+Lesser Tiger Soul Stone
+Lesser Tiger Soul Stone
+
+Medium Tiger Soul Stone
+Medium Tiger Soul Stone
+
+Higher Tiger Soul Stone
+Higher Tiger Soul Stone
+
+Pure Tiger Soul Stone
+Pure Tiger Soul Stone
+
+Brilliant Tiger Soul Stone
+Parlak Kaplan Ruh Taşı
+
+Wild Frog Soul Stone
+Vahşi Kurbağa Ruh Taşı
+
+Wild Beetle Soul Stone
+Vahşi Böcek Ruh Taşı
+
+Wild Golden Rooster Soul Stone
+Vahşi Altın Horoz Ruh Taşı
+
+Wild Duck Soul Stone
+Vahşi Ördek Ruh Taşı
+
+Wild Donkey Soul Stone
+Vahşi Eşek Ruh Taşı
+
+Wild Goat Soul Stone
+Vahşi Keçi Ruh Taşı
+
+Wild Steed Soul Stone
+Vahşi At Ruh Taşı
+
+Wild Cattle Soul Stone
+Vahşi Sığır Ruh Taşı
+
+Wild Shorthair Cat Soul Stone
+Vahşi Kısa Tüylü Kedi Ruh Taşı
+
+Wild Hound Soul Stone
+Wild Hound Soul Stone
+
+Wild Curly Cat Soul Stone
+Wild Curly Cat Soul Stone
+
+Wild Shepard Dog Soul Stone
+Wild Shepard Dog Soul Stone
+
+Wild Parrot Soul Stone
+Wild Parrot Soul Stone
+
+Wild Lizard Soul Stone
+Wild Lizard Soul Stone
+
+Wild Monkey Soul Stone
+Wild Monkey Soul Stone
+
+Wild Eagle Soul Stone
+Wild Eagle Soul Stone
+
+Wild Hippo Soul Stone
+Wild Hippo Soul Stone
+
+Wild Boar Soul Stone
+Wild Boar Soul Stone
+
+Wild Elephant Soul Stone
+Wild Elephant Soul Stone
+
+Wild Brown Bear Soul Stone
+Wild Brown Bear Soul Stone
+
+Wild Snow Wolf Soul Stone
+Wild Snow Wolf Soul Stone
+
+Wild Lion Soul Stone
+Vahşi Aslan Ruh Taşı
+
+Wild Cheetah Soul Stone
+Vahşi Çita Ruh Taşı
+
+Wild Tiger Soul Stone
+Wild Tiger Soul Stone
+
+Ice Tiger Soul Stone
+Ice Tiger Soul Stone
+
+Pixie Super Soul Stone
+Pixie Süper Ruh Taşı
+
+Sprite Super Soul Stone
+Sprite Süper Ruh Taşı
+
+Goblin Super Soul Stone
+Goblin Süper Ruh Taşı
+
+Slime Super Soul Stone
+Slime Super Soul Stone
+
+Night Cat Soul Stone
+Night Cat Soul Stone
+
+Cherub Super Soul Stone
+Cherub Super Soul Stone
+
+Primary Warpath
+Primary Warpath
+
+Medium Warpath
+Medium Warpath
+
+Advanced Warpath
+Advanced Warpath
+
+Super Warpath
+Super Warpath
+
+Primary Determination
+Primary Determination
+
+Medium Determination
+Medium Determination
+
+Advanced Determination
+Advanced Determination
+
+Super Determination
+Super Determination
+
+Primary Focus
+Primary Focus
+
+Medium Focus
+Medium Focus
+
+Advanced Focus
+Advanced Focus
+
+Super Focus
+Super Focus
+
+Primary Spirit Lock
+Primary Spirit Lock
+
+Medium Spirit Lock
+Medium Spirit Lock
+
+Advanced Spirit Lock
+Advanced Spirit Lock
+
+Super Spirit Lock
+Super Spirit Lock
+
+Primary Destruction
+Primary Destruction
+
+Medium Destruction
+Medium Destruction
+
+Advanced Destruction
+Advanced Destruction
+
+Super Destruction
+Super Destruction
+
+Primary Soul Turmoil
+Primary Soul Turmoil
+
+Medium Soul Turmoil
+Medium Soul Turmoil
+
+Advanced Soul Turmoil
+Advanced Soul Turmoil
+
+Super Soul Turmoil
+Super Soul Turmoil
+
+Primary Ferocious
+Primary Ferocious
+
+Medium Ferocious
+Medium Ferocious
+
+Advanced Ferocious
+Advanced Ferocious
+
+Super Ferocious
+Super Ferocious
+
+Primary Demonize
+Primary Demonize
+
+Medium Demonize
+Medium Demonize
+
+Advanced Demonize
+Advanced Demonize
+
+Super Demonize
+Super Demonize
+
+Primary Fury
+Primary Fury
+
+Medium Fury
+Medium Fury
+
+Advanced Fury
+Advanced Fury
+
+Super Fury
+Super Fury
+
+Primary Magic Maniac
+Primary Magic Maniac
+
+Medium Magic Maniac
+Medium Magic Maniac
+
+Advanced Magic Maniac
+Advanced Magic Maniac
+
+Super Magic Maniac
+Super Magic Maniac
+
+Primary Fighter Form
+Primary Fighter Form
+
+Medium Fighter Form
+Medium Fighter Form
+
+Advanced Fighter Form
+Advanced Fighter Form
+
+Super Fighter Form
+Super Fighter Form
+
+Primary Energy Form
+Primary Energy Form
+
+Medium Energy Form
+Medium Energy Form
+
+Advanced Energy Form
+Advanced Energy Form
+
+Super Energy Form
+Super Energy Form
+
+Primary Unbreakable Form
+Primary Unbreakable Form
+
+Medium Unbreakable Form
+Medium Unbreakable Form
+
+Advanced Unbreakable Form
+Advanced Unbreakable Form
+
+Super Unbreakable Form
+Super Unbreakable Form
+
+Primary Spiritual Form
+Primary Spiritual Form
+
+Medium Spiritual Form
+Medium Spiritual Form
+
+Advanced Spiritual Form
+Advanced Spiritual Form
+
+Super Spiritual Form
+Super Spiritual Form
+
+Primary Steady Form
+Primary Steady Form
+
+Medium Steady Form
+Medium Steady Form
+
+Advanced Steady Form
+Advanced Steady Form
+
+Super Steady Form
+Super Steady Form
+
+Primary Concentration Form
+Primary Concentration Form
+
+Medium Concentration Form
+Medium Concentration Form
+
+Advanced Concentration Form
+Advanced Concentration Form
+
+Super Concentration Form
+Super Concentration Form
+
+Primary Hunt Form
+Primary Hunt Form
+
+Medium Hunt Form
+Medium Hunt Form
+
+Advanced Hunt Form
+Advanced Hunt Form
+
+Super Hunt Form
+Super Hunt Form
+
+Primary Soul Chaser Form
+Primary Soul Chaser Form
+
+Medium Soul Chaser Form
+Medium Soul Chaser Form
+
+Advanced Soul Chaser Form
+Advanced Soul Chaser Form
+
+Super Soul Chaser Form
+Super Soul Chaser Form
+
+Primary Berserk Form
+Primary Berserk Form
+
+Medium Berserk Form
+Medium Berserk Form
+
+Advanced Berserk Form
+Advanced Berserk Form
+
+Super Berserk Form
+Super Berserk Form
+
+Primary Demon Form
+Birincil Şeytan Formu
+
+Medium Demon Form
+Orta Şeytan Formu
+
+Advanced Demon Form
+Gelişmiş Şeytan Formu
+
+Super Demon Form
+Süper Şeytan Formu
+
+Small Plier
+Küçük Pense
+
+Large Plier
+Geniş Pense
+
+Alloy Plier
+Alaşım Pense
+
+Small Toolbox
+Küçük Araç Kutusu
+
+Large Toolbox
+Büyük Araç Kutusu
+
+Alloy Toolbox
+Alaşım Alet Kutusu
+
+Repair Scroll
+Tamir Parşömeni
+
+Advanced Repair Scroll
+Gelişmiş Onarım Parşömeni
+
+Super Repair Scroll
+Süper Onarım Parşömeni
+
+Iron Crystal Water
+Demir Kristal Su
+
+Iron Crystal Water (Condensed)
+Demir Kristal Su (Yoğunlaştırılmış)
+
+Iron Crystal Water (Essence)
+Demir Kristal Su (Öz)
+
+World Broadcast Card
+Dünya Yayın Kartı
+
+Map Broadcast Card
+Harita Yayın Kartı
+
+Nearby Broadcast Card
+Yakınlar Yayın Kartı
+
+Gang Broadcast Card
+Çete Yayın Kartı
+
+New Year Greeting Card
+Yeni Yıl Tebrik Kartı
+
+Christmas Greeting Card
+Noel Tebrik Kartı
+
+Spring Festival Greeting Card
+Bahar Şenliği Tebrik Kartı
+
+Greeting Card
+Tebrik kartı
+
+Wedding Vow Card
+Evlilik Yemini Kartı
+
+Wedding Blessing Card
+Düğün Kutsama Kartı
+
+Hearthstone
+Kalp taşı
+
+Memory Butterfly
+Hafıza Kelebeği
+
+Karon Village Teleportation stone
+Karon Köyü Işınlanma taşı
+
+Sunset City Teleportation stone
+Gün batımı Şehri Işınlanma taşı
+
+Giant rock City Teleportation stone
+Dev kaya Şehri Işınlanma taşı
+
+White Sands City Teleportation stone
+Beyaz kum Şehri Işınlanma taşı
+
+Tulip City Teleportation stone
+Lale Şehri Işınlanma taşı
+
+Moon City Teleportation stone
+Ay Şehri Işınlanma taşı
+
+holy blood city Teleportation stone
+kutsal kan şehri Işınlanma taşı
+
+gouging knife City Teleportation stone
+oyma bıçağı Şehiri Işınlanma taşı
+
+Violet City Teleportation stone
+Menekşe Şehri Işınlanma taşı
+
+Night City Teleportation stone
+Gece Şehri Işınlanma taşı
+
+Soul Burial Village Teleportation stone
+Ruh Mezarı Köyü Işınlanma taşı
+
+Plague Abyss Teleportation stone
+Plague Abyss Işınlanma taşı
+
+Orchid woods Village Teleportation stone
+Orchid woods Village Teleportation stone
+
+City of the Ancient tower Teleportation stone
+City of the Ancient tower Teleportation stone
+
+mist gods Ruins Teleportation stone
+mist gods Ruins Teleportation stone
+
+West Sealing Tower Teleportation stone
+West Sealing Tower Teleportation stone
+
+Hermit Camp Teleportation stone
+Hermit Camp Teleportation stone
+
+East Sealing Tower Teleportation stone
+East Sealing Tower Teleportation stone
+
+portal of the demon world Teleportation stone
+portal of the demon world Teleportation stone
+
+Central Kingdom Teleportation stone
+Merkez Krallık Işınlanma taşı
+
+Loki Union Teleportation stone
+Loki Birliği Işınlanma taşı
+
+Garth Empire Teleportation stone
+Garth Empire Teleportation stone
+
+Spirit Teleportation stone
+Spirit Teleportation stone
+
+Ruins Teleportation stone
+Ruins Teleportation stone
+
+seal Teleportation stone
+seal Teleportation stone
+
+Platinum Teleportation stone
+Platinum Teleportation stone
+
+Black Gold Teleportation stone
+Black Gold Teleportation stone
+
+Cherry Wedding Candy
+Vişneli Nikah Şekeri
+
+Strawberry Wedding Candy
+Çilekli Nikah Şekeri
+
+Pearl Wedding Candy
+İnci Nikah Şekeri
+
+Milk Wedding Candy
+Sütlü Nikah Şekeri
+
+White Chocolate Candy
+Beyaz Çikolatalı Şeker
+
+Chocolate Candy
+Çikolatalı şeker
+
+Gouging Knife Strike Force
+Oyma Bıçağı Vuruş Kuvvetie
+
+Innocent Moon
+masum ay
+
+Bloody Holy Blood
+Kanlı Kutsal Kan
+
+Free White Sand
+Ücretsiz Beyaz Kum
+
+Princess William
+Prenses William
+
+White Tulip
+Beyaz Lale
+
+Pet Experience Pill (small)
+Evcil Hayvan Deneyim Hapı (küçük)
+
+Pet Experience Pill (medium)
+Evcil Hayvan Deneyim Hapı (orta)
+
+Pet Experience Pill (large)
+Evcil Hayvan Deneyim Hapı (büyük)
+
+Pet Experience Pill (potent)
+Evcil Hayvan Deneyim Hapı (güçlü)
+
+Skill Proficiency Pill (small)
+Beceri Yeterlilik Hapı (küçük)
+
+Skill Proficiency Pill (medium)
+Beceri Yeterlilik Hapı (orta)
+
+Skill Proficiency Pill (large)
+Beceri Yeterlilik Hapı (büyük)
+
+Behemoth Beast Crystal
+Behemoth Canavar Kristali
+
+Behemoth Lord Beast Crystal
+Behemoth Lord Canavar Kristali
+
+Thunderbird Crystal
+Thunderbird Crystal
+
+Thunderbird Lord Crystal
+Thunderbird Lord Crystal
+
+Wind Spirit Crystal
+Wind Spirit Crystal
+
+Super Wind Spirit Crystal
+Super Wind Spirit Crystal
+
+Phantom Wyvern Crystal
+Phantom Wyvern Crystal
+
+Bluish White Horse Crystal
+Bluish White Horse Crystal
+
+Bluish White Horse—Cloud Crystal
+Bluish White Horse—Cloud Crystal
+
+Nightmare Beast Crystal
+Nightmare Beast Crystal
+
+Nightmare of Ice Crystal
+Nightmare of Ice Crystal
+
+Nightmare of Fire Crystal
+Nightmare of Fire Crystal
+
+Nightmare of Blood Crystal
+Nightmare of Blood Crystal
+
+Wind Chaser Crystal
+Rüzgar Avcısı Kristali
+
+Wind Chaser-Precipice Crystal
+Wind Chaser-Precipice Crystal
+
+Wind Chaser-Shadow Crystal
+Wind Chaser-Shadow Crystal
+
+Wind Chaser-Mist Crystal
+Wind Chaser-Mist Crystal
+
+Small Wind Chaser Crystal
+Small Wind Chaser Crystal
+
+Fire-Capped Tit Crystal
+Fire-Capped Tit Crystal
+
+Blue fire plume Crystal
+Blue fire plume Crystal
+
+Black fire plume Crystal
+Black fire plume Crystal
+
+White fire plume Crystal
+White fire plume Crystal
+
+Unicorn Crystal
+Unicorn Crystal
+
+Unicorn—Lightning Crystal
+Unicorn—Lightning Crystal
+
+Unicorn—Light Chaser Crystal
+Unicorn—Light Chaser Crystal
+
+Unicorn Lord Crystal
+Unicorn Lord Crystal
+
+Rock Spirit Beast Crystal
+Kaya Ruhu Canavarı Kristali
+
+Ice Scale Leopard Crystal
+Ice Scale Leopard Crystal
+
+Ghost baby Crystal
+Ghost baby Crystal
+
+Shadow Wolf Crystal
+Shadow Wolf Crystal
+
+Angel Baby Crystal
+Melek Bebek Kristali
+
+Iron Beetle Crystal
+Demir Böceği Kristali
+
+Firefly Crystal
+Ateşböceği Kristali
+
+Werewolf Crystal
+Werewolf Crystal
+
+Sea Spirit Crystal
+Sea Spirit Crystal
+
+Minotaur Crystal
+Minotaur Crystal
+
+Blood spirit Crystal
+Blood spirit Crystal
+
+Mammoth Crystal
+Mammoth Crystal
+
+Flame Spirit Crystal
+Flame Spirit Crystal
+
+Glacier Giant Bear Crystal
+Buzul Dev Ayı Kristali
+
+Polar Ice Bear Crystal
+Kutup Buz Ayısı Kristali
+
+Frost Spirit Crystal
+Frost Spirit Crystal

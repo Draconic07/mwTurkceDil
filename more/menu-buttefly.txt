@@ -1,0 +1,12 @@
+unit {d}: {s};{d};{d}
+kayıt {$1}: {sub2{$2}sub2};{$3};{$4}
+
+Please select the coordinates to transfer to or select the memory unit to save the current coordinates
+Lütfen ışınlanılacak koordinatları  veya mevcut koordinatları kaydetmek için hafıza biriminin altındaki kayıt butonunu seçin
+
+Save the current coordinate to unit {d}
+Mevcut koordinatı birim $1'e kaydet
+
+unit {d}: none
+kayıt $1: boş
+

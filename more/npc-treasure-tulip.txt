@@ -1,0 +1,69 @@
+treasure hunt in Wonderland
+harikalar diyarında hazine avı
+
+Open the portal to the Wonderland, and use your lucky hands to grasp the treasures scattered there! You can get precious mall items and equipment boosting items.
+Harikalar Diyarı portalını açın ve oraya dağılmış hazineleri kapmak için şanslı ellerinizi kullanın! Değerli alışveriş merkezi eşyalarını ve ekipman geliştirme öğelerirni alabilirsiniz.
+
+press to purchase treasure hunts
+hazine avı satın almak için basın
+
+start a treasure hunt
+bir hazine avı başlat
+
+no treasure hunts
+hazine avı yok
+
+treasure hunt under the sea
+deniz altında hazine avı
+
+Open the portal to the deep sea, and use your lucky hands to grasp the treasures scattered there! You can get precious mall items and equipment boosting items.
+Derin deniz portalını açın ve oraya dağılmış hazineleri yakalamak için şanslı ellerinizi kullanın! Değerli alışveriş merkezi eşyalarını ve ekipman geliştirme öğelerini alabilirsiniz.
+
+Welcome to Lucky Draw. You have {d} luck points
+Şanslı Çekiliş'e hoş geldiniz. $1 şans puanınız var
+
+Current item: {d} {s}
+Şimdiki öğe: $1 {sub2{$2}sub2}
+
+Refresh limit reached today
+Bugünki yenileme sınırına ulaşıldı.
+
+take the item, use 10 Bless Points, you have a total of {d} Bless Points
+öğeyi al, 10 Kutsama Puanı kullan, toplam {$1} Kutsama Puanın var
+
+Rule Description
+Kural Açıklaması
+
+Lucky Draw
+Şanslı Çekiliş
+
+1. Lucky Draw Rules: Spend 10 Diamonds to refresh the item pool. Doing so will turn every 10 Diamonds into 10 Luck Points. The higher the Luck Points, the higher the chance rare items will appear. Luck Points max out at 2000.
+1. Şanslı Çekiliş Kuralları: Öğe havuzunu yenilemek için 10 Elmas harcayın. Bunu yapmak, her 10 Elmas'ı 10 Şans Puanına çevirecektir. Şans Puanı ne kadar yüksek olursa, nadir öğelerin ortaya çıkma şansı o kadar yüksek olur. Şans Puanları 2000'de maksimuma çıkar.
+
+2. Every player has two free refreshes per day. Free refreshes do not increase Luck Points.
+2. Her oyuncunun günde iki ücretsiz yenileme hakkı vardır. Ücretsiz yenilemeler Şans Puanlarını artırmaz.
+
+3. Every player has 20 paid refreshes per day. 
+3. Her oyuncunun günde 20 ücretli yenileme hakkı vardır.
+
+4. The appeared items can be purchased with 10 Diamonds. After purchase, all Luck Points are reset, but 20% of which will be converted into Bless Points.
+4. Ortaya çıkan ürünler 10 Elmas ile satın alınabilir. Satın alma işleminden sonra, tüm Şans Puanları sıfırlanır ancak bunların %20'si Kutsama Puanlarına dönüştürülür.
+
+5. Bless Points can be used to exchange for the appeared items.
+5. Kutsama Puanları, ortaya çıkan öğeleri takas etmek için kullanılabilir.
+
+Current item: none
+Şuanda öğe yok.
+
+You still have {d} free item refreshes today; Press here to refresh
+Bugün hala $1 ücretsiz öğe yenileme hakkınız var; yenilemek için buraya basın
+
+Press to refresh the item, the cost is 10 diamonds; {d} times remaining today
+Öğeyi yenilemek için basın, 10 elmas gerektirir; Bugün $1 hakkınız kaldı
+
+take the item, cost 10 diamonds
+öğeyi al, 10 elmas gerektirir
+
+Not enough diamonds
+Yeterli elmas yok
+

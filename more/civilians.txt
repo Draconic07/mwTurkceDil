@@ -1,0 +1,41 @@
+After you've mastered your profession skills, you can go to the Profession guild and find Master Pepper, who can help you upgrade your skills.
+Meslek becerilerinizde uzmanlaştıktan sonra Meslek loncasına gidebilir ve becerilerinizi geliştirmenize yardımcı olabilecek Usta Pepper'ı bulabilirsiniz.
+
+We have detected distorted space -time that connects to other dimensional spaces In the hidden water cave of Abundant green hills. Hope it's not a passage built by the demon world!
+Bol yeşil tepelerin gizli su mağarasında diğer boyutsal uzaylara bağlanan çarpık uzay-zaman tespit ettik. Umarım iblis dünyasının inşa ettiği bir geçit değildir!
+
+Go to {s}; VIP are free
+{sub1{$1}sub1}'e gidiş; VIP ücretsiz
+
+Have you ever taken the underground cable car in the southwest corner of the city? It's so scary underground.
+Şehrin güneybatı köşesindeki yer altı teleferiğine hiç bindiniz mi? Yeraltı çok korkutucu.
+
+Purchase succeeded, remember to go to the bank to collect the income every day
+Satın alma başarılı oldu, her gün geliri tahsil etmek için bankaya gitmeyi unutmayın
+
+The weapon shop south of the city has a lot of good equipment for sale. But I've heard that the monsters in Brute Valley also drop a variety of nice items, some of which are high-quality equipment that can't be bought.
+Şehrin güneyindeki silah dükkanında satılık çok sayıda iyi ekipman var. Ama Brute Vadisin'deki canavarların, bazıları satın alınamayan yüksek kaliteli ekipmanlar olan çeşitli güzel eşyalar da düşürdüğünü duydum.
+
+The mist around the city is getting thick recently. We wonder if there are mist gods hovering above us. The Master's Guild has sent masters to stay in Sunset City. Hope we have the chance to communicate with the mist gods.
+Şehrin etrafındaki sis son zamanlarda yoğunlaşıyor. Üzerimizde uçan sis tanrıları olup olmadığını merak ediyoruz. Ustalar Loncası, ustaları Sunset City'de kalmaları için gönderdi. Umarım sis tanrılarıyla iletişim kurma şansımız olur.
+
+Have you met with Master Catherine in the Master's Mansion? She helps warriors cultivate talents, and teaches a variety of useful skills.
+Ustanın Konağı'nda Usta Catherine ile tanıştınız mı? Savaşçıların yetenek geliştirmelerine yardımcı olur ve çeşitli yararlı beceriler öğretir.
+
+Stranger, Karst cave north of the town has been covered with Demonic energy. It is very dangerous, so don't go there unless you have to.
+Yabancı, kasabanın kuzeyindeki Karst mağarası Şeytani enerjiyle kaplandı. Çok tehlikeli, bu yüzden mecbur kalmadıkça oraya gitmeyin.
+
+This goddamn bat is horrifying! It can catch people with sharp claws and suck blood. A lot of our men died, but we still couldn't take it down. We could only trap it in the shrine for the time, wait for more powerful warriors Grand Duke Trini may send.
+Bu lanet yarasa korkunç! Keskin pençeleri olan insanları yakalayabilir ve kan emebilir. Bir çok adamımız öldü ama yine de onu alt edemedik. Onu sadece bir süreliğine tapınağa hapsedebilir, Büyük Dük Trini'nin gönderebileceği daha güçlü savaşçıları bekleyebilirdik.
+
+There are too many monsters in the cave to the north. We are gathering warriors to eliminate some to ensure the safety of the town. My friend, are you going to help us?
+Kuzeydeki mağarada çok fazla canavar var. Kasabanın güvenliğini sağlamak için bazılarını ortadan kaldırmak için savaşçıları topluyoruz. Arkadaşım, bize yardım edecek misin?
+
+Accept the Monster Elimination Mission, Head to the northern Karst cave and eliminate 50 monsters. You will receive 3000 experience and 1 equipment; This mission can be completed {d} times, you have completed {d} times.
+Canavar Eleme Görevini kabul edin, kuzeydeki Karst mağarasına gidin ve 50 canavarı yok edin. 3000 deneyim ve 1 ekipman alacaksınız; Bu görev $1 kez tamamlanabilir, $2 kez tamamladınız.
+
+The village needs the protection of the barrier. When can Grand Duke Trini deliver us the Enchanted Bead?
+Köyün bariyer korumasına ihtiyacı var. Büyük Dük Trini bize Büyülü Boncuk'u ne zaman teslim edebilir?
+
+Been to capsule toy house? Refresh every day, the door of luck will definitely open for you!
+kapsül oyuncak evi - hiç orada bulundunuz mu? Her gün yenile, şansın kapısı sana mutlaka açılacak!

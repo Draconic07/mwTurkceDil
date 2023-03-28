@@ -1,0 +1,116 @@
+you have {d} account diamonds;{d} character bound diamonds;Note: Account diamonds will be used when purchasing free-trading items, and character-bound diamonds will be used first when purchasing non-free-trading items, and account diamonds will be used when the number of bound diamonds is insufficient.
+$1 hesap elmasınız;$2 karaktere bağlı elmasınız var; Not: Serbest ticaret ürünleri satın alırken hesap elmasları, serbest ticaret dışı ürünler satın alırken ilk olarak karaktere bağlı elmaslar kullanılacak ve bağlı elmas sayısı yetersiz olduğunda hesap elmasları kullanılacaktır.
+
+you have {d} account diamonds;{d} character bound diamonds
+$1 hesap elmasınız;$2 karakter bağlı elmasınız var
+
+Note: The products in the value mall can only be purchased with account diamonds. The products that can be purchased at different character levels are different. You can visit the mall to check for new value products at any time. Maybe there are value products that can surprise you!
+Not: Değer Market'indeki ürünler sadece hesap elmasları ile satın alınabilir. Farklı karakter seviyelerinde satın alınabilen ürünler farklıdır. Yeni değerli ürünleri kontrol etmek için istediğiniz zaman alışveriş merkezini ziyaret edebilirsiniz. Belki sizi şaşırtabilecek değerli ürünler vardır!
+
+You have {d} account recharge points
+$1 hesap yükleme puanınız var
+
+Commonly used
+Genel olarak kullanılanlar
+
+teleportation items
+ışınlanma öğeleri
+
+Gem and enhance items
+mücevher ve geliştirme öğeleri
+
+Fusion Beasts
+Füzyon Canavarları
+
+pets
+Evcil Hayvanlar
+
+Lucky treasure and gifts
+Şanslı hazine ve hediyeler
+
+gang related
+çeteyle ilgili
+
+bound diamond items
+bağlı elmas öğeleri
+
+please choose
+lütfen seçin
+
+{s};unit price {d} {s};{s}
+{sub2{$1}sub2}; birim fiyatı: $2 {sub2{$3}sub2}; {sub2{$4}sub2}
+
+{s}; restricted of trading
+{sub2{$1}sub2}; satım kısıtlamalı
+
+diamonds
+elmas
+
+this is {s};Enter the {s};Enter the {s}
+bu {sub2{$1}sub2}; Giriş {sub2{$2}sub2}; Giriş {sub2{$3}sub2}
+
+this is {s}
+Bu {sub2{$1}sub2}
+
+Enter the Diamond Mall
+Elmas Mağazası'na girin
+
+Enter the value mall
+Değer mağazasına  girin
+
+Enter the Point Mall
+Puan Mağazası'na girin
+
+diamond mall
+elmas mağazası
+
+Diamond Mall
+Elmas Mağazası
+
+value mall
+değer mağazası
+
+Point Mall
+ppuan mağazası
+
+Points Mall
+Puan mağazası
+
+{d} points area
+$1 puan alanı
+
+Newcomer Super Package
+Yeni Gelen Süper Paketi
+
+Newcomer Value Product
+Yeni Gelen Değer Ürünü
+
+VIP And Income monthly card
+VIP ve aylık Gelir  kartı
+
+Butterfly Package
+Kelebek Paketi
+
+Giant Rock City Teleportation Package
+Dev kaya Şehri Işınlanma Paketi
+
+price {d} diamonds
+Fiyat: $1 elmas
+
+A gift package worthy of $30, only for newcomers before level 35, including 1 soul stone that can summon top cute baby frog pets, 1 million arnebia, 20,000 gold coins, 30 memory butterflies, and 2 Weapon Enhance Boost Runes, 2 Weapon Enhance Protection Runes, 20 Equipment Enhance Boost Runes, 20 Equipment Enhance Protection Runes, 10 Resurrection Crystals, 5 1.5x EXP acceleration Cards, 1 Player Rename Card and 2 Pet Rename Cards.
+Sadece 35. seviyeden önce alınabilir, yeni gelenler için 30 $ değerinde bir hediye paketi; Şunları içerir:  en sevimli yavru kurbağa evcil hayvanını çağırabilen 1 ruh taşı, 1 milyon arnebya, 20.000 altın, 30 hafıza kelebeği ve 2 Silah Geliştirme şans artırıcısı, 2 Silah Geliştirme Koruyucusu, 20 Ekipman Geliştirme Şans artırıcısı, 20 Ekipman Geliştirme Koruyucusu, 10 Diriliş Kristali, 5 1,5x Deneyim hızlandırma Kartı, 1 Oyuncu Yeniden Adlandırma Kartı ve 2 Evcil hayvan Yeniden Adlandırma Kartı.
+
+A Value Product worthy of $20, can only be purchased at level 30 to 40, and each person is limited to one purchase. After purchase, you can collect 120 bound diamonds and 20,000 arnebia from the Royal Bank of any city for 10 consecutive days.
+20 $ değerinde bir Değer Ürünü yalnızca 30 ila 40. seviyelerde satın alınabilir ve her kişi bir satın alma ile sınırlıdır. Satın aldıktan sonra, 10 gün boyunca herhangi bir şehrin Banka'sından 120 karaktere bağlı elmas ve 20.000 arnebia alabilirsiniz.
+
+After purchase, you can claim 60 bound Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+Satın aldıktan sonra, art arda 30 gün boyunca herhangi bir şehrin Kraliyet Bankasından Karaktere bağlı 60 Elmas ve 50000 Arnebia talep edebilirsiniz. Ek olarak, depolama alanınız 20 raf artar ve diğer oyunculara günde 3000 şişeye kadar iksir verebilir veya satabilirsiniz.
+
+20 memory butterflies
+20 hafıza kelebeği
+
+20 Giant Rock City Teleportation stones
+20 Dev kaya şehri Işınlanma taşı
+
+{s};price {d} diamonds;{s}
+{sub2{$1}sub2}; fiyat: $2 elmas; {sub2{$3}sub2}
