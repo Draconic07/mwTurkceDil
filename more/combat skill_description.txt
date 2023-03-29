@@ -317,46 +317,46 @@ Level 8 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective 
 Seviye 8 Pervasız Darbe; {sub2{$1}sub2} Güçlü tek hedefli saldırı, etki mesafesi 5 adım, 4,8 saniye soğuma süresi, 5 öfke kazandırır, 6400 fiziksel saldırı puan artışı, %30 saldırı bonusu, 2400 mana harcar
 
 Level 1 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 1400 points of physical attack, 50% attack bonus, cost 500 mana
-Seviye 1 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve hasarın %30'unu sağlık olarak alın. Beceri kaçırılsa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 1400 fiziksel saldırı puanı artışı, %50 saldırı bonusu, maliyeti Maliyeti 80 öfke ve 500 mana.
+Seviye 1 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 1400 fiziksel saldırı puan artışı, %50 saldırı bonusu, 500 mana harcar.
 
 Level 2 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 1860 points of physical attack, 50% attack bonus, cost 660 mana
-Seviye 2 Bloodthirsty; {sub2{$1}sub2}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 1860 points of physical attack, 50% attack bonus, cost 660 mana
+Seviye 2 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 1860 fiziksel saldırı puan artışı, %50 saldırı bonusu, 660 mana harcar
 
 Level 3 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 2400 points of physical attack, 50% attack bonus, cost 850 mana
-Seviye 3 Bloodthirsty; {sub2{$1}sub2}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 2400 points of physical attack, 50% attack bonus, cost 850 mana
+Seviye 3 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 2400 fiziksel saldırı puan artışı, %50 saldırı bonusu, 850 mana harcar
 
 Level 4 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 5000 points of physical attack, 50% attack bonus, cost 1800 mana
-Seviye 4 Bloodthirsty; {sub2{$1}sub2}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 5000 points of physical attack, 50% attack bonus, cost 1800 mana
+Seviye 4 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 5000 fiziksel saldırı puan artışı, %50 saldırı bonusu, 1800 mana harcar
 
 Level 5 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 7400 points of physical attack, 50% attack bonus, cost 2650 mana
-Seviye 5 Bloodthirsty; {sub2{$1}sub2}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 7400 points of physical attack, 50% attack bonus, cost 2650 mana
+Seviye 5 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 7400 fiziksel saldırı puan artışı, %50 saldırı bonusu, 2650 mana harcar
 
 Level 6 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 9800 points of physical attack, 50% attack bonus, cost 3500 mana
-Seviye 6 Bloodthirsty; {sub2{$1}sub2}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 9800 points of physical attack, 50% attack bonus, cost 3500 mana
+Seviye 6 Kana susamış; {sub2{$1}sub2} 5 adım içindeki 1 düşmana saldırın ve verdiğiniz hasarın %30'unu sağlık olarak geriye alın. Beceri ıskalasa bile bir sonraki saldırının hasarını her zaman %20 arttırır. 80 öfkeye ihtiyaç duyar, 9800 fiziksel saldırı puan artışı, %50 saldırı bonusu, 3500 mana harcar
 
 Level 1 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 160 points of physical attack, 10% attack bonus, cost 100 mana
-Seviye 1 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 160 points of physical attack, 10% attack bonus, cost 100 mana
+Seviye 1 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 160 fiziksel saldırı puan artışı, %10 saldırı bonusu, 100 mana harcar
 
 Level 2 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 240 points of physical attack, 10% attack bonus, cost 180 mana
-Seviye 2 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 240 points of physical attack, 10% attack bonus, cost 180 mana
+Seviye 2 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 240 fiziksel saldırı puan artışı, %10 saldırı bonusu, 180 mana harcar
 
 Level 3 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 350 points of physical attack, 10% attack bonus, cost 320 mana
-Seviye 3 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 350 points of physical attack, 10% attack bonus, cost 320 mana
+Seviye 3 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 350 fiziksel saldırı puan artışı, %10 saldırı bonusu, 320 mana harcar
 
 Level 4 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 500 points of physical attack, 10% attack bonus, cost 450 mana
-Seviye 4 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 500 points of physical attack, 10% attack bonus, cost 450 mana
+Seviye 4 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 500 fiziksel saldırı puan artışı, %10 saldırı bonusu, 450 mana harcar
 
 Level 5 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 770 points of physical attack, 10% attack bonus, cost 700 mana
-Seviye 5 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 770 points of physical attack, 10% attack bonus, cost 700 mana
+Seviye 5 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 770 fiziksel saldırı puan artışı, %10 saldırı bonusu, 700 mana harcar
 
 Level 6 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1150 points of physical attack, 10% attack bonus, cost 1040 mana
-Seviye 6 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1150 points of physical attack, 10% attack bonus, cost 1040 mana
+Seviye 6 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 1150 fiziksel saldırı puan artışı, %10 saldırı bonusu, 1040 mana harcar
 
 Level 7 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1750 points of physical attack, 10% attack bonus, cost 1600 mana
-Seviye 7 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1750 points of physical attack, 10% attack bonus, cost 1600 mana
+Seviye 7 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 1750 fiziksel saldırı puan artışı, %10 saldırı bonusu, 1600 mana harcar
 
 Level 8 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 2880 points of physical attack, 10% attack bonus, cost 2500 mana
-Seviye 8 Flesh Cleave; {sub2{$1}sub2}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 2880 points of physical attack, 10% attack bonus, cost 2500 mana
+Seviye 8 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 2880 fiziksel saldırı puan artışı, %10 saldırı bonusu, 2500 mana harcar
 
 Level 1 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 1000 mana
 Seviye 1 Rampage Hack; {sub2{$1}sub2}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 1000 mana
