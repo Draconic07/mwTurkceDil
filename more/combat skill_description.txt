@@ -359,25 +359,25 @@ Level 8 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, 
 Seviye 8 Et kesme; {sub2{$1}sub2} 5 adım içindeki 3 düşmana saldırın, 4,8 saniye soğuma süresi, 10 öfke kazandırır, 2880 fiziksel saldırı puan artışı, %10 saldırı bonusu, 2500 mana harcar
 
 Level 1 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 1000 mana
-Seviye 1 Rampage Hack; {sub2{$1}sub2}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 1000 mana
+Seviye 1 öfke Hilesi; {sub2{$1}sub2} 5 adım içindeki 6 düşmana güçlü bir saldırı yapın, maliyeti 200 öfke, 3000 fiziksel saldırı puanı artışı, %50 saldırı bonusu, 1000 mana maliyeti
 
 Level 2 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 4400 points of physical attack, 50% attack bonus, cost 1500 mana
-Seviye 2 Rampage Hack; {sub2{$1}sub2}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 4400 points of physical attack, 50% attack bonus, cost 1500 mana
+Seviye 2 öfke Hilesi; {sub2{$1}sub2} 5 adım içindeki 6 düşmana güçlü bir saldırı yapın, maliyeti 200 öfke, 4400 fiziksel saldırı puanı artışı, %50 saldırı bonusu, 1500 mana maliyeti
 
 Level 3 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 6800 points of physical attack, 50% attack bonus, cost 2400 mana
-Seviye 3 Rampage Hack; {sub2{$1}sub2}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 6800 points of physical attack, 50% attack bonus, cost 2400 mana
+Seviye 3 öfke Hilesi; {sub2{$1}sub2} 5 adım içindeki 6 düşmana güçlü bir saldırı yapın, maliyeti 200 öfke, 6800 fiziksel saldırı puanı artışı, %50 saldırı bonusu, 2400 mana maliyeti
 
 Level 4 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 9000 points of physical attack, 50% attack bonus, cost 3300 mana
-Seviye 4 Rampage Hack; {sub2{$1}sub2}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 9000 points of physical attack, 50% attack bonus, cost 3300 mana
+Seviye 4 öfke Hilesi; {sub2{$1}sub2} 5 adım içindeki 6 düşmana güçlü bir saldırı yapın, maliyeti 200 öfke, 9000 fiziksel saldırı puanı artışı, %50 saldırı bonusu, 3300 mana maliyeti
 
 Haste; {s}Increase 30% movement speed for 10 seconds, 30 seconds CD, cost 1% mana.
-Aceleci; {sub2{$1}sub2}Increase 30% movement speed for 10 seconds, 30 seconds CD, cost 1% mana.
+Aceleci; {sub2{$1}sub2}10 saniye boyunca %30 hareket hızı artışı, 30 saniye Soğuma süresi, %1 mana maliyeti.
 
 Ignore the Pain; {s}Reduce 40% physical damage taken and 20% magic damage taken for 10 seconds, 60 seconds CD, cost 1% mana.
-Ignore the Pain; {sub2{$1}sub2}Reduce 40% physical damage taken and 20% magic damage taken for 10 seconds, 60 seconds CD, cost 1% mana.
+Acıyı Yoksay; {sub2{$1}sub2} 10 saniye boyunca alınan fiziksel hasarı %40 ve alınan büyü hasarını  %20 azaltır, 60 saniye Soğuma süresi, %1 mana maliyeti.
 
 Furious Recovery; {s}Reduce 30% physical damage taken and 15% magic damage taken, recover 20% more HP with Bloodthirsty. Lasts for 8 seconds. Share CD with Ignore the Pain, cost 1% mana.
-Furious Recovery; {sub2{$1}sub2}Reduce 30% physical damage taken and 15% magic damage taken, recover 20% more HP with Bloodthirsty. Lasts for 8 seconds. Share CD with Ignore the Pain, cost 1% mana.
+Öfkeli Kurtarma; {sub2{$1}sub2} Alınan fiziksel hasarı %30 ve alınan büyü hasarını %15 azaltır, Kana susamış ile %20 daha fazla sağlık yenileyin. 8 saniye sürer. CD'yi Ignore the Pain ile paylaşın, %1 mana maliyeti.
 
 Level 1 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 650 points of physical attack, 10% attack bonus, cost 60 mana
 Seviye 1 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 650 points of physical attack, 10% attack bonus, cost 60 mana
@@ -890,154 +890,154 @@ Escape; {s}Jump backward by 12 yards, 20 seconds CD, not affected by global CD. 
 Escape; {sub2{$1}sub2}Jump backward by 12 yards, 20 seconds CD, not affected by global CD. Cost 1% Mana.
 
 Level 1 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 185 points of magic attack, 10% attack bonus, cost 20 mana
-Level 1 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 185 points of magic attack, 10% attack bonus, cost 20 mana
+Seviye 1 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 185 points of magic attack, 10% attack bonus, cost 20 mana
 
 Level 2 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 390 points of magic attack, 10% attack bonus, cost 40 mana
-Level 2 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 390 points of magic attack, 10% attack bonus, cost 40 mana
+Seviye 2 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 390 points of magic attack, 10% attack bonus, cost 40 mana
 
 Level 3 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 600 points of magic attack, 10% attack bonus, cost 60 mana
-Level 3 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 600 points of magic attack, 10% attack bonus, cost 60 mana
+Seviye 3 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 600 points of magic attack, 10% attack bonus, cost 60 mana
 
 Level 4 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 680 points of magic attack, 10% attack bonus, cost 70 mana
-Level 4 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 680 points of magic attack, 10% attack bonus, cost 70 mana
+Seviye 4 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 680 points of magic attack, 10% attack bonus, cost 70 mana
 
 Level 5 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 820 points of magic attack, 10% attack bonus, cost 80 mana
-Level 5 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 820 points of magic attack, 10% attack bonus, cost 80 mana
+Seviye 5 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 820 points of magic attack, 10% attack bonus, cost 80 mana
 
 Level 6 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1200 points of magic attack, 10% attack bonus, cost 120 mana
-Level 6 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1200 points of magic attack, 10% attack bonus, cost 120 mana
+Seviye 6 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1200 points of magic attack, 10% attack bonus, cost 120 mana
 
 Level 7 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1550 points of magic attack, 10% attack bonus, cost 150 mana
-Level 7 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1550 points of magic attack, 10% attack bonus, cost 150 mana
+Seviye 7 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1550 points of magic attack, 10% attack bonus, cost 150 mana
 
 Level 8 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 2400 points of magic attack, 10% attack bonus, cost 240 mana
-Level 8 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 2400 points of magic attack, 10% attack bonus, cost 240 mana
+Seviye 8 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 2400 points of magic attack, 10% attack bonus, cost 240 mana
 
 Level 9 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 4000 points of magic attack, 10% attack bonus, cost 400 mana
-Level 9 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 4000 points of magic attack, 10% attack bonus, cost 400 mana
+Seviye 9 Magic Sphere; {sub2{$1}sub2}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 4000 points of magic attack, 10% attack bonus, cost 400 mana
 
 Level 1 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 540 points of magic attack, 30% attack bonus, cost 70 mana
-Level 1 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 540 points of magic attack, 30% attack bonus, cost 70 mana
+Seviye 1 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 540 points of magic attack, 30% attack bonus, cost 70 mana
 
 Level 2 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 700 points of magic attack, 30% attack bonus, cost 140 mana
-Level 2 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 700 points of magic attack, 30% attack bonus, cost 140 mana
+Seviye 2 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 700 points of magic attack, 30% attack bonus, cost 140 mana
 
 Level 3 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1000 points of magic attack, 30% attack bonus, cost 230 mana
-Level 3 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1000 points of magic attack, 30% attack bonus, cost 230 mana
+Seviye 3 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1000 points of magic attack, 30% attack bonus, cost 230 mana
 
 Level 4 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1300 points of magic attack, 30% attack bonus, cost 500 mana
-Level 4 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1300 points of magic attack, 30% attack bonus, cost 500 mana
+Seviye 4 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1300 points of magic attack, 30% attack bonus, cost 500 mana
 
 Level 5 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1800 points of magic attack, 30% attack bonus, cost 900 mana
-Level 5 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1800 points of magic attack, 30% attack bonus, cost 900 mana
+Seviye 5 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1800 points of magic attack, 30% attack bonus, cost 900 mana
 
 Level 6 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2200 points of magic attack, 30% attack bonus, cost 1330 mana
-Level 6 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2200 points of magic attack, 30% attack bonus, cost 1330 mana
+Seviye 6 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2200 points of magic attack, 30% attack bonus, cost 1330 mana
 
 Level 7 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2800 points of magic attack, 30% attack bonus, cost 2000 mana
-Level 7 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2800 points of magic attack, 30% attack bonus, cost 2000 mana
+Seviye 7 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2800 points of magic attack, 30% attack bonus, cost 2000 mana
 
 Level 8 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 4200 points of magic attack, 30% attack bonus, cost 3000 mana
-Level 8 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 4200 points of magic attack, 30% attack bonus, cost 3000 mana
+Seviye 8 Ice Lance; {sub2{$1}sub2}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 4200 points of magic attack, 30% attack bonus, cost 3000 mana
 
 Level 1 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 360 points of magic attack, 10% attack bonus, cost 200 mana
-Level 1 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 360 points of magic attack, 10% attack bonus, cost 200 mana
+Seviye 1 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 360 points of magic attack, 10% attack bonus, cost 200 mana
 
 Level 2 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 580 points of magic attack, 10% attack bonus, cost 400 mana
-Level 2 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 580 points of magic attack, 10% attack bonus, cost 400 mana
+Seviye 2 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 580 points of magic attack, 10% attack bonus, cost 400 mana
 
 Level 3 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 660 points of magic attack, 10% attack bonus, cost 550 mana
-Level 3 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 660 points of magic attack, 10% attack bonus, cost 550 mana
+Seviye 3 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 660 points of magic attack, 10% attack bonus, cost 550 mana
 
 Level 4 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 800 points of magic attack, 10% attack bonus, cost 700 mana
-Level 4 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 800 points of magic attack, 10% attack bonus, cost 700 mana
+Seviye 4 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 800 points of magic attack, 10% attack bonus, cost 700 mana
 
 Level 5 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1150 points of magic attack, 10% attack bonus, cost 1100 mana
-Level 5 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1150 points of magic attack, 10% attack bonus, cost 1100 mana
+Seviye 5 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1150 points of magic attack, 10% attack bonus, cost 1100 mana
 
 Level 6 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1500 points of magic attack, 10% attack bonus, cost 1320 mana
-Level 6 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1500 points of magic attack, 10% attack bonus, cost 1320 mana
+Seviye 6 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1500 points of magic attack, 10% attack bonus, cost 1320 mana
 
 Level 7 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 2300 points of magic attack, 10% attack bonus, cost 2000 mana
-Level 7 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 2300 points of magic attack, 10% attack bonus, cost 2000 mana
+Seviye 7 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 2300 points of magic attack, 10% attack bonus, cost 2000 mana
 
 Level 8 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 3800 points of magic attack, 10% attack bonus, cost 4000 mana
-Level 8 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 3800 points of magic attack, 10% attack bonus, cost 4000 mana
+Seviye 8 Ice Storm; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 3800 points of magic attack, 10% attack bonus, cost 4000 mana
 
 Level 1 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1200 points of magic attack, 30% attack bonus, cost 1000 mana
-Level 1 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1200 points of magic attack, 30% attack bonus, cost 1000 mana
+Seviye 1 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1200 points of magic attack, 30% attack bonus, cost 1000 mana
 
 Level 2 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1800 points of magic attack, 30% attack bonus, cost 1750 mana
-Level 2 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1800 points of magic attack, 30% attack bonus, cost 1750 mana
+Seviye 2 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1800 points of magic attack, 30% attack bonus, cost 1750 mana
 
 Level 3 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 2600 points of magic attack, 30% attack bonus, cost 2800 mana
-Level 3 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 2600 points of magic attack, 30% attack bonus, cost 2800 mana
+Seviye 3 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 2600 points of magic attack, 30% attack bonus, cost 2800 mana
 
 Level 4 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3800 mana
-Level 4 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3800 mana
+Seviye 4 Ice Orb; {sub2{$1}sub2}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3800 mana
 
 Level 1 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 1500 points of magic attack, 30% attack bonus, cost 800 mana
-Level 1 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 1500 points of magic attack, 30% attack bonus, cost 800 mana
+Seviye 1 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 1500 points of magic attack, 30% attack bonus, cost 800 mana
 
 Level 2 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2200 points of magic attack, 30% attack bonus, cost 1200 mana
-Level 2 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2200 points of magic attack, 30% attack bonus, cost 1200 mana
+Seviye 2 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2200 points of magic attack, 30% attack bonus, cost 1200 mana
 
 Level 3 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 2800 mana
-Level 3 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 2800 mana
+Seviye 3 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 2800 mana
 
 Level 4 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3600 mana
-Level 4 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3600 mana
+Seviye 4 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3600 mana
 
 Level 5 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 4800 points of magic attack, 30% attack bonus, cost 5000 mana
-Level 5 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 4800 points of magic attack, 30% attack bonus, cost 5000 mana
+Seviye 5 Aqua Jet; {sub2{$1}sub2}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 4800 points of magic attack, 30% attack bonus, cost 5000 mana
 
 Blizzard; {s}Continuous AOE damage, summon ice shards to fall from the sky in an area of 10-yard radius, deal frost damage for 8 seconds. 30 seconds CD, cost 2% mana.
 Blizzard; {sub2{$1}sub2}Continuous AOE damage, summon ice shards to fall from the sky in an area of 10-yard radius, deal frost damage for 8 seconds. 30 seconds CD, cost 2% mana.
 
 Level 1 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 600 points of magic attack, 10% attack bonus, cost 120 mana
-Level 1 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 600 points of magic attack, 10% attack bonus, cost 120 mana
+Seviye 1 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 600 points of magic attack, 10% attack bonus, cost 120 mana
 
 Level 2 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 680 points of magic attack, 10% attack bonus, cost 140 mana
-Level 2 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 680 points of magic attack, 10% attack bonus, cost 140 mana
+Seviye 2 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 680 points of magic attack, 10% attack bonus, cost 140 mana
 
 Level 3 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 820 points of magic attack, 10% attack bonus, cost 160 mana
-Level 3 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 820 points of magic attack, 10% attack bonus, cost 160 mana
+Seviye 3 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 820 points of magic attack, 10% attack bonus, cost 160 mana
 
 Level 4 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 240 mana
-Level 4 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 240 mana
+Seviye 4 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 240 mana
 
 Level 5 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1550 points of magic attack, 10% attack bonus, cost 300 mana
-Level 5 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1550 points of magic attack, 10% attack bonus, cost 300 mana
+Seviye 5 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1550 points of magic attack, 10% attack bonus, cost 300 mana
 
 Level 6 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 2400 points of magic attack, 10% attack bonus, cost 480 mana
-Level 6 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 2400 points of magic attack, 10% attack bonus, cost 480 mana
+Seviye 6 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 2400 points of magic attack, 10% attack bonus, cost 480 mana
 
 Level 7 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 4000 points of magic attack, 10% attack bonus, cost 800 mana
-Level 7 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 4000 points of magic attack, 10% attack bonus, cost 800 mana
+Seviye 7 Ice Arrow; {sub2{$1}sub2}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 4000 points of magic attack, 10% attack bonus, cost 800 mana
 
 Icicle; {s}Attack 5 targets within 12 yards and 90 degrees, decrease the targets' movement speed by 50% for 6 seconds. 20 seconds CD, cost 1% mana.
 Icicle; {sub2{$1}sub2}Attack 5 targets within 12 yards and 90 degrees, decrease the targets' movement speed by 50% for 6 seconds. 20 seconds CD, cost 1% mana.
 
 Level 1 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 500 points of magic attack, 10% attack bonus, cost 500 mana
-Level 1 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 500 points of magic attack, 10% attack bonus, cost 500 mana
+Seviye 1 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 500 points of magic attack, 10% attack bonus, cost 500 mana
 
 Level 2 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 600 points of magic attack, 10% attack bonus, cost 650 mana
-Level 2 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 600 points of magic attack, 10% attack bonus, cost 650 mana
+Seviye 2 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 600 points of magic attack, 10% attack bonus, cost 650 mana
 
 Level 3 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 800 points of magic attack, 10% attack bonus, cost 900 mana
-Level 3 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 800 points of magic attack, 10% attack bonus, cost 900 mana
+Seviye 3 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 800 points of magic attack, 10% attack bonus, cost 900 mana
 
 Level 4 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1550 points of magic attack, 10% attack bonus, cost 1300 mana
-Level 4 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1550 points of magic attack, 10% attack bonus, cost 1300 mana
+Seviye 4 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1550 points of magic attack, 10% attack bonus, cost 1300 mana
 
 Level 5 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1600 points of magic attack, 10% attack bonus, cost 1800 mana
-Level 5 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1600 points of magic attack, 10% attack bonus, cost 1800 mana
+Seviye 5 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1600 points of magic attack, 10% attack bonus, cost 1800 mana
 
 Level 6 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 2400 points of magic attack, 10% attack bonus, cost 2900 mana
-Level 6 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 2400 points of magic attack, 10% attack bonus, cost 2900 mana
+Seviye 6 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 2400 points of magic attack, 10% attack bonus, cost 2900 mana
 
 Level 7 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 4000 points of magic attack, 10% attack bonus, cost 5000 mana
-Level 7 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 4000 points of magic attack, 10% attack bonus, cost 5000 mana
+Seviye 7 Frost Nova; {sub2{$1}sub2}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 4000 points of magic attack, 10% attack bonus, cost 5000 mana
 
 Cold Winter; {s}Increase 20% attack speed for 15 seconds, 30 seconds CD. Not affected by global CD, cost 1% mana.
 Cold Winter; {sub2{$1}sub2}Increase 20% attack speed for 15 seconds, 30 seconds CD. Not affected by global CD, cost 1% mana.
@@ -1046,13 +1046,13 @@ Ice Barrier; {s} Cover yourself with an ice barrier, immune to all damage for 10
 Ice Barrier; {sub2{$1}sub2} Cover yourself with an ice barrier, immune to all damage for 10 seconds, during which you cannot attack, move, or cast skills. It will also trigger Hypothermia, which causes you to be unable to cast Ice Barrier again for 30 seconds, cost 1% mana.
 
 Level 1 Ice Shield; {s}Cast a shield that absorbs 16000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
-Level 1 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 16000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+Seviye 1 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 16000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
 
 Level 2 Ice Shield; {s}Cast a shield that absorbs 24000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
-Level 2 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 24000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+Seviye 2 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 24000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
 
 Level 3 Ice Shield; {s}Cast a shield that absorbs 38000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
-Level 3 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 38000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+Seviye 3 Ice Shield; {sub2{$1}sub2}Cast a shield that absorbs 38000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
 
 Winter Horn; {s}Increase 30% magic damage for all allies within 20 yards for 30 seconds, 2 minutes CD, cost 1% mana.
 Winter Horn; {sub2{$1}sub2}Increase 30% magic damage for all allies within 20 yards for 30 seconds, 2 minutes CD, cost 1% mana.
@@ -1067,154 +1067,154 @@ Dispel Magic; {s}15 yards of effective range, remove a magic debuff or curse deb
 Dispel Magic; {sub2{$1}sub2}15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy. Cost 1% Mana.
 
 Level 1 Teleportation; {s}10 seconds of channeling time, teleport to Sunset City, Giant Rock City or White Sand City. Cost 30% mana.
-Level 1 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to Sunset City, Giant Rock City or White Sand City. Cost 30% mana.
+Seviye 1 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to Sunset City, Giant Rock City or White Sand City. Cost 30% mana.
 
 Level 2 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 2 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 2 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 3 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 3 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 3 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 4 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 4 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 4 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 5 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 5 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 5 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 6 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 6 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 6 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 7 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
-Level 7 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+Seviye 7 Teleportation; {sub2{$1}sub2}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
 
 Level 1 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 1 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 1 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 2 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 2 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 2 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 3 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 3 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 3 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 4 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 4 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 4 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 5 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 5 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 5 Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Retract the Barrier; {s}Retract the Ice Barrier, Cost 1% Mana, not affected by global CD. 
 Retract the Barrier; {sub2{$1}sub2}Retract the Ice Barrier, Cost 1% Mana, not affected by global CD. 
 
 Level 1 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 180 points of magic attack, 10% attack bonus, cost 20 mana
-Level 1 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 180 points of magic attack, 10% attack bonus, cost 20 mana
+Seviye 1 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 180 points of magic attack, 10% attack bonus, cost 20 mana
 
 Level 2 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 420 points of magic attack, 10% attack bonus, cost 40 mana
-Level 2 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 420 points of magic attack, 10% attack bonus, cost 40 mana
+Seviye 2 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 420 points of magic attack, 10% attack bonus, cost 40 mana
 
 Level 3 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 700 points of magic attack, 10% attack bonus, cost 70 mana
-Level 3 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 700 points of magic attack, 10% attack bonus, cost 70 mana
+Seviye 3 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 700 points of magic attack, 10% attack bonus, cost 70 mana
 
 Level 4 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1120 points of magic attack, 10% attack bonus, cost 100 mana
-Level 4 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1120 points of magic attack, 10% attack bonus, cost 100 mana
+Seviye 4 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1120 points of magic attack, 10% attack bonus, cost 100 mana
 
 Level 5 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1760 points of magic attack, 10% attack bonus, cost 150 mana
-Level 5 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1760 points of magic attack, 10% attack bonus, cost 150 mana
+Seviye 5 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1760 points of magic attack, 10% attack bonus, cost 150 mana
 
 Level 6 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 2550 points of magic attack, 10% attack bonus, cost 220 mana
-Level 6 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 2550 points of magic attack, 10% attack bonus, cost 220 mana
+Seviye 6 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 2550 points of magic attack, 10% attack bonus, cost 220 mana
 
 Level 7 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 3780 points of magic attack, 10% attack bonus, cost 300 mana
-Level 7 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 3780 points of magic attack, 10% attack bonus, cost 300 mana
+Seviye 7 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 3780 points of magic attack, 10% attack bonus, cost 300 mana
 
 Level 8 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 5100 points of magic attack, 10% attack bonus, cost 380 mana
-Level 8 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 5100 points of magic attack, 10% attack bonus, cost 380 mana
+Seviye 8 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 5100 points of magic attack, 10% attack bonus, cost 380 mana
 
 Level 9 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 7800 points of magic attack, 10% attack bonus, cost 580 mana
-Level 9 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 7800 points of magic attack, 10% attack bonus, cost 580 mana
+Seviye 9 Fireball; {sub2{$1}sub2}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 7800 points of magic attack, 10% attack bonus, cost 580 mana
 
 Level 1 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 560 points of magic attack, 30% attack bonus, cost 70 mana
-Level 1 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 560 points of magic attack, 30% attack bonus, cost 70 mana
+Seviye 1 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 560 points of magic attack, 30% attack bonus, cost 70 mana
 
 Level 2 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 800 points of magic attack, 30% attack bonus, cost 150 mana
-Level 2 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 800 points of magic attack, 30% attack bonus, cost 150 mana
+Seviye 2 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 800 points of magic attack, 30% attack bonus, cost 150 mana
 
 Level 3 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1250 points of magic attack, 30% attack bonus, cost 260 mana
-Level 3 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1250 points of magic attack, 30% attack bonus, cost 260 mana
+Seviye 3 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1250 points of magic attack, 30% attack bonus, cost 260 mana
 
 Level 4 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1950 points of magic attack, 30% attack bonus, cost 650 mana
-Level 4 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1950 points of magic attack, 30% attack bonus, cost 650 mana
+Seviye 4 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1950 points of magic attack, 30% attack bonus, cost 650 mana
 
 Level 5 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 900 mana
-Level 5 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 900 mana
+Seviye 5 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 900 mana
 
 Level 6 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 4400 points of magic attack, 30% attack bonus, cost 1600 mana
-Level 6 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 4400 points of magic attack, 30% attack bonus, cost 1600 mana
+Seviye 6 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 4400 points of magic attack, 30% attack bonus, cost 1600 mana
 
 Level 7 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
-Level 7 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
+Seviye 7 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
 
 Level 8 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
-Level 8 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
+Seviye 8 Fire Impact; {sub2{$1}sub2}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
 
 Level 1 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 400 points of magic attack, 10% attack bonus, cost 180 mana
-Level 1 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 400 points of magic attack, 10% attack bonus, cost 180 mana
+Seviye 1 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 400 points of magic attack, 10% attack bonus, cost 180 mana
 
 Level 2 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 640 points of magic attack, 10% attack bonus, cost 350 mana
-Level 2 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 640 points of magic attack, 10% attack bonus, cost 350 mana
+Seviye 2 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 640 points of magic attack, 10% attack bonus, cost 350 mana
 
 Level 3 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1050 points of magic attack, 10% attack bonus, cost 500 mana
-Level 3 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1050 points of magic attack, 10% attack bonus, cost 500 mana
+Seviye 3 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1050 points of magic attack, 10% attack bonus, cost 500 mana
 
 Level 4 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1660 points of magic attack, 10% attack bonus, cost 800 mana
-Level 4 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1660 points of magic attack, 10% attack bonus, cost 800 mana
+Seviye 4 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1660 points of magic attack, 10% attack bonus, cost 800 mana
 
 Level 5 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 2400 points of magic attack, 10% attack bonus, cost 1200 mana
-Level 5 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 2400 points of magic attack, 10% attack bonus, cost 1200 mana
+Seviye 5 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 2400 points of magic attack, 10% attack bonus, cost 1200 mana
 
 Level 6 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 3570 points of magic attack, 10% attack bonus, cost 1800 mana
-Level 6 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 3570 points of magic attack, 10% attack bonus, cost 1800 mana
+Seviye 6 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 3570 points of magic attack, 10% attack bonus, cost 1800 mana
 
 Level 7 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 4800 points of magic attack, 10% attack bonus, cost 2300 mana
-Level 7 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 4800 points of magic attack, 10% attack bonus, cost 2300 mana
+Seviye 7 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 4800 points of magic attack, 10% attack bonus, cost 2300 mana
 
 Level 8 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 7200 points of magic attack, 10% attack bonus, cost 4000 mana
-Level 8 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 7200 points of magic attack, 10% attack bonus, cost 4000 mana
+Seviye 8 Fire Surge; {sub2{$1}sub2}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 7200 points of magic attack, 10% attack bonus, cost 4000 mana
 
 Level 1 Sear; {s}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
-Level 1 Sear; {sub2{$1}sub2}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
+Seviye 1 Sear; {sub2{$1}sub2}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
 
 Level 2 Sear; {s}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
-Level 2 Sear; {sub2{$1}sub2}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
+Seviye 2 Sear; {sub2{$1}sub2}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
 
 Level 1 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 2500 mana
-Level 1 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 2500 mana
+Seviye 1 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 2500 mana
 
 Level 2 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1760 points of magic attack, 10% attack bonus, cost 3750 mana
-Level 2 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1760 points of magic attack, 10% attack bonus, cost 3750 mana
+Seviye 2 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1760 points of magic attack, 10% attack bonus, cost 3750 mana
 
 Level 3 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 2550 points of magic attack, 10% attack bonus, cost 5600 mana
-Level 3 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 2550 points of magic attack, 10% attack bonus, cost 5600 mana
+Seviye 3 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 2550 points of magic attack, 10% attack bonus, cost 5600 mana
 
 Level 4 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 3780 points of magic attack, 10% attack bonus, cost 7500 mana
-Level 4 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 3780 points of magic attack, 10% attack bonus, cost 7500 mana
+Seviye 4 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 3780 points of magic attack, 10% attack bonus, cost 7500 mana
 
 Level 5 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 5100 points of magic attack, 10% attack bonus, cost 9500 mana
-Level 5 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 5100 points of magic attack, 10% attack bonus, cost 9500 mana
+Seviye 5 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 5100 points of magic attack, 10% attack bonus, cost 9500 mana
 
 Level 6 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 7800 points of magic attack, 10% attack bonus, cost 14500 mana
-Level 6 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 7800 points of magic attack, 10% attack bonus, cost 14500 mana
+Seviye 6 Pyroblast; {sub2{$1}sub2}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 7800 points of magic attack, 10% attack bonus, cost 14500 mana
 
 Level 1 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 4000 points of magic attack, 30% attack bonus, cost 3500 mana
-Level 1 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 4000 points of magic attack, 30% attack bonus, cost 3500 mana
+Seviye 1 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 4000 points of magic attack, 30% attack bonus, cost 3500 mana
 
 Level 2 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 6000 points of magic attack, 30% attack bonus, cost 4800 mana
-Level 2 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 6000 points of magic attack, 30% attack bonus, cost 4800 mana
+Seviye 2 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 6000 points of magic attack, 30% attack bonus, cost 4800 mana
 
 Level 3 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 8100 points of magic attack, 30% attack bonus, cost 9000 mana
-Level 3 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 8100 points of magic attack, 30% attack bonus, cost 9000 mana
+Seviye 3 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 8100 points of magic attack, 30% attack bonus, cost 9000 mana
 
 Level 4 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 10800 points of magic attack, 30% attack bonus, cost 15000 mana
-Level 4 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 10800 points of magic attack, 30% attack bonus, cost 15000 mana
+Seviye 4 Blazing Storm; {sub2{$1}sub2}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 10800 points of magic attack, 30% attack bonus, cost 15000 mana
 
 Magma; {s}Fire-trap the target with magma, the target cannot move for 2 seconds, 3 seconds CD, cost 1% mana.
 Magma; {sub2{$1}sub2}Fire-trap the target with magma, the target cannot move for 2 seconds, 3 seconds CD, cost 1% mana.
@@ -1247,49 +1247,49 @@ Critical Blaze; {s}Attach flame nets to all allies and increase their magic Crit
 Critical Blaze; {sub2{$1}sub2}Attach flame nets to all allies and increase their magic Critical Hit by 50% for 30 seconds, 2 minutes CD, cost 1% mana.
 
 Level 1 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 1 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 1 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 2 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 2 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 2 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 3 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 3 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 3 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 4 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 4 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 4 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 5 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 5 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 5 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 6 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 6 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 6 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 7 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 7 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 7 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 8 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 8 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 8 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 9 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
-Level 9 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+Seviye 9 Elven Teleportation; {sub2{$1}sub2}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
 
 Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 1 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 1 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 2 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 2 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 2 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 3 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 3 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 3 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 4 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 4 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 4 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 5 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 5 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 5 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 6 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
-Level 6 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+Seviye 6 Elven Teleportation Portal; {sub2{$1}sub2}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
 
 Level 1 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 190 points of magic attack, 15% attack bonus, cost 20 mana
 Seviye 1 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verin, 190 büyü saldırısı puanı artırın, %15 saldırı bonusu, 20 mana harcanır
@@ -1298,25 +1298,25 @@ Level 2 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yar
 Seviye 2 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verin, 400 büyü saldırısı puanı artırın, %15 saldırı bonusu, 40 mana harcanır
 
 Level 3 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 600 points of magic attack, 15% attack bonus, cost 60 mana
-Seviye 3 intikam; {sub2{$1}sub2}Temel beceri, 20 yarda içindeki 1 düşmana ilahi hasar verin, 600 büyü saldırısı puanı artırın, %15 saldırı bonusu, 60 mana harcanır
+Seviye 3 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verin, 600 büyü saldırısı puanı artırın, %15 saldırı bonusu, 60 mana harcanır
 
 Level 4 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 1000 points of magic attack, 15% attack bonus, cost 100 mana
-Level 4 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verme, 1000 büyü saldırı puanı artırma, %15 saldırı bonusu, 100 mana maliyetli
+Seviye 4 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verme, 1000 büyü saldırı puanı artırma, %15 saldırı bonusu, 100 mana maliyetli
 
 Level 5 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 1600 points of magic attack, 15% attack bonus, cost 160 mana
-Level 5 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verin, 1600 büyü saldırısı puanı artırın, %15 saldırı bonusu, 160 mana maliyetli
+Seviye 5 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verir, 1600 büyü saldırısı puanı artırın, %15 saldırı bonusu, 160 mana maliyetli
 
 Level 6 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 2000 points of magic attack, 15% attack bonus, cost 200 mana
-Level 6 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verin, 2000 büyü saldırısı puanı artırın, %15 saldırı bonusu, 200 mana maliyeti
+Seviye 6 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verir, 2000 büyü saldırısı puanı artırın, %15 saldırı bonusu, 200 mana maliyeti
 
 Level 7 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 2600 points of magic attack, 15% attack bonus, cost 270 mana
-Level 7 Retribution; {sub2{$1}sub2}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 2600 points of magic attack, 15% attack bonus, cost 270 mana
+Seviye 7 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verir, 2600 büyü saldırısı puanı artışı, %15 saldırı bonusu, 270 mana maliyeti
 
 Level 8 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 4000 points of magic attack, 15% attack bonus, cost 420 mana
-Level 8 Retribution; {sub2{$1}sub2}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 4000 points of magic attack, 15% attack bonus, cost 420 mana
+Seviye 8 intikam; {sub2{$1}sub2}Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verir, 4000 büyü saldırısı puanı artışı, %15 saldırı bonusu, 420 mana maliyeti
 
 Level 9 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 5600 points of magic attack, 15% attack bonus, cost 600 mana
-Level 9 Retribution; {sub2{$1}sub2}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 5600 points of magic attack, 15% attack bonus, cost 600 mana
+Seviye 9 intikam; {sub2{$1}sub2} Temel beceri, 20 adım içindeki 1 düşmana ilahi hasar verir, 5600 büyü saldırısı puanı artışı, %15 saldırı bonusu, 600 mana maliyeti
 
 Level 1 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 360 points of magic attack, 15% attack bonus, cost 180 mana
 Seviye 1 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. 360 büyü saldırısı puanı artışı, %15 saldırı bonusu, 180 mana maliyetli
@@ -1328,7 +1328,7 @@ Level 3 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.
 Seviye 3 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. 900 büyü saldırısı puanı artışı, %15 saldırı bonusu, 550 mana maliyetli
 
 Level 4 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 1440 points of magic attack, 15% attack bonus, cost 900 mana
-Seviye 4 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 1440 points of magic attack, 15% attack bonus, cost 900 mana
+Seviye 4 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. 1440 büyü saldırısı puanı artışı, %15 saldırı bonusu, 900 mana maliyeti
 
 Level 5 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 1100 mana
 Seviye 5 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. 1800 büyü saldırı puanı artışı, %15 saldırı bonusu, 1100 mana maliyeti
@@ -1343,43 +1343,43 @@ Level 8 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.
 Seviye 8 Kutsal Işık Dalgası; {sub2{$1}sub2} 20 adım ve 180 derece içindeki 6 hedefe saldırın 4,5 saniye soğuma süresi. 5280 sihirli saldırı puanı artışı, %15 saldırı bonusu, 4000 mana maliyeti
 
 Level 1 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1250 points of magic attack, 35% attack bonus, cost 700 mana
-Level 1 Divine Nova; {sub2{$1}sub2}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1250 points of magic attack, 35% attack bonus, cost 700 mana
+Seviye 1 İlahi Nova; {sub2{$1}sub2} Güçlü geniş menzilli beceri, çevrenizde kutsal bir ışık patlaması yaratın ve 12 adımlık yarıçapdaki tüm düşman hedeflere ilahi hasar verin. Kritik vuruş ise İlahi Ateş'ın Soğuma süresini sıfırlayın. 12 saniye Soğuma süresi. 1250 büyü saldırısı puanı artışı, %35 saldırı bonusu, 700 mana maliyeti
 
 Level 2 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1500 points of magic attack, 35% attack bonus, cost 1200 mana
-Level 2 Divine Nova; {sub2{$1}sub2}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1500 points of magic attack, 35% attack bonus, cost 1200 mana
+Seviye 2 İlahi Nova; {sub2{$1}sub2} Güçlü geniş menzilli beceri, çevrenizde kutsal bir ışık patlaması yaratın ve 12 adımlık yarıçapdaki tüm düşman hedeflere ilahi hasar verin. Kritik vuruş ise İlahi Ateş'ın Soğuma süresini sıfırlayın. 12 saniye Soğuma süresi. Increase 1500 points of magic attack, 35% attack bonus, cost 1200 mana
 
 Level 3 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 2000 points of magic attack, 35% attack bonus, cost 1800 mana
-Level 3 Divine Nova; {sub2{$1}sub2}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 2000 points of magic attack, 35% attack bonus, cost 1800 mana
+Seviye 3 İlahi Nova; {sub2{$1}sub2} Güçlü geniş menzilli beceri, çevrenizde kutsal bir ışık patlaması yaratın ve 12 adımlık yarıçapdaki tüm düşman hedeflere ilahi hasar verin. Kritik vuruş ise İlahi Ateş'ın Soğuma süresini sıfırlayın. 12 saniye Soğuma süresi. 2000 büyü saldırı puanı artışı, %35 saldırı bonusu, 1800 mana maliyeti
 
 Level 4 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 3000 points of magic attack, 35% attack bonus, cost 2800 mana
-Level 4 Divine Nova; {sub2{$1}sub2}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 3000 points of magic attack, 35% attack bonus, cost 2800 mana
+Seviye 4 İlahi Nova; {sub2{$1}sub2} Güçlü geniş menzilli beceri, çevrenizde kutsal bir ışık patlaması yaratın ve 12 adımlık yarıçapdaki tüm düşman hedeflere ilahi hasar verin. Kritik vuruş ise İlahi Ateş'ın Soğuma süresini sıfırlayın. 12 saniye Soğuma süresi. 3000 sihirli saldırı puanı artışı, %35 saldırı bonusu, 2800 mana maliyeti
 
 Level 5 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 4200 points of magic attack, 35% attack bonus, cost 4800 mana
-Level 5 Divine Nova; {sub2{$1}sub2}Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 4200 points of magic attack, 35% attack bonus, cost 4800 mana
+Seviye 5 İlahi Nova; {sub2{$1}sub2} Güçlü geniş menzilli beceri, çevrenizde kutsal bir ışık patlaması yaratın ve 12 adımlık yarıçapdaki tüm düşman hedeflere ilahi hasar verin. Kritik vuruş ise İlahi Ateş'ın Soğuma süresini sıfırlayın. 12 saniye Soğuma süresi. 4200 büyü saldırısı puanı artışı, %35 saldırı bonusu, 4800 mana maliyeti
 
 Concentrated Will; {s}Reduce 20% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.
-Concentrated Will; {sub2{$1}sub2}Reduce 20% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.
+Konsantre İrade; {sub2{$1}sub2} 15 saniye boyunca alınan tüm hasarın %20'sini azaltın. Global soğuma süresinden etkilenmeyen 40 saniyelik Soğuma süresi, %1 manaya mal olur.
 
 Level 1 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 3600 points of magic attack, 35% attack bonus, cost 300 mana
-Level 1 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 3600 points of magic attack, 35% attack bonus, cost 300 mana
+Seviye 1 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 3600 büyü saldırısı puanı artışı, %35 saldırı bonusu, 300 mana maliyeti
 
 Level 2 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 5000 points of magic attack, 35% attack bonus, cost 450 mana
-Level 2 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 5000 points of magic attack, 35% attack bonus, cost 450 mana
+Seviye 2 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 5000 büyü saldırı puanı artışı, %35 saldırı bonusu, 450 mana maliyeti
 
 Level 3 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 7200 points of magic attack, 35% attack bonus, cost 700 mana
-Level 3 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 7200 points of magic attack, 35% attack bonus, cost 700 mana
+Seviye 3 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 7200 büyü saldırısı puanı artışı, %35 saldırı bonusu, 700 mana maliyeti
 
 Level 4 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 10000 points of magic attack, 35% attack bonus, cost 1000 mana
-Level 4 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 10000 points of magic attack, 35% attack bonus, cost 1000 mana
+Seviye 4 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 10000 büyü saldırı puanı artışı, %35 saldırı bonusu, 1000 mana maliyeti
 
 Level 5 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 16000 points of magic attack, 35% attack bonus, cost 1800 mana
-Level 5 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 16000 points of magic attack, 35% attack bonus, cost 1800 mana
+Seviye 5 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 16000 büyü saldırı puanı artışı, %35 saldırı bonusu, 1800 mana maliyeti
 
 Level 6 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 30000 points of magic attack, 35% attack bonus, cost 3500 mana
-Level 6 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 30000 points of magic attack, 35% attack bonus, cost 3500 mana
+Seviye 6 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 30000 sihirli saldırı puanı artışı, %35 saldırı bonusu, 3500 mana maliyeti
 
 Level 7 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 50000 points of magic attack, 35% attack bonus, cost 6000 mana
-Level 7 Divine Fire; {sub2{$1}sub2}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 50000 points of magic attack, 35% attack bonus, cost 6000 mana
+Seviye 7 İlahi Ateş; {sub2{$1}sub2} Sürekli tek hedefli saldırı, 20 adım etkili menzil, 3 saniye yönlendirme süresi, İlahi ateşle hedefi yut, 10 saniye boyunca ilahi hasar ve sürekli hasar ver, 30 saniye Soğuma süresi. 50000 sihirli saldırı puanı artışı, %35 saldırı bonusu, 6000 mana maliyeti
 
 Heal; {s}Base single-target healing skill, cost 2% mana.
 İyileştirme; {sub2{$1}sub2} Temel tek hedefli iyileştirme becerisi, %2 manaya mal olur.
@@ -1439,118 +1439,118 @@ Level 7 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous dam
 Seviye 7 Zihin Kırbacı; {sub2{$1}sub2} 20 adım içindeki 1 düşmana zihinsel saldırı yapın, sürekli hasar verin ve 15 saniye boyunca hedefin kaçınma değerini %30 azaltın. 10500 sihirli saldırı puanı artışı, %35 saldırı bonusu, 2200 mana maliyeti
 
 Level 8 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 18000 points of magic attack, 35% attack bonus, cost 4000 mana
-Seviye 8 Zihin Kırbacı; {sub2{$1}sub2} 20 adım içindeki 1 düşmana zihinsel saldırı yapın, sürekli hasar verin ve 15 saniye boyunca hedefin kaçınma değerini %30 azaltın. 18000 büyü saldırısı puanı, %35 saldırı bonusu, 4000 mana maliyeti artırın
+Seviye 8 Zihin Kırbacı; {sub2{$1}sub2} 20 adım içindeki 1 düşmana zihinsel saldırı yapın, sürekli hasar verin ve 15 saniye boyunca hedefin kaçınma değerini %30 azaltın. 18000 büyü saldırısı puanı artışı, %35 saldırı bonusu, 4000 mana maliyeti
 
 Level 1 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 190 points of magic attack, 15% attack bonus, cost 20 mana
-Level 1 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 190 points of magic attack, 15% attack bonus, cost 20 mana
+Seviye 1 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 190 points of magic attack, 15% attack bonus, cost 20 mana
 
 Level 2 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 400 points of magic attack, 15% attack bonus, cost 40 mana
-Level 2 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 400 points of magic attack, 15% attack bonus, cost 40 mana
+Seviye 2 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 400 points of magic attack, 15% attack bonus, cost 40 mana
 
 Level 3 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
-Level 3 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
+Seviye 3 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
 
 Level 4 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
-Level 4 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
+Seviye 4 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
 
 Level 5 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
-Level 5 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
+Seviye 5 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
 
 Level 6 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
-Level 6 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
+Seviye 6 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
 
 Level 7 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
-Level 7 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
+Seviye 7 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
 
 Level 8 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
-Level 8 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
+Seviye 8 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
 
 Level 9 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
-Level 9 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
+Seviye 9 Shadow Arrow; {sub2{$1}sub2}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
 
 Level 1 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 350 points of magic attack, 15% attack bonus, cost 180 mana
-Level 1 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 350 points of magic attack, 15% attack bonus, cost 180 mana
+Seviye 1 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 350 points of magic attack, 15% attack bonus, cost 180 mana
 
 Level 2 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 530 points of magic attack, 15% attack bonus, cost 300 mana
-Level 2 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 530 points of magic attack, 15% attack bonus, cost 300 mana
+Seviye 2 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 530 points of magic attack, 15% attack bonus, cost 300 mana
 
 Level 3 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 870 points of magic attack, 15% attack bonus, cost 540 mana
-Level 3 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 870 points of magic attack, 15% attack bonus, cost 540 mana
+Seviye 3 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 870 points of magic attack, 15% attack bonus, cost 540 mana
 
 Level 4 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1400 points of magic attack, 15% attack bonus, cost 780 mana
-Level 4 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1400 points of magic attack, 15% attack bonus, cost 780 mana
+Seviye 4 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1400 points of magic attack, 15% attack bonus, cost 780 mana
 
 Level 5 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1500 points of magic attack, 15% attack bonus, cost 900 mana
-Level 5 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1500 points of magic attack, 15% attack bonus, cost 900 mana
+Seviye 5 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 1500 points of magic attack, 15% attack bonus, cost 900 mana
 
 Level 6 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 2250 points of magic attack, 15% attack bonus, cost 1600 mana
-Level 6 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 2250 points of magic attack, 15% attack bonus, cost 1600 mana
+Seviye 6 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 2250 points of magic attack, 15% attack bonus, cost 1600 mana
 
 Level 7 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 3250 points of magic attack, 15% attack bonus, cost 2400 mana
-Level 7 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 3250 points of magic attack, 15% attack bonus, cost 2400 mana
+Seviye 7 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 3250 points of magic attack, 15% attack bonus, cost 2400 mana
 
 Level 8 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 4100 points of magic attack, 15% attack bonus, cost 4000 mana
-Level 8 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 4100 points of magic attack, 15% attack bonus, cost 4000 mana
+Seviye 8 Skeleton Explosion; {sub2{$1}sub2}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase 4100 points of magic attack, 15% attack bonus, cost 4000 mana
 
 Level 1 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1540 points of magic attack, 35% attack bonus, cost 1000 mana
-Level 1 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1540 points of magic attack, 35% attack bonus, cost 1000 mana
+Seviye 1 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1540 points of magic attack, 35% attack bonus, cost 1000 mana
 
 Level 2 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1850 points of magic attack, 35% attack bonus, cost 1800 mana
-Level 2 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1850 points of magic attack, 35% attack bonus, cost 1800 mana
+Seviye 2 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1850 points of magic attack, 35% attack bonus, cost 1800 mana
 
 Level 3 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 2500 points of magic attack, 35% attack bonus, cost 2500 mana
-Level 3 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 2500 points of magic attack, 35% attack bonus, cost 2500 mana
+Seviye 3 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 2500 points of magic attack, 35% attack bonus, cost 2500 mana
 
 Level 4 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 3800 points of magic attack, 35% attack bonus, cost 3500 mana
-Level 4 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 3800 points of magic attack, 35% attack bonus, cost 3500 mana
+Seviye 4 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 3800 points of magic attack, 35% attack bonus, cost 3500 mana
 
 Level 5 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 5400 points of magic attack, 35% attack bonus, cost 5400 mana
-Level 5 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 5400 points of magic attack, 35% attack bonus, cost 5400 mana
+Seviye 5 Dead Toxin; {sub2{$1}sub2}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 5400 points of magic attack, 35% attack bonus, cost 5400 mana
 
 Level 1 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 1000 points of magic attack, 35% attack bonus, cost 100 mana
-Level 1 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 1000 points of magic attack, 35% attack bonus, cost 100 mana
+Seviye 1 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 1000 points of magic attack, 35% attack bonus, cost 100 mana
 
 Level 2 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 2000 points of magic attack, 35% attack bonus, cost 200 mana
-Level 2 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 2000 points of magic attack, 35% attack bonus, cost 200 mana
+Seviye 2 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 2000 points of magic attack, 35% attack bonus, cost 200 mana
 
 Level 3 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 3200 points of magic attack, 35% attack bonus, cost 400 mana
-Level 3 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 3200 points of magic attack, 35% attack bonus, cost 400 mana
+Seviye 3 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 3200 points of magic attack, 35% attack bonus, cost 400 mana
 
 Level 4 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 5000 points of magic attack, 35% attack bonus, cost 700 mana
-Level 4 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 5000 points of magic attack, 35% attack bonus, cost 700 mana
+Seviye 4 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 5000 points of magic attack, 35% attack bonus, cost 700 mana
 
 Level 5 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 7000 points of magic attack, 35% attack bonus, cost 1100 mana
-Level 5 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 7000 points of magic attack, 35% attack bonus, cost 1100 mana
+Seviye 5 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 7000 points of magic attack, 35% attack bonus, cost 1100 mana
 
 Level 6 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 10000 points of magic attack, 35% attack bonus, cost 1500 mana
-Level 6 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 10000 points of magic attack, 35% attack bonus, cost 1500 mana
+Seviye 6 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 10000 points of magic attack, 35% attack bonus, cost 1500 mana
 
 Level 7 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 14000 points of magic attack, 35% attack bonus, cost 2500 mana
-Level 7 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 14000 points of magic attack, 35% attack bonus, cost 2500 mana
+Seviye 7 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 14000 points of magic attack, 35% attack bonus, cost 2500 mana
 
 Level 8 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 25000 points of magic attack, 35% attack bonus, cost 4600 mana
-Level 8 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 25000 points of magic attack, 35% attack bonus, cost 4600 mana
+Seviye 8 Corrosion Spell; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 25000 points of magic attack, 35% attack bonus, cost 4600 mana
 
 Level 1 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
-Level 1 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
+Seviye 1 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
 
 Level 2 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
-Level 2 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
+Seviye 2 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
 
 Level 3 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
-Level 3 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
+Seviye 3 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
 
 Level 4 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
-Level 4 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
+Seviye 4 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
 
 Level 5 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
-Level 5 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
+Seviye 5 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
 
 Level 6 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
-Level 6 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
+Seviye 6 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
 
 Level 7 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
-Level 7 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
+Seviye 7 Incessant Pain; {sub2{$1}sub2}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
 
 Healing Wave; {s}Base single-target healing skill, 20 yards of effective range, cost 2% mana.
 Healing Wave; {sub2{$1}sub2}Base single-target healing skill, 20 yards of effective range, cost 2% mana.

@@ -1,0 +1,38 @@
+Novice guide: Welcome to the Mist World! I am a novice guide and my task is to guide you throughout the game's world. If you don't need my help, press CTRL+ENTER to open the Action menu, and disable the guidance from there. Happy gaming!
+sistem ;Acemi kılavuzu: Mist World'de Hoş Geldiniz! Ben acemiler icin rehberim ve görevim size oyun dünyasında rehberlik etmek. Yardımıma ihtiyacınız yoksa, Eylem menüsünü açmak için CTRL+ENTER tuşlarına basın ve oradan yönlendirmeyi devre dışı bırakın. Mutlu oyunlar!
+
+Priest said: The world used to be so beautiful when human beings could be in close contact with the Mist Gods. Now that we are under attack from mutants and demons, nowhere is safe. Perhaps in difficult times like this, our minds can be sharpened. But I can't help thinking back to the good old days. My child, you've been praying less. Have you lost faith in the Mist Gods?
+Rahip dedi ki: İnsanlar Sis Tanrıları ile yakın temas halinde olabildiğinde dünya çok güzeldi. Artık mutantların ve iblislerin saldırısı altında olduğumuza göre, hiçbir yer güvenli değil. Belki böyle zor zamanlarda aklımız keskinleşebilir. Ama eski güzel günleri düşünmeden edemiyorum. Çocuğum, daha az dua ediyorsun. Sis Tanrılarına olan inancınızı mı kaybettiniz?
+
+Priest said: Child, you have a loving heart. But your wish requires powerful light magic. Show me the results of your training. See that stake to the north? Go break it with magic.
+Rahip dedi ki: Evladım, sevgi dolu bir kalbin var. Ama dileğin güçlü bir ışık büyüsü gerektiriyor. Bana eğitiminizin sonuçlarını gösterin. Kuzeydeki kazığı görüyor musun? Gidip onu sihirle kırın.
+
+Priest said: Nicely done. Now let's see how well you perform with equipment. Here are the weapon and outfit, take it.
+Rahip dedi ki: Güzel iş başardın. Şimdi ekipmanla ne kadar iyi performans gösterdiğinizi görelim. İşte silah ve teçhizat, al bunları.
+
+Priest said: Good, put them on.
+Rahip dedi ki: Güzel, giy onları.
+
+Priest said: There's a movable stake to the west, go break it.
+Rahip dedi ki: Batıda hareketli bir kazık var, git onu kır.
+
+Priest said: Much better. Come here, I have two more equipment for you.
+Rahip dedi ki: Çok daha iyi. Gel buraya, senin için iki ekipmanım daha var.
+
+Priest said: Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out.
+Rahip dedi ki: Şu ayakkabıları giy ve sandığa iyice bak. Yeterince güçlü olduğunda açabilirsin. Şimdi sana gerçek testi vereceğim. Kuzeydoğudaki günah çıkarma odasında bir grup mutant var. Git ve onları yok et.
+
+Priest said: Here you go, these are a pair of shoes and a chest. Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out.
+Rahip dedi ki: Buyr, bunlar bir çift ayakkabı ve bir sandık. Ayakkabılarını giy ve sandığa iyi bak. Yeterince güçlü olduğunda açabilirsin. Şimdi sana gerçek testi vereceğim. Kuzeydoğudaki günah çıkarma odasında bir grup mutant var. Git ve  onları  yok et.
+
+Priest said: Very good, you are well-trained in magic. Looks like you've obtained a Skill Crystal, use it to learn the Mind Whip Skill. It will help you fight better against evil.
+Rahip dedi ki: Çok güzel, sen sihir konusunda iyi eğitilmişsin. Görünüşe göre bir Beceri Kristali elde etmişsin, bunu Zihin Kırbacı Yeteneğini öğrenmek için kullan. Kötülüğe karşı daha iyi savaşmana yardımcı olacaktır.
+
+Priest said: Go, child, leave the church through the north. Go and purge the world of evil! May the Mist Gods bless you with strength.
+Rahip dedi ki: Git çocuğum, kiliseyi kuzeye doğru terk et. Git ve dünyayı kötülüklerden temizle! Sis Tanrıları sizi güçle kutsasın.
+
+Path Keeper said: Woah, you were amazing! Now the road is finally safe without the giant snake. Thank you, foreign warrior.
+Path Keeper dedi ki: Woah, harikaydın! Artık yol dev yılan olmadan nihayet güvenli. Teşekkürler, yabancı savaşçı.
+
+Hey, stranger, are you looking for village chief Radome or Mage Aratta? They're both at the village center. Just go north. Listen carefully. Aratta is the one playing the harp. What a beautiful girl.
+Hey yabancı, köy şefi Radome'yi mi yoksa Büyücü Aratta'yı mı arıyorsunuz? İkisi de köy merkezinde. Sadece kuzeye git. Dikkatli dinle. Aratta arp çalan kişidir. Ne güzel bir kız.
