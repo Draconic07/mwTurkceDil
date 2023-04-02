@@ -377,31 +377,31 @@ Ignore the Pain; {s}Reduce 40% physical damage taken and 20% magic damage taken 
 Acıyı Yoksay; {sub2{$1}sub2} 10 saniye boyunca alınan fiziksel hasarı %40 ve alınan büyü hasarını  %20 azaltır, 60 saniye Soğuma süresi, %1 mana maliyeti.
 
 Furious Recovery; {s}Reduce 30% physical damage taken and 15% magic damage taken, recover 20% more HP with Bloodthirsty. Lasts for 8 seconds. Share CD with Ignore the Pain, cost 1% mana.
-Öfkeli Kurtarma; {sub2{$1}sub2} Alınan fiziksel hasarı %30 ve alınan büyü hasarını %15 azaltır, Kana susamış ile %20 daha fazla sağlık yenileyin. 8 saniye sürer. CD'yi Ignore the Pain ile paylaşın, %1 mana maliyeti.
+Öfkeli Kurtuluş; {sub2{$1}sub2} Alınan fiziksel hasarı %30 ve alınan büyü hasarını %15 azaltır, Kana susamış ile %20 daha fazla sağlık yeniler. 8 saniye sürer. Soğuma süresi Acıyı Yoksay ile paylaşır, %1 mana maliyeti.
 
 Level 1 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 650 points of physical attack, 10% attack bonus, cost 60 mana
-Seviye 1 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 650 points of physical attack, 10% attack bonus, cost 60 mana
+Seviye 1 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 650 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 60 mana maliyeti
 
 Level 2 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 850 points of physical attack, 10% attack bonus, cost 80 mana
-Seviye 2 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 850 points of physical attack, 10% attack bonus, cost 80 mana
+Seviye 2 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 850 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 80 mana maliyeti
 
 Level 3 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1100 points of physical attack, 10% attack bonus, cost 100 mana
-Seviye 3 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1100 points of physical attack, 10% attack bonus, cost 100 mana
+Seviye 3 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 1100 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 100 mana maliyeti
 
 Level 4 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1680 points of physical attack, 10% attack bonus, cost 160 mana
-Seviye 4 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1680 points of physical attack, 10% attack bonus, cost 160 mana
+Seviye 4 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 1680 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 160 mana maliyeti
 
 Level 5 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 2500 points of physical attack, 10% attack bonus, cost 250 mana
-Seviye 5 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 2500 points of physical attack, 10% attack bonus, cost 250 mana
+Seviye 5 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 2500 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 250 mana maliyeti
 
 Level 6 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 3600 points of physical attack, 10% attack bonus, cost 400 mana
-Seviye 6 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 3600 points of physical attack, 10% attack bonus, cost 400 mana
+Seviye 6 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 3600 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 400 mana maliyeti
 
 Level 7 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 6200 points of physical attack, 10% attack bonus, cost 600 mana
-Seviye 7 Ancestral Hammer; {sub2{$1}sub2}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 6200 points of physical attack, 10% attack bonus, cost 600 mana
+Seviye 7 Ataların Çekici; {sub2{$1}sub2} Hedefi uzaktan 4 saniye sersemletin, 15 adımlık etkili menzil, 30 saniye Soğuma süresi, 6200 fiziksel saldırı puanı artışı, %10 saldırı bonusu, 600 mana maliyeti
 
 Earthshaking Stomp; {s}Shatter the ground, Transfix 1 target within 8 yards for 5 seconds, 30 seconds CD, cost 1% mana
-Earthshaking Stomp; {sub2{$1}sub2}Shatter the ground, Transfix 1 target within 8 yards for 5 seconds, 30 seconds CD, cost 1% mana
+Yer Sarsıcı Darbe; {sub2{$1}sub2} Yeri parçala, 8 adım içindeki 1 hedefi 5 saniyeliğine Transfix etkile, 30 saniye soğuma süresi, %1 mana maliyeti
 
 Level 1 Vengeance; {s}Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, 3 seconds CD, increase 3000 points of physical attack, 20% attack bonus, cost 700 mana
 Seviye 1 Vengeance; {sub2{$1}sub2}Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, 3 seconds CD, increase 3000 points of physical attack, 20% attack bonus, cost 700 mana

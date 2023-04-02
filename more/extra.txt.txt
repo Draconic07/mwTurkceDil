@@ -108,3 +108,6 @@ dil
 
 {s}: {s} {d}, {d} {d}:{d}; Real time: {s} {d}, {d}:{d}:{d}, {d}
 {sub2{$1}sub2}: $2 $3, $4 $5:$6; Gerçek zaman: $7 $8, $9:$10:$11, $12
+
+{s} got the  {s}; {s}  
+$1  {ssub2{$2}sub2}; {sub2{$3}sub2} aldı.
