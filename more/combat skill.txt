@@ -89,10 +89,10 @@ Challenge Cry
 Challenge Cry
 
 Lethal Strike
-Lethal Strike
+ölümcül vuruş
 
 Level {d} Lethal Strike
-Level $1 Lethal Strike
+Seviye $1 ölümcül vuruş
 
 Valiant Strike
 Cesur Vuruş
@@ -116,7 +116,7 @@ Ignore the Pain
 Acıyı Yoksay
 
 Furious Recovery
-Furious Recovery
+Öfkeli Kurtuluş
 
 Ancestral Hammer
 Ataların Çekici
@@ -125,7 +125,7 @@ Earthshaking Stomp
 Yer Sarsıcı Darbe
 
 Vengeance
-Vengeance
+intikam
 
 Thunderous Blow
 Şimşek Darbesi
@@ -146,34 +146,34 @@ Reckless
 Pervasız
 
 Blade Strike
-Blade Strike
+Bıçak Darbesi
 
 Rapid Sting
 Rapid Sting
 
 Fan of Knives
-Fan of Knives
+Bıçak Hayranı
 
 Blade Fury Dance
-Blade Fury Dance
+Bıçak Öfke Dansı
 
 Shadow Steps
-Shadow Steps
+Gölge Adımları
 
 Leap Gouge
-Leap Gouge
+Sıçra ve Oy
 
 Relentless Slash
-Relentless Slash
+Acımasız Kesme
 
 Sap
 Sap
 
 Puncture
-Puncture
+Delme
 
 Piercing Shriek
-Piercing Shriek
+Delici Çığlık
 
 Void Shift
 Void Shift
@@ -185,64 +185,64 @@ Dark Quake
 Dark Quake
 
 Kidney Strike
-Kidney Strike
+böbrek çarpımı
 
 Shadow Cloak
-Shadow Cloak
+Gölge Pelerini
 
 Shattering Moon
-Shattering Moon
+Ay parçalama
 
 Slit Throat
-Slit Throat
+Boğaz yarma
 
 Poison Blade
-Poison Blade
+Zehir Bıçağı
 
 Arcane Shot
-Arcane Shot
+Gizemli Atış
 
 Aimed Shot
-Aimed Shot
+Hedefli atış
 
 Multi Shot
-Multi Shot
+Çoklu atış
 
 Rapid Arrows
-Rapid Arrows
+Hızlı Oklar
 
 Marked Shot
-Marked Shot
+işaretli atış
 
 Burst Shot
-Burst Shot
+Seri Atış
 
 Bull's Eye
-Bull's Eye
+boğa gözü
 
 Concussive Shot
-Concussive Shot
+sarsıcı atış
 
 Throw Hunting Net
-Throw Hunting Net
+Av Ağı
 
 Tar Trap
-Tar Trap
+Katran Tuzağı
 
 Vine Trap
-Vine Trap
+Asma Tuzağı
 
 Turtle Guardian
-Turtle Guardian
+Kaplumbağa Muhafızı
 
 Strong-Arm Aura
-Strong-Arm Aura
+Güçlü-Kol Aurası
 
 Tranquility Aura
-Tranquility Aura
+Huzur Aurası
 
 Viper Sting
-Viper Sting
+engerek acısı
 
 Adder Sting
 Adder Sting
@@ -254,31 +254,31 @@ Escape
 Escape
 
 Magic Sphere
-Magic Sphere
+Sihirli Küre
 
 Ice Lance
-Ice Lance
+Buz Mızrağı
 
 Ice Storm
-Ice Storm
+Buz fırtınası
 
 Ice Orb
-Ice Orb
+Buz Küresi
 
 Aqua Jet
-Aqua Jet
+su jeti
 
 Blizzard
-Blizzard
+kar fırtınası
 
 Ice Arrow
 buz oku
 
 Icicle
-Icicle
+Buz sacağı
 
 Frost Nova
-Frost Nova
+Dondurucu Nova
 
 Cold Winter
 Soğuk kış
@@ -2168,20 +2168,20 @@ Advanced Moonlight Crystal Retribution
 Advanced Moonlight Crystal Retribution
 
 Primary Punch of Heaven
-Primary Punch of Heaven
+Temel Cennet Yumruğu
 
 Medium Punch of Heaven
-Medium Punch of Heaven
+Orta Cennet Yumruğu
 
 Advanced Punch of Heaven
-Advanced Punch of Heaven
+Gelişmiş Cennet Yumruğu
 
 Primary Divine Arrow
-Primary Divine Arrow
+Temel İlahi Ok
 
 Medium Divine Arrow
-Medium Divine Arrow
+Orta İlahi Ok
 
 Advanced Divine Arrow
-Advanced Divine Arrow
+Gelişmiş İlahi Ok
 
