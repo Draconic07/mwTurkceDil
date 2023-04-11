@@ -1,59 +1,59 @@
 Bash
-Bash
+Darbe
 
 Level {d} Bash
-Level $1 Bash
+Seviye $1 Darbe
 
 Cleave
-Cleave
+yarma
 
 Level {d} Cleave
-Level $1 Cleave
+Level $1 yarma
 
 Execute
-Execute
+İnfaz
 
 Level {d} Execute
-Level $1 Execute
+Level $1 İnfaz
 
 Sweep Attack
-Sweep Attack
+Tarama Saldırısı
 
 Level {d} Sweep Attack
-Level $! Sweep Attack
+Level $! Tarama Saldırısı
 
 Whirlwind Slash
-Whirlwind Slash
+Kasırga Darbesi
 
 Level {d} Whirlwind Slash
-Level $1 Whirlwind Slash
+Level $1 Kasırga Darbesi
 
 Wind Step
-Wind Step
+Rüzgar Adımı
 
 Swallow Dance
-Swallow Dance
+Yutan Dansı
 
 Formless
-Formless
+şekilsiz
 
 Leap Slash
-Leap Slash
+Sıçra ve Yırt
 
 Level {d} Leap Slash
-Level $1 Leap Slash
+Level $1 Sıçra ve Yırt
 
 Rip and Tear
-Rip and Tear
+yırt ve yırt
 
 Level {d} Rip and Tear
-Level $1 Rip and Tear
+Level $1 yırt ve yırt
 
 Suppress
-Suppress
+Bastır
 
 Level {d} Suppress
-Level $1 Suppress
+Level $1 Bastır
 
 Hamstring
 Hamstring
@@ -62,31 +62,31 @@ Level {d} Hamstring
 Level $1 Hamstring
 
 Armor Break
-Armor Break
+Zırh Kırma
 
 Level {d} Armor Break
-Level $1 Armor Break
+Level $1 Zırh Kırma
 
 Rupture
-Rupture
+yırtılma
 
 Level {d} Rupture
-Level $1 Rupture
+Level $1 yırtılma
 
 Battle Cry
-Battle Cry
+Savaş narası
 
 Command Cry
-Command Cry
+Komut Nağrası
 
 Taunt Attack
-Taunt Attack
+Alay Saldırısı
 
 Level {d} Taunt Attack
-Level $1 Taunt Attack
+Level $1 Alay Saldırısı
 
 Challenge Cry
-Challenge Cry
+Meydan okuma Nağrası
 
 Lethal Strike
 ölümcül vuruş

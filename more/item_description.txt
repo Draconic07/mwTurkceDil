@@ -437,31 +437,31 @@ Dark Priest's Wand, Used to craft a Level 100 equipments.
 Dark Priest's Wand, Used to craft a Level 100 equipments.
 
 Fish with a bright green body, shaped like a leaf.
-Fish with a bright green body, shaped like a leaf.
+Yaprak şeklinde parlak yeşil gövdeli balık.
 
 A common aggressive fish with a large head and small body, good at feeding on small fish and shrimp.
-A common aggressive fish with a large head and small body, good at feeding on small fish and shrimp.
+Büyük başlı ve küçük gövdeli, küçük balıklar ve karideslerle beslenmede iyi olan yaygın, agresif bir balık.
 
 Small Shrimp with light red shells.
-Small Shrimp with light red shells.
+Açık kırmızı kabuklu küçük karides.
 
 Has a body as transparent as a crystal, delicious to eat.
-Has a body as transparent as a crystal, delicious to eat.
+Kristal kadar şeffaf gövdeye sahip, yemesi lezzetli bir balık.
 
 Ordinary shellfish.
-Ordinary shellfish.
+Sıradan kabuklu deniz ürünü.
 
 This pink-bodied fish is the dwarves' favorite fish to eat.
-This pink-bodied fish is the dwarves' favorite fish to eat.
+Bu pembe gövdeli balık, cücelerin yemeyi en sevdiği balıktır.
 
 Has a slime and long body, often leaps out of the water to feed on insects.
-Has a slime and long body, often leaps out of the water to feed on insects.
+Sümüksü ve uzun bir gövdeye sahiptir, genellikle böceklerle beslenmek için sudan dışarı sıçrar.
 
 Small Shrimp with white shells.
-Small Shrimp with white shells.
+Beyaz kabuklu küçük karides.
 
 Small crab with a white body
-Small crab with a white body
+Beyaz gövdeli küçük yengeç
 
 Flatfish with well-developed fatty eyelids
 İyi gelişmiş yağlı göz kapaklarına sahip yassı balık
@@ -572,31 +572,31 @@ A Common herb; can reduce swelling when used as medicine.
 A Common herb; can reduce swelling when used as medicine.
 
 When Snowflake Bean reaches maturity, its pods will burst out snow-white hexagonal seeds, which are cool to the touch.
-When Snowflake Bean reaches maturity, its pods will burst out snow-white hexagonal seeds, which are cool to the touch.
+Kar Tanesi Fasulyesi olgunluğa eriştiğinde, baklaları dokunulduğunda soğuk olan kar beyazı altıgen tohumları patlatacaktır.
 
 Centenarian Orchid can survive in extremely harsh environments. Its leaves grow from the upper end of the short, stout trunk and can reach a maximum of 12 feet.
-Centenarian Orchid can survive in extremely harsh environments. Its leaves grow from the upper end of the short, stout trunk and can reach a maximum of 12 feet.
+Asırlık Orkide son derece zorlu ortamlarda hayatta kalabilir. Yaprakları kısa, sağlam gövdenin üst ucundan büyür ve maksimum 12 fit uzunluğa ulaşabilir.
 
 During the day, Its flower disc follows the direction of the sun, and at night, they emit a bright orange glow.
-During the day, Its flower disc follows the direction of the sun, and at night, they emit a bright orange glow.
+Gün boyunca çiçek diski güneşin yönünü takip eder ve geceleri parlak turuncu bir ışıltı yayarlar.
 
 Rose symbolizes beauty and love. It can also be used to make medicine.
-Rose symbolizes beauty and love. It can also be used to make medicine.
+Gül güzelliği ve aşkı simgeler. İlaç yapmak için de kullanılabilir.
 
 When a Mimosa senses a creature approaching, it curls up its leaves.
-When a Mimosa senses a creature approaching, it curls up its leaves.
+Mimoza bir canlının yaklaştığını hissettiğinde yapraklarını kıvırır.
 
 When Golden Bean reaches maturity, its pods will burst out green seeds, which are very hard and have a metallic sheen to their surface.
-When Golden Bean reaches maturity, its pods will burst out green seeds, which are very hard and have a metallic sheen to their surface.
+Altın Fasulye olgunluğa eriştiğinde, baklaları çok sert ve yüzeylerinde metalik bir parlaklık olan yeşil tohumları patlatacaktır.
 
 It has ovate leaves and human-shaped roots.
-It has ovate leaves and human-shaped roots.
+Oval yaprakları ve insan biçimli kökleri vardır.
 
 Its flower is gold and silver, with two buds poking out as if inseparable.
-Its flower is gold and silver, with two buds poking out as if inseparable.
+Çiçeği altın ve gümüştür, birbirinden ayrılamazmış gibi dışarı çıkan iki tomurcuğu vardır.
 
 Each petal of an Immy Flower has a different color—red, yellow, blue and white, making it delicate and gorgeous. And the flower bud in the middle is like a shy girl.
-Each petal of an Immy Flower has a different color—red, yellow, blue and white, making it delicate and gorgeous. And the flower bud in the middle is like a shy girl.
+Bir Immy Çiçeğinin her yaprağının farklı bir rengi vardır; kırmızı, sarı, mavi ve beyaz, onu narin ve muhteşem yapar. Ve ortadaki çiçek tomurcuğu utangaç bir kız gibidir.
 
 When its leaves turn from green to red, the silver marks on them emit a gentle and bright light, symbolizing that the vitality has disappeared, and all that remains is memory. At this point, the Prunella can be picked and used as medicine.
 When its leaves turn from green to red, the silver marks on them emit a gentle and bright light, symbolizing that the vitality has disappeared, and all that remains is memory. At this point, the Prunella can be picked and used as medicine.
@@ -608,7 +608,7 @@ A thorny plant with rich vitality that sometimes grows on the branch of an old t
 A thorny plant with rich vitality that sometimes grows on the branch of an old tree. When fall to the ground, a few of its seeds will grow into thorny black grasses called ghost needles.
 
 Also known as Asura Flower Its fragrance has a hallucinogenic effect that causes people who smell it to become confused and have tired eyes and sore legs.
-Also known as Asura Flower Its fragrance has a hallucinogenic effect that causes people who smell it to become confused and have tired eyes and sore legs.
+Asura Çiçeği olarak da bilinir Kokusu, halüsinojenik bir etkiye sahiptir, bu da onu koklayan insanların kafasının karışmasına, yorgun gözlere ve ağrılı bacaklara neden olur.
 
 A delicate flower with a very short flowering period. It can benefit the spirit and nourish the skin when used as medicine.
 A delicate flower with a very short flowering period. It can benefit the spirit and nourish the skin when used as medicine.
@@ -767,7 +767,7 @@ Festive Wedding Red Envelope
 Şenlikli Düğün Kırmızı Zarf
 
 Heavy Gift Package
-Heavy Gift Package
+Ağır Hediye Paketi
 
 Gifts will pop out from the fireworks created by the firecracker! Please light the firecracker in open areas. Remember to collect the dropped gifts in time.
 Fişek tarafından oluşturulan havai fişeklerden hediyeler fırlayacak! Lütfen havai fişeği açık alanlarda yakınız. Düşen hediyeleri zamanında toplamayı unutmayın.
