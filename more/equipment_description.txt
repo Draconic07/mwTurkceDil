@@ -2006,7 +2006,7 @@ Realm Pack; durability $1 of 100.0; strengthen physical Defense $2 magic Defense
 {sub2{$1}sub2}Sacrifice ring (right); durability $2 of 50.0; enhance Level $3; quality {sub2{$4}sub2} ; strengthen HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
 
 War badge {d}; durability {d} of 10.0; strengthen HP {d} MP {d} physical attack {d} magic attack {d} physical Defense {d} magic Defense {d}; level 1; weight 1; The badge symbolizing honor.
-War badge $1; durability $2 of 10.0; strengthen HP $3 MP $4 physical attack $5 magic attack $6 physical Defense $7 magic Defense $8; level 1; weight 1; The badge symbolizing honor.
+Savaş rozeti $1; dayanıklılık $2 of 10.0; güçlendirme HP $3 MP $4 fiziksel saldırı $5 büyü saldırısı $6 Fiziksel savunma $7 sihir Savunma $8; seviye 1; ağırlık 1; Onuru simgeleyen rozet.
 
 _Arena lzs0lzs2250lzs1lzsGold medal; durability {d} of 50.0; strengthen physical attack {d} magic attack {d} physical Defense {d} magic Defense {d}; level 1; weight 1; Medal of Honor worn by the first place in a level {d} Arena match.
 _Arena lzs0lzs2250lzs1lzsGold medal; durability $1 of 50.0; strengthen physical attack $2 magic attack $3 physical Defense $4 magic Defense $5; level 1; weight 1; Medal of Honor worn by the first place in a level $6 Arena match.
