@@ -2030,148 +2030,148 @@ sesame rice ball
 sesame rice ball
 
 peanut rice ball
-peanut rice ball
+fıstık pirinç topu
 
 Zoira's earring
-Zoira's earring
+Zoira'nın küpesi
 
 Zoira's earring
-Zoira's earring
+Zoira'nın küpesi
 
 Purified water
-Purified water
+Arıtılmış su
 
 Earth Magic Stone
-Earth Magic Stone
+Toprak Sihirli Taş
 
 Water Magic Stone
-Water Magic Stone
+Su Sihirli Taş
 
 Fire Magic Stone
-Fire Magic Stone
+Ateş Sihirli Taş
 
 Wind Magic Stone
-Wind Magic Stone
+Rüzgar Sihirli Taşı
 
 Wood
-Wood
+Odun
 
 Insecticide
-Insecticide
+Böcek ilacı
 
 Ghost vacuum cleaner
-Ghost vacuum cleaner
+Hayalet elektrikli süpürgesi
 
 Control Button
-Control Button
+Kontrol Düğmesi
 
 Time Bomb
-Time Bomb
+Saatli Bomba
 
 Fatal Tenderness
-Fatal Tenderness
+Ölümcül Hassasiyet
 
 Beauty of the Forest
-Beauty of the Forest
+Ormanın Güzelliği
 
 Midnight Kiss
-Midnight Kiss
+Geceyarısı Öpücüğü
 
 Satisfied Morning
-Satisfied Morning
+Memnun Sabah
 
 Bones of the mutant skeleton
-Bones of the mutant skeleton
+Mutant iskeletin kemikleri
 
 Black Magic Antidote
-Black Magic Antidote
+Kara Büyü Panzehiri
 
 Ghost
-Ghost
+Hayalet
 
 Intelligence letter
-Intelligence letter
+İstihbarat mektubu
 
 Rock
-Rock
+Kaya
 
 Clown Box
-Clown Box
+Palyaço Kutusu
 
 Grimace Cookie
-Grimace Cookie
+yüz buruşturan kurabiye
 
 Bookmark Badge
-Bookmark Badge
+Yer İşareti Rozeti
 
 Sabre Badge
-Sabre Badge
+Kılıç Rozeti
 
 Cross Badge
-Cross Badge
+Çapraz Rozet
 
 Soul Bottle
-Soul Bottle
+Ruh Şişesi
 
 Axe
-Axe
+balta
 
 Divine Light Orb
-Divine Light Orb
+İlahi Işık Küresi
 
 Iron Wire
-Iron Wire
+Demir tel
 
 Black Rock
-Black Rock
+Siyah Kaya
 
 White Rock
-White Rock
+Beyaz Kaya
 
 Remote Control Bomb
-Remote Control Bomb
+Uzaktan Kumandalı Bomba
 
 Remote Control
-Remote Control
+Uzaktan kumanda
 
 Demining Stick
-Demining Stick
+Mayın Temizleme Çubuğu
 
 Scissors
-Scissors
+Makas
 
 Note
-Note
+Not
 
 Note
-Note
+Not
 
 Master's Pendant
-Master's Pendant
+Ustanın Kolyesi
 
 Cherub Illustration
-Cherub Illustration
+melek çizimi
 
 Colorful Golden Rice Dumpling
-Colorful Golden Rice Dumpling
+Renkli Altın Pirinç Böreği
 
 Beast King Demon General's Blood
-Beast King Demon General's Blood
+Canavar Kral İblis Generalin Kanı
 
 Candy
-Candy
+Şeker
 
 Blue Ice Crystal
-Blue Ice Crystal
+Mavi Buz Kristali
 
 Werebear Commander's Head
-Werebear Commander's Head
+Werebear Komutanının Başı
 
 Concentrated Fire Source Crystal
-Concentrated Fire Source Crystal
+Konsantre Ateş Kaynağı Kristali
 
 Silver Cross
-Silver Cross
+Gümüş haç
 
 Small Red Potion
 Küçük Kırmızı İksir
@@ -2303,13 +2303,13 @@ Pet Plasma
 Evcil Hayvan Plazma
 
 Pet Potent Plasma
-Pet Potent Plasma
+Evcil Hayvan Güçlü Plazma
 
 Pet Albumin
-Pet Albumin
+Evcil Hayvan Albümin
 
 Pet globulin
-Pet globulin
+Evcil Hayvan globulin
 
 Pet Small Blue Potion
 Evcil Hayvan Küçük Mavi İksir
@@ -2339,58 +2339,58 @@ Pet Meat Cube
 Evcil Hayvan Et Küpü
 
 Pet Jerky
-Pet Jerky
+evcil hayvan et
 
 Pet Sausage
 evcil hayvan sosisi
 
 Pet Pie
-Pet Pie
+evcil hayvan pasta
 
 Pet Burrito
-Pet Burrito
+evcil hayvan börek
 
 Pet Pizza
-Pet Pizza
+evcil hayvan pizza
 
 Pet Hot Dog
-Pet Hot Dog
+Evcil Hayvan Sosisli Sandviç
 
 Pet Sandwich
-Pet Sandwich
+evcil hayvan sandviç
 
 Pet Hamburger
-Pet Hamburger
+Evcil Hayvan Hamburger
 
 Pet Peach Juice
-Pet Peach Juice
+Evcil Hayvan Şeftali Suyu
 
 Pet Mango Juice
-Pet Mango Juice
+Evcil Hayvan Mango Suyu
 
 Pet Apple Juice
-Pet Apple Juice
+Evcil Hayvan Elma Suyu
 
 Pet Orange Juice
-Pet Orange Juice
+Evcil Hayvan Portakal Suyu
 
 Pet Grapefruit Juice
-Pet Grapefruit Juice
+Evcil Hayvan Greyfurt Suyu
 
 Pet Lemonade
-Pet Lemonade
+Evcil Hayvan Limonata
 
 Pet Raspberry Juice
-Pet Raspberry Juice
+Evcil Hayvan Ahududu Suyu
 
 Pet Plum Juice
-Pet Plum Juice
+Evcil Hayvan Erik Suyu
 
 Pet Blueberry Juice
-Pet Blueberry Juice
+Evcil Hayvan Yaban Mersini Suyu
 
 Pet Rice Roll
-Pet Pirinç Rulosu
+Evcil Hayvan Pirinç Rulosu
 
 Lesser Frog Soul Stone
 Küçük Kurbağa Ruh Taşı
@@ -2405,7 +2405,7 @@ Pure Frog Soul Stone
 Saf Kurbağa Ruh Taşı
 
 Brilliant Frog Soul Stone
-Parlak Kurbağa Ruh Taşı
+Muhteşem Kurbağa Ruh Taşı
 
 Lesser Beetle Soul Stone
 Küçük Böcek Ruh Taşı
@@ -2420,217 +2420,217 @@ Pure Beetle Soul Stone
 Saf Böcek Ruh Taşı
 
 Brilliant Beetle Soul Stone
-Parlak Böcek Ruh Taşı
+Muhteşem Böcek Ruh Taşı
 
 Lesser Golden Rooster Soul Stone
 Küçük Altın Horoz Ruh Taşı
 
 Medium Golden Rooster Soul Stone
-Medium Golden Rooster Soul Stone
+Orta Altın Horoz Ruh Taşı
 
 Higher Golden Rooster Soul Stone
-Higher Golden Rooster Soul Stone
+Yüksek Altın Horoz Ruh Taşı
 
 Pure Golden Rooster Soul Stone
-Pure Golden Rooster Soul Stone
+Saf Altın Horoz Ruh Taşı
 
 Brilliant Golden Rooster Soul Stone
-Brilliant Golden Rooster Soul Stone
+Muhteşem Altın Horoz Ruh Taşı
 
 Lesser Duck Soul Stone
-Lesser Duck Soul Stone
+Küçük Ördek Ruh Taşı
 
 Medium Duck Soul Stone
-Medium Duck Soul Stone
+Orta Ördek Ruh Taşı
 
 Higher Duck Soul Stone
-Higher Duck Soul Stone
+Yüksek Ördek Ruh Taşı
 
 Pure Duck Soul Stone
-Pure Duck Soul Stone
+Saf Ördek Ruh Taşı
 
 Brilliant Duck Soul Stone
-Brilliant Duck Soul Stone
+Muhteşem Ördek Ruh Taşı
 
 Lesser Donkey Soul Stone
-Lesser Donkey Soul Stone
+Küçük Eşek Ruh Taşı
 
 Medium Donkey Soul Stone
-Medium Donkey Soul Stone
+Orta Eşek Ruh Taşı
 
 Higher Donkey Soul Stone
-Higher Donkey Soul Stone
+Yüksek Eşek Ruh Taşı
 
 Pure Donkey Soul Stone
-Pure Donkey Soul Stone
+Saf Eşek Ruh Taşı
 
 Brilliant Donkey Soul Stone
-Brilliant Donkey Soul Stone
+Muhteşem Eşek Ruh Taşı
 
 Lesser Goat Soul Stone
-Lesser Goat Soul Stone
+Küçük Keçi Ruh Taşı
 
 Medium Goat Soul Stone
-Medium Goat Soul Stone
+Orta Keçi Ruh Taşı
 
 Higher Goat Soul Stone
-Higher Goat Soul Stone
+Yüksek Keçi Ruh Taşı
 
 Pure Goat Soul Stone
-Pure Goat Soul Stone
+Saf Keçi Ruh Taşı
 
 Brilliant Goat Soul Stone
-Brilliant Goat Soul Stone
+Muhteşem Keçi Ruhu Taşı
 
 Lesser Steed Soul Stone
-Lesser Steed Soul Stone
+Küçük At Ruh Taşı
 
 Medium Steed Soul Stone
-Medium Steed Soul Stone
+Orta At Ruh Taşı
 
 Higher Steed Soul Stone
-Higher Steed Soul Stone
+Yüksek At Ruh Taşı
 
 Pure Steed Soul Stone
-Pure Steed Soul Stone
+Saf At Ruh Taşı
 
 Brilliant Steed Soul Stone
-Brilliant Steed Soul Stone
+Muhteşem At Ruh Taşı
 
 Lesser Cattle Soul Stone
-Lesser Cattle Soul Stone
+Küçük Sığır Ruh Taşı
 
 Medium Cattle Soul Stone
-Medium Cattle Soul Stone
+Orta Sığır Ruh Taşı
 
 Higher Cattle Soul Stone
-Higher Cattle Soul Stone
+Yüksek Sığır Ruh Taşı
 
 Pure Cattle Soul Stone
-Pure Cattle Soul Stone
+Saf Sığır Ruh Taşı
 
 Brilliant Cattle Soul Stone
-Brilliant Cattle Soul Stone
+Muhteşem Sığır Ruh Taşı
 
 Lesser Shorthair Cat Soul Stone
-Lesser Shorthair Cat Soul Stone
+Küçük Kısa Tüylü Kedi Ruh Taşı
 
 Medium Shorthair Cat Soul Stone
-Medium Shorthair Cat Soul Stone
+Orta Kısa Tüylü Kedi Ruh Taşı
 
 Higher Shorthair Cat Soul Stone
-Higher Shorthair Cat Soul Stone
+Yüksek Kısa Tüylü Kedi Ruh Taşı
 
 Pure Shorthair Cat Soul Stone
-Pure Shorthair Cat Soul Stone
+Saf Kısa Tüylü Kedi Ruh Taşı
 
 Brilliant Shorthair Cat Soul Stone
-Brilliant Shorthair Cat Soul Stone
+Muhteşem Kısa Tüylü Kedi Ruh Taşı
 
 Lesser Hound Soul Stone
-Lesser Hound Soul Stone
+Küçük Tazı Ruh Taşı
 
 Medium Hound Soul Stone
-Medium Hound Soul Stone
+Orta Tazı Ruh Taşı
 
 Higher Hound Soul Stone
-Higher Hound Soul Stone
+Yüksek Tazı Ruh Taşı
 
 Pure Hound Soul Stone
-Pure Hound Soul Stone
+Saf Tazı Ruh Taşı
 
 Brilliant Hound Soul Stone
-Brilliant Hound Soul Stone
+Muhteşem Tazı Ruh Taşı
 
 Lesser Curly Cat Soul Stone
-Lesser Curly Cat Soul Stone
+küçük Kıvırcık Kedi Ruh Taşı
 
 Medium Curly Cat Soul Stone
-Medium Curly Cat Soul Stone
+Orta Kıvırcık Kedi Ruh Taşı
 
 Higher Curly Cat Soul Stone
-Higher Curly Cat Soul Stone
+Yüksek Kıvırcık Kedi Ruh Taşı
 
 Pure Curly Cat Soul Stone
-Pure Curly Cat Soul Stone
+Saf Kıvırcık Kedi Ruh Taşı
 
 Brilliant Curly Cat Soul Stone
-Brilliant Curly Cat Soul Stone
+Muhteşem Kıvırcık Kedi Ruh Taşı
 
 Lesser Shepard Dog Soul Stone
-Lesser Shepard Dog Soul Stone
+Küçük Çoban Köpeği Ruh Taşı
 
 Medium Shepard Dog Soul Stone
-Medium Shepard Dog Soul Stone
+Orta Çoban Köpeği Ruh Taşı
 
 Higher Shepard Dog Soul Stone
-Higher Shepard Dog Soul Stone
+Yüksek Çoban Köpeği Ruh Taşı
 
 Pure Shepard Dog Soul Stone
-Pure Shepard Dog Soul Stone
+Saf Çoban Köpeği Ruh Taşı
 
 Brilliant Shepard Dog Soul Stone
-Brilliant Shepard Dog Soul Stone
+Muhteşem Çoban Köpeği Ruh Taşı
 
 Lesser Parrot Soul Stone
-Lesser Parrot Soul Stone
+Küçük Papağan Ruh Taşı
 
 Medium Parrot Soul Stone
-Medium Parrot Soul Stone
+Orta Papağan Ruh Taşı
 
 Higher Parrot Soul Stone
-Higher Parrot Soul Stone
+Yüksek Papağan Ruh Taşı
 
 Pure Parrot Soul Stone
-Pure Parrot Soul Stone
+Saf Papağan Ruh Taşı
 
 Brilliant Parrot Soul Stone
-Brilliant Parrot Soul Stone
+Muhteşem     Papağan Ruh Taşı
 
 LesserLizard Soul Stone
-LesserLizard Soul Stone
+Küçük Kertenkele Ruh Taşı
 
 Medium Lizard Soul Stone
-Medium Lizard Soul Stone
+Orta Kertenkele Ruh Taşı
 
 Higher Lizard Soul Stone
-Higher Lizard Soul Stone
+Yüksek Kertenkele Ruh Taşı
 
 Pure Lizard Soul Stone
-Pure Lizard Soul Stone
+Saf Kertenkele Ruh Taşı
 
 Brilliant Lizard Soul Stone
-Brilliant Lizard Soul Stone
+Muhteşem Kertenkele Ruh Taşı
 
 Lesser Monkey Soul Stone
-Lesser Monkey Soul Stone
+Küçük Maymun Ruh Taşı
 
 Medium Monkey Soul Stone
-Medium Monkey Soul Stone
+Orta Maymun Ruh Taşı
 
 Higher Monkey Soul Stone
-Higher Monkey Soul Stone
+Yüksek Maymun Ruh Taşı
 
 Pure Monkey Soul Stone
-Pure Monkey Soul Stone
+Saf Maymun Ruh Taşı
 
 Brilliant Monkey Soul Stone
-Brilliant Monkey Soul Stone
+Muhteşem Maymun Ruh Taşı
 
 Lesser Eagle Soul Stone
-Lesser Eagle Soul Stone
+Küçük Kartal Ruh Taşı
 
 Medium Eagle Soul Stone
-Medium Eagle Soul Stone
+Orta Kartal Ruh Taşı
 
 Higher Eagle Soul Stone
-Higher Eagle Soul Stone
+Yüksek Kartal Ruh Taşı
 
 Pure Eagle Soul Stone
-Pure Eagle Soul Stone
+Saf Kartal Ruh Taşı
 
 Brilliant Eagle Soul Stone
-Brilliant Eagle Soul Stone
+Muhteşem Kartal Ruh Taşı
 
 Lesser Hippo Soul Stone
 Lesser Hippo Soul Stone
@@ -2750,7 +2750,7 @@ Pure Tiger Soul Stone
 Pure Tiger Soul Stone
 
 Brilliant Tiger Soul Stone
-Parlak Kaplan Ruh Taşı
+Muhteşem Kaplan Ruh Taşı
 
 Wild Frog Soul Stone
 Vahşi Kurbağa Ruh Taşı
@@ -2780,22 +2780,22 @@ Wild Shorthair Cat Soul Stone
 Vahşi Kısa Tüylü Kedi Ruh Taşı
 
 Wild Hound Soul Stone
-Wild Hound Soul Stone
+Vahşi Tazı Ruh Taşı
 
 Wild Curly Cat Soul Stone
-Wild Curly Cat Soul Stone
+Vahşi Kıvırcık Kedi Ruh Taşı
 
 Wild Shepard Dog Soul Stone
-Wild Shepard Dog Soul Stone
+Vahşi Çoban Köpeği Ruh Taşı
 
 Wild Parrot Soul Stone
-Wild Parrot Soul Stone
+Vahşi Papağan Ruh Taşı
 
 Wild Lizard Soul Stone
-Wild Lizard Soul Stone
+Vahşi Kertenkele Ruh Taşı
 
 Wild Monkey Soul Stone
-Wild Monkey Soul Stone
+Vahşi Maymun Ruh Taşı
 
 Wild Eagle Soul Stone
 Wild Eagle Soul Stone
@@ -2822,10 +2822,10 @@ Wild Cheetah Soul Stone
 Vahşi Çita Ruh Taşı
 
 Wild Tiger Soul Stone
-Wild Tiger Soul Stone
+Vahşi Kaplan Ruh Taşı
 
 Ice Tiger Soul Stone
-Ice Tiger Soul Stone
+Buz Kaplanı Ruh Taşı
 
 Pixie Super Soul Stone
 Pixie Süper Ruh Taşı
@@ -2837,61 +2837,61 @@ Goblin Super Soul Stone
 Goblin Süper Ruh Taşı
 
 Slime Super Soul Stone
-Slime Super Soul Stone
+Slime Süper Ruh Taşı
 
 Night Cat Soul Stone
-Night Cat Soul Stone
+Gece Kedisi Ruh Taşı
 
 Cherub Super Soul Stone
-Cherub Super Soul Stone
+Kerub Süper Ruh Taşı
 
 Primary Warpath
-Primary Warpath
+Birincil Savaş Yolu
 
 Medium Warpath
-Medium Warpath
+Orta Savaş Yolu
 
 Advanced Warpath
-Advanced Warpath
+Gelişmiş Savaş Yolu
 
 Super Warpath
-Super Warpath
+Süper Savaş Yolu
 
 Primary Determination
-Primary Determination
+Birincil Kararlılık
 
 Medium Determination
-Medium Determination
+Orta Kararlılık
 
 Advanced Determination
-Advanced Determination
+Gelişmiş Kararlılık
 
 Super Determination
-Super Determination
+Süper Kararlılık
 
 Primary Focus
-Primary Focus
+Birincil Odak
 
 Medium Focus
-Medium Focus
+Orta Odak
 
 Advanced Focus
-Advanced Focus
+Gelişmiş Odak
 
 Super Focus
-Super Focus
+Süper Odak
 
 Primary Spirit Lock
-Primary Spirit Lock
+Birincil Ruh Kilidi
 
 Medium Spirit Lock
-Medium Spirit Lock
+Orta Ruh Kilidi
 
 Advanced Spirit Lock
-Advanced Spirit Lock
+Gelişmiş Ruh Kilidi
 
 Super Spirit Lock
-Super Spirit Lock
+Süper Ruh Kilidi
 
 Primary Destruction
 Primary Destruction
@@ -2918,7 +2918,7 @@ Super Soul Turmoil
 Super Soul Turmoil
 
 Primary Ferocious
-Primary Ferocious
+Birincil Vahşi
 
 Medium Ferocious
 Medium Ferocious
@@ -2930,7 +2930,7 @@ Super Ferocious
 Super Ferocious
 
 Primary Demonize
-Primary Demonize
+Birincil Şeytanlaştırma
 
 Medium Demonize
 Medium Demonize
@@ -2942,7 +2942,7 @@ Super Demonize
 Super Demonize
 
 Primary Fury
-Primary Fury
+Birincil Hiddet
 
 Medium Fury
 Medium Fury
@@ -2954,7 +2954,7 @@ Super Fury
 Super Fury
 
 Primary Magic Maniac
-Primary Magic Maniac
+Birincil Sihir Manyağı
 
 Medium Magic Maniac
 Medium Magic Maniac
@@ -2966,7 +2966,7 @@ Super Magic Maniac
 Super Magic Maniac
 
 Primary Fighter Form
-Primary Fighter Form
+Birincil Dövüşçü Formu
 
 Medium Fighter Form
 Medium Fighter Form
@@ -2978,7 +2978,7 @@ Super Fighter Form
 Super Fighter Form
 
 Primary Energy Form
-Primary Energy Form
+Birincil Enerji Formu
 
 Medium Energy Form
 Medium Energy Form
@@ -2990,7 +2990,7 @@ Super Energy Form
 Super Energy Form
 
 Primary Unbreakable Form
-Primary Unbreakable Form
+Birincil Kırılmaz Form
 
 Medium Unbreakable Form
 Medium Unbreakable Form
@@ -3002,7 +3002,7 @@ Super Unbreakable Form
 Super Unbreakable Form
 
 Primary Spiritual Form
-Primary Spiritual Form
+Birincil Manevi Form
 
 Medium Spiritual Form
 Medium Spiritual Form
@@ -3014,7 +3014,7 @@ Super Spiritual Form
 Super Spiritual Form
 
 Primary Steady Form
-Primary Steady Form
+Birincil Kararlı Form
 
 Medium Steady Form
 Medium Steady Form
@@ -3026,7 +3026,7 @@ Super Steady Form
 Super Steady Form
 
 Primary Concentration Form
-Primary Concentration Form
+Birincil Konsantrasyon Formu
 
 Medium Concentration Form
 Medium Concentration Form
@@ -3038,7 +3038,7 @@ Super Concentration Form
 Super Concentration Form
 
 Primary Hunt Form
-Primary Hunt Form
+Birincil Av Formu
 
 Medium Hunt Form
 Medium Hunt Form
@@ -3050,7 +3050,7 @@ Super Hunt Form
 Super Hunt Form
 
 Primary Soul Chaser Form
-Primary Soul Chaser Form
+Birincil Ruh Avcısı Formu
 
 Medium Soul Chaser Form
 Medium Soul Chaser Form
@@ -3062,7 +3062,7 @@ Super Soul Chaser Form
 Super Soul Chaser Form
 
 Primary Berserk Form
-Primary Berserk Form
+Birincil Berserk Formu
 
 Medium Berserk Form
 Medium Berserk Form
@@ -3191,28 +3191,28 @@ Soul Burial Village Teleportation stone
 Ruh Mezarı Köyü Işınlanma taşı
 
 Plague Abyss Teleportation stone
-Plague Abyss Işınlanma taşı
+Veba Uçurumu Işınlanma taşı
 
 Orchid woods Village Teleportation stone
-Orchid woods Village Teleportation stone
+Orkide ormanları Köyü ışınlanma taşı
 
 City of the Ancient tower Teleportation stone
-City of the Ancient tower Teleportation stone
+Antik kulenin şehri ışınlanma taşı
 
 mist gods Ruins Teleportation stone
-mist gods Ruins Teleportation stone
+Sis tanrıları Harabeleri ışınlanma taşı
 
 West Sealing Tower Teleportation stone
-West Sealing Tower Teleportation stone
+Batı Sızdırmazlık Kulesi ışınlanma taşı
 
 Hermit Camp Teleportation stone
-Hermit Camp Teleportation stone
+Münzevi Kampı ışınlanma taşı
 
 East Sealing Tower Teleportation stone
-East Sealing Tower Teleportation stone
+Doğu Sızdırmazlık Kulesi ışınlanma taşı
 
 portal of the demon world Teleportation stone
-portal of the demon world Teleportation stone
+şeytan dünyasının portalı ışınlanma taşı
 
 Central Kingdom Teleportation stone
 Merkez Krallık Işınlanma taşı
@@ -3221,22 +3221,22 @@ Loki Union Teleportation stone
 Loki Birliği Işınlanma taşı
 
 Garth Empire Teleportation stone
-Garth Empire Teleportation stone
+Garth İmparatorluğu ışınlanma taşı
 
 Spirit Teleportation stone
-Spirit Teleportation stone
+Ruh ışınlanma taşı
 
 Ruins Teleportation stone
-Ruins Teleportation stone
+Kalıntılar ışınlanma taşı
 
 seal Teleportation stone
-seal Teleportation stone
+fok ışınlanma taşı
 
 Platinum Teleportation stone
-Platinum Teleportation stone
+Platin ışınlanma taşı
 
 Black Gold Teleportation stone
-Black Gold Teleportation stone
+Siyah altın ışınlanma taşı
 
 Cherry Wedding Candy
 Vişneli Nikah Şekeri
@@ -3296,16 +3296,16 @@ Skill Proficiency Pill (large)
 Beceri Yeterlilik Hapı (büyük)
 
 Behemoth Beast Crystal
-Behemoth Canavar Kristali
+dev Canavar Kristali
 
 Behemoth Lord Beast Crystal
-Behemoth Lord Canavar Kristali
+Dev Efendi Canavar Kristali
 
 Thunderbird Crystal
-Thunderbird Crystal
+yıldırım kuşu Kristali
 
 Thunderbird Lord Crystal
-Thunderbird Lord Crystal
+Thunderbird Lordu Kristal
 
 Wind Spirit Crystal
 Wind Spirit Crystal
@@ -3317,10 +3317,10 @@ Phantom Wyvern Crystal
 Phantom Wyvern Crystal
 
 Bluish White Horse Crystal
-Bluish White Horse Crystal
+Mavimsi Beyaz At Kristali
 
 Bluish White Horse—Cloud Crystal
-Bluish White Horse—Cloud Crystal
+Mavimsi Beyaz At—Bulut Kristali
 
 Nightmare Beast Crystal
 Nightmare Beast Crystal

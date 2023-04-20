@@ -1088,7 +1088,7 @@ yayın
 Siz: 
 
 $1到$2
-$1 den $2
+$1-$2
 
 音量
 ses seviyesi
@@ -1211,7 +1211,7 @@ kritik
 ;müsait zaman 
 
 到
- den 
+ - 
 
 粗糙
 Ham 
