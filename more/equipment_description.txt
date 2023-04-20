@@ -32,19 +32,19 @@ legendary
 efsanevi
 
 {s}cudgel; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d} magic attack {d}-{d};{s} available for warrior ,Orc ,assassin ,mage ,elf ,priest ,witcher ; level 1; weight 50; A self-defense stick with weak attack power. 
-{sub2{$1}sub2}cudgel; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 magic attack $7-$8;{sub2{$9}sub2} available for warrior ,Orc ,assassin ,mage ,elf ,priest ,witcher ; level 1; weight 50; A self-defense stick with weak attack power. 
+{sub2{$1}sub2}sopa; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 büyü saldırısı $7-$8;{sub2{$9}sub2} savaşçı, ork, suikastçı, büyücü, elf, rahip, witcher için uygun; seviye 1; ağırlık 50; Zayıf saldırı gücüne sahip bir kendini savunma sopası.
 
 {s}bamboo bow; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for hunter ; level 1; weight 50; A simple bow made of bamboo with weak attack power.
-{sub2{$1}sub2}bamboo bow; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for hunter ; level 1; weight 50; A simple bow made of bamboo with weak attack power.
+{sub2{$1}sub2}bambu yay; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} avcı için uygun ; seviye 1; ağırlık 50; Zayıf saldırı gücüne sahip, bambudan yapılmış basit bir yay.
 
 {s}straw hat; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d} magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} level 3; weight 25; A straw hat made of wild grass has a weak defense.
-{sub2{$1}sub2}straw hat; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 magic attack $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 3; weight 25; A straw hat made of wild grass has a weak defense.
+{sub2{$1}sub2}straw hat; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 büyü saldırısı $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 3; weight 25; A straw hat made of wild grass has a weak defense.
 
 {s}mahogany necklace; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} physical attack {d}-{d} magic attack {d}-{d};{s} level 13; weight 5; A necklace made of mahogany beads is said-bring courage.
-{sub2{$1}sub2}mahogany necklace; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 magic attack $9-$10;{sub2{$11}sub2} level 13; weight 5; A necklace made of mahogany beads is said-bring courage.
+{sub2{$1}sub2}mahogany necklace; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 büyü saldırısı $9-$10;{sub2{$11}sub2} level 13; weight 5; A necklace made of mahogany beads is said-bring courage.
 
 {s}tulle cape; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d} magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} level 10; weight 20; A cloak made of tulle with weak defense.
-{sub2{$1}sub2}tulle cape; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 magic attack $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 10; weight 20; A cloak made of tulle with weak defense.
+{sub2{$1}sub2}tulle cape; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 büyü saldırısı $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 10; weight 20; A cloak made of tulle with weak defense.
 
 {s}cotton clothes; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical Defense {d}-{d} magic Defense {d}-{d};{s} level 1; weight 45; A piece of clothing made of cotton with a weak defense.
 {sub2{$1}sub2}cotton clothes; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme Fiziksel savunma $5-$6 sihir Savunma $7-$8;{sub2{$9}sub2} level 1; weight 45; A piece of clothing made of cotton with a weak defense.
@@ -59,13 +59,13 @@ efsanevi
 {sub2{$1}sub2}linen trousers; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme Fiziksel savunma $5-$6 sihir Savunma $7-$8;{sub2{$9}sub2} level 12; weight 35; A pair of trousers made of linen, which does not look very strong.
 
 {s}mahogany bracelet; durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d} magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} level 6; weight 5; A pair of bracelets made of mahogany beads, which can give people a weak strength when worn.
-{sub2{$1}sub2}mahogany bracelet; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 magic attack $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 6; weight 5; A pair of bracelets made of mahogany beads, which can give people a weak strength when worn.
+{sub2{$1}sub2}mahogany bracelet; dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6 büyü saldırısı $7-$8 physical Defense $9-$10 sihir Savunma $11-$12;{sub2{$13}sub2} level 6; weight 5; A pair of bracelets made of mahogany beads, which can give people a weak strength when worn.
 
 {s}mahogany ring (left); durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} physical attack {d}-{d} magic attack {d}-{d};{s} level 8; A ring made of mahogany, which can give people a weak strength when worn.
-{sub2{$1}sub2}mahogany ring (left); dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 magic attack $9-$10;{sub2{$11}sub2} level 8; A ring made of mahogany, which can give people a weak strength when worn.
+{sub2{$1}sub2}mahogany ring (left); dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 büyü saldırısı $9-$10;{sub2{$11}sub2} level 8; A ring made of mahogany, which can give people a weak strength when worn.
 
 {s}mahogany ring (right); durability {d} of 5.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} physical attack {d}-{d} magic attack {d}-{d};{s} level 9; A ring made of mahogany, which can give people a weak strength when worn.
-{sub2{$1}sub2}mahogany ring (right); dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 magic attack $9-$10;{sub2{$11}sub2} level 9; A ring made of mahogany, which can give people a weak strength when worn.
+{sub2{$1}sub2}mahogany ring (right); dayanıklılık $2 / 5.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 physical attack $7-$8 büyü saldırısı $9-$10;{sub2{$11}sub2} level 9; A ring made of mahogany, which can give people a weak strength when worn.
 
 {s}iron sword; durability {d} of 10.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 15; weight 60; A rusted iron sword, although it looks sharp, it is not very solid.
 {sub2{$1}sub2}iron sword; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 15; weight 60; A rusted iron sword, although it looks sharp, it is not very solid.
@@ -119,7 +119,7 @@ efsanevi
 {sub2{$1}sub2}silk hat; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 30; A silk hat with better magic resistance than physical resistance.
 
 {s}jade necklace; durability {d} of 10.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ,elf ,priest ,witcher ; level 15; weight 9; A jade necklace shining with cyan light.
-{sub2{$1}sub2}jade necklace; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 9; A jade necklace shining with cyan light.
+{sub2{$1}sub2}jade necklace; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 9; A jade necklace shining with cyan light.
 
 {s}silk cape; durability {d} of 10.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ,elf ,priest ,witcher ; level 15; weight 25; The cape made of silk has better magic resistance than physical resistance.
 {sub2{$1}sub2}silk cape; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 25; The cape made of silk has better magic resistance than physical resistance.
@@ -140,10 +140,10 @@ efsanevi
 {sub2{$1}sub2}jade bracelet; dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 9; This is a pair of jade bracelets, so pretty that you can't put it down.
 
 {s}jade ring (left); durability {d} of 10.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A left hand ring made of jade can give you strength.
-{sub2{$1}sub2}jade ring (left); dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A left hand ring made of jade can give you strength.
+{sub2{$1}sub2}jade ring (left); dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A left hand ring made of jade can give you strength.
 
 {s}jade ring (right); durability {d} of 10.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A right hand ring made of jade can give you strength.
-{sub2{$1}sub2}jade ring (right); dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A right hand ring made of jade can give you strength.
+{sub2{$1}sub2}jade ring (right); dayanıklılık $2 / 10.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ,elf ,priest ,witcher ; level 15; weight 1; A right hand ring made of jade can give you strength.
 
 {s}Sword of Fighter; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 30; weight 80; This is made of fine iron by dwarves, which is very sharp and common for warriors.
 {sub2{$1}sub2}Sword of Fighter; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 30; weight 80; This is made of fine iron by dwarves, which is very sharp and common for warriors.
@@ -296,7 +296,7 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Wisdom Hat; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 30; weight 40; Wearing it is more intelligent.
 
 {s}magic from Wisdom; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 30; weight 15; A pendant made of blue crystal.
-{sub2{$1}sub2}magic from Wisdom; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 15; A pendant made of blue crystal.
+{sub2{$1}sub2}magic from Wisdom; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 15; A pendant made of blue crystal.
 
 {s}Wisdom Cloak; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 30; weight 35; The cloak that condenses the wisdom of the mage.
 {sub2{$1}sub2}Wisdom Cloak; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 30; weight 35; The cloak that condenses the wisdom of the mage.
@@ -317,16 +317,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Wisdom bracelet; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 30; weight 15; The bracelet made of blue crystal has a hint of coolness.
 
 {s}Wisdom Ring (left); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
-{sub2{$1}sub2}Wisdom Ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
+{sub2{$1}sub2}Wisdom Ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
 
 {s}Wisdom Ring (right); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
-{sub2{$1}sub2}Wisdom Ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
+{sub2{$1}sub2}Wisdom Ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 30; weight 5; The ring made of blue crystal has a hint of coolness.
 
 {s}colorful wreath; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 30; weight 40; Elves have always liked-be close-nature.
 {sub2{$1}sub2}colorful wreath; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 30; weight 40; Elves have always liked-be close-nature.
 
 {s}breath of nature; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 30; weight 15; Pendant made of red crystal.
-{sub2{$1}sub2}breath of nature; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 15; Pendant made of red crystal.
+{sub2{$1}sub2}breath of nature; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 15; Pendant made of red crystal.
 
 {s}Leaf wings; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 30; weight 35; With wings made of maple leaves, elves are always the prettiest.
 {sub2{$1}sub2}Leaf wings; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 30; weight 35; With wings made of maple leaves, elves are always the prettiest.
@@ -347,16 +347,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}nature bracelet; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 30; weight 15; The bracelet made of red crystal has a faint flame beating in it.
 
 {s}nature ring (left); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
-{sub2{$1}sub2}nature ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
+{sub2{$1}sub2}nature ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
 
 {s}nature ring (right); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
-{sub2{$1}sub2}nature ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
+{sub2{$1}sub2}nature ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 30; weight 5; The ring made of red crystal has a faint flame beating in it.
 
 {s}charity Hat; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 30; weight 40; Wearing it symbolizes going on the charity path.
 {sub2{$1}sub2}charity Hat; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 30; weight 40; Wearing it symbolizes going on the charity path.
 
 {s}forgiving from heart; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 30; weight 15; Pendant made of green crystal.
-{sub2{$1}sub2}forgiving from heart; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 15; Pendant made of green crystal.
+{sub2{$1}sub2}forgiving from heart; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 15; Pendant made of green crystal.
 
 {s}benevolence Cloak; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 30; weight 35; Love is the eternal theme of life.
 {sub2{$1}sub2}benevolence Cloak; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 30; weight 35; Love is the eternal theme of life.
@@ -377,16 +377,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}loving Bracelet; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 30; weight 15; Bracelet made of green crystal, revealing full of vitality.
 
 {s}loving ring (left); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
-{sub2{$1}sub2}loving ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
+{sub2{$1}sub2}loving ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
 
 {s}loving ring (right); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
-{sub2{$1}sub2}loving ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
+{sub2{$1}sub2}loving ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 30; weight 5; Rings made of green crystals reveal full of vitality.
 
 {s}Skull Mask; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 30; weight 40; Such a terrifying thing, only Sorcerer can carry it.
 {sub2{$1}sub2}Skull Mask; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 30; weight 40; Such a terrifying thing, only Sorcerer can carry it.
 
 {s}odor of decay; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 30; weight 15; Pendant made of amethyst.
-{sub2{$1}sub2}odor of decay; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 15; Pendant made of amethyst.
+{sub2{$1}sub2}odor of decay; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 15; Pendant made of amethyst.
 
 {s}Corpse Cloak; durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 30; weight 35; It is said-be made from the skin of a century-old zombie.
 {sub2{$1}sub2}Corpse Cloak; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 30; weight 35; It is said-be made from the skin of a century-old zombie.
@@ -407,10 +407,10 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Bone Bracelet; dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 30; weight 15; A bracelet made of amethyst and mysterious dead bones.
 
 {s}Bone Ring (left); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
-{sub2{$1}sub2}Bone Ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
+{sub2{$1}sub2}Bone Ring (left); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
 
 {s}Bone Ring (right); durability {d} of 15.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
-{sub2{$1}sub2}Bone Ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
+{sub2{$1}sub2}Bone Ring (right); dayanıklılık $2 / 15.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 30; weight 5; A ring made of amethyst, it is said that the undead are sealed in it.
 
 {s}Ocean Roaring; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 45; weight 120; A thick stick, the sound is like a tsunami when Waving.
 {sub2{$1}sub2}Ocean Roaring; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 45; weight 120; A thick stick, the sound is like a tsunami when Waving.
@@ -560,7 +560,7 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Freezing cap; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 45; weight 55; Made of ice silk, the coolness will lift your spirits.
 
 {s}Freezing pendant; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 45; weight 25; The light blue transparent gemstone on the pendant exudes an endless chill.
-{sub2{$1}sub2}Freezing pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 25; The light blue transparent gemstone on the pendant exudes an endless chill.
+{sub2{$1}sub2}Freezing pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 25; The light blue transparent gemstone on the pendant exudes an endless chill.
 
 {s}Freezing Cloak; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 45; weight 45; A cape made of ice silk.
 {sub2{$1}sub2}Freezing Cloak; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 45; weight 45; A cape made of ice silk.
@@ -581,16 +581,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Freezing Bracelet; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 45; weight 25; Crafted from Froststone.
 
 {s}Freezing ring (Left); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
-{sub2{$1}sub2}Freezing ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
+{sub2{$1}sub2}Freezing ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
 
 {s}Freezing ring (Right); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
-{sub2{$1}sub2}Freezing ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
+{sub2{$1}sub2}Freezing ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 45; weight 10; Glittering sapphires set on a ring made of ice stone.
 
 {s}Flaming headband; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 45; weight 55; A wreath made of flame flowers.
 {sub2{$1}sub2}Flaming headband; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 45; weight 55; A wreath made of flame flowers.
 
 {s}Flaming Pendant; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 45; weight 25; The gems on the pendant shone with a fiery red light.
-{sub2{$1}sub2}Flaming Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 25; The gems on the pendant shone with a fiery red light.
+{sub2{$1}sub2}Flaming Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 25; The gems on the pendant shone with a fiery red light.
 
 {s}Flaming Cloak; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 45; weight 45; A cape made of flame flower petals.
 {sub2{$1}sub2}Flaming Cloak; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 45; weight 45; A cape made of flame flower petals.
@@ -611,16 +611,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Flaming Bracelet; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 45; weight 25; Crafted from Fire Flower Seeds.
 
 {s}Flaming ring (Left); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
-{sub2{$1}sub2}Flaming ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
+{sub2{$1}sub2}Flaming ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
 
 {s}Flaming ring (Left); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
-{sub2{$1}sub2}Flaming ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
+{sub2{$1}sub2}Flaming ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
 
 {s}Radiant Hood; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 45; weight 55; On the front of the white hat is a golden crown representing light.
 {sub2{$1}sub2}Radiant Hood; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 55; On the front of the white hat is a golden crown representing light.
 
 {s}Radiant Pendant; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
-{sub2{$1}sub2}Radiant Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
+{sub2{$1}sub2}Radiant Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
 
 {s}Radiant Cloak; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 45; weight 45; The silver cloak is painted with the holy light symbol representing light.
 {sub2{$1}sub2}Radiant Cloak; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 45; The silver cloak is painted with the holy light symbol representing light.
@@ -641,16 +641,16 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Radiant Bracelet; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 25; In the transparent bracelet, the golden holy light keeps flowing.
 
 {s}Radiant Ring (Left); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
-{sub2{$1}sub2}Radiant Ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
+{sub2{$1}sub2}Radiant Ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
 
 {s}Radiant Ring (Right); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
-{sub2{$1}sub2}Radiant Ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
+{sub2{$1}sub2}Radiant Ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 10; The gems on the ring enhance the power of the Holy Light spell.
 
 {s}Ghost Mask; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 45; weight 55; The helmet is surrounded by transparent smoke, perhaps from which it got its name.
 {sub2{$1}sub2}Ghost Mask; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 45; weight 55; The helmet is surrounded by transparent smoke, perhaps from which it got its name.
 
 {s}Ghost Pendant; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 45; weight 25; Collect more souls.
-{sub2{$1}sub2}Ghost Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 25; Collect more souls.
+{sub2{$1}sub2}Ghost Pendant; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 25; Collect more souls.
 
 {s}Ghost Cloak; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 45; weight 45; How many souls are floating around.
 {sub2{$1}sub2}Ghost Cloak; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 45; weight 45; How many souls are floating around.
@@ -671,10 +671,10 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Ghost Bracelet; dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 45; weight 25; Countless dead souls are sealed in this pair of bracelets.
 
 {s}Ghost Ring (Left); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
-{sub2{$1}sub2}Ghost Ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
+{sub2{$1}sub2}Ghost Ring (Left); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
 
 {s}Ghost Ring (Right); durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
-{sub2{$1}sub2}Ghost Ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
+{sub2{$1}sub2}Ghost Ring (Right); dayanıklılık $2 / 20.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 10; The power of the Ghost is attached-the weapon through your hands.
 
 {s}Solemn Oath; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 60; weight 170; A slender sword with a sharp blade that seems-cut through everything.
 {sub2{$1}sub2}Solemn Oath; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 60; weight 170; A slender sword with a sharp blade that seems-cut through everything.
@@ -827,7 +827,7 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Frost Helm; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 60; weight 75; A white helmet oozing with chills.
 
 {s}Frost pendant; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 60; weight 35; The soul of Frost is imprisoned in the white pendant.
-{sub2{$1}sub2}Frost pendant; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 35; The soul of Frost is imprisoned in the white pendant.
+{sub2{$1}sub2}Frost pendant; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 35; The soul of Frost is imprisoned in the white pendant.
 
 {s}Frost shawl; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 60; weight 65; A cold mist emanated from behind the shawl, like a pair of upturned wings.
 {sub2{$1}sub2}Frost shawl; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 60; weight 65; A cold mist emanated from behind the shawl, like a pair of upturned wings.
@@ -848,16 +848,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Frost Bracelet; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 60; weight 35; White frost is circulating in the transparent bracelet.
 
 {s}Frost Ring (Left); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
-{sub2{$1}sub2}Frost Ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
+{sub2{$1}sub2}Frost Ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
 
 {s}Frost Ring (Right); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
-{sub2{$1}sub2}Frost Ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
+{sub2{$1}sub2}Frost Ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 60; weight 15; The ring is set with a white frost gem.
 
 {s}wildfire helmet; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 60; weight 75; A fiery red helmet.
 {sub2{$1}sub2}wildfire helmet; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 60; weight 75; A fiery red helmet.
 
 {s}Wildfire Pendant; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 60; weight 35; A fiery flame is imprisoned in the red pendant.
-{sub2{$1}sub2}Wildfire Pendant; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 35; A fiery flame is imprisoned in the red pendant.
+{sub2{$1}sub2}Wildfire Pendant; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 35; A fiery flame is imprisoned in the red pendant.
 
 {s}Wildfire Cloak; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 60; weight 65; The red cloak fluttered like countless tongues of fire.
 {sub2{$1}sub2}Wildfire Cloak; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 60; weight 65; The red cloak fluttered like countless tongues of fire.
@@ -878,16 +878,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}wildfire bracelets; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 60; weight 35; A pair of bracelets that seal the power of fire.
 
 {s}wildfire ring (Left); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
-{sub2{$1}sub2}wildfire ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
+{sub2{$1}sub2}wildfire ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
 
 {s}wildfire ring (Right); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
-{sub2{$1}sub2}wildfire ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
+{sub2{$1}sub2}wildfire ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 60; weight 15; The ring is set with a red fire element gemstone.
 
 {s}angel halo; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 60; weight 75; There is a golden halo on the white hat.
 {sub2{$1}sub2}angel halo; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 60; weight 75; There is a golden halo on the white hat.
 
 {s}Angel's Tears; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 60; weight 35; Legend has it that this golden pendant was made from an angel's teardrop and contained the most sacred blessing.
-{sub2{$1}sub2}Angel's Tears; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 35; Legend has it that this golden pendant was made from an angel's teardrop and contained the most sacred blessing.
+{sub2{$1}sub2}Angel's Tears; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 35; Legend has it that this golden pendant was made from an angel's teardrop and contained the most sacred blessing.
 
 {s}Angel Wings; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 60; weight 65; Behind the white cape are three teams of transparent golden wings.
 {sub2{$1}sub2}Angel Wings; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 60; weight 65; Behind the white cape are three teams of transparent golden wings.
@@ -908,16 +908,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}angel bracelet; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 60; weight 35; A bracelet that stores the power of the Holy Light.
 
 {s}Angel ring (Left); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
-{sub2{$1}sub2}Angel ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
+{sub2{$1}sub2}Angel ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
 
 {s}angel ring (Right); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
-{sub2{$1}sub2}angel ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
+{sub2{$1}sub2}angel ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 60; weight 15; The ring is set with brilliant golden gemstones.
 
 {s}Lich Mask; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 60; weight 5; A spooky mask.
 {sub2{$1}sub2}Lich Mask; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 60; weight 5; A spooky mask.
 
 {s}Legacy of the Lich; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 60; weight 1; It is said that only wizards favored by the Lich King can get this pendant.
-{sub2{$1}sub2}Legacy of the Lich; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 1; It is said that only wizards favored by the Lich King can get this pendant.
+{sub2{$1}sub2}Legacy of the Lich; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 1; It is said that only wizards favored by the Lich King can get this pendant.
 
 {s}Lich Cloak; durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 60; weight 65; The blue-black cloak exudes a chilly aura.
 {sub2{$1}sub2}Lich Cloak; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 60; weight 65; The blue-black cloak exudes a chilly aura.
@@ -938,10 +938,10 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Lich Bracelet; dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 60; weight 35; A bracelet that seals the power of magic.
 
 {s}Lich Ring (Left); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
-{sub2{$1}sub2}Lich Ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
+{sub2{$1}sub2}Lich Ring (Left); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
 
 {s}Lich Ring (Right); durability {d} of 25.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
-{sub2{$1}sub2}Lich Ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
+{sub2{$1}sub2}Lich Ring (Right); dayanıklılık $2 / 25.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 60; weight 15; The gems on the ring are said-be congealed by the lich with thousands of ghosts.
 
 {s}Ribcracker; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 70; weight 270; A heavy metal stick.
 {sub2{$1}sub2}Ribcracker; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 70; weight 270; A heavy metal stick.
@@ -1091,7 +1091,7 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Blizzard Hat; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 70; weight 95; Strings of ice beads hang from the snow-white hat.
 
 {s}Blizzard Charm; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 70; weight 55; A hexagonal white crystal hangs from the dark blue necklace.
-{sub2{$1}sub2}Blizzard Charm; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 55; A hexagonal white crystal hangs from the dark blue necklace.
+{sub2{$1}sub2}Blizzard Charm; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 55; A hexagonal white crystal hangs from the dark blue necklace.
 
 {s}Blizzard Cloak; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 70; weight 95; The snow-white cloak contains the power of ice and snow.
 {sub2{$1}sub2}Blizzard Cloak; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 70; weight 95; The snow-white cloak contains the power of ice and snow.
@@ -1112,16 +1112,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Blizzard Bracelet; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 70; weight 55; The white bracelet exudes a cold light.
 
 {s}Blizzard Ring (Left); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
-{sub2{$1}sub2}Blizzard Ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
+{sub2{$1}sub2}Blizzard Ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
 
 {s}blizzard ring (Right); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
-{sub2{$1}sub2}blizzard ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
+{sub2{$1}sub2}blizzard ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 70; weight 25; The snowflake gems on the ring enhance the power of ice magic.
 
 {s}Firestorm Crown; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 70; weight 95; An ancient crown, inlaid with orbs that flickered with flames.
 {sub2{$1}sub2}Firestorm Crown; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 70; weight 95; An ancient crown, inlaid with orbs that flickered with flames.
 
 {s}Fire Storm Pendant; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 70; weight 55; It is said that the power of the original fire element remains in the pendant, which can enhance the power of all fire-based magic.
-{sub2{$1}sub2}Fire Storm Pendant; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 55; It is said that the power of the original fire element remains in the pendant, which can enhance the power of all fire-based magic.
+{sub2{$1}sub2}Fire Storm Pendant; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 55; It is said that the power of the original fire element remains in the pendant, which can enhance the power of all fire-based magic.
 
 {s}Firestorm Cloak; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 70; weight 95; This cloak, which seems-be made of flame, floats behind him, showing a violent beauty.
 {sub2{$1}sub2}Firestorm Cloak; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 70; weight 95; This cloak, which seems-be made of flame, floats behind him, showing a violent beauty.
@@ -1142,16 +1142,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Firestorm Bracelet; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 70; weight 55; It is said that the power of the original fire element remains in the bracelet, which allows you-control the fire element like your arms.
 
 {s}Firestorm ring (Left); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
-{sub2{$1}sub2}Firestorm ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
+{sub2{$1}sub2}Firestorm ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
 
 {s}Firestorm ring (Right); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
-{sub2{$1}sub2}Firestorm ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
+{sub2{$1}sub2}Firestorm ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 70; weight 25; The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
 
 {s}Sermon Hood; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 70; weight 95; On the front of the white hat is a golden crown representing light.
 {sub2{$1}sub2}Sermon Hood; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 70; weight 95; On the front of the white hat is a golden crown representing light.
 
 {s}Sermon Pendant; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 70; weight 55; A golden gem dangles from the silver necklace.
-{sub2{$1}sub2}Sermon Pendant; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 55; A golden gem dangles from the silver necklace.
+{sub2{$1}sub2}Sermon Pendant; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 55; A golden gem dangles from the silver necklace.
 
 {s}Sermon cloak; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 70; weight 95; The silver cloak is painted with the holy light symbol representing light.
 {sub2{$1}sub2}Sermon cloak; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 70; weight 95; The silver cloak is painted with the holy light symbol representing light.
@@ -1172,16 +1172,16 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Sermon bracelet; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 70; weight 55; In the transparent bracelet, the golden holy light keeps flowing.
 
 {s}Sermon ring (Left); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
-{sub2{$1}sub2}Sermon ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
+{sub2{$1}sub2}Sermon ring (Left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
 
 {s}Sermon ring (Right); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
-{sub2{$1}sub2}Sermon ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
+{sub2{$1}sub2}Sermon ring (Right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 70; weight 25; The gems on the ring enhance the power of the Holy Light spell.
 
 {s}Horror mask; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 70; weight 95; A mask that combines all elements of horror.
 {sub2{$1}sub2}Horror mask; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 70; weight 95; A mask that combines all elements of horror.
 
 {s}Horror Orb; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 70; weight 55; The orb that imprisoned the most terrifying soul.
-{sub2{$1}sub2}Horror Orb; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 55; The orb that imprisoned the most terrifying soul.
+{sub2{$1}sub2}Horror Orb; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 55; The orb that imprisoned the most terrifying soul.
 
 {s}Horror cloak; durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 70; weight 95; Your opponent will never forget the figure wearing this cloak.
 {sub2{$1}sub2}Horror cloak; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 70; weight 95; Your opponent will never forget the figure wearing this cloak.
@@ -1202,10 +1202,10 @@ hot bag; dayanıklılık $1 / 60.0; güçlendirme Fiziksel savunma $2 sihir Savu
 {sub2{$1}sub2}Horror bracelets; dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 70; weight 55; A pair of bracelets is engraved with a circle of terrifying reliefs.
 
 {s}Horror ring (left); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
-{sub2{$1}sub2}Horror ring (left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
+{sub2{$1}sub2}Horror ring (left); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
 
 {s}Horror ring (right); durability {d} of 30.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
-{sub2{$1}sub2}Horror ring (right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
+{sub2{$1}sub2}Horror ring (right); dayanıklılık $2 / 30.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 70; weight 25; Endless terror is sealed in the ring.
 
 {s}Royal Victory; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 80; weight 370; This is a sword that cuts iron like mud.
 {sub2{$1}sub2}Royal Victory; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 80; weight 370; This is a sword that cuts iron like mud.
@@ -1358,7 +1358,7 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Glacier Helmet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 80; weight 135; A helmet crafted from glacial black ice.
 
 {s}Glacier Pendant; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 80; weight 75; A pendant made of glacier stone.
-{sub2{$1}sub2}Glacier Pendant; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 75; A pendant made of glacier stone.
+{sub2{$1}sub2}Glacier Pendant; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 75; A pendant made of glacier stone.
 
 {s}Glacier Cloak; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 80; weight 135; A cape made of glacial black ice.
 {sub2{$1}sub2}Glacier Cloak; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 80; weight 135; A cape made of glacial black ice.
@@ -1379,16 +1379,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Glacier Bracelet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 80; weight 75; Crafted from Glacier Stone.
 
 {s}glacier ring (left); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
-{sub2{$1}sub2}glacier ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
+{sub2{$1}sub2}glacier ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
 
 {s}glacier ring (right); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
-{sub2{$1}sub2}glacier ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
+{sub2{$1}sub2}glacier ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 80; weight 35; An entire glacier condensed into the gem of the ring.
 
 {s}Volcano helmet; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 80; weight 135; The material used-make the helmet contains volcanic lava.
 {sub2{$1}sub2}Volcano helmet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 80; weight 135; The material used-make the helmet contains volcanic lava.
 
 {s}Volcano Orb; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 80; weight 75; The orb left the imprint of volcanic lava.
-{sub2{$1}sub2}Volcano Orb; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 75; The orb left the imprint of volcanic lava.
+{sub2{$1}sub2}Volcano Orb; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 75; The orb left the imprint of volcanic lava.
 
 {s}Volcano Cape; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 80; weight 135; Volcanic lava is incorporated into the cloth for making the cloak.
 {sub2{$1}sub2}Volcano Cape; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 80; weight 135; Volcanic lava is incorporated into the cloth for making the cloak.
@@ -1409,16 +1409,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Volcano bracelet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 80; weight 75; Crafted from gems infused with volcanic lava.
 
 {s}Volcano ring (left); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
-{sub2{$1}sub2}Volcano ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
+{sub2{$1}sub2}Volcano ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
 
 {s}Volcano ring (right); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
-{sub2{$1}sub2}Volcano ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
+{sub2{$1}sub2}Volcano ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 80; weight 35; The ring contains the hottest volcanic lava.
 
 {s}Saint Helmet; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 80; weight 135; A helmet with the power of the Holy Light.
 {sub2{$1}sub2}Saint Helmet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 80; weight 135; A helmet with the power of the Holy Light.
 
 {s}Saint Orb; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 80; weight 75; An orb that exudes divine brilliance.
-{sub2{$1}sub2}Saint Orb; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 75; An orb that exudes divine brilliance.
+{sub2{$1}sub2}Saint Orb; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 75; An orb that exudes divine brilliance.
 
 {s}Saint cloak; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 80; weight 135; The power of holy light is attached-the cloak.
 {sub2{$1}sub2}Saint cloak; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 80; weight 135; The power of holy light is attached-the cloak.
@@ -1439,16 +1439,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Saint bracelet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 80; weight 75; Like a bracelet made of light.
 
 {s}Saint ring (left); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
-{sub2{$1}sub2}Saint ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
+{sub2{$1}sub2}Saint ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
 
 {s}Saint ring (right); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
-{sub2{$1}sub2}Saint ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
+{sub2{$1}sub2}Saint ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 80; weight 35; A ring that strengthens the power of the Holy Light.
 
 {s}Toxin mask; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 80; weight 135; A mask fused with ancient toxins.
 {sub2{$1}sub2}Toxin mask; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 80; weight 135; A mask fused with ancient toxins.
 
 {s}Toxin Magic Beads; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 80; weight 75; An orb condensed from the most terrifying toxins.
-{sub2{$1}sub2}Toxin Magic Beads; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 75; An orb condensed from the most terrifying toxins.
+{sub2{$1}sub2}Toxin Magic Beads; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 75; An orb condensed from the most terrifying toxins.
 
 {s}Toxin cloak; durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 80; weight 135; Weakening your opponents with poison.
 {sub2{$1}sub2}Toxin cloak; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 80; weight 135; Weakening your opponents with poison.
@@ -1469,10 +1469,10 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Toxin bracelet; dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 80; weight 75; A venomous spider is carved on the bracelet.
 
 {s}Toxin ring (left); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
-{sub2{$1}sub2}Toxin ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
+{sub2{$1}sub2}Toxin ring (left); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
 
 {s}Toxin ring (right); durability {d} of 35.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
-{sub2{$1}sub2}Toxin ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
+{sub2{$1}sub2}Toxin ring (right); dayanıklılık $2 / 35.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 80; weight 35; The most deadly ancient poison is sealed in the ring.
 
 {s}Broken Sky; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 90; weight 470; The silver sword with ancient patterns exuded a burst of cold light.
 {sub2{$1}sub2}Broken Sky; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 90; weight 470; The silver sword with ancient patterns exuded a burst of cold light.
@@ -1622,7 +1622,7 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Winter helmet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 90; weight 165; The helmet surface is covered with a thin layer of ice.
 
 {s}Winter Pendant; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 90; weight 95; Ice crystals compressed from snowflakes hang from a sea-blue pendant.
-{sub2{$1}sub2}Winter Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 95; Ice crystals compressed from snowflakes hang from a sea-blue pendant.
+{sub2{$1}sub2}Winter Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 95; Ice crystals compressed from snowflakes hang from a sea-blue pendant.
 
 {s}winter cloak; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 90; weight 165; The cloak covered with thin ice still remained flowing.
 {sub2{$1}sub2}winter cloak; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 90; weight 165; The cloak covered with thin ice still remained flowing.
@@ -1643,16 +1643,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Winter bracelet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 90; weight 95; Made of ice crystals compressed from snowflakes that never melt.
 
 {s}Winter ring (left); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
-{sub2{$1}sub2}Winter ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
+{sub2{$1}sub2}Winter ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
 
 {s}Winter ring (right); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
-{sub2{$1}sub2}Winter ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
+{sub2{$1}sub2}Winter ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 90; weight 45; It will make your attack hard-resist like the freezing cold of winter.
 
 {s}Inferno helmet; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 90; weight 165; A dark red helmet with flames flowing on its surface.
 {sub2{$1}sub2}Inferno helmet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 90; weight 165; A dark red helmet with flames flowing on its surface.
 
 {s}Inferno Pendant; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 90; weight 95; Beautiful crystal, wrapped in raging fire.
-{sub2{$1}sub2}Inferno Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 95; Beautiful crystal, wrapped in raging fire.
+{sub2{$1}sub2}Inferno Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 95; Beautiful crystal, wrapped in raging fire.
 
 {s}Inferno cape; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 90; weight 165; When it swings, it glows with brilliance, as if dancing in a sea of fire.
 {sub2{$1}sub2}Inferno cape; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 90; weight 165; When it swings, it glows with brilliance, as if dancing in a sea of fire.
@@ -1673,16 +1673,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Inferno bracelet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 90; weight 95; Flames circulate in the bracelet.
 
 {s}Inferno ring (left); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
-{sub2{$1}sub2}Inferno ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
+{sub2{$1}sub2}Inferno ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
 
 {s}Inferno ring (right); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
-{sub2{$1}sub2}Inferno ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
+{sub2{$1}sub2}Inferno ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 90; weight 45; Entertain your allies with the most flamboyant fire, and greet your enemies with the hottest flames.
 
 {s}Revival headband; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 90; weight 165; The surface of the helmet shone dreamily.
 {sub2{$1}sub2}Revival headband; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 90; weight 165; The surface of the helmet shone dreamily.
 
 {s}Revival Pendant; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 90; weight 95; The most beautiful and dreamy light belongs-the priest.
-{sub2{$1}sub2}Revival Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 95; The most beautiful and dreamy light belongs-the priest.
+{sub2{$1}sub2}Revival Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 95; The most beautiful and dreamy light belongs-the priest.
 
 {s}Revival cape; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 90; weight 165; You are a reborn angel dressed in the rays of the sun.
 {sub2{$1}sub2}Revival cape; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 90; weight 165; You are a reborn angel dressed in the rays of the sun.
@@ -1703,16 +1703,16 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Revival bracelet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 90; weight 95; The bracelet exudes a dreamy brilliance.
 
 {s}Revival ring (left); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
-{sub2{$1}sub2}Revival ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
+{sub2{$1}sub2}Revival ring (left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
 
 {s}Revival ring (right); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
-{sub2{$1}sub2}Revival ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
+{sub2{$1}sub2}Revival ring (right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 90; weight 45; Dancing the light of dreams,-the road of rebirth.
 
 {s}Undead mask; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 90; weight 165; The undead is the most mysterious messenger of the underworld, and the person who can wear this mask must be the spokesperson of the undead in the world.
 {sub2{$1}sub2}Undead mask; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 90; weight 165; The undead is the most mysterious messenger of the underworld, and the person who can wear this mask must be the spokesperson of the undead in the world.
 
 {s}Undead Pendant; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 90; weight 95; It is said that the power of the undead is hidden in the pendant, which multiplies the power of your dark, undead and cursed magic.
-{sub2{$1}sub2}Undead Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 95; It is said that the power of the undead is hidden in the pendant, which multiplies the power of your dark, undead and cursed magic.
+{sub2{$1}sub2}Undead Pendant; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 95; It is said that the power of the undead is hidden in the pendant, which multiplies the power of your dark, undead and cursed magic.
 
 {s}Undead Cloak; durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 90; weight 165; Where is the back of the undead going?
 {sub2{$1}sub2}Undead Cloak; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 90; weight 165; Where is the back of the undead going?
@@ -1733,10 +1733,10 @@ weightless sack; dayanıklılık $1 / 70.0; güçlendirme Fiziksel savunma $2 si
 {sub2{$1}sub2}Undead bracelet; dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 90; weight 95; It is said that the power of the undead is hidden in the bracelet, and it will make your power of death more pure.
 
 {s}Undead Ring (Left); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 90; weight 45; The ring is studded with a solid black gemstone that gives you the power of the undead.
-{sub2{$1}sub2}Undead Ring (Left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 45; The ring is studded with a solid black gemstone that gives you the power of the undead.
+{sub2{$1}sub2}Undead Ring (Left); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 45; The ring is studded with a solid black gemstone that gives you the power of the undead.
 
 {s}Undead Ring (Right); durability {d} of 40.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 90; weight 45; 10,128,70,25,3000
-{sub2{$1}sub2}Undead Ring (Right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 45; 10,128,70,25,3000
+{sub2{$1}sub2}Undead Ring (Right); dayanıklılık $2 / 40.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 90; weight 45; 10,128,70,25,3000
 
 {s}Evil Purger; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen physical attack {d}-{d};{s} available for warrior ; level 100; weight 670; It is forged by the dwarves who are famous for forging in the divine world. It is a symbol of courage and hope.
 {sub2{$1}sub2}Evil Purger; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme fiziksel saldırı $5-$6;{sub2{$7}sub2} available for warrior ; level 100; weight 670; It is forged by the dwarves who are famous for forging in the divine world. It is a symbol of courage and hope.
@@ -1889,7 +1889,7 @@ Realm Pack; dayanıklılık $1 / 100.0; güçlendirme Fiziksel savunma $2 sihir 
 {sub2{$1}sub2}Tsunami crown; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 100; weight 225; An ornate crown with a tsunami pattern inlaid on it.
 
 {s}Tsunami Pendant; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 100; weight 115; It is said that the pendant contains the most violent water elemental power, which can enhance the power of all water-based magic.
-{sub2{$1}sub2}Tsunami Pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 115; It is said that the pendant contains the most violent water elemental power, which can enhance the power of all water-based magic.
+{sub2{$1}sub2}Tsunami Pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 115; It is said that the pendant contains the most violent water elemental power, which can enhance the power of all water-based magic.
 
 {s}Tsunami cape; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for mage ; level 100; weight 205; A cloak covered with spray patterns swings with a violent beauty.
 {sub2{$1}sub2}Tsunami cape; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 100; weight 205; A cloak covered with spray patterns swings with a violent beauty.
@@ -1910,16 +1910,16 @@ Realm Pack; dayanıklılık $1 / 100.0; güçlendirme Fiziksel savunma $2 sihir 
 {sub2{$1}sub2}Tsunami bracelet; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for mage ; level 100; weight 115; It is said that the bracelet contains the most violent water elemental power, which can enhance the power of all water-based magic.
 
 {s}Tsunami ring left hand; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
-{sub2{$1}sub2}Tsunami ring left hand; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
+{sub2{$1}sub2}Tsunami ring left hand; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
 
 {s}Tsunami ring right hand; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
-{sub2{$1}sub2}Tsunami ring right hand; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
+{sub2{$1}sub2}Tsunami ring right hand; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for mage ; level 100; weight 55; The ring is studded with aquamarine gemstones that bring you the power of the wildest tides.
 
 {s}Sunfire Cap; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 100; weight 225; In front of the orange hat is a radiant sun-shaped crown.
 {sub2{$1}sub2}Sunfire Cap; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 100; weight 225; In front of the orange hat is a radiant sun-shaped crown.
 
 {s}Sunfire Charm; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 100; weight 115; An orange-yellow gemstone symbolizing the sun hangs on the orange-red necklace.
-{sub2{$1}sub2}Sunfire Charm; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 115; An orange-yellow gemstone symbolizing the sun hangs on the orange-red necklace.
+{sub2{$1}sub2}Sunfire Charm; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 115; An orange-yellow gemstone symbolizing the sun hangs on the orange-red necklace.
 
 {s}Sunfire Cloak; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for elf ; level 100; weight 205; The orange-red cape is painted with a pattern of the sun symbolizing the radiance of light.
 {sub2{$1}sub2}Sunfire Cloak; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 100; weight 205; The orange-red cape is painted with a pattern of the sun symbolizing the radiance of light.
@@ -1940,16 +1940,16 @@ Realm Pack; dayanıklılık $1 / 100.0; güçlendirme Fiziksel savunma $2 sihir 
 {sub2{$1}sub2}Sunfire bracelet; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for elf ; level 100; weight 115; The orange-yellow bracelet emits noctilucent light.
 
 {s}Sunfire ring (left); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
-{sub2{$1}sub2}Sunfire ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
+{sub2{$1}sub2}Sunfire ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
 
 {s}Sunfire Ring (Right); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
-{sub2{$1}sub2}Sunfire Ring (Right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
+{sub2{$1}sub2}Sunfire Ring (Right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 100; weight 55; The sun gem on the ring increases the power of fire magic.
 
 {s}Celestial Halo; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 100; weight 225; The headband that has been blessed by the mist gods has the strongest power of holy light.
 {sub2{$1}sub2}Celestial Halo; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 100; weight 225; The headband that has been blessed by the mist gods has the strongest power of holy light.
 
 {s}Celestial pendant; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 100; weight 115; This is mist God's gift-mankind, which can make the priest's power purer and more holy.
-{sub2{$1}sub2}Celestial pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 115; This is mist God's gift-mankind, which can make the priest's power purer and more holy.
+{sub2{$1}sub2}Celestial pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 115; This is mist God's gift-mankind, which can make the priest's power purer and more holy.
 
 {s}Celestial Wings; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 100; weight 205; Behind the cloak are six teams of golden wings of light.
 {sub2{$1}sub2}Celestial Wings; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 100; weight 205; Behind the cloak are six teams of golden wings of light.
@@ -1970,16 +1970,16 @@ Realm Pack; dayanıklılık $1 / 100.0; güçlendirme Fiziksel savunma $2 sihir 
 {sub2{$1}sub2}Celestial bracelet; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 100; weight 115; This is a gift from the mist gods-human beings, which enables priests-possess a powerful power of holy light.
 
 {s}Celestial ring (left); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
-{sub2{$1}sub2}Celestial ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
+{sub2{$1}sub2}Celestial ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
 
 {s}Celestial ring (right); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
-{sub2{$1}sub2}Celestial ring (right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
+{sub2{$1}sub2}Celestial ring (right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 100; weight 55; The ring is set with pure white gemstones, which can bring you the power of mist gods.
 
 {s}Sacrifice Mask; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 100; weight 225; A mask made by soaking the blood of a sacrificial person.
 {sub2{$1}sub2}Sacrifice Mask; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 100; weight 225; A mask made by soaking the blood of a sacrificial person.
 
 {s}Sacrifice Pendant; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 100; weight 115; The more lives are sacrificed, the more powerful the pendant becomes.
-{sub2{$1}sub2}Sacrifice Pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 115; The more lives are sacrificed, the more powerful the pendant becomes.
+{sub2{$1}sub2}Sacrifice Pendant; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 115; The more lives are sacrificed, the more powerful the pendant becomes.
 
 {s}Sacrifice Cloak; durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 100; weight 205; A cloak made by soaking the blood of a sacrificial person.
 {sub2{$1}sub2}Sacrifice Cloak; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 100; weight 205; A cloak made by soaking the blood of a sacrificial person.
@@ -2000,10 +2000,10 @@ Realm Pack; dayanıklılık $1 / 100.0; güçlendirme Fiziksel savunma $2 sihir 
 {sub2{$1}sub2}Sacrifice bracelet; dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 physical Defense $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for witcher ; level 100; weight 115; It is formed by connecting the finger bones of the sacrificer, which can stimulate the most powerful witchcraft power.
 
 {s}Sacrifice ring (left); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
-{sub2{$1}sub2}Sacrifice ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
+{sub2{$1}sub2}Sacrifice ring (left); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
 
 {s}Sacrifice ring (right); durability {d} of 50.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
-{sub2{$1}sub2}Sacrifice ring (right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 magic attack $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
+{sub2{$1}sub2}Sacrifice ring (right); dayanıklılık $2 / 50.0; gelistirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for witcher ; level 100; weight 55; The ring is studded with blood-red gems, which are congealed from the blood of the sacrificer.
 
 War badge {d}; durability {d} of 10.0; strengthen HP {d} MP {d} physical attack {d} magic attack {d} physical Defense {d} magic Defense {d}; level 1; weight 1; The badge symbolizing honor.
 Savaş rozeti $1; dayanıklılık $1 / 10.0; güçlendirme HP $3 MP $4 fiziksel saldırı $5 büyü saldırısı $6 Fiziksel savunma $7 sihir Savunma $8; seviye 1; ağırlık 1; Onuru simgeleyen rozet.
