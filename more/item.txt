@@ -272,7 +272,7 @@ Dimension Key
 Boyut Anahtarı
 
 Bactrian camel's metatarsal
-Bactrian devesinin metatarsalı
+Baktriyan devesinin ayaktarağı
 
 Alpaca's Pelt
 alpaka postu
@@ -362,7 +362,7 @@ Elven King's Arrows
 Elf Kralın Oku
 
 Elven King's Phalanx
-Elf Kralının Falanksı
+Elf Kralının parmak kemiği
 
 Robot Fly's Antenna
 Robot Sineğin Anteni
@@ -386,7 +386,7 @@ Robot Guard's Breastplate
 Robot Muhafızının Göğüs Zırhı
 
 Flame Researcher's Nozzle
-Alev Araştırmacısı Nozulu
+Alev Araştırmacısı Hortumu
 
 Bomb Researcher's Detonator
 Bomba Araştırmacısının Fünyesi
@@ -1073,7 +1073,7 @@ Level {d} Bloodthirsty Crystal
 Level $1 Bloodthirsty Crystal
 
 Taunt Crystal
-Taunt Crystal
+Alay Kristali
 
 Ignore the Pain Crystal
 Ignore the Pain Crystal
@@ -1379,10 +1379,10 @@ Level {d} Sapphire
 Seviye $1 Safir
 
 Level {d} Tiger Eye Stone Shard
-Seviye $1 Kaplan Gözü Taş Parçası
+Seviye $1 Kaplan Gözü Parçası
 
 Level {d} Tiger Eye Stone
-Seviye $1 Kaplan Gözü Taşı
+Seviye $1 Kaplan Gözü
 
 Level {d} Opal Shard
 Seviye $1 Opal Parçası
@@ -1406,7 +1406,7 @@ Level {d} Garnet Shard
 Seviye $1 Garnet Parçası
 
 Level {d} Garnet
-Seviye $1 Garnet taşı
+Seviye $1 Garnet
 
 Level {d} Blond Jade Shard
 Seviye $1 Sarı Yeşim Parçası
@@ -1439,7 +1439,7 @@ Level {d} Obsidian
 Seviye $1 obsidyen
 
 Level {d} Sunlight Stone Shard
-Seviye $1 Güneş Taş Parçası
+Seviye $1 Güneş  Taşı Parçası
 
 Level {d} Sunlight Stone
 Seviye $1 güneş taşı
@@ -1853,166 +1853,166 @@ Exploration data
 keşif verisi
 
 Hunting net
-Hunting net
+av ağı
 
 Mojito
 Mojito
 
 Delicate Fruit
-Delicate Fruit
+Narin Meyve
 
 Hunting Medal
-Hunting Medal
+Av Madalyası
 
 Hunting Gift Package
-Hunting Gift Package
+Avcılık Hediye Paketi
 
 Hunting Pass
-Hunting Pass
+avlanma kartı
 
 Samael Emblem
-Samael Emblem
+Samael Amblemi
 
 Fish Gelatin
-Fish Gelatin
+balık jelatini
 
 Five-Nuts Filling
-Five-Nuts Filling
+Beş Kuruyemiş Doldurma
 
 Crust
-Crust
+Kabuk
 
 Egg
-Egg
+Yumurta
 
 Osmanthus wine
-Osmanthus wine
+Osmanthus şarabı
 
 Five-Nuts Mooncake
-Five-Nuts Mooncake
+Beş Fındıklı Ay Çöreği
 
 Wind Chaser Soul Fragment
-Wind Chaser Soul Fragment
+Rüzgar Avcısı Ruh Parçası
 
 Knight Code
-Knight Code
+Şövalye Kodu
 
 Refined Iron
-Refined Iron
+Rafine Demir
 
 Spear
-Spear
+Mızrak
 
 Shield
-Shield
+Kalkan
 
 Armor
-Armor
+Zırh
 
 Equipment
-Equipment
+Teçhizat
 
 Tinder
 Tinder
 
 Silver Cross
-Silver Cross
+Gümüş haç
 
 Flash Bomb
-Flash Bomb
+Flaş Bombası
 
 Great Dragon Valley Bar
-Great Dragon Valley Bar
+Büyük Ejderha vadisi Barı
 
 Dragon Village Token
-Dragon Village Token
+Ejderha Köyü Jetonu
 
 Christmas stockings
-Christmas stockings
+Noel çorapları
 
 Colorful Shard Pack
-Colorful Shard Pack
+Renkli Parça Paketi
 
 Snowball
-Snowball
+Kartopu
 
 Hat
-Hat
+Şapka
 
 Scarf
-Scarf
+Atkı
 
 Broom
-Broom
+Süpürge
 
 Marbles
-Marbles
+Mermerler
 
 Button
-Button
+Düğme
 
 Stones
-Stones
+Taşlar
 
 Little snowman
-Little snowman
+küçük kardan adam
 
 Christmas gift box
-Christmas gift box
+noel hediye kutusu
 
 Magnet
-Magnet
+Mıknatıs
 
 Dragon Power Stone
-Dragon Power Stone
+Ejderha Güç Taşı
 
 Remote Control Bomb
-Remote Control Bomb
+Uzaktan Kumandalı Bomba
 
 Remote Control
-Remote Control
+Uzaktan kumanda
 
 Energy Shield
-Energy Shield
+Enerji kalkanı
 
 Apple
-Apple
+Elma
 
 Chocolate Popsicle
-Chocolate Popsicle
+çikolatalı dondurma
 
 Butter Popsicle
-Butter Popsicle
+Tereyağlı dondurma
 
 Chocolate ice cream
-Chocolate ice cream
+Çikolatalı dondurma
 
 Butter ice cream
-Butter ice cream
+Tereyağlı dondurma
 
 Candy
-Candy
+Şeker
 
 Rat Tooth Shovel
-Rat Tooth Shovel
+Sıçan Dişi Kürek
 
 Jumping Spring
-Jumping Spring
+Zıplayan Bahar
 
 dumpling
 dumpling
 
 Cat ears
-Cat ears
+Kedi kulakları
 
 Nian Monster's Demon Crystal
-Nian Monster's Demon Crystal
+Nian Monster'ın İblis Kristali
 
 Wish Blessing
-Wish Blessing
+Nimet dileme
 
 Fortune Blessing
-Fortune Blessing
+Şans Nimeti
 
 Peace Blessing
 Peace Blessing
