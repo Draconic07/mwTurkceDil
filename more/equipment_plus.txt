@@ -1,23 +1,23 @@
 Wrecked 
-Wrecked 
+harap 
 
 Damaged 
-Damaged 
+Hasarlı 
 
 inserted with 
-inserted with 
+eklenenler 
 
 plus: When casting skills healing increase {d}%
-plus: When casting skills healing increase $1%
+artı: Yetenekleri kullanırken iyileştirme %$1 artar
 
 plus: When attacked healing increase {d}%
-plus: When attacked healing increase $1%
+artı: saldırıya uğradığında iyileştirme artışı %$1
 
 plus: healing increase {d}%
-plus: healing increase $1%
+artı: iyileştirme artışı %$1
 
 plus: When casting skills physical damage increase {d}%
-plus: When casting skills physical damage increase $1%
+artı: Becerileri kullanırken fiziksel hasar %$1 artar
 
 plus: When attacked physical damage increase {d}%
 plus: When attacked physical damage increase $1%
