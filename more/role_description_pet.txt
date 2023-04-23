@@ -38,7 +38,7 @@ $1Frog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/
 $1Frog$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A frog who loves to sing, it will sing to you when it is hungry.
 
 {s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
-$1Frog$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Kurbağa$2, seviye $3, yükseltme $4 deneyim gerektirir , {sub2{$5}sub2}, atılım Endeksi $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A frog who loves to sing, it will sing to you when it is hungry.
 
 {s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
 $1Frog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A frog who loves to sing, it will sing to you when it is hungry.

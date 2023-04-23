@@ -4640,22 +4640,22 @@ black leech; level 38 ordinary monster; This black leech can drain the blood of 
 black leech; level 38 ordinary monster; This black leech can drain the blood of an elephant.
 
 Purple Toad; level 39 ordinary monster; It has purple poisonous pimples on its body, and people will rot and die when they are touched by its venom.
-Purple Toad; level 39 ordinary monster; It has purple poisonous pimples on its body, and people will rot and die when they are touched by its venom.
+Mor Kurbağa; seviye 39 sıradan canavar; Vücudunda mor zehirli sivilceler vardır ve insanlar zehirine dokunduğunda çürür ve ölürler.
 
 green bullfrog; level 40 ordinary monster; Because of its huge size, its ability to catch insects is used on humans, so don't be licked by its disgusting tongue.
-green bullfrog; level 40 ordinary monster; Because of its huge size, its ability to catch insects is used on humans, so don't be licked by its disgusting tongue.
+yeşil kurbağa; seviye 40 sıradan canavar; Devasa boyutundan dolayı böcekleri yakalama yeteneği insanlar üzerinde kullanılır, bu yüzden iğrenç dili tarafından yalanmayın.
 
 Water Cave Teleportation circle; A magic array with brilliance flowing.
-Water Cave Teleportation circle; A magic array with brilliance flowing.
+Su Mağarası Işınlanma çemberi; Parlaklığın aktığı sihirli bir dizi.
 
 Mud King; level 40 elite monster; A large mass of disgusting things, like mud that is squirming again.
-Mud King; level 40 elite monster; A large mass of disgusting things, like mud that is squirming again.
+Çamur Kralı; seviye 40 elit canavar; Yeniden kıvranan çamur gibi iğrenç şeylerden oluşan büyük bir yığın.
 
 Shapeshifting Slime; level 40 super monster; It is an advanced species among slimes, generally has more than two magical skills, it likes to change into humanoid form and walk upright.
-Shapeshifting Slime; level 40 super monster; It is an advanced species among slimes, generally has more than two magical skills, it likes to change into humanoid form and walk upright.
+Şekil Değiştiren Slime; seviye 40 süper canavar; Sümüklüler arasında gelişmiş bir türdür, genellikle ikiden fazla büyü becerisine sahiptir, insansı forma girmeyi ve dik yürümeyi sever.
 
 Split Slime; level 40 elite monster; This slime is created from fragments that explode when a shapeshifting slime is killed.
-Split Slime; level 40 elite monster; This slime is created from fragments that explode when a shapeshifting slime is killed.
+Bölünmüş Slime; seviye 40 elit canavar; Bu balçık, şekil değiştiren bir balçık öldürüldüğünde patlayan parçalardan yaratılmıştır.
 
 Mail custodian Starmark; wandering by the sea with a large parcel on his back
 Mail custodian Starmark; wandering by the sea with a large parcel on his back
@@ -4667,7 +4667,7 @@ Sheriff Ralph; Harbor Guard
 Sheriff Ralph; Harbor Guard
 
 Fisherman Paul; A man wearing slippers and sorting out the fishing nets
-Fisherman Paul; A man wearing slippers and sorting out the fishing nets
+Balıkçı Paul; Terlik giyen ve balık ağlarını çözen bir adam
 
 Pirate Ship Teleportation Circle; A brilliant magic array.
 Pirate Ship Teleportation Circle; A brilliant magic array.
@@ -4685,16 +4685,16 @@ striped tiger; level 49 ordinary monster; The fur of this tiger is very dark, cl
 striped tiger; level 49 ordinary monster; The fur of this tiger is very dark, close to red, and its body is densely striped, and its "face" is extremely ferocious.
 
 Wildcat Warrior; level 50 elite monster; Under the influence of the magic energy, it started to walk upright and learned to use tools.
-Wildcat Warrior; level 50 elite monster; Under the influence of the magic energy, it started to walk upright and learned to use tools.
+Yaban Kedisi Savaşçısı; seviye 50 elit canavar; Sihir enerjisinin etkisiyle dik yürümeye başladı ve alet kullanmayı öğrendi.
 
 Wildcat leader; level 50 elite monster; Under the influence of the magic energy, it started to walk upright and learned to use tools.
-Wildcat leader; level 50 elite monster; Under the influence of the magic energy, it started to walk upright and learned to use tools.
+Yaban kedisi lideri; seviye 50 elit canavar; Sihir enerjisinin etkisiyle dik yürümeye başladı ve alet kullanmayı öğrendi.
 
 Cat King Carter; level 50 super monster; Affected by the magical energy, it evolved into a brutal and bloodthirsty Cat King, and informed the entire cat tribe.
 Kedi Kralı Carter; seviye 50 süper canavar; Büyülü enerjiden etkilenerek acımasız ve kana susamış bir Kedi Kral'a dönüştü ve tüm kedi kabilesini hakimiyetine aldı.
 
 wood shooter; level 52 ordinary monster; A mechanical puppet soldier using a wooden bow.
-wood shooter; level 52 ordinary monster; A mechanical puppet soldier using a wooden bow.
+odun atıcı; seviye 52 sıradan canavar; Tahta bir yay kullanan mekanik bir kukla asker.
 
 Catapult; level 55 ordinary monster; The strongest combat unit among ordinary puppet soldiers, with a sophisticated mechanical structure.
 Catapult; level 55 ordinary monster; The strongest combat unit among ordinary puppet soldiers, with a sophisticated mechanical structure.
@@ -4706,7 +4706,7 @@ Iron Warrior; level 55 elite monster; The Iron Warriors are an elite unit among 
 Iron Warrior; level 55 elite monster; The Iron Warriors are an elite unit among the puppet soldiers, possessing super-defensive iron armor and a wealth of attack methods.
 
 super mechanic; level 55 elite monster; The hidden weapons in the puppet army are based on the transformation of mechanical warriors and have more powerful lethality.
-super mechanic; level 55 elite monster; The hidden weapons in the puppet army are based on the transformation of mechanical warriors and have more powerful lethality.
+süper mekanik; seviye 55 elit canavar; Kukla ordusundaki gizli silahlar, mekanik savaşçıların dönüşümüne dayanmaktadır ve daha güçlü öldürücülüğe sahiptir.
 
 Giant puppets; Huge puppet puppet.
 Giant puppets; Huge puppet puppet.

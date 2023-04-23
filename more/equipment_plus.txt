@@ -20,70 +20,70 @@ plus: When casting skills physical damage increase {d}%
 artı: Becerileri kullanırken fiziksel hasar %$1 artar
 
 plus: When attacked physical damage increase {d}%
-plus: When attacked physical damage increase $1%
+artı: Saldırıya uğradığında fiziksel hasar %$1 artar
 
 plus: When casting skills magic damage increase {d}%
-plus: When casting skills magic damage increase $1%
+artı: Beceri kullanırken büyü hasarı %$1 artar
 
 plus: When attacked magic damage increase {d}%
-plus: When attacked magic damage increase $1%
+artı: Saldırıya uğradığında büyü hasarı %$1 artar
 
 plus: When casting skills damage increase {d}%
-plus: When casting skills damage increase $1%
+artı: Beceri kullanırken hasar artışı %$1
 
 plus: When attacked damage increase {d}%
-plus: When attacked damage increase $1%
+artı: Saldırıya uğradığında hasar %$1 artar
 
 plus: When casting skills healing reduce {d}%
-plus: When casting skills healing reduce $1%
+artı: Becerileri kullanırken iyileştirme %$1 azaltılır
 
 plus: When attacked healing reduce {d}%
-plus: When attacked healing reduce $1%
+artı: Saldırıya uğradığında iyileştirmeyi %$1 azalt
 
 plus: healing reduce {d}%
-plus: healing reduce $1%
+artı: iyileştirmeyi %$1 azalt
 
 plus: When casting skills physical damage reduce {d}%
-plus: When casting skills physical damage reduce $1%
+artı: Becerileri kullanırken fiziksel hasar %$1 azaltılır
 
 plus: When attacked physical damage reduce {d}%
-plus: When attacked physical damage reduce $1%
+artı: Saldırıya uğradığında fiziksel hasar %$1 azaltılır
 
 plus: When casting skills magic damage reduce {d}%
-plus: When casting skills magic damage reduce $1%
+artı: Beceri kullanırken büyü hasarı %$1 azaltılır
 
 plus: When attacked magic damage reduce {d}%
-plus: When attacked magic damage reduce $1%
+artı: Saldırıya uğradığında büyü hasarı %$1 azaltılır
 
 plus: When casting skills damage reduce {d}%
-plus: When casting skills damage reduce $1%
+artı: Beceri kullanırken hasar %$1 azaltılır
 
 plus: When attacked damage reduce {d}%
-plus: When attacked damage reduce $1%
+artı: Saldırıya uğradığında hasar %$1 azaltılır
 
 plus: Disable Skill
-plus: Disable Skill
+artı: Beceriyi Devre Dışı Bırak
 
 plus: When casting skills hit chance increase {d}
-plus: When casting skills hit chance increase $1
+artı: Yetenekleri kullandığında isabet şansı $1 artar
 
 plus: When attacked dodge chance increase {d}
-plus: When attacked dodge chance increase $1
+artı: Saldırıya uğradığında kaçinma şansı $1 artar
 
 plus: When casting skills defense break chance increase {d}
-plus: When casting skills defense break chance increase $1
+artı: Beceri kullanırken savunma kırma şansı $1 artar
 
 plus: When casting skills defense break damage increase {d}
-plus: When casting skills defense break damage increase $1
+artı: Becerileri kullanırken savunma kırma hasarı  $1 artar
 
 plus: When attacked toughness increase {d}
-plus: When attacked toughness increase $1
+artı: saldırıya uğradığında dayanıklılık $1 artırmak
 
 plus: When casting skills critical hit chance increase {d}
-plus: When casting skills critical hit chance increase $1
+artı: Becerileri kullanırken kritik vuruş şansı $1 artar
 
 plus: When casting skills critical hit damage increase {d}
-plus: When casting skills critical hit damage increase $1
+artı: Becerileri kullanırken, kritik vuruş hasarı $1 artar
 
 plus: When attacked critical hit resistance increase {d}
-plus: When attacked critical hit resistance increase $1
+artı: Saldırıya uğradığında kritik vuruş direnci $1 artar

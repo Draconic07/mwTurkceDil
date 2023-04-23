@@ -47,7 +47,7 @@ no set bonus
 set bonusu yok
 
 {c} {c} Set of equipments
-{sub2{(1($1 $2 Set)1)}sub2} of equipments
+{sub2{(1($1 $2 Set)1)}sub2} ekipmanları
 
 ; increase {d}% attack damage
 ; $1% atak hasar artışı
@@ -206,7 +206,7 @@ Golden yellow socket
 Altın sarısı delik
 
 increase toughness {d}
-tokluğu artırır $1
+Dayanikliligi artırır $1
 
 Black socket
 siyah delik

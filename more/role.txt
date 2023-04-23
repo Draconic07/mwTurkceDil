@@ -1721,25 +1721,25 @@ super elf king
 super elf king
 
 Undead Wraith
-Undead Wraith
+Ölümsüz Hayalet
 
 Trick Pumpkin
 hile balkabağı
 
 dragon man
-dragon man
+ejderha adam
 
 Dragon man Guard
-Dragon man Guard
+Ejderha adam Muhafızı
 
 Frozen Snake King
-Frozen Snake King
+Donmuş Yılan Kral
 
 prehistoric dragon
 tarih öncesi ejderha
 
 Little Evilclaw
-c
+Küçük şeytan pençesi
 
 Evilclaw
 şeytan pençesi
@@ -1748,7 +1748,7 @@ Frozen Snake
 Donmuş Yılan
 
 Evilclaw Elite
-Evilclaw Elite
+şeytan pençesi Elit
 
 Frozen Snake Elite
 Dondurulmuş Yılan Elit
@@ -1778,34 +1778,34 @@ Demonized Cat King Carter
 Şeytanlaştırılmış Kedi Kral Carter
 
 Demonized Pharaoh Tar
-Demonized Pharaoh Tar
+Şeytanlaştırılmış Firavun Tar
 
 Demonized Elven King Erth
-Demonized Elven King Erth
+Şeytanlaştırılmış Elf Kralı Erth
 
 Demonized Fire Lord Balrog
-Demonized Fire Lord Balrog
+Şeytanlaştırılmış Ateş Lordu Balrog
 
 Demonized Whale Monster Bigger
-Demonized Whale Monster Bigger
+Şeytanlaştırılmış Balina Canavarı Daha Büyük
 
 Doctor's Super Robot
 Doktorun Süper Robotu
 
 Demonized Monkey King
-Demonized Monkey King
+Şeytanlaştırılmış Maymun Kral
 
 Demonized barbarian tyrant
-Demonized barbarian tyrant
+Şeytanlaştırılmış barbar tiran
 
 Demonized Thunder Lord
-Demonized Thunder Lord
+Şeytanlaştırılmış Yıldırım Lordu
 
 Demonized Lich King
-Demonized Lich King
+Şeytanlaştırılmış Lich Krali
 
 Demonized evil spirit
-Demonized evil spirit
+Şeytanlaştırılan kötü ruh
 
 Dragon Guard
 Ejderha Muhafızı
@@ -1853,7 +1853,7 @@ Black
 Siyah
 
 Year Beast
-Year Beast
+Yıl Canavarı
 
 King of Year Beasts
 Yılın Canavarları Kralı
@@ -1892,13 +1892,13 @@ Tiger King
 kaplan kralı
 
 dark killer
-dark killer
+karanlık katil
 
 Dark Mage
-Dark Mage
+Kara büyücü
 
 dark warrior
-dark warrior
+karanlık savaşçı
 
 dark commander
 karanlık komutan
@@ -2645,7 +2645,7 @@ Black Stone Monster
 Siyah Taş Canavarı
 
 Ghost vacuum cleaner
-Hayalet elektrikli süpürge
+Hayalet elektrikli süpürgesi
 
 Caravan grocer Adam
 Karavan bakkalı Adam
@@ -3344,7 +3344,7 @@ Artificer Kania
 Zanaatkar Kania
 
 Young Man fetching water
-Genç adam su arıyor
+Genç adam su cekiyor
 
 Forger Yelda
 Dökümcü Yelda

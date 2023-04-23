@@ -2165,40 +2165,40 @@ Godbless wooden bow
 Tanrısal  ahşap yay
 
 Great Ivy Staff
-Great Ivy Staff
+harika Sarmaşık Asa
 
 Epic Ivy Staff
-Epic Ivy Staff
+destansı Sarmaşık Asa
 
 Heavenly Ivy Staff
-Heavenly Ivy Staff
+Göksel Sarmaşık Asa
 
 Godbless Ivy Staff
-Godbless Ivy Staff
+Tanrısal Sarmaşık Asa
 
 Great Ivy Scepter
-Great Ivy Scepter
+harika Sarmaşık Asa
 
 Epic Ivy Scepter
-Epic Ivy Scepter
+Destansı Sarmaşık Asa
 
 Heavenly Ivy Scepter
-Heavenly Ivy Scepter
+Göksel Sarmaşık Asa
 
 Godbless Ivy Scepter
-Godbless Ivy Scepter
+Tanrısal Sarmaşık Asa
 
 Great bronze Set
 Harika bronz Seti
 
 Epic bronze Set
-Harika bronz Set
+Destansı bronz Set
 
 Heavenly bronze Set
-Heavenly bronze Set
+Göksel bronz Set
 
 Godbless bronze Set
-Godbless bronze Set
+Tanrısal bronz Set
 
 Great silk Set
 Harika İpek Seti
@@ -2213,67 +2213,67 @@ Godbless silk Set
 Tanrısal ipek Seti
 
 Great Sword of Fighter
-Great Sword of Fighter
+harika Savaşçı Kılıcı
 
 Epic Sword of Fighter
-Epic Sword of Fighter
+Destansı Savaşçı Kılıcı
 
 Heavenly Sword of Fighter
-Heavenly Sword of Fighter
+Göksel Savaşçı Kılıcı
 
 Godbless Sword of Fighter
-Godbless Sword of Fighter
+Tanrısal Savaşçı Kılıcı
 
 Great machete of Berserker
-Harika Vahşinin palası
+Harika Vahşi palası
 
 Epic machete of Berserker
-Epic machete of Berserker
+Destansı Vahşi palası
 
 Heavenly machete of Berserker
-Heavenly machete of Berserker
+Göksel vahşi palası
 
 Godbless machete of Berserker
-Godbless machete of Berserker
+Tanrısal vahşi palası
 
 Great Blade of Killer
-Great Blade of Killer
+harika Katil Kılıcı
 
 Epic Blade of Killer
-Epic Blade of Killer
+Destansı Katil Kılıcı
 
 Heavenly Blade of Killer
-Heavenly Blade of Killer
+Göksel Katil Kılıcı
 
 Godbless Blade of Killer
-Godbless Blade of Killer
+Tanrısal Katil Kılıcı
 
 Great Bow of chaser
-Harika Avcının yayı
+Harika kovalayanın yayı
 
 Epic Bow of chaser
-Epic Bow of chaser
+Destansı kovalayanın Yayı
 
 Heavenly Bow of chaser
-Heavenly Bow of chaser
+Göksel kovalayanın Yayı
 
 Godbless Bow of chaser
-Godbless Bow of chaser
+Tanrısal kovalayanın Yayı
 
 Great Staff of Wisdom
 Harika Hikmet Asası
 
 Epic Staff of Wisdom
-Epic Staff of Wisdom
+Destansı Bilgelik Asası
 
 Heavenly Staff of Wisdom
-Heavenly Staff of Wisdom
+Göksel Bilgelik Asası
 
 Godbless Staff of Wisdom
-Godbless Staff of Wisdom
+Tanrısal Bilgelik Asası
 
 Great Staff of Nature
-Great Staff of Nature
+Harika Doğanın Asası
 
 Epic Staff of Nature
 Epic Staff of Nature
@@ -2285,7 +2285,7 @@ Godbless Staff of Nature
 Godbless Staff of Nature
 
 Great Scepter of Mercy
-Great Scepter of Mercy
+harika Merhamet Asası
 
 Epic Scepter of Mercy
 Epic Scepter of Mercy
@@ -2297,7 +2297,7 @@ Godbless Scepter of Mercy
 Godbless Scepter of Mercy
 
 Great Scepter of Bones
-Great Scepter of Bones
+Harika Kemik Asası
 
 Epic Scepter of Bones
 Epic Scepter of Bones
@@ -2312,10 +2312,10 @@ Great fighter Set
 Harika dövüşçü seti
 
 Epic fighter Set
-Epic fighter Set
+Destansı savaşçı Seti
 
 Heavenly fighter Set
-Heavenly fighter Set
+Göksel savaşçı Seti
 
 Godbless fighter Set
 Tanrısal savaşçı Seti
@@ -2324,28 +2324,28 @@ Great Berserker Set
 Harika Vahşi Seti
 
 Epic Berserker Set
-Destansı Berserker Seti
+Destansı Vahşi Seti
 
 Heavenly Berserker Set
-Heavenly Berserker Set
+Göksel Vahşi Seti
 
 Godbless Berserker Set
-Godbless Berserker Set
+Tanrısal Vahşi Seti
 
 Great killer Set
-Great killer Set
+Harika katil Seti
 
 Epic killer Set
-Epic killer Set
+Destansı katil Seti
 
 Heavenly killer Set
-Heavenly killer Set
+Göksel katil Seti
 
 Godbless killer Set
-Godbless killer Set
+Tanrısal katil Seti
 
 Great chaser Set
-Harika Avcı Seti
+Harika Kovalayan Seti
 
 Epic chaser Set
 Epic chaser Set
