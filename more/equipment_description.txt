@@ -617,13 +617,13 @@ yumuşak kese; dayanıklılık $1 / 50.0; güçlendirme Fiziksel savunma $2 sihi
 {sub2{$1}sub2}Flaming ring (Left); dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for elf ; level 45; weight 10; A ring made of flaming stone set with sparkling rubies.
 
 {s}Radiant Hood; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 45; weight 55; On the front of the white hat is a golden crown representing light.
-{sub2{$1}sub2}Radiant Hood; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 Fiziksel savunma $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 55; Beyaz şapkanın ön tarafında ışığı temsil eden altın bir taç vardır.
+{sub2{$1}sub2}Işıltılı Kapüşon; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 Fiziksel savunma $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 55; Beyaz şapkanın ön tarafında ışığı temsil eden altın bir taç vardır.
 
 {s}Radiant Pendant; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen HP {d} MP {d} magic attack {d}-{d};{s} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
-{sub2{$1}sub2}Radiant Pendant; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
+{sub2{$1}sub2}Işıltılı Kolye; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme HP $5 MP $6 büyü saldırısı $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 25; A golden gem dangles from the silver necklace.
 
 {s}Radiant Cloak; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 45; weight 45; The silver cloak is painted with the holy light symbol representing light.
-{sub2{$1}sub2}Radiant Cloak; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 Fiziksel savunma $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 45; The silver cloak is painted with the holy light symbol representing light.
+{sub2{$1}sub2}Işıltılı Pelerin; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme büyü saldırısı $5-$6 Fiziksel savunma $7-$8 sihir Savunma $9-$10;{sub2{$11}sub2} available for priest ; level 45; weight 45; The silver cloak is painted with the holy light symbol representing light.
 
 {s}Radiant Tabard; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen physical Defense {d}-{d} magic Defense {d}-{d};{s} available for priest ; level 45; weight 75; A silver and gold robe.
 {sub2{$1}sub2}Radiant Tabard; dayanıklılık $2 / 20.0; geliştirme seviyesi $3; kalite {sub2{$4}sub2} ; güçlendirme Fiziksel savunma $5-$6 sihir Savunma $7-$8;{sub2{$9}sub2} available for priest ; level 45; weight 75; A silver and gold robe.
