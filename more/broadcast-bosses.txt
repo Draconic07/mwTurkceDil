@@ -1,11 +1,14 @@
 Pig-Face Bat King: {s}, sooner or later your blood will be my luscious drink!
 Domuz Suratlı Yarasa Kral: $1, er ya da geç kanın benim tatlı içeceğim olacak!
 
-Cat King Carter: Don't get too cocky, {s}! You humans only deserve to be canned food!
+Cat King Carter{s}Don't get too cocky, {s}! You humans only deserve to be canned food!
 Kedi Kralı Carter: çok kibirli olma, $1! Siz insanlar sadece konserve olmayı hak ediyorsunuz!
 
-{s}'s team  and got {d} Level {d} {s}
-$1 ve takımı $2 Seviye $3 {sub2{$4}sub2} aldı.
+{s}'s team  and got {d} {s}
+$1 ve takımı $2 {sub2{$3}sub2} aldı.
 
-Man-wolf Caesar: Owooo...next time, I'll rip out {s}'s heart!
-kurt-adam Sezar: Owooo...bir dahaki sefer, $1'nin kalbini sökeceğim!
+Man-wolf Caesar{s}Owooo...next time, I'll rip out {s}'s heart!
+kurt-adam Sezar: Owooo...bir dahaki sefer, $2'nin kalbini sökeceğim!
+
+Pharaoh Tar{s}, come to hell and be my servant!
+Firavun Tar: $1, cehenneme gel ve kulum ol!

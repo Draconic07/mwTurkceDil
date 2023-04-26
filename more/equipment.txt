@@ -785,46 +785,46 @@ Raider Gauntlets
 Akıncı Eldivenleri
 
 Raider Ring (Left)
-Raider Ring (Left)
+Akıncı Yüzüğü (Sol)
 
 Raider Ring (Right)
-Raider Ring (Right)
+Akıncı Yüzüğü (Sağ)
 
 Frost Helm
-Frost Helm
+Don Miğferi
 
 Frost pendant
-Frost pendant
+Don kolye
 
 Frost shawl
-Frost shawl
+Don şali
 
 Frost Armor
-Frost Armor
+Don Zırhı
 
 Frost Belt
-Frost Belt
+Don Kemeri
 
 Frost Boots
-Frost Boots
+Don Çizmeler
 
 Frost Leggings
-Frost Leggings
+Don Tayt
 
 Frost Bracelet
-Frost Bracelet
+Don Bileziği
 
 Frost Ring (Left)
-Frost Ring (Left)
+Buz Yüzüğü (Sol)
 
 Frost Ring (Right)
 Frost Ring (Right)
 
 wildfire helmet
-wildfire helmet
+orman Ateşi kaskı
 
 Wildfire Pendant
-Wildfire Pendant
+Orman Ateşi Kolyesi
 
 Wildfire Cloak
 Wildfire Cloak
@@ -851,28 +851,28 @@ wildfire ring (Right)
 wildfire ring (Right)
 
 angel halo
-angel halo
+melek halesi
 
 Angel's Tears
-Angel's Tears
+Meleğin Gözyaşları
 
 Angel Wings
-Angel Wings
+Melek kanatları
 
 Angel Clothes
-Angel Clothes
+Melek Giysileri
 
 Angel Girdle
-Angel Girdle
+Melek Kuşağı
 
 Angel Boots
-Angel Boots
+melek botları
 
 Angel Leggings
-Angel Leggings
+Melek Taytı
 
 angel bracelet
-angel bracelet
+melek bilezik
 
 Angel ring (Left)
 Angel ring (Left)
